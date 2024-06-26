@@ -1,0 +1,1210 @@
+﻿{
+  "Name": "Susisiekimo ministerija",
+  "Padaliniai": [
+    {
+      "Pavadinimas": "Vadovybė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Agnė Amelija Mikalonė",
+          "Pareigos": "Ministerijos vyriausioji patarėja",
+          "Tel. numeris": "+370 5 239 3974",
+          "Kabinetas": "217"
+        },
+        {
+          "Vardas, pavardė": "Agnė Vaiciukevičiūtė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 5 239 3966",
+          "Kabinetas": "207"
+        },
+        {
+          "Vardas, pavardė": "Aidas Rimkevičius",
+          "Pareigos": "Ministro patarėjas (Ministro kabineto vadovas)",
+          "Tel. numeris": "+370 5 239 3828",
+          "Kabinetas": "239"
+        },
+        {
+          "Vardas, pavardė": "Gabrielė Vasiliauskaitė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 5 239 3899",
+          "Kabinetas": "204"
+        },
+        {
+          "Vardas, pavardė": "Irena Žilinskaitė",
+          "Pareigos": "Vyriausioji specialistė (referentė)",
+          "Tel. numeris": "+370 5 239 3811",
+          "Kabinetas": "214"
+        },
+        {
+          "Vardas, pavardė": "Julius Skačkauskas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 239 3808",
+          "Kabinetas": "205"
+        },
+        {
+          "Vardas, pavardė": "Kornelija Dūdonytė",
+          "Pareigos": "Ministro padėjėja",
+          "Tel. numeris": "+370 5 239 3902",
+          "Kabinetas": "202"
+        },
+        {
+          "Vardas, pavardė": "Loreta Maskaliovienė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 5 239 3988",
+          "Kabinetas": "215"
+        },
+        {
+          "Vardas, pavardė": "Marius Skuodis",
+          "Pareigos": "Ministras",
+          "Tel. numeris": "+370 5 239 3911",
+          "Kabinetas": "201"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Tarnauskas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 239 3840",
+          "Kabinetas": "119A"
+        },
+        {
+          "Vardas, pavardė": "Nėrijus Kisielius",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 5 239 2902",
+          "Kabinetas": "216"
+        },
+        {
+          "Vardas, pavardė": "Ramūnas Dilba",
+          "Pareigos": "Ministerijos kancleris",
+          "Tel. numeris": "+370 5 239 3933",
+          "Kabinetas": "213"
+        },
+        {
+          "Vardas, pavardė": "Rūta Kačerauskienė",
+          "Pareigos": "Vyriausioji specialistė (referentė)",
+          "Tel. numeris": "+370 5 239 3904",
+          "Kabinetas": "206"
+        },
+        {
+          "Vardas, pavardė": "Stanislav Widtmann",
+          "Pareigos": "Ministerijos patarėjas",
+          "Tel. numeris": "+370 631 93996",
+          "Kabinetas": "117"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Benediktavičienė",
+          "Pareigos": "Vyriausioji projektų vadovė",
+          "Tel. numeris": "+370 690 37575",
+          "Kabinetas": "125"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Leškevičius",
+          "Pareigos": "Ministerijos vyriausiasis patarėjas",
+          "Tel. numeris": "+370 660 31982",
+          "Kabinetas": "314"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Specialieji atašė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aleksandras Stupenko",
+          "Pareigos": "Transporto atašė Lietuvos Respublikos diplomatinėje atstovybėje Kazachstano Respublikoje",
+          "Tel. numeris": "",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Kristina Semėnė",
+          "Pareigos": "Telekomunikacijų ir pašto atašė",
+          "Tel. numeris": "+32 491 923286",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Liliana Jaroslavska",
+          "Pareigos": "Transporto atašė Lietuvos Respublikos diplomatinėje atstovybėje Lenkijos Respublikoje",
+          "Tel. numeris": "",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Liutauras Šlajus",
+          "Pareigos": "Transporto atašė",
+          "Tel. numeris": "+32 2 401 9867",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vilius Veitas",
+          "Pareigos": "Transporto atašė",
+          "Tel. numeris": "+32 478 793 772",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Komunikacijos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Justina Šveikytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 31978",
+          "Kabinetas": "129"
+        },
+        {
+          "Vardas, pavardė": "Ligija Kliunkienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 631 71518",
+          "Kabinetas": "128"
+        },
+        {
+          "Vardas, pavardė": "Raminta Zimbienė",
+          "Pareigos": "Organizacijos valdymo departamento direktorė, vykdanti Komunikacijos skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+370 636 90496",
+          "Kabinetas": "101"
+        },
+        {
+          "Vardas, pavardė": "Valerija Marija Kozikaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 650 73560",
+          "Kabinetas": "128"
+        },
+        {
+          "Vardas, pavardė": "Žydrūnė Tursaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 659 13413",
+          "Kabinetas": "127"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Centralizuoto vidaus audito skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Audrys Varnelė",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 616 94843",
+          "Kabinetas": "108"
+        },
+        {
+          "Vardas, pavardė": "Genadijus Vidinevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 616 02461",
+          "Kabinetas": "109"
+        },
+        {
+          "Vardas, pavardė": "Jelena Pojarkova",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 690 27651",
+          "Kabinetas": "109A"
+        },
+        {
+          "Vardas, pavardė": "Simona Karišauskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 44573",
+          "Kabinetas": "109"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Teisės ir personalo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Arūnas Alekna",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 649 27015",
+          "Kabinetas": "130"
+        },
+        {
+          "Vardas, pavardė": "Audronė Rutkauskienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 610 63228",
+          "Kabinetas": "210"
+        },
+        {
+          "Vardas, pavardė": "Daiva Dačkienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 603 98215",
+          "Kabinetas": "218"
+        },
+        {
+          "Vardas, pavardė": "Dalia Janulevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 31974",
+          "Kabinetas": "218"
+        },
+        {
+          "Vardas, pavardė": "Eglė Mečkovskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 649 27025",
+          "Kabinetas": "209"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Berniūnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 690 70297",
+          "Kabinetas": "211"
+        },
+        {
+          "Vardas, pavardė": "Nerijus Bieliauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 31988",
+          "Kabinetas": "211"
+        },
+        {
+          "Vardas, pavardė": "Neringa Kaktavičiūtė-Mickienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 690 70732",
+          "Kabinetas": "209"
+        },
+        {
+          "Vardas, pavardė": "Ramunė Mikalauskienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 690 48967",
+          "Kabinetas": "212"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Kelių ir oro transporto politikos grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dmitrij Bial",
+          "Pareigos": "Grupės vadovas",
+          "Tel. numeris": "+370 659 17473",
+          "Kabinetas": "224"
+        },
+        {
+          "Vardas, pavardė": "Tomas Pilukas",
+          "Pareigos": "Vyriausiasis patarėjas",
+          "Tel. numeris": "+370 693 33041",
+          "Kabinetas": "231"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Aviacijos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Agnė Katkutė",
+          "Pareigos": "Vyriausioji patarėja",
+          "Tel. numeris": "+370 673 58537",
+          "Kabinetas": "227"
+        },
+        {
+          "Vardas, pavardė": "Indrė Meironaitė-Gudaitienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 672 38737",
+          "Kabinetas": "222"
+        },
+        {
+          "Vardas, pavardė": "Sigita Jurkšaitytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 687 59611",
+          "Kabinetas": "222"
+        },
+        {
+          "Vardas, pavardė": "Vlada Žegunienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 31984",
+          "Kabinetas": "222"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Transporto infrastruktūros ir finansavimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Krasočkienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 31975",
+          "Kabinetas": "229"
+        },
+        {
+          "Vardas, pavardė": "Evelina Šernienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 649 27016",
+          "Kabinetas": "221"
+        },
+        {
+          "Vardas, pavardė": "Jonas Skarulskis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 44576",
+          "Kabinetas": "229"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Bogdevičienė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "+370 615 20659",
+          "Kabinetas": "221"
+        },
+        {
+          "Vardas, pavardė": "Sergėjus Volkovas",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 633 44587",
+          "Kabinetas": "232"
+        },
+        {
+          "Vardas, pavardė": "Virginija Jarackienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 637 95964",
+          "Kabinetas": "229"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Transporto rinkos reguliavimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gintaras Aliksandravičius",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 659 05658",
+          "Kabinetas": "233"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Keblienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+ 370 661 69176",
+          "Kabinetas": "221"
+        },
+        {
+          "Vardas, pavardė": "Marius Pakėnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 699 47697",
+          "Kabinetas": "225"
+        },
+        {
+          "Vardas, pavardė": "Reda Danilė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 661 69263",
+          "Kabinetas": "225"
+        },
+        {
+          "Vardas, pavardė": "Stanislovas Lingys",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 641 67211",
+          "Kabinetas": "225"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Transporto saugos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Andrius Karnilavičius",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 659 15833",
+          "Kabinetas": "223"
+        },
+        {
+          "Vardas, pavardė": "Gintaras Pilipavičius",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 610 97334",
+          "Kabinetas": "223"
+        },
+        {
+          "Vardas, pavardė": "Olegas Pauliukovas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 690 09554",
+          "Kabinetas": "223"
+        },
+        {
+          "Vardas, pavardė": "Vidmantas Pumputis",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 616 94981",
+          "Kabinetas": "230"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Kalpokas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 699 25012",
+          "Kabinetas": "223"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Vandens ir geležinkelių transporto politikos grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Arūnas Tamašauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 690 06696",
+          "Kabinetas": "248"
+        },
+        {
+          "Vardas, pavardė": "Eglė Vyšniauskaitė",
+          "Pareigos": "Vyriausioji patarėja",
+          "Tel. numeris": "+370 620 97168",
+          "Kabinetas": "245"
+        },
+        {
+          "Vardas, pavardė": "Gitana Aukštuolienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 620 35926",
+          "Kabinetas": "247"
+        },
+        {
+          "Vardas, pavardė": "Vidmantas Tamulis",
+          "Pareigos": "Grupės vadovas",
+          "Tel. numeris": "+370 680 40669",
+          "Kabinetas": "131"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Geležinkelių transporto klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Evelina Laukytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 685 37527",
+          "Kabinetas": "130"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Norkienė",
+          "Pareigos": "Vyriausiasis patarėjas",
+          "Tel. numeris": "+370  607 97788",
+          "Kabinetas": "132"
+        },
+        {
+          "Vardas, pavardė": "Marius Marčiulaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 683 86256",
+          "Kabinetas": "130"
+        },
+        {
+          "Vardas, pavardė": "Tomas Biekša",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 690 12600",
+          "Kabinetas": "132"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Vandens transporto klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Artūras Kungys",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 660 81339",
+          "Kabinetas": "123"
+        },
+        {
+          "Vardas, pavardė": "Aurelija Gudelevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 661 69159",
+          "Kabinetas": "249"
+        },
+        {
+          "Vardas, pavardė": "Simona Jonuškienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 75284",
+          "Kabinetas": "246"
+        },
+        {
+          "Vardas, pavardė": "Teresa Selezniova",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 649 97588",
+          "Kabinetas": "246"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Infrastruktūros plėtros grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Darius Sriubas",
+          "Pareigos": "Infrastruktūros plėtros grupės patarėjas, vykdantis grupės vadovo funkcijas",
+          "Tel. numeris": "+370 660 31979",
+          "Kabinetas": "308"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Normavimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Balevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 31985",
+          "Kabinetas": "313"
+        },
+        {
+          "Vardas, pavardė": "Asta Nakaitė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 31983",
+          "Kabinetas": "307"
+        },
+        {
+          "Vardas, pavardė": "Daiva Balnienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 667 92434",
+          "Kabinetas": "308"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Barysienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 641 67660",
+          "Kabinetas": "307"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Projektų valdymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jurgita Jakavičiūtė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 674 94897",
+          "Kabinetas": "311"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Projektų rengimo ir įgyvendinimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Justyna Bacevič (Vandens kelių plėtra)",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 695 18148",
+          "Kabinetas": "312"
+        },
+        {
+          "Vardas, pavardė": "Teresa Gudauskienė (Aviacijos plėtra)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 638 67478",
+          "Kabinetas": "308"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Tarptautinio bendradarbiavimo grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gytis Mažeika",
+          "Pareigos": "Grupės vadovas",
+          "Tel. numeris": "+370 659 35155",
+          "Kabinetas": "316"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Strateginių sprendimų ir programų valdymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gražina Šiaučiūnaitė",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 658 73360",
+          "Kabinetas": "302"
+        },
+        {
+          "Vardas, pavardė": "Ina Irens",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 694 79817",
+          "Kabinetas": "317"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Europos Sąjungos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dmitrij Zadojenko",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 640 70568",
+          "Kabinetas": "305"
+        },
+        {
+          "Vardas, pavardė": "Karolis Kitovas",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 630 99574",
+          "Kabinetas": "314"
+        },
+        {
+          "Vardas, pavardė": "Rokas Tamulevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 31976",
+          "Kabinetas": "303"
+        },
+        {
+          "Vardas, pavardė": "Vaiva Obelevičienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 699 39890",
+          "Kabinetas": "305"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ekonominės diplomatijos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aušra Gobienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 699 37871",
+          "Kabinetas": "315"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Šukštienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 607 59964",
+          "Kabinetas": "315"
+        },
+        {
+          "Vardas, pavardė": "Laima Labutienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 44574",
+          "Kabinetas": "304"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Logistikos ekosistemos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aldas Genys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 660 44577",
+          "Kabinetas": "306"
+        },
+        {
+          "Vardas, pavardė": "Kristina Mickevičiūtė",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 661 68680",
+          "Kabinetas": "303"
+        },
+        {
+          "Vardas, pavardė": "Natalija Baranauskienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 690 27219",
+          "Kabinetas": "306"
+        },
+        {
+          "Vardas, pavardė": "Valdas Brėskis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 44572",
+          "Kabinetas": "306"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ateities susisiekimo politikos grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Darius Stravinskas",
+          "Pareigos": "Grupės vadovas",
+          "Tel. numeris": "+370 694 41323",
+          "Kabinetas": "237"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Žaliojo kurso ir inovacijų klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aistė Gasiūnienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 690 71132",
+          "Kabinetas": "235"
+        },
+        {
+          "Vardas, pavardė": "Andrius Ružinskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 690 16884",
+          "Kabinetas": "220"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Rimkuvienė",
+          "Pareigos": "Vyriausioji patarėja",
+          "Tel. numeris": "+370 611 20324",
+          "Kabinetas": "114"
+        },
+        {
+          "Vardas, pavardė": "Laurynas Buzys",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 635 54208",
+          "Kabinetas": "235"
+        },
+        {
+          "Vardas, pavardė": "Rita Remeikienė",
+          "Pareigos": "Mokslo ir inovacijų patarėja",
+          "Tel. numeris": "+370 603 60721",
+          "Kabinetas": "238"
+        },
+        {
+          "Vardas, pavardė": "Vaida Kazlauskienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 75278",
+          "Kabinetas": "238"
+        },
+        {
+          "Vardas, pavardė": "Vilma Vaičiūnienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 690 90714",
+          "Kabinetas": "220"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Elektroninių ryšių klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Albertas Turonis",
+          "Pareigos": "Vyriausiasis patarėjas",
+          "Tel. numeris": "+370 665 19418",
+          "Kabinetas": "240"
+        },
+        {
+          "Vardas, pavardė": "Inga Grinienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 31992",
+          "Kabinetas": "241"
+        },
+        {
+          "Vardas, pavardė": "Jonas Bazys",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 618 49951",
+          "Kabinetas": "240"
+        },
+        {
+          "Vardas, pavardė": "Julija Gabijūnienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 75274",
+          "Kabinetas": "241"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Pašto srities klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Eglė Sikorskaitė-Narkun",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 660 31986",
+          "Kabinetas": "236"
+        },
+        {
+          "Vardas, pavardė": "Gerda Vaikšnoraitė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+370 690 90416",
+          "Kabinetas": "236"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Darnaus judumo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Danielius Aliaševičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 659 93398",
+          "Kabinetas": "238"
+        },
+        {
+          "Vardas, pavardė": "Gintarė Janušaitienė",
+          "Pareigos": "Vyriausioji patarėja",
+          "Tel. numeris": "+370 638 54512",
+          "Kabinetas": "117"
+        },
+        {
+          "Vardas, pavardė": "Kęstutis Vanagas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 690 68540",
+          "Kabinetas": "234"
+        },
+        {
+          "Vardas, pavardė": "Kristina Puleikytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 634 62754",
+          "Kabinetas": "234"
+        },
+        {
+          "Vardas, pavardė": "Nemunas Abukauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 612 30078",
+          "Kabinetas": "234"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Biudžeto ir investicijų departamentas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Raimonda Eidžiūnė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 690 90496",
+          "Kabinetas": "405"
+        },
+        {
+          "Vardas, pavardė": "Saulius Kerza",
+          "Pareigos": "Departamento direktorius",
+          "Tel. numeris": "+370 620 13129",
+          "Kabinetas": "410"
+        },
+        {
+          "Vardas, pavardė": "Zita Dubickienė",
+          "Pareigos": "Vyriausioji patarėja",
+          "Tel. numeris": "+370 615 16625",
+          "Kabinetas": "414"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Strateginio planavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Birutė Mieldažienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 690 72343",
+          "Kabinetas": "411"
+        },
+        {
+          "Vardas, pavardė": "Dainius Zukas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 658 73741",
+          "Kabinetas": "415"
+        },
+        {
+          "Vardas, pavardė": "Eugenijus Ramaškevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 649 27027",
+          "Kabinetas": "413"
+        },
+        {
+          "Vardas, pavardė": "Giedrė Kizevičienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 81342",
+          "Kabinetas": "413"
+        },
+        {
+          "Vardas, pavardė": "Ramūnas Rimkus",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 660 31991",
+          "Kabinetas": "416"
+        },
+        {
+          "Vardas, pavardė": "Vaidė Porvaneckienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 81340",
+          "Kabinetas": "415"
+        },
+        {
+          "Vardas, pavardė": "Zita Nemanienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 682 23260",
+          "Kabinetas": "411"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "ES investicijų koordinavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Danutė Čepienė",
+          "Pareigos": "L. e. skyriaus vedėjo pareigas",
+          "Tel. numeris": "+370 613 10279",
+          "Kabinetas": "402"
+        },
+        {
+          "Vardas, pavardė": "Evaldas Lukošiūnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 31993",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Giedrė Gaidelionienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 601 93603",
+          "Kabinetas": "417"
+        },
+        {
+          "Vardas, pavardė": "Rasa Tomonienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 656 78383",
+          "Kabinetas": "403"
+        },
+        {
+          "Vardas, pavardė": "Rita Jankauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 31981",
+          "Kabinetas": "404"
+        },
+        {
+          "Vardas, pavardė": "Simonas Babianskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 658 73429",
+          "Kabinetas": "404"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ekonomikos ir apskaitos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aelita Lisauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 75282",
+          "Kabinetas": "409"
+        },
+        {
+          "Vardas, pavardė": "Andrius Stulpinas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 660 44571",
+          "Kabinetas": "409"
+        },
+        {
+          "Vardas, pavardė": "Dalia Liachovičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 658 42677",
+          "Kabinetas": "407"
+        },
+        {
+          "Vardas, pavardė": "Janina Svilo",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 659 57759",
+          "Kabinetas": "407"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Ona Krupavičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 655 69554",
+          "Kabinetas": "408"
+        },
+        {
+          "Vardas, pavardė": "Rasa Puluikienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 31980",
+          "Kabinetas": "406"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Purikovienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 75281",
+          "Kabinetas": "406"
+        },
+        {
+          "Vardas, pavardė": "Žydrūnas Jonutis",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 684 52156",
+          "Kabinetas": "401"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Valstybės turto ir įmonių valdymo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Evelina Verikienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 698 23668",
+          "Kabinetas": "251"
+        },
+        {
+          "Vardas, pavardė": "Indrė Bernotaitė",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 690 71347",
+          "Kabinetas": "124"
+        },
+        {
+          "Vardas, pavardė": "Janina Laskauskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 683 86320",
+          "Kabinetas": "244"
+        },
+        {
+          "Vardas, pavardė": "Jovita Razgutė",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 660 31977",
+          "Kabinetas": "124"
+        },
+        {
+          "Vardas, pavardė": "Rasa Sirutavičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 644 57150",
+          "Kabinetas": "251"
+        },
+        {
+          "Vardas, pavardė": "Ričardas Rutkauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 679 89345",
+          "Kabinetas": "250"
+        },
+        {
+          "Vardas, pavardė": "Roma Andruškevičienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 620 17580",
+          "Kabinetas": "243"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Organizacijos valdymo departamentas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Raminta Zimbienė",
+          "Pareigos": "Departamento direktorė",
+          "Tel. numeris": "+370 636 90496",
+          "Kabinetas": "101"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Viešųjų pirkimų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Mikulevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 31990",
+          "Kabinetas": "102"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Krejerienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 671 27296",
+          "Kabinetas": "102"
+        },
+        {
+          "Vardas, pavardė": "Kamilė Lasevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 690 30520",
+          "Kabinetas": "102"
+        },
+        {
+          "Vardas, pavardė": "Kornelija Petrulienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 660 31989",
+          "Kabinetas": "102"
+        },
+        {
+          "Vardas, pavardė": "Ramunė Jovaišienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 682 39819",
+          "Kabinetas": "118"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Veiklos kokybės ir dokumentų valdymo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Varnienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 659 44306",
+          "Kabinetas": "115"
+        },
+        {
+          "Vardas, pavardė": "Dominykas Narbutas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 686 47844",
+          "Kabinetas": "110"
+        },
+        {
+          "Vardas, pavardė": "Džeralda Tylienė",
+          "Pareigos": "Patarėja    (asmenų priėmimas ir aptarnavimas, archyvo klausimai )",
+          "Tel. numeris": "+370 680 35254",
+          "Kabinetas": "121"
+        },
+        {
+          "Vardas, pavardė": "Evelina Stankevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 636 19810",
+          "Kabinetas": "115"
+        },
+        {
+          "Vardas, pavardė": "Gražina Gecevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 602 11601",
+          "Kabinetas": "126"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Mučinytė",
+          "Pareigos": "Vyriausioji specialistė (gautų dokumentų administravimas)",
+          "Tel. numeris": "+370 652 66376",
+          "Kabinetas": "104"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Ubarevičiūtė",
+          "Pareigos": "Vyriausioji specialistė (gautų dokumentų administravimas)",
+          "Tel. numeris": "+370 616 53157",
+          "Kabinetas": "121"
+        },
+        {
+          "Vardas, pavardė": "Lina Gaškauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 642 19098",
+          "Kabinetas": "104"
+        },
+        {
+          "Vardas, pavardė": "Lina Šilagalienė",
+          "Pareigos": "Vyriausioji specialistė (dokumentų redagavimas)",
+          "Tel. numeris": "+370 691 17819",
+          "Kabinetas": "105"
+        },
+        {
+          "Vardas, pavardė": "Snieguolė Bakaitė",
+          "Pareigos": "Patarėja (dokumentų redagavimas)",
+          "Tel. numeris": "+370 690 16906",
+          "Kabinetas": "105"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Informacinių sistemų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Deivis Gerasimavičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 619 49354",
+          "Kabinetas": "107"
+        },
+        {
+          "Vardas, pavardė": "Irena Truchanovič",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 614 91925",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Martynas Urbutis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 652 39702",
+          "Kabinetas": "107"
+        },
+        {
+          "Vardas, pavardė": "Valdas Ivaškevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 686 78527",
+          "Kabinetas": "107"
+        },
+        {
+          "Vardas, pavardė": "Vytenis Geiga",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 630 45470",
+          "Kabinetas": "115"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ūkio skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alvydas Grybėnas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 610 48242",
+          "Kabinetas": "112"
+        },
+        {
+          "Vardas, pavardė": "Inesa Tamoševičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 690 30552",
+          "Kabinetas": "004"
+        },
+        {
+          "Vardas, pavardė": "Nerijus Vasiliauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 617 63311",
+          "Kabinetas": "005"
+        },
+        {
+          "Vardas, pavardė": "Reinaldas Stabinis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 690 18746",
+          "Kabinetas": "038"
+        }
+      ]
+    }
+  ]
+}

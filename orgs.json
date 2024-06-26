@@ -15,6 +15,51 @@
 		"Kontaktai": "https://enmin.lrv.lt/lt/struktura-ir-kontaktai/ministerijos-darbuotoju-kontaktai-1/"
 	},
 	{
+		"Id": "finmin",
+		"Pavadinimas": "Finansų ministerija",
+		"Kontaktai": "https://finmin.lrv.lt/lt/struktura-ir-kontaktai/kontaktai/"
+	},
+	{
+		"Id": "lrkm",
+		"Pavadinimas": "Kultūros ministerija",
+		"Kontaktai": "https://lrkm.lrv.lt/lt/struktura-ir-kontaktai/kontaktai/"
+	},
+	{
+		"Id": "socmin",
+		"Pavadinimas": "Socialinės apsaugos ir darbo ministerija",
+		"Kontaktai": "https://socmin.lrv.lt/lt/struktura-ir-kontaktine-informacija/istaigos-kontaktai/"
+	},
+	{
+		"Id": "sumin",
+		"Pavadinimas": "Susisiekimo ministerija",
+		"Kontaktai": "https://sumin.lrv.lt/lt/struktura-ir-kontaktai/kontaktai/"
+	},
+	{
+		"Id": "sam",
+		"Pavadinimas": "Sveikatos apsaugos ministerija",
+		"Kontaktai": "https://sam.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/"
+	},
+	{
+		"Id": "smsm",
+		"Pavadinimas": "Švietimo, mokslo ir sporto ministerija",
+		"Kontaktai": "https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/"
+	},
+	{
+		"Id": "tm",
+		"Pavadinimas": "Teisingumo ministerija",
+		"Kontaktai": "https://tm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/"
+	},
+	{
+		"Id": "vrm",
+		"Pavadinimas": "Vidaus reikalų ministerija",
+		"Kontaktai": "https://vrm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/"
+	},
+	{
+		"Id": "zum",
+		"Pavadinimas": "Žemės ūkio ministerija",
+		"Kontaktai": "https://zum.lrv.lt/lt/struktura-ir-kontaktai/kontaktai/"
+	},
+	{
 		"Id": "aaa",
 		"Pavadinimas": "Aplinkos apsaugos agentūra",
 		"Kontaktai": "https://aaa.lrv.lt/lt/struktura-ir-kontaktai/kontaktai-1/",
