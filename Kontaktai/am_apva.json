@@ -5,9 +5,9 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gvidas Dargužas",
-          "Pareigos": "Direktorius",
-          "Mobilus tel. nr.": "+37064602285",
+          "Vardas, pavardė": "Dainius Kazlauskas",
+          "Pareigos": "Direktoriaus pavaduotojas (inovacijų vadovas)",
+          "Mobilus tel. nr.": "+37067883480",
           "El. paštas": "[email protected]"
         },
         {
@@ -17,15 +17,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Dainius Kazlauskas",
-          "Pareigos": "Direktoriaus pavaduotojas (inovacijų vadovas)",
-          "Mobilus tel. nr.": "+37067883480",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vytautas Vrubliauskas",
-          "Pareigos": "Direktoriaus pavaduotojas (veiklos vadovas)",
-          "Mobilus tel. nr.": "+37067756423",
+          "Vardas, pavardė": "Gvidas Dargužas",
+          "Pareigos": "Direktorius",
+          "Mobilus tel. nr.": "+37064602285",
           "El. paštas": "[email protected]"
         },
         {
@@ -33,30 +27,18 @@
           "Pareigos": "Strategijos vadovė",
           "Mobilus tel. nr.": "+37060287369",
           "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Vrubliauskas",
+          "Pareigos": "Direktoriaus pavaduotojas (veiklos vadovas)",
+          "Mobilus tel. nr.": "+37067756423",
+          "El. paštas": "[email protected]"
         }
       ]
     },
     {
       "Pavadinimas": "Teisės skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Irina Sivoronova",
-          "Pareigos": "Skyriaus vedėja",
-          "Mobilus tel. nr.": "+37067883210",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Joana Storoženko",
-          "Pareigos": "Vyriausioji specialistė (teisininkė)",
-          "Mobilus tel. nr.": "+37067425881",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rasa Štikonaitė",
-          "Pareigos": "Ekspertė",
-          "Mobilus tel. nr.": "+37060284167",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Aleta Kolyčiūtė-Banaitienė",
           "Pareigos": "Ekspertė",
@@ -76,9 +58,27 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rūta Zalenkova",
+          "Vardas, pavardė": "Ernesta Jankauskaitė",
           "Pareigos": "Teisininkė",
-          "Mobilus tel. nr.": "+37060283822",
+          "Mobilus tel. nr.": "+37060283362",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Irina Sivoronova",
+          "Pareigos": "Skyriaus vedėja",
+          "Mobilus tel. nr.": "+37067883210",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Joana Storoženko",
+          "Pareigos": "Vyriausioji specialistė (teisininkė)",
+          "Mobilus tel. nr.": "+37067425881",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Lina Vilčinskaitė",
+          "Pareigos": "Teisininkė",
+          "Mobilus tel. nr.": "+37064572533",
           "El. paštas": "[email protected]"
         },
         {
@@ -88,9 +88,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Ernesta Jankauskaitė",
-          "Pareigos": "Teisininkė",
-          "Mobilus tel. nr.": "+37060283362",
+          "Vardas, pavardė": "Rasa Štikonaitė",
+          "Pareigos": "Ekspertė",
+          "Mobilus tel. nr.": "+37060284167",
           "El. paštas": "[email protected]"
         },
         {
@@ -100,15 +100,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Violeta Vyšniauskienė",
-          "Pareigos": "Vyriausioji specialistė (teisininkė)",
-          "Mobilus tel. nr.": "+37062612904",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vilhelmina Tverionaitė",
-          "Pareigos": "Vyriausioji specialistė (teisininkė)",
-          "Mobilus tel. nr.": "+37068752245",
+          "Vardas, pavardė": "Rūta Zalenkova",
+          "Pareigos": "Teisininkė",
+          "Mobilus tel. nr.": "+37060283822",
           "El. paštas": "[email protected]"
         },
         {
@@ -118,9 +112,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Lina Vilčinskaitė",
-          "Pareigos": "Teisininkė",
-          "Mobilus tel. nr.": "+37064572533",
+          "Vardas, pavardė": "Vilhelmina Tverionaitė",
+          "Pareigos": "Vyriausioji specialistė (teisininkė)",
+          "Mobilus tel. nr.": "+37068752245",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Violeta Vyšniauskienė",
+          "Pareigos": "Vyriausioji specialistė (teisininkė)",
+          "Mobilus tel. nr.": "+37062612904",
           "El. paštas": "[email protected]"
         }
       ]
@@ -129,15 +129,15 @@
       "Pavadinimas": "Kokybės ir rizikos valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Rima Andrejevienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Mobilus tel. nr.": "+37067785316",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Ada Regelskė",
           "Pareigos": "Patarėja (ekspertė)",
           "Mobilus tel. nr.": "+37060283577",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rima Andrejevienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Mobilus tel. nr.": "+37067785316",
           "El. paštas": "[email protected]"
         },
         {
@@ -169,15 +169,9 @@
       "Pavadinimas": "Energinio taupumo projektų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Janina Antanavičienė",
+          "Vardas, pavardė": "Ana Juozaitienė",
           "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060287139",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rimvydas Šinkūnas",
-          "Pareigos": "Programos vadovas",
-          "Mobilus tel. nr.": "+37060289461",
+          "Mobilus tel. nr.": "+37064572638",
           "El. paštas": "[email protected]"
         },
         {
@@ -187,33 +181,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Raminta Jurevičienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37066436938",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Romuald Grabštunovič",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37060287322",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Olegas Sviridovas",
-          "Pareigos": "Skyriaus vadovas",
-          "Mobilus tel. nr.": "+37066762158",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Žaneta Dočkuvienė",
+          "Vardas, pavardė": "Janina Antanavičienė",
           "Pareigos": "Projektų vadovė",
           "Mobilus tel. nr.": "+37060287139",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Kristina Žilinskė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37061271195",
           "El. paštas": "[email protected]"
         },
         {
@@ -223,9 +193,39 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Ana Juozaitienė",
+          "Vardas, pavardė": "Kristina Žilinskė",
           "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37064572638",
+          "Mobilus tel. nr.": "+37061271195",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Olegas Sviridovas",
+          "Pareigos": "Skyriaus vadovas",
+          "Mobilus tel. nr.": "+37066762158",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Raminta Jurevičienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37066436938",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rimvydas Šinkūnas",
+          "Pareigos": "Programos vadovas",
+          "Mobilus tel. nr.": "+37060289461",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Romuald Grabštunovič",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37060287322",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Žaneta Dočkuvienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060287139",
           "El. paštas": "[email protected]"
         }
       ]
@@ -233,30 +233,6 @@
     {
       "Pavadinimas": "Susisiekimo infrastruktūros ir transporto projektų skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Inga Dikčienė",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37065289011",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Justė Korotkich",
-          "Pareigos": "Jungtinių projektų vadovė",
-          "Mobilus tel. nr.": "+37060283745",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Simona Kirkilienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060286791",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Nerijus Lesickas",
-          "Pareigos": "Programos vadovas",
-          "Mobilus tel. nr.": "+37064571337",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Andrius Venckus",
           "Pareigos": "Projektų vadovas",
@@ -270,9 +246,33 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Inga Dikčienė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37065289011",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Justė Korotkich",
+          "Pareigos": "Jungtinių projektų vadovė",
+          "Mobilus tel. nr.": "+37060283745",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Nerijus Lesickas",
+          "Pareigos": "Programos vadovas",
+          "Mobilus tel. nr.": "+37064571337",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Sandra Tirlikienė",
           "Pareigos": "Projektų vadovė",
           "Mobilus tel. nr.": "+37061276896",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Simona Kirkilienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060286791",
           "El. paštas": "[email protected]"
         }
       ]
@@ -281,123 +281,9 @@
       "Pavadinimas": "Atsinaujinančios energijos projektų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Šarūnas Šulcas",
-          "Pareigos": "Programos vadovas",
-          "Mobilus tel. nr.": "+37060212695",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Egidijus Petraitis",
-          "Pareigos": "Programos vadovas",
-          "Mobilus tel. nr.": "+37065976105",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Kondratas",
-          "Pareigos": "Jungtinių projektų vadovas",
-          "Mobilus tel. nr.": "+37060212798",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Eugenijus Baldyšius",
-          "Pareigos": "Jungtinių projektų vadovas",
-          "Mobilus tel. nr.": "+37060284912",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Simona Tamašiūnė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37064539205",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Izoldas Aškelavičius",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37060212672",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Arūnas Beniušis",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37061581664",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Eligija Pakalnienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060212764",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Nerijus Brusokas",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37066558271",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Inga Bernatavičienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37065961194",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Evelina Keturakytė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060597346",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jolanta Eidukaitytė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37062043359",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Kristina Miliauskaitė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060832280",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Milda Dilytė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37067322965",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Lina Mačiulienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37066762189",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Laura Milašiūtė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060212746",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Renata Klim",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37065349394",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Nida Jankauskienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060286790",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vita Jancevičienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37064572771",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Virgilija Rėklaitienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37066762096",
+          "Vardas, pavardė": "Adrija Lukaitė",
+          "Pareigos": "Jaunesnioji projektų vadovė",
+          "Mobilus tel. nr.": "+37061602484",
           "El. paštas": "[email protected]"
         },
         {
@@ -407,9 +293,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Adrija Lukaitė",
-          "Pareigos": "Jaunesnioji projektų vadovė",
-          "Mobilus tel. nr.": "+37061602484",
+          "Vardas, pavardė": "Arūnas Beniušis",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37061581664",
           "El. paštas": "[email protected]"
         },
         {
@@ -419,9 +305,123 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Egidijus Petraitis",
+          "Pareigos": "Programos vadovas",
+          "Mobilus tel. nr.": "+37065976105",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Eligija Pakalnienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060212764",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Eugenijus Baldyšius",
+          "Pareigos": "Jungtinių projektų vadovas",
+          "Mobilus tel. nr.": "+37060284912",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Evelina Keturakytė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060597346",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Inga Bernatavičienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37065961194",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Izoldas Aškelavičius",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37060212672",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Eidukaitytė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37062043359",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Karolina Chatkevičiūtė",
           "Pareigos": "Projektų vadovė",
           "Mobilus tel. nr.": "+37060212784",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Kristina Miliauskaitė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060832280",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Laura Milašiūtė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060212746",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Lina Mačiulienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37066762189",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Milda Dilytė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37067322965",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Kondratas",
+          "Pareigos": "Jungtinių projektų vadovas",
+          "Mobilus tel. nr.": "+37060212798",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Nerijus Brusokas",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37066558271",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Nida Jankauskienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060286790",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Renata Klim",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37065349394",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Simona Tamašiūnė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37064539205",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Šarūnas Šulcas",
+          "Pareigos": "Programos vadovas",
+          "Mobilus tel. nr.": "+37060212695",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Virgilija Rėklaitienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37066762096",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vita Jancevičienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37064572771",
           "El. paštas": "[email protected]"
         }
       ]
@@ -441,45 +441,9 @@
       "Pavadinimas": "Tvarios aplinkos projektų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Jolita Baigienė",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37061827848",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Tomas Bagdanavičius",
-          "Pareigos": "Vyriausiasis projektų vadovas",
-          "Mobilus tel. nr.": "+37060284876",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Inga Januševičienė",
-          "Pareigos": "Vyriausioji projektų vadovė",
-          "Mobilus tel. nr.": "+37060284957",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jurga Čekanauskienė",
-          "Pareigos": "Programos vadovė",
-          "Mobilus tel. nr.": "+37060289447",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Donatas Michalkevičius",
+          "Vardas, pavardė": "Antonas Misevičius",
           "Pareigos": "Programos vadovas",
-          "Mobilus tel. nr.": "+37060286964",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Marius Sanda",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37064619240",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vilius Girnius",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37060289450",
+          "Mobilus tel. nr.": "+37064571389",
           "El. paštas": "[email protected]"
         },
         {
@@ -489,15 +453,27 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Kamilė Mackevičienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37066762194",
+          "Vardas, pavardė": "Donatas Michalkevičius",
+          "Pareigos": "Programos vadovas",
+          "Mobilus tel. nr.": "+37060286964",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Antonas Misevičius",
-          "Pareigos": "Programos vadovas",
-          "Mobilus tel. nr.": "+37064571389",
+          "Vardas, pavardė": "Inga Januševičienė",
+          "Pareigos": "Vyriausioji projektų vadovė",
+          "Mobilus tel. nr.": "+37060284957",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jolita Baigienė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37061827848",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jurga Čekanauskienė",
+          "Pareigos": "Programos vadovė",
+          "Mobilus tel. nr.": "+37060289447",
           "El. paštas": "[email protected]"
         },
         {
@@ -507,9 +483,33 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Kamilė Mackevičienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37066762194",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Marius Sanda",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37064619240",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Tomas Bagdanavičius",
+          "Pareigos": "Vyriausiasis projektų vadovas",
+          "Mobilus tel. nr.": "+37060284876",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Viktorija Cimbalistaitė",
           "Pareigos": "Projektų vadovė",
           "Mobilus tel. nr.": "+37066762181",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vilius Girnius",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37060289450",
           "El. paštas": "[email protected]"
         }
       ]
@@ -530,6 +530,18 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Giedrė Ulinskaitė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37065983951",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gytautas Ignatavičius",
+          "Pareigos": "Vyriausiasis projektų vadovas",
+          "Mobilus tel. nr.": "+37060285049",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Inga Banytė",
           "Pareigos": "Vyriausioji projektų vadovė",
           "Mobilus tel. nr.": "+37066436937",
@@ -542,27 +554,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Gytautas Ignatavičius",
-          "Pareigos": "Vyriausiasis projektų vadovas",
-          "Mobilus tel. nr.": "+37060285049",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Giedrė Ulinskaitė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37065983951",
+          "Vardas, pavardė": "Renata Purvinienė",
+          "Pareigos": "Vyriausioji projektų vadovė",
+          "Mobilus tel. nr.": "+37060284164",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Vilija Gečienė",
           "Pareigos": "Projektų vadovė",
           "Mobilus tel. nr.": "+37060285051",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Renata Purvinienė",
-          "Pareigos": "Vyriausioji projektų vadovė",
-          "Mobilus tel. nr.": "+37060284164",
           "El. paštas": "[email protected]"
         }
       ]
@@ -571,33 +571,15 @@
       "Pavadinimas": "Klimato kaitos projektų ir registrų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Vaida Ananeva",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37061226361",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Monika Ozarinskienė",
-          "Pareigos": "Programos vadovė",
-          "Mobilus tel. nr.": "+37064608462",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Irina Nikolajeva",
-          "Pareigos": "Vyriausioji projektų vadovė",
-          "Mobilus tel. nr.": "+37067884372",
+          "Vardas, pavardė": "Danutė Matelytė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060761049",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Deimantas Bimbiris",
           "Pareigos": "Projektų vadovas",
           "Mobilus tel. nr.": "+37060284276",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Danutė Matelytė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060761049",
           "El. paštas": "[email protected]"
         },
         {
@@ -610,6 +592,24 @@
           "Vardas, pavardė": "Giedrė Mamontovaitė",
           "Pareigos": "Projektų vadovė",
           "Mobilus tel. nr.": "+37068771164",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Irina Nikolajeva",
+          "Pareigos": "Vyriausioji projektų vadovė",
+          "Mobilus tel. nr.": "+37067884372",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Monika Ozarinskienė",
+          "Pareigos": "Programos vadovė",
+          "Mobilus tel. nr.": "+37064608462",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vaida Ananeva",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37061226361",
           "El. paštas": "[email protected]"
         }
       ]
@@ -629,99 +629,21 @@
       "Pavadinimas": "Daugiabučių namų modernizavimo projektų skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aurimas Jaunarijus Ramoška",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37061465937",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Aušra Bartkevičienė",
           "Pareigos": "Skyriaus vadovė",
           "Mobilus tel. nr.": "+37062088591",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Edvardas Petrauskas",
-          "Pareigos": "Ekspertas",
-          "Mobilus tel. nr.": "+37061966394",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Edita Meiliūnienė",
-          "Pareigos": "Programos vadovė",
-          "Mobilus tel. nr.": "+37065998753",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Neringa Abromavičienė",
-          "Pareigos": "Programos vadovė",
-          "Mobilus tel. nr.": "+37066762192",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Regina Šilinskienė",
-          "Pareigos": "Vyriausioji projektų vadovė",
-          "Mobilus tel. nr.": "+37068284103",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Laima Steponaitienė",
+          "Vardas, pavardė": "Dainora Žukauskaitė",
           "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37061269127",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Nijolė Genovaitė Graužinytė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37061967914",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vladas Trakimavičius",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37061511349",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rasa Tautvydė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37067883703",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Milda Zaniauskienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060284746",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Lina Balčiūnienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37061539801",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Laimutė Zuikienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37066762193",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Nalivaikienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37065993877",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Indrė Martinkevičienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37065931074",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Greta Tručinskaitė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37062038256",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Giedrė Škėmienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37062660927",
+          "Mobilus tel. nr.": "+37068772667",
           "El. paštas": "[email protected]"
         },
         {
@@ -731,15 +653,39 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Ramūnas Majauskis",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37060240335",
+          "Vardas, pavardė": "Dovilė Gaudėšė",
+          "Pareigos": "Vyriausioji projektų vadovė",
+          "Mobilus tel. nr.": "+37064698607",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Linas Balzeris",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37061827218",
+          "Vardas, pavardė": "Edita Meiliūnienė",
+          "Pareigos": "Programos vadovė",
+          "Mobilus tel. nr.": "+37065998753",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Edvardas Petrauskas",
+          "Pareigos": "Ekspertas",
+          "Mobilus tel. nr.": "+37061966394",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Giedrė Škėmienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37062660927",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Greta Tručinskaitė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37062038256",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Indrė Martinkevičienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37065931074",
           "El. paštas": "[email protected]"
         },
         {
@@ -749,9 +695,57 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Aurimas Jaunarijus Ramoška",
+          "Vardas, pavardė": "Jurgita Nalivaikienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37065993877",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Laima Steponaitienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37061269127",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Laimutė Zuikienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37066762193",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Lina Balčiūnienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37061539801",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Linas Balzeris",
           "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37061465937",
+          "Mobilus tel. nr.": "+37061827218",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Milda Zaniauskienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060284746",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Neringa Abromavičienė",
+          "Pareigos": "Programos vadovė",
+          "Mobilus tel. nr.": "+37066762192",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Nijolė Genovaitė Graužinytė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37061967914",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Ramūnas Majauskis",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37060240335",
           "El. paštas": "[email protected]"
         },
         {
@@ -761,9 +755,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Dovilė Gaudėšė",
+          "Vardas, pavardė": "Rasa Tautvydė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37067883703",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Regina Šilinskienė",
           "Pareigos": "Vyriausioji projektų vadovė",
-          "Mobilus tel. nr.": "+37064698607",
+          "Mobilus tel. nr.": "+37068284103",
           "El. paštas": "[email protected]"
         },
         {
@@ -773,9 +773,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Dainora Žukauskaitė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37068772667",
+          "Vardas, pavardė": "Vladas Trakimavičius",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37061511349",
           "El. paštas": "[email protected]"
         }
       ]
@@ -784,9 +784,15 @@
       "Pavadinimas": "Pastatų modernizavimo projektų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Vidas Stašauskas",
-          "Pareigos": "Skyriaus vadovas",
-          "Mobilus tel. nr.": "+37067801778",
+          "Vardas, pavardė": "Dovilė Micienė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37061219030",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gediminas Rimdžius",
+          "Pareigos": "Projektų vadovas",
+          "Mobilus tel. nr.": "+37060832249",
           "El. paštas": "[email protected]"
         },
         {
@@ -802,15 +808,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Gediminas Rimdžius",
-          "Pareigos": "Projektų vadovas",
-          "Mobilus tel. nr.": "+37060832249",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Dovilė Micienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37061219030",
+          "Vardas, pavardė": "Vidas Stašauskas",
+          "Pareigos": "Skyriaus vadovas",
+          "Mobilus tel. nr.": "+37067801778",
           "El. paštas": "[email protected]"
         }
       ]
@@ -818,30 +818,6 @@
     {
       "Pavadinimas": "Plėtros skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Neringa Vilutytė",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37066217877",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Irma Avižienė",
-          "Pareigos": "Ekspertė",
-          "Mobilus tel. nr.": "+37061244293",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vaclovas Bajorinas",
-          "Pareigos": "Plėtros analitikas",
-          "Mobilus tel. nr.": "+37061814875",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Kastytis Tuminas",
-          "Pareigos": "Vandentvarkos valdymo projekto grupės vadovas",
-          "Mobilus tel. nr.": "+37069822218",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Aušra Šmitienė",
           "Pareigos": "LIFE IP EnerLIT projekto grupės vadovė",
@@ -855,9 +831,21 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rasa Černakauskienė",
-          "Pareigos": "Inovacijų grupės vadovė",
-          "Mobilus tel. nr.": "+37060283718",
+          "Vardas, pavardė": "Giedrė Stonkuvienė",
+          "Pareigos": "Administratorė",
+          "Mobilus tel. nr.": "+37060287282",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Ieva Zabielė",
+          "Pareigos": "Ekspertė",
+          "Mobilus tel. nr.": "+37062167709",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Irma Avižienė",
+          "Pareigos": "Ekspertė",
+          "Mobilus tel. nr.": "+37061244293",
           "El. paštas": "[email protected]"
         },
         {
@@ -867,9 +855,21 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Ieva Zabielė",
-          "Pareigos": "Ekspertė",
-          "Mobilus tel. nr.": "+37062167709",
+          "Vardas, pavardė": "Kastytis Tuminas",
+          "Pareigos": "Vandentvarkos valdymo projekto grupės vadovas",
+          "Mobilus tel. nr.": "+37069822218",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Neringa Vilutytė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37066217877",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rasa Černakauskienė",
+          "Pareigos": "Inovacijų grupės vadovė",
+          "Mobilus tel. nr.": "+37060283718",
           "El. paštas": "[email protected]"
         },
         {
@@ -885,9 +885,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Giedrė Stonkuvienė",
-          "Pareigos": "Administratorė",
-          "Mobilus tel. nr.": "+37060287282",
+          "Vardas, pavardė": "Vaclovas Bajorinas",
+          "Pareigos": "Plėtros analitikas",
+          "Mobilus tel. nr.": "+37061814875",
           "El. paštas": "[email protected]"
         }
       ]
@@ -896,21 +896,15 @@
       "Pavadinimas": "Klimato neutralumo kompetencijų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Neringa Liudavičienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Mobilus tel. nr.": "+37060212640",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Giedrė Vaškienė",
           "Pareigos": "Ekspertė",
           "Mobilus tel. nr.": "+37065951429",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rolandas Marcinkevičius",
-          "Pareigos": "Ekspertinių sprendimų grupės vadovas",
-          "Mobilus tel. nr.": "+37066512179",
+          "Vardas, pavardė": "Kristina Cijūnėlienė",
+          "Pareigos": "Kompetencijų vystytoja",
+          "Mobilus tel. nr.": "+37060287248",
           "El. paštas": "[email protected]"
         },
         {
@@ -920,15 +914,21 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Vaidas Pribušauskas",
-          "Pareigos": "Programų vystytojas",
-          "Mobilus tel. nr.": "+37066477292",
+          "Vardas, pavardė": "Neringa Liudavičienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Mobilus tel. nr.": "+37060212640",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Kristina Cijūnėlienė",
-          "Pareigos": "Kompetencijų vystytoja",
-          "Mobilus tel. nr.": "+37060287248",
+          "Vardas, pavardė": "Rolandas Marcinkevičius",
+          "Pareigos": "Ekspertinių sprendimų grupės vadovas",
+          "Mobilus tel. nr.": "+37066512179",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vaidas Pribušauskas",
+          "Pareigos": "Programų vystytojas",
+          "Mobilus tel. nr.": "+37066477292",
           "El. paštas": "[email protected]"
         }
       ]
@@ -936,24 +936,6 @@
     {
       "Pavadinimas": "Komunikacijos skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Eglė Pliuskuvienė",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37065983953",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Gražvydas Morkus",
-          "Pareigos": "Marketingo vadovas",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Evita Jonauskė",
-          "Pareigos": "Komunikacijos projektų vadovė",
-          "Mobilus tel. nr.": "+37064572475",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Agnė Obelenytė",
           "Pareigos": "Komunikacijos projektų vadovė",
@@ -967,9 +949,27 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Viltė Zaveckaitė",
-          "Pareigos": "Komunikacijos veiklų koordinatorė",
-          "Mobilus tel. nr.": "+37060283897",
+          "Vardas, pavardė": "Eglė Pliuskuvienė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37065983953",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Evita Jonauskė",
+          "Pareigos": "Komunikacijos projektų vadovė",
+          "Mobilus tel. nr.": "+37064572475",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gražvydas Morkus",
+          "Pareigos": "Marketingo vadovas",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Kostas Kajėnas",
+          "Pareigos": "Komunikacijos veiklų koordinatorius",
+          "Mobilus tel. nr.": "+37069574369",
           "El. paštas": "[email protected]"
         },
         {
@@ -979,9 +979,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Kostas Kajėnas",
-          "Pareigos": "Komunikacijos veiklų koordinatorius",
-          "Mobilus tel. nr.": "+37069574369",
+          "Vardas, pavardė": "Viltė Zaveckaitė",
+          "Pareigos": "Komunikacijos veiklų koordinatorė",
+          "Mobilus tel. nr.": "+37060283897",
           "El. paštas": "[email protected]"
         }
       ]
@@ -990,39 +990,9 @@
       "Pavadinimas": "Informacinių technologijų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Miroslav Losevič",
-          "Pareigos": "Skyriaus vadovas",
-          "Mobilus tel. nr.": "+37060283911",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Deividas Pakalnis",
-          "Pareigos": "IS administratorius",
-          "Mobilus tel. nr.": "+37060284631",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Andrius Lukošiūnas",
           "Pareigos": "IS administratorius",
           "Mobilus tel. nr.": "+37064572642",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rimas Čiulada",
-          "Pareigos": "Vyriausiasis duomenų inžinierius",
-          "Mobilus tel. nr.": "+37065982348",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Marius Stauga",
-          "Pareigos": "IS administratorius",
-          "Mobilus tel. nr.": "+37066472892",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Audrius Numgaudis",
-          "Pareigos": "KDV inžinierius",
-          "Mobilus tel. nr.": "+37060832546",
           "El. paštas": "[email protected]"
         },
         {
@@ -1032,21 +1002,51 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rapolas Janavičius",
-          "Pareigos": "IT analitikas",
-          "Mobilus tel. nr.": "+37066557576",
+          "Vardas, pavardė": "Audrius Numgaudis",
+          "Pareigos": "KDV inžinierius",
+          "Mobilus tel. nr.": "+37060832546",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Viačeslavas Dubovskis",
-          "Pareigos": "Ekspertas (IT sistemų administratorius)",
-          "Mobilus tel. nr.": "+37068290922",
+          "Vardas, pavardė": "Deividas Pakalnis",
+          "Pareigos": "IS administratorius",
+          "Mobilus tel. nr.": "+37060284631",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Marius Stauga",
+          "Pareigos": "IS administratorius",
+          "Mobilus tel. nr.": "+37066472892",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Mindaugas Kiauleikis",
           "Pareigos": "Programuotojas",
           "Mobilus tel. nr.": "+37068778324",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Miroslav Losevič",
+          "Pareigos": "Skyriaus vadovas",
+          "Mobilus tel. nr.": "+37060283911",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rapolas Janavičius",
+          "Pareigos": "IT analitikas",
+          "Mobilus tel. nr.": "+37066557576",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rimas Čiulada",
+          "Pareigos": "Vyriausiasis duomenų inžinierius",
+          "Mobilus tel. nr.": "+37065982348",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Viačeslavas Dubovskis",
+          "Pareigos": "Ekspertas (IT sistemų administratorius)",
+          "Mobilus tel. nr.": "+37068290922",
           "El. paštas": "[email protected]"
         }
       ]
@@ -1055,9 +1055,9 @@
       "Pavadinimas": "Patikrų vietoje skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Lilija Šveikauskienė",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37060285034",
+          "Vardas, pavardė": "Arūnas Dirgėla",
+          "Pareigos": "Vyriausiasis specialistas (patikrų)",
+          "Mobilus tel. nr.": "+37061150443",
           "El. paštas": "[email protected]"
         },
         {
@@ -1067,39 +1067,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Ieva Virbalytė",
-          "Pareigos": "Vyriausioji specialistė (patikrų)",
-          "Mobilus tel. nr.": "+37064572401",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Arūnas Dirgėla",
-          "Pareigos": "Vyriausiasis specialistas (patikrų)",
-          "Mobilus tel. nr.": "+37061150443",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Kuosa",
-          "Pareigos": "Vyriausiasis specialistas (patikrų)",
-          "Mobilus tel. nr.": "+37060284673",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Laimonas Čekanauskas",
-          "Pareigos": "Vyriausiasis patikrų specialistas",
-          "Mobilus tel. nr.": "+37060284359",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Gytis Milašius",
           "Pareigos": "Vyriausiasis specialistas (patikrų)",
           "Mobilus tel. nr.": "+37061513522",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Vasilijus Lachadinovas",
-          "Pareigos": "Vyriausiasis patikrų specialistas",
-          "Mobilus tel. nr.": "+37061526576",
+          "Vardas, pavardė": "Ieva Virbalytė",
+          "Pareigos": "Vyriausioji specialistė (patikrų)",
+          "Mobilus tel. nr.": "+37064572401",
           "El. paštas": "[email protected]"
         },
         {
@@ -1109,9 +1085,33 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Laimonas Čekanauskas",
+          "Pareigos": "Vyriausiasis patikrų specialistas",
+          "Mobilus tel. nr.": "+37060284359",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Lilija Šveikauskienė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37060285034",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Kuosa",
+          "Pareigos": "Vyriausiasis specialistas (patikrų)",
+          "Mobilus tel. nr.": "+37060284673",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Rimas Kalvaitis",
           "Pareigos": "Ekspertas",
           "Mobilus tel. nr.": "+37062094641",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vasilijus Lachadinovas",
+          "Pareigos": "Vyriausiasis patikrų specialistas",
+          "Mobilus tel. nr.": "+37061526576",
           "El. paštas": "[email protected]"
         }
       ]
@@ -1120,9 +1120,9 @@
       "Pavadinimas": "Veiklos administravimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Inga Pagojė",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37066945171",
+          "Vardas, pavardė": "Aistė Cicėnė",
+          "Pareigos": "Biuro administratorė",
+          "Mobilus tel. nr.": "+370 646 02 285",
           "El. paštas": "[email protected]"
         },
         {
@@ -1132,9 +1132,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Marcin Volkanovski",
-          "Pareigos": "Turto valdymo specialistas",
-          "Mobilus tel. nr.": "+37060817570",
+          "Vardas, pavardė": "Inga Pagojė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37066945171",
           "El. paštas": "[email protected]"
         },
         {
@@ -1150,9 +1150,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Aistė Cicėnė",
-          "Pareigos": "Biuro administratorė",
-          "Mobilus tel. nr.": "+370 646 02 285",
+          "Vardas, pavardė": "Marcin Volkanovski",
+          "Pareigos": "Turto valdymo specialistas",
+          "Mobilus tel. nr.": "+37060817570",
           "El. paštas": "[email protected]"
         }
       ]
@@ -1173,15 +1173,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Sigita Špakaitė",
-          "Pareigos": "Personalo administratorė",
-          "Mobilus tel. nr.": "+37066762188",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Romualda Danilaitienė",
           "Pareigos": "Personalo administratorė",
           "Mobilus tel. nr.": "+37060286869",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Sigita Špakaitė",
+          "Pareigos": "Personalo administratorė",
+          "Mobilus tel. nr.": "+37066762188",
           "El. paštas": "[email protected]"
         }
       ]
@@ -1196,27 +1196,27 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Marija Gricienė",
-          "Pareigos": "Viešųjų pirkimų specialistė",
-          "Mobilus tel. nr.": "+37061866992",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Tomas Seikalis",
-          "Pareigos": "Ekspertas",
-          "Mobilus tel. nr.": "+37066614476",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Juozas Marčinskas",
           "Pareigos": "Viešųjų pirkimų specialistas",
           "Mobilus tel. nr.": "+37060283840",
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Marija Gricienė",
+          "Pareigos": "Viešųjų pirkimų specialistė",
+          "Mobilus tel. nr.": "+37061866992",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Remigijus Plakys",
           "Pareigos": "Viešųjų pirkimų specialistas",
           "Mobilus tel. nr.": "+37060284892",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Tomas Seikalis",
+          "Pareigos": "Ekspertas",
+          "Mobilus tel. nr.": "+37066614476",
           "El. paštas": "[email protected]"
         }
       ]
@@ -1225,15 +1225,15 @@
       "Pavadinimas": "Finansų valdymo ir projektų apskaitos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Rasa Jasaitienė",
-          "Pareigos": "Skyriaus vadovė",
-          "Mobilus tel. nr.": "+37061824014",
+          "Vardas, pavardė": "Aleksandra Višumirskienė",
+          "Pareigos": "Vyriausioji projektų finansininkė",
+          "Mobilus tel. nr.": "+37061253969",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Raimonda Lauraitytė",
-          "Pareigos": "Ekspertė",
-          "Mobilus tel. nr.": "+37061576543",
+          "Vardas, pavardė": "Aliona Krutolevič",
+          "Pareigos": "Vyriausioji projektų finansininkė",
+          "Mobilus tel. nr.": "+37068727691",
           "El. paštas": "[email protected]"
         },
         {
@@ -1243,39 +1243,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jurga Skrebytė",
-          "Pareigos": "Stambių projekų finansininkė",
-          "Mobilus tel. nr.": "+37060286904",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rasa Ledzinskienė",
-          "Pareigos": "Stambių projekų finansininkė",
-          "Mobilus tel. nr.": "+37061516681",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Eva Bedulskienė",
-          "Pareigos": "Projektų finansų grupės vadovė",
-          "Mobilus tel. nr.": "+37060283582",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Marina Bučmienė",
-          "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37060283430",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Virginija Četavičė",
-          "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37065940979",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Elvyra Kareckienė",
-          "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37068208453",
+          "Vardas, pavardė": "Beata Beržanskienė",
+          "Pareigos": "Vyriausioji specialistė (finansų)",
+          "Mobilus tel. nr.": "+37060287098",
           "El. paštas": "[email protected]"
         },
         {
@@ -1285,27 +1255,45 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Vilma Bytautaitė",
+          "Vardas, pavardė": "Diana Sys",
           "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37064027980",
+          "Mobilus tel. nr.": "+37069841769",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rita Čepienė",
+          "Vardas, pavardė": "Dovilė Giačienė",
           "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37060284919",
+          "Mobilus tel. nr.": "+37067292909",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Neringa Vaičekauskienė",
+          "Vardas, pavardė": "Elvyra Kareckienė",
           "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37064591286",
+          "Mobilus tel. nr.": "+37068208453",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Eva Bedulskienė",
+          "Pareigos": "Projektų finansų grupės vadovė",
+          "Mobilus tel. nr.": "+37060283582",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gabrielė Šiurkuvienė",
+          "Pareigos": "Vyriausioji specialistė (finansų)",
+          "Mobilus tel. nr.": "+37062697509",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Jūratė Pauliukaitienė",
           "Pareigos": "Vyriausioji projektų finansininkė",
           "Mobilus tel. nr.": "+37060286927",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jurga Skrebytė",
+          "Pareigos": "Stambių projekų finansininkė",
+          "Mobilus tel. nr.": "+37060286904",
           "El. paštas": "[email protected]"
         },
         {
@@ -1321,15 +1309,45 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Marina Bučmienė",
+          "Pareigos": "Vyriausioji projektų finansininkė",
+          "Mobilus tel. nr.": "+37060283430",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Neringa Vaičekauskienė",
+          "Pareigos": "Vyriausioji projektų finansininkė",
+          "Mobilus tel. nr.": "+37064591286",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Raimonda Lauraitytė",
+          "Pareigos": "Ekspertė",
+          "Mobilus tel. nr.": "+37061576543",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rasa Jasaitienė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37061824014",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rasa Ledzinskienė",
+          "Pareigos": "Stambių projekų finansininkė",
+          "Mobilus tel. nr.": "+37061516681",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Rimutė Pucilauskienė",
           "Pareigos": "Vyriausioji projektų finansininkė",
           "Mobilus tel. nr.": "+37065931034",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Diana Sys",
+          "Vardas, pavardė": "Rita Čepienė",
           "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37069841769",
+          "Mobilus tel. nr.": "+37060284919",
           "El. paštas": "[email protected]"
         },
         {
@@ -1345,33 +1363,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Dovilė Giačienė",
+          "Vardas, pavardė": "Vilma Bytautaitė",
           "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37067292909",
+          "Mobilus tel. nr.": "+37064027980",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Beata Beržanskienė",
-          "Pareigos": "Vyriausioji specialistė (finansų)",
-          "Mobilus tel. nr.": "+37060287098",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Aliona Krutolevič",
+          "Vardas, pavardė": "Virginija Četavičė",
           "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37068727691",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Aleksandra Višumirskienė",
-          "Pareigos": "Vyriausioji projektų finansininkė",
-          "Mobilus tel. nr.": "+37061253969",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Gabrielė Šiurkuvienė",
-          "Pareigos": "Vyriausioji specialistė (finansų)",
-          "Mobilus tel. nr.": "+37062697509",
+          "Mobilus tel. nr.": "+37065940979",
           "El. paštas": "[email protected]"
         }
       ]

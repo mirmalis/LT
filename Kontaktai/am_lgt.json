@@ -21,12 +21,12 @@
           "Kabinetas": "215"
         },
         {
-          "Vardas, pavardė": "Toma Leonova",
+          "Vardas, pavardė": "Jurgita Jasiūnienė",
           "Pareigos": "Vyriausioji patarėja",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 55545",
+          "Tel. numeris": "(0 5) 233 1535",
+          "Mobilus tel. nr.": "+370 646 54441",
           "El. paštas": "[email protected]",
-          "Kabinetas": "206"
+          "Kabinetas": "218"
         },
         {
           "Vardas, pavardė": "Jurij Kornijenko",
@@ -37,20 +37,20 @@
           "Kabinetas": "214"
         },
         {
-          "Vardas, pavardė": "Jurgita Jasiūnienė",
-          "Pareigos": "Vyriausioji patarėja",
-          "Tel. numeris": "(0 5) 233 1535",
-          "Mobilus tel. nr.": "+370 646 54441",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "218"
-        },
-        {
           "Vardas, pavardė": "Milda Juciūtė",
           "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "(0 5) 233 2889",
           "Mobilus tel. nr.": "+370 646 54862",
           "El. paštas": "[email protected]",
           "Kabinetas": "216"
+        },
+        {
+          "Vardas, pavardė": "Toma Leonova",
+          "Pareigos": "Vyriausioji patarėja",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 55545",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "206"
         }
       ]
     },
@@ -58,28 +58,12 @@
       "Pavadinimas": "Teisės ir administravimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Vaida Vasilienė-Vasiliauskienė",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 519 05",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Tadas Gauronskis",
-          "Pareigos": "Skyriaus vedėjas",
+          "Vardas, pavardė": "Beata Miloš",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "(0 5) 233 7715",
-          "Mobilus tel. nr.": "+370 646 53804",
+          "Mobilus tel. nr.": "+370 646 50089",
           "El. paštas": "[email protected]",
-          "Kabinetas": "208"
-        },
-        {
-          "Vardas, pavardė": "Gintaras Valdenas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "(0 5) 233 7715",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "112"
+          "Kabinetas": "214"
         },
         {
           "Vardas, pavardė": "Geda Pupšytė",
@@ -90,12 +74,12 @@
           "Kabinetas": "206"
         },
         {
-          "Vardas, pavardė": "Beata Miloš",
-          "Pareigos": "Vyriausioji specialistė",
+          "Vardas, pavardė": "Gintaras Valdenas",
+          "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "(0 5) 233 7715",
-          "Mobilus tel. nr.": "+370 646 50089",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "214"
+          "Kabinetas": "112"
         },
         {
           "Vardas, pavardė": "Jurij Syčinskij",
@@ -112,12 +96,52 @@
           "Mobilus tel. nr.": "+370 646 56230",
           "El. paštas": "[email protected]",
           "Kabinetas": "130"
+        },
+        {
+          "Vardas, pavardė": "Tadas Gauronskis",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "(0 5) 233 7715",
+          "Mobilus tel. nr.": "+370 646 53804",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "208"
+        },
+        {
+          "Vardas, pavardė": "Vaida Vasilienė-Vasiliauskienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 519 05",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
     {
       "Pavadinimas": "Informacijos valdymo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Inga Vilkanec",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "(0 5) 233 5671",
+          "Mobilus tel. nr.": "+370 646 44700",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "222"
+        },
+        {
+          "Vardas, pavardė": "Jelena Jerofejeva",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "(0 5) 233 5671",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "222"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Vaičiulis",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "(0 5) 233 2267",
+          "Mobilus tel. nr.": "+370 646 50237",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "220"
+        },
         {
           "Vardas, pavardė": "Rina Aleknienė",
           "Pareigos": "Skyriaus vedėja",
@@ -133,30 +157,6 @@
           "Mobilus tel. nr.": "+370 646 55800",
           "El. paštas": "[email protected]",
           "Kabinetas": "220"
-        },
-        {
-          "Vardas, pavardė": "Inga Vilkanec",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(0 5) 233 5671",
-          "Mobilus tel. nr.": "+370 646 44700",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "222"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Vaičiulis",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "(0 5) 233 2267",
-          "Mobilus tel. nr.": "+370 646 50237",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "220"
-        },
-        {
-          "Vardas, pavardė": "Jelena Jerofejeva",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "(0 5) 233 5671",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "222"
         }
       ]
     },
@@ -164,12 +164,68 @@
       "Pavadinimas": "Kietųjų naudingųjų iškasenų ir registro skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Arvydas Navardauskas",
+          "Pareigos": "Vyriausiasis geologas",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 51102",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "219"
+        },
+        {
           "Vardas, pavardė": "Audronė Dumšienė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "",
           "Mobilus tel. nr.": "+370 646 50801",
           "El. paštas": "[email protected]",
           "Kabinetas": "213"
+        },
+        {
+          "Vardas, pavardė": "Danutė Baršauskaitė",
+          "Pareigos": "Vyresnioji inžinierė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 52979",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "210"
+        },
+        {
+          "Vardas, pavardė": "Giedrius Mikalauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 511 26",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "219"
+        },
+        {
+          "Vardas, pavardė": "Ieva Baumilaitė-Čeponė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 52179",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "213"
+        },
+        {
+          "Vardas, pavardė": "Irena Balčiūnaitė",
+          "Pareigos": "Vyriausioji geologė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 56799",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "210"
+        },
+        {
+          "Vardas, pavardė": "Izabelė Jakšta-Rakalovič",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 55783",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "213a"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Gudonytė",
+          "Pareigos": "Vyresnioji inžinierė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 53654",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "210"
         },
         {
           "Vardas, pavardė": "Kristina Griguolė",
@@ -196,20 +252,12 @@
           "Kabinetas": "212"
         },
         {
-          "Vardas, pavardė": "Izabelė Jakšta-Rakalovič",
-          "Pareigos": "Vyriausioji specialistė",
+          "Vardas, pavardė": "Rita Juškevičiūtė",
+          "Pareigos": "Vyresnioji inžinierė",
           "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 55783",
+          "Mobilus tel. nr.": "+370 646 53973",
           "El. paštas": "[email protected]",
-          "Kabinetas": "213a"
-        },
-        {
-          "Vardas, pavardė": "Simonas Danielius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 52292",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "211"
+          "Kabinetas": "212"
         },
         {
           "Vardas, pavardė": "Saulius Alekna",
@@ -220,68 +268,20 @@
           "Kabinetas": "211"
         },
         {
+          "Vardas, pavardė": "Simonas Danielius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 52292",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "211"
+        },
+        {
           "Vardas, pavardė": "Vaidotas Kazakauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "",
           "Mobilus tel. nr.": "+370 646 51078",
           "El. paštas": "[email protected]",
           "Kabinetas": "211"
-        },
-        {
-          "Vardas, pavardė": "Giedrius Mikalauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 511 26",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "219"
-        },
-        {
-          "Vardas, pavardė": "Jūratė Gudonytė",
-          "Pareigos": "Vyresnioji inžinierė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 53654",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "210"
-        },
-        {
-          "Vardas, pavardė": "Rita Juškevičiūtė",
-          "Pareigos": "Vyresnioji inžinierė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 53973",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "212"
-        },
-        {
-          "Vardas, pavardė": "Danutė Baršauskaitė",
-          "Pareigos": "Vyresnioji inžinierė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 52979",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "210"
-        },
-        {
-          "Vardas, pavardė": "Ieva Baumilaitė-Čeponė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 52179",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "213"
-        },
-        {
-          "Vardas, pavardė": "Irena Balčiūnaitė",
-          "Pareigos": "Vyriausioji geologė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 56799",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "210"
-        },
-        {
-          "Vardas, pavardė": "Arvydas Navardauskas",
-          "Pareigos": "Vyriausiasis geologas",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 51102",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "219"
         }
       ]
     },
@@ -289,20 +289,20 @@
       "Pavadinimas": "Giluminės ir naftos geologijos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Jurga Lazauskienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "(0 5) 233 3989",
-          "Mobilus tel. nr.": "+370 646 55081",
+          "Vardas, pavardė": "Andrius Pačėsa",
+          "Pareigos": "Vyriausiasis seismologas",
+          "Tel. numeris": "(0 5) 233 0141",
+          "Mobilus tel. nr.": "+370 646 50485",
           "El. paštas": "[email protected]",
-          "Kabinetas": "310"
+          "Kabinetas": "314"
         },
         {
-          "Vardas, pavardė": "Viktoras Lokutijevskis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "(0 5) 233 3989",
-          "Mobilus tel. nr.": "+370 646 55192",
+          "Vardas, pavardė": "Artūras Baliukevičius",
+          "Pareigos": "Vyriausiasis geologas",
+          "Tel. numeris": "(0 5) 233 4642",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "309"
+          "Kabinetas": "312"
         },
         {
           "Vardas, pavardė": "Gintarė Andriuškevičienė",
@@ -311,6 +311,22 @@
           "Mobilus tel. nr.": "+370 646 51615",
           "El. paštas": "[email protected]",
           "Kabinetas": "307"
+        },
+        {
+          "Vardas, pavardė": "Jaunutis Bitinas",
+          "Pareigos": "Vyriausiasis geologas",
+          "Tel. numeris": "(0 5) 233 4642",
+          "Mobilus tel. nr.": "+370 646 51732",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "312"
+        },
+        {
+          "Vardas, pavardė": "Jurga Lazauskienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "(0 5) 233 3989",
+          "Mobilus tel. nr.": "+370 646 55081",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "310"
         },
         {
           "Vardas, pavardė": "Renolda Skaisgirienė",
@@ -329,44 +345,28 @@
           "Kabinetas": "311"
         },
         {
-          "Vardas, pavardė": "Vilma Stankevičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(0 5) 233 4642",
-          "Mobilus tel. nr.": "+370 646 51162",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
-        },
-        {
-          "Vardas, pavardė": "Jaunutis Bitinas",
-          "Pareigos": "Vyriausiasis geologas",
-          "Tel. numeris": "(0 5) 233 4642",
-          "Mobilus tel. nr.": "+370 646 51732",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "312"
-        },
-        {
-          "Vardas, pavardė": "Artūras Baliukevičius",
-          "Pareigos": "Vyriausiasis geologas",
-          "Tel. numeris": "(0 5) 233 4642",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "312"
-        },
-        {
-          "Vardas, pavardė": "Andrius Pačėsa",
-          "Pareigos": "Vyriausiasis seismologas",
-          "Tel. numeris": "(0 5) 233 0141",
-          "Mobilus tel. nr.": "+370 646 50485",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "314"
-        },
-        {
           "Vardas, pavardė": "Ugnė Birmanaitė",
           "Pareigos": "Vyriausioji geologė",
           "Tel. numeris": "(0 5) 233 4642",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "311"
+        },
+        {
+          "Vardas, pavardė": "Viktoras Lokutijevskis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "(0 5) 233 3989",
+          "Mobilus tel. nr.": "+370 646 55192",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "309"
+        },
+        {
+          "Vardas, pavardė": "Vilma Stankevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "(0 5) 233 4642",
+          "Mobilus tel. nr.": "+370 646 51162",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "307"
         }
       ]
     },
@@ -374,50 +374,10 @@
       "Pavadinimas": "Hidrogeologijos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Rasa Radienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "(0 5) 213 6272",
-          "Mobilus tel. nr.": "+370 646 55512",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "324"
-        },
-        {
-          "Vardas, pavardė": "Jurga Arustienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(0 5) 233 5605",
-          "Mobilus tel. nr.": "+370 646 55135",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "321"
-        },
-        {
-          "Vardas, pavardė": "Virgilija Gregorauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(0 5) 213 9055",
-          "Mobilus tel. nr.": "+370 646 55703",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "327"
-        },
-        {
-          "Vardas, pavardė": "Petras Pūtys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "(0 5) 213 9051",
-          "Mobilus tel. nr.": "+370 646 50692",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "322"
-        },
-        {
           "Vardas, pavardė": "Anna Minkevičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "(0 5) 213 9051",
           "Mobilus tel. nr.": "+370 646 55671",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "325"
-        },
-        {
-          "Vardas, pavardė": "Darius Kutka",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "(0 5) 213 9051",
-          "Mobilus tel. nr.": "+370 646 55298",
           "El. paštas": "[email protected]",
           "Kabinetas": "325"
         },
@@ -430,12 +390,20 @@
           "Kabinetas": "326"
         },
         {
-          "Vardas, pavardė": "Zdislav Zanevskij",
-          "Pareigos": "Vyriausiasis inžinierius",
-          "Tel. numeris": "(0 5) 213 9051",
-          "Mobilus tel. nr.": "+370 646 51736",
+          "Vardas, pavardė": "Daina Vilkišiūtė",
+          "Pareigos": "Vyriausioji hidrogeologė",
+          "Tel. numeris": "(0 5) 233 5605",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "322"
+          "Kabinetas": "321"
+        },
+        {
+          "Vardas, pavardė": "Darius Kutka",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "(0 5) 213 9051",
+          "Mobilus tel. nr.": "+370 646 55298",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "325"
         },
         {
           "Vardas, pavardė": "Juozas Kapeckas",
@@ -446,18 +414,10 @@
           "Kabinetas": "321"
         },
         {
-          "Vardas, pavardė": "Virgilija Mičiudienė",
-          "Pareigos": "Vyriausioji hidrogeologė",
-          "Tel. numeris": "(0 5) 213 9055",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "328"
-        },
-        {
-          "Vardas, pavardė": "Daina Vilkišiūtė",
-          "Pareigos": "Vyriausioji hidrogeologė",
+          "Vardas, pavardė": "Jurga Arustienė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "(0 5) 233 5605",
-          "Mobilus tel. nr.": "",
+          "Mobilus tel. nr.": "+370 646 55135",
           "El. paštas": "[email protected]",
           "Kabinetas": "321"
         },
@@ -468,6 +428,22 @@
           "Mobilus tel. nr.": "+370 646 55302",
           "El. paštas": "[email protected]",
           "Kabinetas": "323"
+        },
+        {
+          "Vardas, pavardė": "Petras Pūtys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "(0 5) 213 9051",
+          "Mobilus tel. nr.": "+370 646 50692",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "322"
+        },
+        {
+          "Vardas, pavardė": "Rasa Radienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "(0 5) 213 6272",
+          "Mobilus tel. nr.": "+370 646 55512",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "324"
         },
         {
           "Vardas, pavardė": "Rasa Ručinskienė",
@@ -484,6 +460,30 @@
           "Mobilus tel. nr.": "+370 646 50613",
           "El. paštas": "[email protected]",
           "Kabinetas": "323"
+        },
+        {
+          "Vardas, pavardė": "Virgilija Gregorauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "(0 5) 213 9055",
+          "Mobilus tel. nr.": "+370 646 55703",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "327"
+        },
+        {
+          "Vardas, pavardė": "Virgilija Mičiudienė",
+          "Pareigos": "Vyriausioji hidrogeologė",
+          "Tel. numeris": "(0 5) 213 9055",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "328"
+        },
+        {
+          "Vardas, pavardė": "Zdislav Zanevskij",
+          "Pareigos": "Vyriausiasis inžinierius",
+          "Tel. numeris": "(0 5) 213 9051",
+          "Mobilus tel. nr.": "+370 646 51736",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "322"
         }
       ]
     },
@@ -491,68 +491,12 @@
       "Pavadinimas": "Inžinerinės geologijos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Roma Kanopienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "(0 5) 233 2286",
-          "Mobilus tel. nr.": "+370 646 50782",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313"
-        },
-        {
-          "Vardas, pavardė": "Vidas Mikulėnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "(0 5) 213 9053",
-          "Mobilus tel. nr.": "+370 646 55044",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "319"
-        },
-        {
           "Vardas, pavardė": "Aldona Damušytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "(0 5) 233 5323",
           "Mobilus tel. nr.": "+370 646 56761",
           "El. paštas": "[email protected]",
           "Kabinetas": "320"
-        },
-        {
-          "Vardas, pavardė": "Sonata Liaudanskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(0 5) 233 3775",
-          "Mobilus tel. nr.": "+370 646 55917",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "317"
-        },
-        {
-          "Vardas, pavardė": "Jolita Pocienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(0 5) 213 9053",
-          "Mobilus tel. nr.": "+370 646 52365",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Eglė Šinkūnė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(0 5) 213 9053",
-          "Mobilus tel. nr.": "+370 646 52914",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Rimantė Guobytė",
-          "Pareigos": "Vyriausioji geologė",
-          "Tel. numeris": "(0 5) 233 5323",
-          "Mobilus tel. nr.": "+370 646 57069",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "320"
-        },
-        {
-          "Vardas, pavardė": "Matas Vaitkus",
-          "Pareigos": "Vyriausiasis geologas",
-          "Tel. numeris": "(0 5) 233 3775",
-          "Mobilus tel. nr.": "+370 646 56910",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "317"
         },
         {
           "Vardas, pavardė": "Alma Grigienė",
@@ -579,12 +523,12 @@
           "Kabinetas": "316"
         },
         {
-          "Vardas, pavardė": "Vytautas Minkevičius",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Vardas, pavardė": "Eglė Šinkūnė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "(0 5) 213 9053",
-          "Mobilus tel. nr.": "+370 646 55549",
+          "Mobilus tel. nr.": "+370 646 52914",
           "El. paštas": "[email protected]",
-          "Kabinetas": "319"
+          "Kabinetas": "316"
         },
         {
           "Vardas, pavardė": "Jolanta Žučenkaitė",
@@ -595,12 +539,20 @@
           "Kabinetas": "317"
         },
         {
-          "Vardas, pavardė": "Sandra Stankevičiūtė",
-          "Pareigos": "Vyriausioji geologė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 53965",
+          "Vardas, pavardė": "Jolita Pocienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "(0 5) 213 9053",
+          "Mobilus tel. nr.": "+370 646 52365",
           "El. paštas": "[email protected]",
-          "Kabinetas": "318"
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Kęstutis Audronis",
+          "Pareigos": "Vyriausiasis geologas",
+          "Tel. numeris": "(0 5) 233 3775",
+          "Mobilus tel. nr.": "+370 646 52174",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "306"
         },
         {
           "Vardas, pavardė": "Lina Jaroševienė",
@@ -611,12 +563,60 @@
           "Kabinetas": "318"
         },
         {
-          "Vardas, pavardė": "Kęstutis Audronis",
+          "Vardas, pavardė": "Matas Vaitkus",
           "Pareigos": "Vyriausiasis geologas",
           "Tel. numeris": "(0 5) 233 3775",
-          "Mobilus tel. nr.": "+370 646 52174",
+          "Mobilus tel. nr.": "+370 646 56910",
           "El. paštas": "[email protected]",
-          "Kabinetas": "306"
+          "Kabinetas": "317"
+        },
+        {
+          "Vardas, pavardė": "Rimantė Guobytė",
+          "Pareigos": "Vyriausioji geologė",
+          "Tel. numeris": "(0 5) 233 5323",
+          "Mobilus tel. nr.": "+370 646 57069",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "320"
+        },
+        {
+          "Vardas, pavardė": "Roma Kanopienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "(0 5) 233 2286",
+          "Mobilus tel. nr.": "+370 646 50782",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "313"
+        },
+        {
+          "Vardas, pavardė": "Sandra Stankevičiūtė",
+          "Pareigos": "Vyriausioji geologė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 53965",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "318"
+        },
+        {
+          "Vardas, pavardė": "Sonata Liaudanskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "(0 5) 233 3775",
+          "Mobilus tel. nr.": "+370 646 55917",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "317"
+        },
+        {
+          "Vardas, pavardė": "Vidas Mikulėnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "(0 5) 213 9053",
+          "Mobilus tel. nr.": "+370 646 55044",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "319"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Minkevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "(0 5) 213 9053",
+          "Mobilus tel. nr.": "+370 646 55549",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "319"
         }
       ]
     },
@@ -645,10 +645,18 @@
       "Pavadinimas": "Žemės gelmių informacijos centras",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Toma Leonova",
-          "Pareigos": "Vyriausioji patarėja vykdanti vedėjos pareigas",
+          "Vardas, pavardė": "Audra Marčiukaitienė",
+          "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 55545",
+          "Mobilus tel. nr.": "+370 646 53748",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Gintautas Sabaliauskas",
+          "Pareigos": "Inžinierius",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -669,26 +677,18 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Audra Marčiukaitienė",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "+370 646 53748",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Gintautas Sabaliauskas",
-          "Pareigos": "Inžinierius",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Teodoras Mackevičius",
           "Pareigos": "Technikas",
           "Tel. numeris": "",
           "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Toma Leonova",
+          "Pareigos": "Vyriausioji patarėja vykdanti vedėjos pareigas",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 55545",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
