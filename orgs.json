@@ -1,18 +1,66 @@
 [
 	{
+		"Id": "am",
 		"Pavadinimas": "Aplinkos ministerija",
 		"Kontaktai": "https://am.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-2/"
 	},
 	{
+		"Id": "eimin",
 		"Pavadinimas": "Ekonomikos ir inovacijų ministerija",
 		"Kontaktai": "https://eimin.lrv.lt/lt/struktura-ir-kontaktai/kontaktai-2/"
 	},
 	{
+		"Id": "enmin",
 		"Pavadinimas": "Energetikos ministerija",
 		"Kontaktai": "https://enmin.lrv.lt/lt/struktura-ir-kontaktai/ministerijos-darbuotoju-kontaktai-1/"
 	},
 	{
-		"Pavadinimas": "Lietuvos geologijos tarnyba prie Aplinkos ministerijos",
-		"Kontaktai": "https://lgt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/"
+		"Id": "aaa",
+		"Pavadinimas": "Aplinkos apsaugos agentūra",
+		"Kontaktai": "https://aaa.lrv.lt/lt/struktura-ir-kontaktai/kontaktai-1/",
+		"Prie": "am"
+	},
+	{
+		"Id": "apva",
+		"Pavadinimas": "Aplinkos projektų valdymo agentūra",
+		"Kontaktai": "https://apva.lrv.lt/lt/struktura-ir-kontaktai-419/darbuotoju-kontaktai/",
+		"Prie": "am"
+	},
+	{
+		"Id": "aad",
+		"Pavadinimas": "Aplinkos apsaugos departamentas",
+		"Kontaktai": "https://aad.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/",
+		"Prie": "am"
+	},
+	{
+		"Id": "vstt",
+		"Pavadinimas": "Valstybinė saugomų teritorijų tarnyba",
+		"Kontaktai": "https://vstt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/",
+		"Prie": "am"
+	},
+	{
+		"Id": "vtpsi",
+		"Pavadinimas": "Valstybinė teritorijų planavimo ir statybos inspekcija",
+		"Kontaktai": "https://vtpsi.lrv.lt/lt/struktura-ir-kontaktai/kontaktai/",
+		"Prie": "am"
+	},
+	
+	{
+		"Id": "amvmt",
+		"Pavadinimas": "Valstybinė miškų tarnyba",
+		"Kontaktai": "https://amvmt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/",
+		"Prie": "am"
+	},
+	{
+		"Id": "lgt",
+		"Pavadinimas": "Lietuvos geologijos tarnyba",
+		"Kontaktai": "https://lgt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/",
+		"Prie": "am"
+	},
+	{
+		"Id": "nzt",
+		"Pavadinimas": "Nacionalinė žemės tarnyba",
+		"Kontaktai": "https://nzt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/",
+		"Prie": "am"
 	}
 ]
