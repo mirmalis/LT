@@ -1,0 +1,5 @@
+*
+!.gitignore
+!/orgs.json
+!/Kontaktai/*.json
+
