@@ -421,12 +421,6 @@
       "Pavadinimas": "Vandens ir geležinkelių transporto politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Arūnas Tamašauskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 690 06696",
-          "Kabinetas": "248"
-        },
-        {
           "Vardas, pavardė": "Eglė Vyšniauskaitė",
           "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "+370 620 97168",
@@ -516,7 +510,18 @@
       ]
     },
     {
-      "Pavadinimas": "Normavimo klausimai",
+      "Pavadinimas": "Teisiniai klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Balnienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 667 92434",
+          "Kabinetas": "308"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Projektų valdymo ir normavimo klausimai",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Asta Balevičiūtė",
@@ -531,22 +536,11 @@
           "Kabinetas": "307"
         },
         {
-          "Vardas, pavardė": "Daiva Balnienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 667 92434",
-          "Kabinetas": "308"
-        },
-        {
           "Vardas, pavardė": "Jurgita Barysienė",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 641 67660",
           "Kabinetas": "307"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Projektų valdymo klausimai",
-      "Darbuotojai": [
+        },
         {
           "Vardas, pavardė": "Jurgita Jakavičiūtė",
           "Pareigos": "Patarėjas",
@@ -558,6 +552,12 @@
     {
       "Pavadinimas": "Projektų rengimo ir įgyvendinimo klausimai",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Eglė Černiauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 690 06696",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Justyna Bacevič (Vandens kelių plėtra)",
           "Pareigos": "Vyriausioji specialistė",
