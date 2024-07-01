@@ -404,12 +404,6 @@
       "Pavadinimas": "Vidaus kontrolės įgyvendinimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aurimas Jankauskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37065889107",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Darius Grebliauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37068751005",
@@ -896,6 +890,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Justina Bielinytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37065537376",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Ruslanas Gerasimovas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37064081642",
@@ -918,6 +918,12 @@
     {
       "Pavadinimas": "Teisės taikymo grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aurimas Jankauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37065889107",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Juliana Ostrouch-Brazdauskienė",
           "Pareigos": "Patarėja",
@@ -1137,6 +1143,12 @@
           "Vardas, pavardė": "Asta Nareckaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370866766581",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Austėja Radžvilaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37065930933",
           "El. paštas": "[email protected]"
         },
         {
@@ -1387,6 +1399,12 @@
           "Vardas, pavardė": "Neringa Šimkienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37065921029",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Simona Radikaitė-Ben Chahed",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 64407621",
           "El. paštas": "[email protected]"
         },
         {
