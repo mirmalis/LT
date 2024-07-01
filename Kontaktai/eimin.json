@@ -5,6 +5,12 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aurelija Karaliūtė-Kamičaitė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+37064910273",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Aurimas Antanaitis",
           "Pareigos": "Ministerijos vyriausiasis patarėjas",
           "Tel. numeris": "+37069958044",
@@ -807,6 +813,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Deividas Žindžius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 64277560",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Edvinas GrikšasKalendorius",
           "Pareigos": "l.e.p. Grupės vadovas",
           "Tel. numeris": "+37065943059",
@@ -1375,6 +1387,12 @@
           "Vardas, pavardė": "Neringa Šimkienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37065921029",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vagit Nurulajev",
+          "Pareigos": "Vyriausiasis  specialistas",
+          "Tel. numeris": "+37068900463",
           "El. paštas": "[email protected]"
         }
       ]

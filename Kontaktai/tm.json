@@ -172,6 +172,13 @@
       "Pavadinimas": "Europos Sąjungos teisės grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Augustė Dumčiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 671 85510",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "314b"
+        },
+        {
           "Vardas, pavardė": "Austėja Mikutytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 603 60634",
@@ -575,6 +582,13 @@
           "Tel. numeris": "+370 671 88242",
           "El. paštas": "[email protected]",
           "Kabinetas": "509"
+        },
+        {
+          "Vardas, pavardė": "Božena Savel",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 671 90750",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "222b"
         },
         {
           "Vardas, pavardė": "Dainora Bernackienė",
