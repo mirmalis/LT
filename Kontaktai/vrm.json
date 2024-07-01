@@ -1132,13 +1132,6 @@
       "Pavadinimas": "Europos Sąjungos investicijų departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Laimonas Gailius",
-          "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "(8 5) 271 8395; 8 602 41452",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "426"
-        },
-        {
           "Vardas, pavardė": "Laura Stadalienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "(8 5) 271 8226",
@@ -1367,6 +1360,13 @@
           "Tel. numeris": "86 84 62738",
           "El. paštas": "[email protected]",
           "Kabinetas": "429"
+        },
+        {
+          "Vardas, pavardė": "Laimonas Gailius",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "(8 5) 271 8395; 8 602 41452",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "426"
         }
       ]
     },
