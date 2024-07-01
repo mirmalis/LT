@@ -8,29 +8,37 @@
           "Vardas, pavardė": "Albertas Stanislovaitis",
           "Pareigos": "Viršininkas",
           "Tel. numeris": "+37060773878",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (204 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (204 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aušra Grinčiukė",
           "Pareigos": "L. e. viršininko pavaduotojo pareigas",
           "Tel. numeris": "+370 698 49857",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Diana Jasinavičiūtė",
           "Pareigos": "Teisės departamento direktorė, atliekanti kanclerio funkcijas",
           "Tel. numeris": "+370 610 45998",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8 (211 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8 (211 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lina Bingelytė",
           "Pareigos": "Referentė",
           "Tel. numeris": "+370 607 73878",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (204 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (204 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -41,29 +49,37 @@
           "Vardas, pavardė": "Ieva Kulikauskienė",
           "Pareigos": "Patarėja (žmogiškųjų išteklių valdymo klausimais)",
           "Tel. numeris": "+370 605 24997",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jūratė Pliusnytė",
           "Pareigos": "Patarėja (finansų valdymo klausimais)",
           "Tel. numeris": "+370 698 31913",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Mindaugas Urmonas",
           "Pareigos": "Vyriausiasis specialistas (korupcijos prevencijos klausimais)",
           "Tel. numeris": "+370 60490418",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (206 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (206 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Saulius Puidokas",
           "Pareigos": "Vyriausiasis patarėjas (korupcijos prevencijos klausimais)",
           "Tel. numeris": "+370 687 38700",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (206 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (206 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -73,9 +89,11 @@
         {
           "Vardas, pavardė": "Valdemara Kuktienė",
           "Pareigos": "Specialistė (žmogiškųjų išteklių valdymo klausimais)",
-          "Tel. numeris": "+370 607 74086",
+          "Tel. numeris": "+370 607 74086  skambinti 08:00 - 17:00",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -86,78 +104,100 @@
           "Vardas, pavardė": "Asta Kazickienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laima Daugėlienė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lilija Bičkaitienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 610 65938",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (205 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (205 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Meilė Čeponienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Mindaugas Kėrys",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (307 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (307 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ramūnas Druktenis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ričerdas Indrašius",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rimgaudas Kviklys",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (102 kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (102 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Valentina Linkuvienė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vida Aliukonienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vijolė Mackonė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -168,43 +208,55 @@
           "Vardas, pavardė": "Jovita Jasinavičė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 60490418",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laimutis Vaškevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 60490418",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lilija Misiulienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 60490418",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Mindaugas Urmonas",
           "Pareigos": "Vyriausiasis specialistas, laikinai vykdantis vedėjo funkcijas",
           "Tel. numeris": "+370 60490418",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (206 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (206 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Remigijus Stundžia",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 60490418",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8 Vilnius (209 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8 Vilnius (209 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vytautas Trinkūnas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 60490418",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -215,36 +267,46 @@
           "Vardas, pavardė": "Aidas Valys",
           "Pareigos": "L. e. p. Vakarų Lietuvos statybos valstybinės priežiūros departamento direktorius, atliekantis Veiklos planavimo ir komunikacijos skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 682 48350",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Irena Jarušaitienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 682 91153",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Irma Brazienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76741",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lina Eidukaitienė",
           "Pareigos": "l. e. patarėjo pareigas ir laikinai vykdo atstovo viešiesiems ryšiams funkcijas",
           "Tel. numeris": "+370 693 63478",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": "Atstovas viešiesiems ryšiams (laikinai)"
         },
         {
           "Vardas, pavardė": "Nikita Stecenko",
           "Pareigos": "Kvalifikuotas darbuotojas",
           "Tel. numeris": "+370 606 70251",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius, 110 kab."
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius, 110 kab.",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -255,127 +317,163 @@
           "Vardas, pavardė": "Aistė Valiaugaitė",
           "Pareigos": "Patarėja (dokumentų valdymo klausimais)",
           "Tel. numeris": "+370 687 73680",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8 (102 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8 (102 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Diana Potapova",
           "Pareigos": "Specialistė (viešųjų pirkimų klausimais)",
           "Tel. numeris": "+370 687 17286",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gintarė Putrienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 610 29365",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (203  kab.)"
+          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (203  kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Inga Kašinskienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 612 88929",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (322 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (322 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ingrida Valavičienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 613 79782",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (324 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (324 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jolanta Padvariškienė",
           "Pareigos": "Vyriausioji specialistė (viešųjų pirkimų klausimais)",
           "Tel. numeris": "+370 646 97032",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jurgita Čereškienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 612 53955",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (201 kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (201 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Justina Ragelskienė",
           "Pareigos": "Patarėja (duomenų apsaugos pareigūnė)",
           "Tel. numeris": "+370 612 78243",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (102 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (102 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laimutė Juchtienė",
           "Pareigos": "Kvalifikuota darbuotoja (raštinė)",
           "Tel. numeris": "+ 370 613 29800",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lina Bingelytė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 646 67757",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (204 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (204 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lina Razgutė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 698 78660",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (322 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (322 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Loreta Geutienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 604 76747",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Loreta Leitienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 613 79370",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius ( 102 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius ( 102 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Mindaugas Petkelis",
           "Pareigos": "Specialistas (viešųjų pirkimų klausimais)",
           "Tel. numeris": "+370 604 76199",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (102 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (102 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ramunė Gajauskienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 610 64601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus (313 kab.)"
+          "Kabinetas": "Naujoji g. 2, Alytus (313 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ramunė Grigaitienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 604 76293",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12 (401 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12 (401 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rasa Šatrauskaitė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 620 18279",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (101 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rima Židonienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 612 94365",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (404 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (404 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -386,78 +484,100 @@
           "Vardas, pavardė": "Andrej Lukjanec",
           "Pareigos": "Specialistas (Konsultavimas Infostatybos klausimais)",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Arūnas Bekintis",
           "Pareigos": "Specialistas (Konsultavimas Infostatybos klausimais)",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": "Konsultavimas Infostatybos klausimais"
         },
         {
           "Vardas, pavardė": "Ingrida Mickuvienė",
           "Pareigos": "Specialistė (TPDR, TPDRIS)",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": "TPDR ir TPDRIS"
         },
         {
           "Vardas, pavardė": "Jaunius Krivickas",
           "Pareigos": "Specialistas (Infostatyba)",
           "Tel. numeris": "+370 671 54046",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Juozapas Andrikonis",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 678 55142",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Justina Žardeckienė",
           "Pareigos": "Specialistė (IS testavimas)",
           "Tel. numeris": "+370 645 06291",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Karolis Aleksiejus",
           "Pareigos": "Specialistas (Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai)",
           "Tel. numeris": "+370 645 06339",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)",
+          "Atsakingas už": "Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai"
         },
         {
           "Vardas, pavardė": "Tomas Raščius",
           "Pareigos": "Specialistas (Konsultavimas Infostatybos klausimais)",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Valdas Molis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 687 56114",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vytas Varkavičius",
           "Pareigos": "Specialistas (Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai)",
           "Tel. numeris": "+370 672 07264",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)",
+          "Atsakingas už": "Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai"
         },
         {
           "Vardas, pavardė": "Žilvinas Poderys",
           "Pareigos": "Specialistas (TPS Vartai)",
           "Tel. numeris": "+370 5 207 3333",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
+          "Atsakingas už": "TPS vartai"
         }
       ]
     },
@@ -468,64 +588,82 @@
           "Vardas, pavardė": "Aivaras Makaravičius",
           "Pareigos": "Specialistas (ūkvedys)",
           "Tel. numeris": "+370 682 73851",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Darius Junelis",
           "Pareigos": "Specialistas (turto valdymas)",
           "Tel. numeris": "+370 68 724840",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius ( 105 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius ( 105 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Diana Mateikienė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 613 91270",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Evaldas Savickas",
           "Pareigos": "Kvalifikuotas darbuotojas (apsaugos darbuotojas)",
           "Tel. numeris": "+370 620 18234",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8 (100 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8 (100 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Irina Kugakova",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 613 74810",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (208 kab.)"
+          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (208 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Kęstutis Skyrius",
           "Pareigos": "Specialistas (turto valdymas)",
           "Tel. numeris": "+370 603 87094",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (321 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (321 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Renata Šilinskaitė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 613 81622",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (101  kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (101  kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Robertas Meškauskis",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 613 94495",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vytautas Rimkus",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 682 79281",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (204  kab.)"
+          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (204  kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -536,8 +674,10 @@
           "Vardas, pavardė": "Diana Jasinavičiūtė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 610 45998",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8 (211 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8 (211 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -548,43 +688,55 @@
           "Vardas, pavardė": "Daiva Gvildienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 611 45672",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Dalytė Rapalienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 54439",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Kvietinių g. 30, Gargždai (8 kab.)"
+          "Kabinetas": "Kvietinių g. 30, Gargždai (8 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Kamilė Vilutytė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 613 79252",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Milda Stunžėnaitė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 608 45754",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Simona Tiškuvienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 659 62747",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Sonata Pakalnienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 671 33208",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -595,43 +747,55 @@
           "Vardas, pavardė": "Gedas Gvildys",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 613 82850",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus (309 kab.)"
+          "Kabinetas": "Naujoji g. 2, Alytus (309 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Inga Vasiliauskienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 613 11704",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (320 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (320 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laura Vitosienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 676 12922",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (317 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (317 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Leontina Patašovaitė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 682 30428",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g.12, Kaunas (202 kab.)"
+          "Kabinetas": "L. Sapiegos g.12, Kaunas (202 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Saulius Jurkša",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 604 76244",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (202 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (202 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Žilvinas Juška",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 687 72881",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (109 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (109 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -642,36 +806,46 @@
           "Vardas, pavardė": "Irma Šapokaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 90820",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lina Kanopaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 72090",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Pavel Trusov",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060774130",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rasa Bužavienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 64506309",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Kauno g. 21, Jonava"
+          "Kabinetas": "Kauno g. 21, Jonava",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Sigita Narbutytė",
           "Pareigos": "L. e. vedėjo pareigas",
           "Tel. numeris": "+370 613 26735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -682,36 +856,46 @@
           "Vardas, pavardė": "Greta Ramančiuckaitė",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 613 88610",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ieva Dusevičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76634",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laurita Nakrošienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 71827",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Odeta Gruodienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 682 92501",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus (314 kab.)"
+          "Kabinetas": "Naujoji g. 2, Alytus (314 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rimgailė Pagareckaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76606",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys"
+          "Kabinetas": "Respublikos g. 38, Panevėžys",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -722,29 +906,37 @@
           "Vardas, pavardė": "Dovilė Morkūnaitė",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 612 32986",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (324 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (324 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Judita Vadeikienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 613 79539",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (323 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (323 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jurgita Kurtinaitienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 22802",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (325 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (325 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Tadas Būdvytis",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 698 50631",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (324 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (324 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -755,15 +947,19 @@
           "Vardas, pavardė": "Asta Muliuolienė",
           "Pareigos": "L. e. vedėjo pareigas",
           "Tel. numeris": "+370 607 70996",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laura Marozaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 613 15895",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -774,8 +970,10 @@
           "Vardas, pavardė": "Irina Tūzienė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 612 37527",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (308 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (308 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -786,71 +984,100 @@
           "Vardas, pavardė": "Akvilė Vitkienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Anastasija Moisejenkova",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (304 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (304 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aurelija Kulbė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (304 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (304 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gediminas Puškorius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ilona Milovanovienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Justas Žaromskis",
+          "Pareigos": "Specialistas",
+          "Tel. numeris": "+370 647 17937",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Kęstutis Meškauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius, 307 kab."
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius, 307 kab.",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Paulius Vaitekūnas",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Sergej Novikov",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vaidas Ramūnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Virgilijus Jonas Mažeika",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+ 370 659 62735",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (307 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (307 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -861,29 +1088,37 @@
           "Vardas, pavardė": "Aurelija Kulbė",
           "Pareigos": "Patarėja, laikinai vykdo vedėjo funkcijas",
           "Tel. numeris": "+370 683 82807",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A.Vienuolio g. 8, Vilnius (304 kab.)"
+          "Kabinetas": "A.Vienuolio g. 8, Vilnius (304 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Erika Gabulienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37068382807",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ingrida Pliopaitė Bataitienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370683 82807",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "S. Daukanto g. 18, Ukmergė"
+          "Kabinetas": "S. Daukanto g. 18, Ukmergė",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Tomas Beržinis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 683 82807",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (310 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (310 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -894,85 +1129,109 @@
           "Vardas, pavardė": "Arvydas Čirvinskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Taikos g. 6, Elektrėnai  (kabineto Nr. 116)"
+          "Kabinetas": "Taikos g. 6, Elektrėnai  (kabineto Nr. 116)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Dovilė Pučinskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (103 kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Edvardas Abarovič",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 19, Švenčionys"
+          "Kabinetas": "Vilniaus g. 19, Švenčionys",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Eugenijus Čiurlys",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (kab. 309)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (kab. 309)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gerard Kovalevskij",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 19, Švenčionys (110 kab.)"
+          "Kabinetas": "Vilniaus g. 19, Švenčionys (110 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Irena Dembskienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (410 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (410 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jolanta Grikepelienė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (103 kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Liutauras Šimkus",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (kab. 103 )"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (kab. 103 )",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Mindaugas Baltuška",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (409 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (409 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Motiejus Preikša",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (102 kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (102 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Piotras Grigorjevas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "S. Daukanto g. 18, Ukmergė (17 kab.)"
+          "Kabinetas": "S. Daukanto g. 18, Ukmergė (17 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vydas Lisauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 613 91686",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 19, Švenčionys"
+          "Kabinetas": "Vilniaus g. 19, Švenčionys",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -983,8 +1242,10 @@
           "Vardas, pavardė": "Raimondas Dargis",
           "Pareigos": "Direktorius",
           "Tel. numeris": "+370 620  18674",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus (312 kab.)"
+          "Kabinetas": "Naujoji g. 2, Alytus (312 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -995,99 +1256,127 @@
           "Vardas, pavardė": "Aldona Luobikienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g.12, Kaunas (403 kab.)"
+          "Kabinetas": "L. Sapiegos g.12, Kaunas (403 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Artūras Romualdas Zumaras",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Arvydas Robertinas Mežvinskis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g.12, Kaunas (407 kab.)"
+          "Kabinetas": "L. Sapiegos g.12, Kaunas (407 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Edmundas Danilevičius",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 698  58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g.12, Kaunas (410 kab.)"
+          "Kabinetas": "L. Sapiegos g.12, Kaunas (410 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gintaras Arlauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Tiesos g. 9, Raseiniai."
+          "Kabinetas": "Tiesos g. 9, Raseiniai.",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gintarė Slušnienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (406 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (406 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jūratė Mieldažienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jurgita Šarapovienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (409 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (409 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Justinas Ivanauskas",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12 , Kaunas (409 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12 , Kaunas (409 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Nerijus Gurskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g.12, Kaunas (403 kab.)"
+          "Kabinetas": "L. Sapiegos g.12, Kaunas (403 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ramūnas Grigaitis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g.12, Kaunas (407 kab.)"
+          "Kabinetas": "L. Sapiegos g.12, Kaunas (407 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Remigijus Šerkšnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g.12, Kaunas (404 kab.)"
+          "Kabinetas": "L. Sapiegos g.12, Kaunas (404 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rūta Morkienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Virginija Jegelavičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 698 58078",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1098,64 +1387,82 @@
           "Vardas, pavardė": "Asta Tvaskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys  (401 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys  (401 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Elvyra Kizienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys ( 405 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys ( 405 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Giedrė Misiūnienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 698  44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (403 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (403 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jurgita Šeibokienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (402 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (402 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Raimunda Tamulionienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (402 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (402 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Remigijus Averinas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 59, Biržai (308 kab.)"
+          "Kabinetas": "Vytauto g. 59, Biržai (308 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Saulius Paulikas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Didžioji g. 17, Kėdainiai (302 kab.)"
+          "Kabinetas": "Didžioji g. 17, Kėdainiai (302 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vaidotas Budrys",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (411 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (411 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Virginijus Kuolalis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 698 44601",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (406 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (406 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1166,120 +1473,154 @@
           "Vardas, pavardė": "Antanas Pocevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Bažnyčios g. 3, Šakiai (103 kab.)"
+          "Kabinetas": "Bažnyčios g. 3, Šakiai (103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Antanas Ramanauskas",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 687  54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus (307 kab.)"
+          "Kabinetas": "Naujoji g. 2, Alytus (307 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Antanas Smaliukas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "V. Kudirkos g. 3, Druskininkai (101 kab.)"
+          "Kabinetas": "V. Kudirkos g. 3, Druskininkai (101 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aušra Mickaitytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Bažnyčios g. 3, Šakiai ( 103 kab.)"
+          "Kabinetas": "Bažnyčios g. 3, Šakiai ( 103 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gediminas Čaplikas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "V. Kudirkos g. 3, Druskininkai (101 kab.)"
+          "Kabinetas": "V. Kudirkos g. 3, Druskininkai (101 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gintautas Sereičikas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "J. Basanavičiaus g. 9, Varėna (1 kab.)"
+          "Kabinetas": "J. Basanavičiaus g. 9, Varėna (1 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Irma Vaikšnorienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus (315 kab.)"
+          "Kabinetas": "Naujoji g. 2, Alytus (315 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jūratė Jotautienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "J. Basanavičiaus g. 9, Varėna (2 kab.)"
+          "Kabinetas": "J. Basanavičiaus g. 9, Varėna (2 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jūratė Zelenė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 28,  Marijampolė (317 kab.)"
+          "Kabinetas": "Vytauto g. 28,  Marijampolė (317 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Kazys Jautakis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Senamiesčio g. 6, Lazdijai"
+          "Kabinetas": "Senamiesčio g. 6, Lazdijai",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Nijolė Burneikaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus (308 kab.)"
+          "Kabinetas": "Naujoji g. 2, Alytus (308 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Saulytis Kurtinaitis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "J. Basanavičiaus a. 11, Vilkaviškis (208 kab.)"
+          "Kabinetas": "J. Basanavičiaus a. 11, Vilkaviškis (208 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Serenilijus Slančiauskas",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Virginija Šyvokienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Senamiesčio g. 6, Lazdijai"
+          "Kabinetas": "Senamiesčio g. 6, Lazdijai",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vytautas Košuba",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Katedros g. 4, Kaišiadorys"
+          "Kabinetas": "Katedros g. 4, Kaišiadorys",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vytautas Požarskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 28, Marijampolė (322 kab.)"
+          "Kabinetas": "Vytauto g. 28, Marijampolė (322 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Zenonas Galadauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 687 54075",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 28,  Marijampolė (318 kab.)"
+          "Kabinetas": "Vytauto g. 28,  Marijampolė (318 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1290,8 +1631,10 @@
           "Vardas, pavardė": "Aidas Valys",
           "Pareigos": "L. e. direktoriaus pareigas",
           "Tel. numeris": "+370  682 48350",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1302,36 +1645,46 @@
           "Vardas, pavardė": "Donatas Kaubrys",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "nuotolinė darbo vieta"
+          "Kabinetas": "nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Eglė Stonkutė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Plytų g. 61, Palanga"
+          "Kabinetas": "Plytų g. 61, Palanga",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lilija Misiulienė",
           "Pareigos": "Vyresnioji patarėja, laikinai vykdanti vedėjos funkcijas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lina Damalakienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (325 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (325 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Petras Kynas",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (325 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (325 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1342,50 +1695,64 @@
           "Vardas, pavardė": "Arūnas Tubinas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 2, Skuodas"
+          "Kabinetas": "Vytauto g. 2, Skuodas",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Bernadina Rekašienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 32 Telšiai (418 kab.) (konsultuoja telefonu deklaracijų apie statybos užbaigimą tvirtinimo klausimais I-IV 9.00-11.00 val.)"
+          "Kabinetas": "Respublikos g. 32 Telšiai (418 kab.) (konsultuoja telefonu deklaracijų apie statybos užbaigimą tvirtinimo klausimais I-IV 9.00-11.00 val.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Edvardas Motužis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 32, Telšiai (411 kab.)"
+          "Kabinetas": "Respublikos g. 32, Telšiai (411 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lilija Misiulienė",
           "Pareigos": "Vyresnioji patarėja, laikinai vykdanti vedėjos funkcijas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Raimondas Jovaiša",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Tulpių g. 10, Šilutė 6"
+          "Kabinetas": "Tulpių g. 10, Šilutė 6",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rimantė Lidžienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Dariaus ir Girėno g. 6, Šilalė (2 kab.)"
+          "Kabinetas": "Dariaus ir Girėno g. 6, Šilalė (2 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Virginijus Skumanas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 620 18357",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Kvietinių g. 30, Gargždai (8 kab.)"
+          "Kabinetas": "Kvietinių g. 30, Gargždai (8 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1396,71 +1763,91 @@
           "Vardas, pavardė": "Artūras Ramanauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto Didžiojo g. 59, Kelmė (1.7 kab.)"
+          "Kabinetas": "Vytauto Didžiojo g. 59, Kelmė (1.7 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Dalia Praniulienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g.30,106 kab.,  Pakruojis"
+          "Kabinetas": "Vilniaus g.30,106 kab.,  Pakruojis",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Deimantė Kundrotienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (314 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (314 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ingrida Šavirova",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 2A, Naujoji Akmenė (3 a.)"
+          "Kabinetas": "Respublikos g. 2A, Naujoji Akmenė (3 a.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laimonas Martišauskis",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (313 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (313 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rimantas Gaigalas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rimantas Laurinavičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "nuotolinė darbo vieta"
+          "Kabinetas": "nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vaiva Astrauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (314 kab.) (konsultuoja telefonu deklaracijų apie statybos užbaigimą tvirtinimo klausimais I-IV 9.00-10.00 val.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (314 kab.) (konsultuoja telefonu deklaracijų apie statybos užbaigimą tvirtinimo klausimais I-IV 9.00-10.00 val.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Viktorija Kontautienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (111 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (111 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Vilius Kriščiūnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 610 24376",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 2A, Naujoji Akmenė (3 a.)"
+          "Kabinetas": "Respublikos g. 2A, Naujoji Akmenė (3 a.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1471,8 +1858,10 @@
           "Vardas, pavardė": "Donata Petrikienė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 683 90524",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1483,71 +1872,91 @@
           "Vardas, pavardė": "Audrius Katkevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Danės g. 17, Klaipėda (320 kab.)"
+          "Kabinetas": "Danės g. 17, Klaipėda (320 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Daina Šarakauskienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (405 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (405 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Dalia Triūkienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (411 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (411 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Diana Andriuškevičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (405 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (405 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Edita Guzenkienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (209 kab.)"
+          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (209 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jonas Kavaliauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (207 kab.)"
+          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (207 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Justina Mačiukėnaitė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 612 27426",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "nuotolinė darbo vieta"
+          "Kabinetas": "nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ligita Palubaitienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (408 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (408 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Loreta Liagienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (408 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (408 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Milda Račiūnienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 30017",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (408 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12,  Kaunas (408 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1558,71 +1967,91 @@
           "Vardas, pavardė": "Algirdas Matulis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 682 11815",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (104 kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (104 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Alma Peliakienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (411 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (411 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aušra Šutienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (408 kab.)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (408 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Barbara Gutkauskienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Eglė Graužinytė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jurgita Augustinavičienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (202  kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (202  kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Kristina Gabrulevičiūtė-Skebienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Mindaugas Mickevičius",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas ( 414 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas ( 414 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rasa Šukienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (kab. Nr. 408)"
+          "Kabinetas": "Respublikos g. 38, Panevėžys (kab. Nr. 408)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Valdas Noreika",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 682 07530",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1633,8 +2062,10 @@
           "Vardas, pavardė": "Jurgita Špūraitė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 604 76361",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "208"
+          "Kabinetas": "208",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1645,78 +2076,100 @@
           "Vardas, pavardė": "Albert Masliončenko",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 604 76391",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (107 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (107 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Artūras Korolkovas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 604 76911",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 19,  Švenčionys"
+          "Kabinetas": "Vilniaus g. 19,  Švenčionys",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Audrius Kalesnikas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060670256",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius   302 kab."
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius   302 kab.",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aušra Maksvytytė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 607 74213",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (111 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (111 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Daivydas Stikliūnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 604 76421",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (302 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (302 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Dalia Maleckaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 647 18296",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (108 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (108 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gitana Urbonienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76934",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (302 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (302 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Gytis Salys",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 604 76975",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (111 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (111 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Nailė Kvedarienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76863",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (302 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (302 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Natalija Čaplinskaja",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37064718269",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Tatjana Balsienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76377",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (107 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (107 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1727,43 +2180,55 @@
           "Vardas, pavardė": "Agnė Vaitonytė",
           "Pareigos": "L. e. vedėjo pareigas",
           "Tel. numeris": "+370 647 50910",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Savanorių g. 2, Zarasai"
+          "Kabinetas": "Savanorių g. 2, Zarasai",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jolanta Karūnaitytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 647 50934",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Justinas Buičenka",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 647 51217",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Savanorių g. 2, Zarasai"
+          "Kabinetas": "Savanorių g. 2, Zarasai",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laimis Jasinevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 647 18419",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "P. Cvirkos g. 7, Rokiškis"
+          "Kabinetas": "P. Cvirkos g. 7, Rokiškis",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Liutauras Kviklys",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 647 55171",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Maironio g. 9, Utena (214 kab.)"
+          "Kabinetas": "Maironio g. 9, Utena (214 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Valdas Raketis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 647 51210",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Atgimimo g. 24, Ignalina (218 kab.)"
+          "Kabinetas": "Atgimimo g. 24, Ignalina (218 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1774,57 +2239,73 @@
           "Vardas, pavardė": "Agnė Viltrakytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 69954",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "J. Basanavičiaus a. 11, Vilkaviškis (208 kab.)"
+          "Kabinetas": "J. Basanavičiaus a. 11, Vilkaviškis (208 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aivaras Montvila",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 607 70442",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 28, Marijampolė (323 kab.)"
+          "Kabinetas": "Vytauto g. 28, Marijampolė (323 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Andrius Juodauga",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 607 70139",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Senamiesčio g. 6, Lazdijai"
+          "Kabinetas": "Senamiesčio g. 6, Lazdijai",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Asta Vizbarienė",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 607 68669",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "J. Basanavičiaus a. 11, Vilkaviškis (208 kab.)"
+          "Kabinetas": "J. Basanavičiaus a. 11, Vilkaviškis (208 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Liucija Buzė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 68492",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2  Alytus (314 kab.)"
+          "Kabinetas": "Naujoji g. 2  Alytus (314 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Marijona Kamandulienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 69835",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Naujoji g. 2, Alytus 314 kab."
+          "Kabinetas": "Naujoji g. 2, Alytus 314 kab.",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Regina Slančiauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 69409",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 28, Marijampolė (323 kab.)"
+          "Kabinetas": "Vytauto g. 28, Marijampolė (323 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rūta Biskelionienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 604 76956",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (108 kab.)"
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (108 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1835,57 +2316,73 @@
           "Vardas, pavardė": "Aida Čirvinskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 71239",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Albertas Aukštakalnis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 604 76628",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aušra Tičkienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76459",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Matulkos g. 7, Rokiškis"
+          "Kabinetas": "A. Matulkos g. 7, Rokiškis",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Elva Druktenienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 607 69318",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Didžioji g. 17, Kėdainiai (302 kab.)"
+          "Kabinetas": "Didžioji g. 17, Kėdainiai (302 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Neringa Janionytė-Puknienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 69642",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Raimonda Kazlauskienė",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 607 69549",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 59, Biržai"
+          "Kabinetas": "Vytauto g. 59, Biržai",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Simona Adomaitytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 69931",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Skirmantas Žukauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 607 69427",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)"
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (405 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1896,57 +2393,73 @@
           "Vardas, pavardė": "Aurimas Beržonskis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 607 67891",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Kvietinių g.  19B, Gargždai"
+          "Kabinetas": "Kvietinių g.  19B, Gargždai",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Aušra Bartkuvienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37060476493",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Dariaus ir Girėno g. 6, Šilalė (2 kab.)"
+          "Kabinetas": "Dariaus ir Girėno g. 6, Šilalė (2 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Dainora Jurgutienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76673",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (209 kab.)"
+          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (209 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jolita Girčienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 67393",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Lietuvininkų g. 8, Šilutė"
+          "Kabinetas": "Lietuvininkų g. 8, Šilutė",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Lina Norgilienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 67352",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Lietuvininkų g. 8, Šilutė"
+          "Kabinetas": "Lietuvininkų g. 8, Šilutė",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Rita Kairienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 67166",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (209 kab.)"
+          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (209 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Romualdas Bukauskas",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 607 66726",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Dariaus ir Girėno g. 6, Šilalė (2 kab.)"
+          "Kabinetas": "Dariaus ir Girėno g. 6, Šilalė (2 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Valdas Daugėla",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 607 67266",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Kvietinių g.  19B, Gargždai"
+          "Kabinetas": "Kvietinių g.  19B, Gargždai",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -1957,57 +2470,73 @@
           "Vardas, pavardė": "Dovydas Livanas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 607 67260",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 30, Pakruojis"
+          "Kabinetas": "Vilniaus g. 30, Pakruojis",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Giedrė Vaitkutė",
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 607 65761",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Paprūdžio g. 20, Plungė"
+          "Kabinetas": "Paprūdžio g. 20, Plungė",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ieva Skirmantė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 67093",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Aušros al. 10, Radviliškis (119 kab.)"
+          "Kabinetas": "Aušros al. 10, Radviliškis (119 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Indrė Zaburienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37064500091",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Paprūdžio g. 20, Plungė"
+          "Kabinetas": "Paprūdžio g. 20, Plungė",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Janina Jonė Krumcholcaitė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 607 67269",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Respublikos g. 2A, N. Akmenė"
+          "Kabinetas": "Respublikos g. 2A, N. Akmenė",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Marius Staniulis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370  604 76498",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (101 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (101 kab.)",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Steponas Januška",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 607 66986",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Paprūdžio g. 20, Plungė"
+          "Kabinetas": "Paprūdžio g. 20, Plungė",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Tatjana Plukienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 67113",
+          "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Vilniaus g. 263, Šiauliai (101 kab.)"
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (101 kab.)",
+          "Atsakingas už": ""
         }
       ]
     }
