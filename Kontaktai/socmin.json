@@ -540,13 +540,6 @@
       "Pavadinimas": "Žmonių išteklių skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aušra Juodaitienė",
-          "Pareigos": "Administravimo departamento direktorė, atliekanti skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370 658 60010",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 114 kab."
-        },
-        {
           "Vardas, pavardė": "Danguolė Kūrienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 669 79538",
@@ -559,6 +552,13 @@
           "Tel. numeris": "+370 667 21143",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 111 kab."
+        },
+        {
+          "Vardas, pavardė": "Laura Baranauskienė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 110 kab."
         },
         {
           "Vardas, pavardė": "Milda Stukaitė",
@@ -591,7 +591,7 @@
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 658 59783",
           "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 110 kab."
+          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
         },
         {
           "Vardas, pavardė": "Raminta Zakarevičiūtė-Šiugždinienė",
@@ -1539,7 +1539,7 @@
         },
         {
           "Vardas, pavardė": "Neringa Palionytė",
-          "Pareigos": "Vyriausioji specialistė (šeimynų, bendruomeninių vaikų globos namų, palydėjimo paslaugos jaunuoliams klausimai)",
+          "Pareigos": "Patarėja (šeimynų, bendruomeninių vaikų globos namų, palydėjimo paslaugos jaunuoliams klausimai)",
           "Tel. numeris": "+370 637 79863",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 328 kab."
