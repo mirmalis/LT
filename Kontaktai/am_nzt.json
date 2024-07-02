@@ -12,7 +12,13 @@
         },
         {
           "Vardas, pavardė": "Giedrė Ričkutė",
-          "Pareigos": "Kanclerė, atliekanti direktoriaus funkcijas",
+          "Pareigos": "Kanclerė",
+          "Tel. numeris": "+370 706 85 003",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Saulius Mickus",
+          "Pareigos": "Direktorius",
           "Tel. numeris": "+370 706 85 003",
           "El. paštas": "[email protected]"
         }
