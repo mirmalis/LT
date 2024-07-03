@@ -1001,13 +1001,6 @@
           "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
         },
         {
-          "Vardas, pavardė": "Deimantė Tarasevičiūtė",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 698 12509",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Gražina Žostautienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 682 78142",
@@ -1376,6 +1369,18 @@
           "Tel. numeris": "+370 659 76402",
           "El. paštas": "[email protected]",
           "Kabinetas": "Metalo g. 11 (201 kab.), 28217 Utena"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Tarpvalstybinių atliekų vežimų ir leidimų išdavimų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Deimantė Tarasevičiūtė",
+          "Pareigos": "Skyriaus vedėja (l. e. p.)",
+          "Tel. numeris": "+370 698 12509",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
         }
       ]
     },
