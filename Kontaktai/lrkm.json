@@ -386,12 +386,6 @@
       "Pavadinimas": "Kultūrinės edukacijos politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Birutė Kazlauskienė",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37060845631",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Giedrė Beniušytė",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37060845605",
@@ -426,6 +420,12 @@
     {
       "Pavadinimas": "Profesionaliosios kūrybos ir tarptautiškumo politikos grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Birutė Kazlauskienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37060845631",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Daiva Parulskienė",
           "Pareigos": "Vyresnysis patarėjas (turintis pavaldžių)",

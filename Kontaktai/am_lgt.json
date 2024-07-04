@@ -608,6 +608,14 @@
       "Pavadinimas": "Laboratorija",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Gabija Deveikytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "144"
+        },
+        {
           "Vardas, pavardė": "Miglė Jankovska",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "(0 5) 213 9052",
@@ -618,8 +626,8 @@
         {
           "Vardas, pavardė": "Titas Simanavičius",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "(0 5) 213 9052",
-          "Mobilus tel. nr.": "",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 50801",
           "El. paštas": "[email protected]",
           "Kabinetas": "124"
         }
