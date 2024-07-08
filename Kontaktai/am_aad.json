@@ -219,11 +219,11 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 609 48541",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, Vilnius"
+          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
         },
         {
           "Vardas, pavardė": "Donatas Maklajauskas",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Skyriaus vedėjas (l. e. p.)",
           "Tel. numeris": "+370 661 89469",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12 (310 kab.), 44279 Kaunas"
@@ -247,7 +247,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 612 19537",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15,  03201 Vilnius"
         },
         {
           "Vardas, pavardė": "Loreta Starovoitova",
@@ -1005,7 +1005,7 @@
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+370 669 33798",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12 (102 kab.), 44279 Kaunas"
+          "Kabinetas": "Rotušės a. 12 (201 kab.), 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Irena Tretjakova",
@@ -1040,7 +1040,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 686 03706",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12 (301 kab.), 44279 Kaunas"
+          "Kabinetas": "Rotušės a. 12 (201 kab.), 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Sandra Latvėnienė",
@@ -1715,6 +1715,13 @@
           "Tel. numeris": "+370 669 09018",
           "El. paštas": "[email protected]",
           "Kabinetas": "Vilniaus g. 86, 19120 Širvintos"
+        },
+        {
+          "Vardas, pavardė": "Renata Čuvalova",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 607 13904",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
         },
         {
           "Vardas, pavardė": "Romualdas Sakalauskas",
@@ -3857,6 +3864,13 @@
           "Kabinetas": "214"
         },
         {
+          "Vardas, pavardė": "Gabrielė Morkūnienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+370 605 48966",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Kamilė Galdikaitė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 644 13548",
@@ -3897,6 +3911,13 @@
           "Tel. numeris": "+370 686 19967",
           "El. paštas": "[email protected]",
           "Kabinetas": "215"
+        },
+        {
+          "Vardas, pavardė": "Silvester Koroliov",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "+370 605 49743",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "214"
         }
       ]
     }

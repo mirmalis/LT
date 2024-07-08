@@ -209,12 +209,6 @@
           "Pareigos": "Projektų vadovas",
           "Mobilus tel. nr.": "+37060287322",
           "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Žaneta Dočkuvienė",
-          "Pareigos": "Projektų vadovė",
-          "Mobilus tel. nr.": "+37060287139",
-          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -1177,6 +1171,12 @@
     {
       "Pavadinimas": "Viešųjų pirkimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aurimas Baigys",
+          "Pareigos": "Viešųjų pirkimų specialistas",
+          "Mobilus tel. nr.": "+37066614476",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Irena Runovič",
           "Pareigos": "Skyriaus vadovė",

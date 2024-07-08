@@ -64,15 +64,6 @@
           "Atsakingas už": ""
         },
         {
-          "Vardas, pavardė": "Mindaugas Urmonas",
-          "Pareigos": "Vyriausiasis specialistas (korupcijos prevencijos klausimais)",
-          "Tel. numeris": "+370 60490418",
-          "Konsultacijos telefonu": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (206 kab.)",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Saulius Puidokas",
           "Pareigos": "Vyriausiasis patarėjas (korupcijos prevencijos klausimais)",
           "Tel. numeris": "+370 687 38700",
@@ -233,7 +224,7 @@
         },
         {
           "Vardas, pavardė": "Mindaugas Urmonas",
-          "Pareigos": "Vyriausiasis specialistas, laikinai vykdantis vedėjo funkcijas",
+          "Pareigos": "L. e. vedėjo pareigas",
           "Tel. numeris": "+370 60490418",
           "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
@@ -762,6 +753,15 @@
           "Atsakingas už": ""
         },
         {
+          "Vardas, pavardė": "Ingrida Andrulytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37064717702",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Laura Vitosienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 676 12922",
@@ -936,6 +936,15 @@
           "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "Danės g. 17, Klaipėda (324 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vilma Skuodaitė Tarasovienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37067612596",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
       ]
