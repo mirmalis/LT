@@ -891,6 +891,13 @@
           "Tel. numeris": "+37061835232",
           "El. paštas": "[email protected]",
           "Kabinetas": "233"
+        },
+        {
+          "Vardas, pavardė": "Živilė Šukytė-Kraskauskienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+37052398 420",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "250"
         }
       ]
     },
@@ -1308,13 +1315,6 @@
     {
       "Pavadinimas": "Augalininkystės ir žaliųjų technologijų skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aurimas Vaicekauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37052391 170",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "300"
-        },
         {
           "Vardas, pavardė": "Eglė Cikockaitė",
           "Pareigos": "Vyriausioji specialistė",
