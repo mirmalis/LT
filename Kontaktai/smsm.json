@@ -312,7 +312,7 @@
         },
         {
           "Vardas, pavardė": "Violeta Vilkoitytė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 616 08 857",
           "El. paštas": "[email protected]",
           "Kabinetas": "121"
@@ -614,6 +614,13 @@
           "Kabinetas": "115"
         },
         {
+          "Vardas, pavardė": "Rita Gagiškienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 680 54 710",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "115"
+        },
+        {
           "Vardas, pavardė": "Stanislava Strolaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 619 54 425",
@@ -699,6 +706,13 @@
           "Tel. numeris": "+370 686 21 364",
           "El. paštas": "[email protected]",
           "Kabinetas": "112"
+        },
+        {
+          "Vardas, pavardė": "Neda Žutautaitė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "+370 618 00 412",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "477"
         }
       ]
     },
@@ -1517,13 +1531,6 @@
           "Kabinetas": "101"
         },
         {
-          "Vardas, pavardė": "Giedrė Klusevičienė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 687 54 634",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "101"
-        },
-        {
           "Vardas, pavardė": "Jelena Jarmakovič",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 616 96 072",
@@ -1816,7 +1823,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Giedrius Padvilikis",
-          "Pareigos": "Duomenų analitikas",
+          "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 687 03 886",
           "El. paštas": "[email protected]",
           "Kabinetas": "477"
