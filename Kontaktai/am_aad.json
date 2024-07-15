@@ -1040,7 +1040,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 686 03706",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12 (201 kab.), 44279 Kaunas"
+          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Sandra Latvėnienė",
@@ -2593,6 +2593,13 @@
       "Pavadinimas": "Kauno aplinkos apsaugos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aistina Kriščiūnaitė",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
+        },
+        {
           "Vardas, pavardė": "Angelė Gricienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 620 57787",
@@ -2675,6 +2682,13 @@
           "Tel. numeris": "+370 687 59468",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12 (301 kab.), 44279 Kaunas"
+        },
+        {
+          "Vardas, pavardė": "Tomas Dambrauskas",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Kauno g. 21, 55177 Jonava"
         },
         {
           "Vardas, pavardė": "Tomas Kulikauskas",
@@ -3252,6 +3266,13 @@
           "Tel. numeris": "+370 688 53675",
           "El. paštas": "[email protected]",
           "Kabinetas": "15"
+        },
+        {
+          "Vardas, pavardė": "Ramūnas Jukna",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "14"
         },
         {
           "Vardas, pavardė": "Viktorija Gliaudelienė",

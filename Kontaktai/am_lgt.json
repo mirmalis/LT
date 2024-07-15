@@ -82,6 +82,14 @@
           "Kabinetas": "112"
         },
         {
+          "Vardas, pavardė": "Jonas Rekus",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 646 55800",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Jurijus Lyskoitis",
           "Pareigos": "Technikas",
           "Tel. numeris": "",
@@ -133,14 +141,6 @@
           "Mobilus tel. nr.": "+370 646 50237",
           "El. paštas": "[email protected]",
           "Kabinetas": "220"
-        },
-        {
-          "Vardas, pavardė": "Rina Aleknienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "(0 5) 233 2267",
-          "Mobilus tel. nr.": "+370 646 54995",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "221"
         }
       ]
     },
