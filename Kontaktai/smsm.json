@@ -55,7 +55,7 @@
         },
         {
           "Vardas, pavardė": "Radvilė Morkūnaitė-Mikulėnienė",
-          "Pareigos": "Ministrė",
+          "Pareigos": "Laikinai einanti ministrės pareigas",
           "Tel. numeris": "+370 5 219 1225",
           "El. paštas": "[email protected]",
           "Kabinetas": "225"
@@ -268,6 +268,13 @@
     {
       "Pavadinimas": "Strateginio planavimo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aušra Urbonaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 640 94 293",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "123"
+        },
         {
           "Vardas, pavardė": "Evelina Raudytė-Lipeikienė",
           "Pareigos": "Vyriausioji specialistė",

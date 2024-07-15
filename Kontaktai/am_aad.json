@@ -1148,6 +1148,32 @@
       ]
     },
     {
+      "Pavadinimas": "Tarpvalstybinių atliekų vežimų leidimų išdavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Deimantė Tarasevičiūtė",
+          "Pareigos": "Skyriaus vedėja (l. e. p.)",
+          "Tel. numeris": "+370 698 12509",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Gražina Žostautienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 682 78142",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Inga Laučytė-Mačernienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 605 02162",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Birutės g. 16 (110 kab.), 91204 Klaipėda"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Kauno aplinkos kokybės kontrolės skyrius",
       "Darbuotojai": [
         {
@@ -1437,32 +1463,6 @@
           "Tel. numeris": "+370 687 81789",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15 (205 kab.), 03201 Vilnius"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Tarpvalstybinių atliekų vežimų leidimų išdavimų skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Deimantė Tarasevičiūtė",
-          "Pareigos": "Skyriaus vedėja (l. e. p.)",
-          "Tel. numeris": "+370 698 12509",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Gražina Žostautienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 682 78142",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Inga Laučytė-Mačernienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 605 02162",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Birutės g. 16 (110 kab.), 91204 Klaipėda"
         }
       ]
     },
