@@ -68,13 +68,6 @@
           "Kabinetas": "210"
         },
         {
-          "Vardas, pavardė": "Monika Juodvalkė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+370 695 49553",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "206"
-        },
-        {
           "Vardas, pavardė": "Raimondas Sakalauskas",
           "Pareigos": "Vyr. patarėjas, atliekantis ministerijos parengties pareigūno funkcijas",
           "Tel. numeris": "+370 686 00052",
@@ -1089,9 +1082,9 @@
       "Pavadinimas": "Žemės ir teritorijų planavimo politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Algė Staniūnaitė-Tonkich (laikinai vykdanti grupės vadovo funkcijas)",
+          "Vardas, pavardė": "Monika Juodvalkė",
           "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+370 695 17731",
+          "Tel. numeris": "+370 695 49553",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -1144,6 +1137,13 @@
           "Vardas, pavardė": "Aistė Vidžienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 71392",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Algė Staniūnaitė -Tonkich",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 695 17731",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
