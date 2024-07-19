@@ -351,7 +351,7 @@
         },
         {
           "Vardas, pavardė": "Indrė Balčiūnienė",
-          "Pareigos": "Vyresnioji patarėja",
+          "Pareigos": "Vyresnioji patarėja (turinti pavaldžių)",
           "Tel. numeris": "+370 602 56854",
           "El. paštas": "[email protected]",
           "Kabinetas": "510"
@@ -926,6 +926,13 @@
           "Kabinetas": "204"
         },
         {
+          "Vardas, pavardė": "Judita Aleksiejūnė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 600 42648",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "407"
+        },
+        {
           "Vardas, pavardė": "Samanta Staneikaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 605 94250",
@@ -1112,13 +1119,6 @@
           "Tel. numeris": "+370 600 42717",
           "El. paštas": "[email protected]",
           "Kabinetas": "317"
-        },
-        {
-          "Vardas, pavardė": "Judita Aleksiejūnė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 600 42648",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "305"
         }
       ]
     },
