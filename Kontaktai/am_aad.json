@@ -99,21 +99,35 @@
       ]
     },
     {
-      "Pavadinimas": "Aplinkai saugaus elgesio skatinimo skyrius",
+      "Pavadinimas": "Ryšių su visuomene skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Monika Bučiūtė-Petrauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 656 06943",
+          "Vardas, pavardė": "Laima Grižaitė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 630 50112",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (202 kab.), 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15 (306 kab.), 03201 Vilnius"
         },
         {
-          "Vardas, pavardė": "Paula Bumbulytė",
-          "Pareigos": "Skyriaus vedėja (l. e. p.)",
-          "Tel. numeris": "+370 661 31523",
+          "Vardas, pavardė": "Lina Pipirienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 686 25143",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15  (202 kab.), 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Rūta Paitian",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 656 70040",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Urtė Šimonytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 618 14637",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
         }
       ]
     },
@@ -165,35 +179,21 @@
       ]
     },
     {
-      "Pavadinimas": "Ryšių su visuomene skyrius",
+      "Pavadinimas": "Aplinkai saugaus elgesio skatinimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Laima Grižaitė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 630 50112",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (306 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Lina Pipirienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 686 25143",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Rūta Paitian",
+          "Vardas, pavardė": "Monika Bučiūtė-Petrauskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 656 70040",
+          "Tel. numeris": "+370 656 06943",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15 (202 kab.), 03201 Vilnius"
         },
         {
-          "Vardas, pavardė": "Urtė Šimonytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 618 14637",
+          "Vardas, pavardė": "Paula Bumbulytė",
+          "Pareigos": "Skyriaus vedėja (l. e. p.)",
+          "Tel. numeris": "+370 661 31523",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15  (202 kab.), 03201 Vilnius"
         }
       ]
     },
@@ -255,81 +255,6 @@
           "Tel. numeris": "+370 615 87398",
           "El. paštas": "[email protected]",
           "Kabinetas": "Žemaitės g. 6 (204 kab.), 03117 Vilnius"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Pranešimų priėmimo tarnyba",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Audrius Gladkauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Deimantas Gudelis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 659 61533",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Gediminas Almantas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Mantas Arbūzas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 610 22301",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Romualdas Sližauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 610 79765",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Simona Račiūgaitė",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Tomas Balčiūnas",
-          "Pareigos": "Viršininkas",
-          "Tel. numeris": "+370 682 88135",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Vilmantas Musnikas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 659 58311",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Virgilijus Dansevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 614 69176",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Virginijus Dastikas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
         }
       ]
     },
@@ -412,6 +337,81 @@
           "Tel. numeris": "+370 683 97787",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Pranešimų priėmimo tarnyba",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Audrius Gladkauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Deimantas Gudelis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 659 61533",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Gediminas Almantas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Mantas Arbūzas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 610 22301",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Romualdas Sližauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 610 79765",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Simona Račiūgaitė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Tomas Balčiūnas",
+          "Pareigos": "Viršininkas",
+          "Tel. numeris": "+370 682 88135",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Vilmantas Musnikas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 659 58311",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Virgilijus Dansevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 614 69176",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Virginijus Dastikas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
         }
       ]
     },
@@ -2797,6 +2797,13 @@
       "Pavadinimas": "Klaipėdos aplinkos apsaugos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Akvilė Jakubkaitė-Šimaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 615 10731",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
+        },
+        {
           "Vardas, pavardė": "Akvilė Kančauskaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 612 71524",
@@ -2913,13 +2920,6 @@
     {
       "Pavadinimas": "Gargždų aplinkos apsaugos skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Akvilė Jakubkaitė-Šimaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 615 10731",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
-        },
         {
           "Vardas, pavardė": "Antanas Leščauskas",
           "Pareigos": "Vyresnysis specialistas",
