@@ -11,8 +11,8 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Giedrė Ričkutė",
-          "Pareigos": "Kanclerė",
+          "Vardas, pavardė": "Redvita Četkauskienė",
+          "Pareigos": "Vidaus tyrimų skyriaus vedėja, atliekanti kanclerės funkcijas",
           "Tel. numeris": "+370 706 85 003",
           "El. paštas": "[email protected]"
         },
@@ -783,15 +783,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jolita Talalė",
-          "Pareigos": "Žemės patikėtinių valstybinės priežiūros skyriaus vedėja, atliekanti Vidaus tyrimų skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370 706 85 187",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Lina Petrauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 146",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Redvita Četkauskienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -845,6 +845,12 @@
           "Vardas, pavardė": "Ramunė Černeckienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 670",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Raselė Domeikienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 408",
           "El. paštas": "[email protected]"
         },
         {
@@ -1926,8 +1932,8 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Laura Vainalavičienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Vardas, pavardė": "Laura Vainalavičienė (Sutikimų išdavimas)",
+          "Pareigos": "Skyriaus vyresnioji patarėja",
           "Tel. numeris": "+370 706 85 592",
           "El. paštas": "[email protected]"
         },
@@ -1977,12 +1983,6 @@
           "Vardas, pavardė": "Ramunė Viršilienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 450",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Raselė Domeikienė (Sutikimų išdavimas)",
-          "Pareigos": "Skyriaus vyresnioji patarėja",
-          "Tel. numeris": "+370 706 85 408",
           "El. paštas": "[email protected]"
         },
         {
