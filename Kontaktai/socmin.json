@@ -573,13 +573,6 @@
       "Pavadinimas": "Turto valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Birutė Baumilienė",
-          "Pareigos": "Vedėja (skyriaus veiklos administravimas)",
-          "Tel. numeris": "+370 659 24813",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 108 kab."
-        },
-        {
           "Vardas, pavardė": "Daiva Grabauskienė",
           "Pareigos": "Darbininkė (posėdžių salių aptarnavimas ir kt.)",
           "Tel. numeris": "+370 698 83391",
@@ -613,6 +606,13 @@
           "Tel. numeris": "+370 647 64935",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 107 kab."
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Buckiūnas",
+          "Pareigos": "Vyriausiasis patarėjas, atliekantis skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+370 650 69357",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 108 kab."
         },
         {
           "Vardas, pavardė": "Tomas Klinavičius",
