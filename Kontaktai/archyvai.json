@@ -1,0 +1,174 @@
+﻿{
+  "Name": "Lietuvos vyriausiojo archyvaro tarnyba",
+  "Padaliniai": [
+    {
+      "Pavadinimas": "LIETUVOS VYRIAUSIASIS ARCHYVARAS",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Adomas Svirskas",
+          "Pareigos": "Vyriausiasis patarėjas IT klausimais",
+          "Tel. numeris": "+370 659 88306",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Inga Zakšauskienė",
+          "Pareigos": "Lietuvos vyriausioji archyvarė",
+          "Tel. numeris": "+370 612 23 763",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "DOKUMENTŲ IR ARCHYVŲ VALDYMO IR NAUDOJIMO SKYRIUS",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aistė Somkinė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 682 86 955",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Andrius Zilnys",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 649 69 420",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Daina Čenytė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 613 89 188",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Daiva Lukšaitė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 649 89 246",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Darius Bujokas",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 649 75 763",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Igor Voitiulevič",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jurgita Radėnienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 612 43 249",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Liudvikas Šimkus",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Razbadauskas",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vaidotas Ramonas",
+          "Pareigos": "Vyr. specialistas   (ekspertas)",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "VEIKLOS ADMINISTRAVIMO IR FINANSŲ SKYRIUS",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Angelė Tamulevičiūtė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 686 91 270",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Asta Baranauskienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 649 74 708",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Asta Lukminienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 698 87 348",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Gediminas Šapolas",
+          "Pareigos": "Specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jaroslav Budrevič",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 608 85 173",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jolita Širkienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Karolina Gikė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 630 28 046",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Kęstutis Remeika",
+          "Pareigos": "Duomenų apsaugos  pareigūnas",
+          "Tel. numeris": "+370 694 65 049",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Šimkienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 675 08 386",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vida Jakimavičienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 674 34 879",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    }
+  ]
+}

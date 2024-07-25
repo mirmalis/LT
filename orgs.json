@@ -60,6 +60,11 @@
 		"Kontaktai": "https://zum.lrv.lt/lt/struktura-ir-kontaktai/kontaktai/"
 	},
 	{
+		"Id": "archyvai",
+		"Pavadinimas": "Lietuvos vyriausiojo archyvaro tarnyba",
+		"Kontaktai": "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/"
+	},
+	{
 		"Id": "aaa",
 		"Pavadinimas": "Aplinkos apsaugos agentūra",
 		"Kontaktai": "https://aaa.lrv.lt/lt/struktura-ir-kontaktai/kontaktai-1/",
