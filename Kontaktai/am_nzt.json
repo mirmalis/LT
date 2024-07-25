@@ -57,6 +57,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Aušra Bertienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 812",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Daiva Karnilienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 86 666",
@@ -100,6 +106,12 @@
         },
         {
           "Vardas, pavardė": "Regina Jurkonienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 86 666",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rita Stalnionienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 86 666",
           "El. paštas": "[email protected]"
@@ -210,12 +222,6 @@
     {
       "Pavadinimas": "Archyvinių dokumentų klausimai",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aušra Bertienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 812",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Aušrelė Rudokienė",
           "Pareigos": "Vyriausioji specialistė",
@@ -328,12 +334,6 @@
           "Vardas, pavardė": "Rasa Šiškaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 372",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rita Stalnionienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 173",
           "El. paštas": "[email protected]"
         },
         {
@@ -2879,7 +2879,7 @@
         {
           "Vardas, pavardė": "Vitalija Gandzevič",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 706 85 714",
           "El. paštas": "[email protected]"
         },
         {
