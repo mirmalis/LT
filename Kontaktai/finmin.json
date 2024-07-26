@@ -148,6 +148,13 @@
           "Tel. numeris": "2390030",
           "El. paštas": "[email protected]",
           "Kabinetas": "509"
+        },
+        {
+          "Vardas, pavardė": "Žymantas Baranauskas",
+          "Pareigos": "Finansų analitikas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "509"
         }
       ]
     },
@@ -2703,13 +2710,6 @@
           "Kabinetas": "454"
         },
         {
-          "Vardas, pavardė": "Inga Rupšienė",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "2194446",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "-"
-        },
-        {
           "Vardas, pavardė": "Milda Kaminskaitė",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "2199316",
@@ -2825,7 +2825,7 @@
           "Kabinetas": "426"
         },
         {
-          "Vardas, pavardė": "Diana Valaitytė",
+          "Vardas, pavardė": "Diana Valaitytė-Polovynko",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "2194 452",
           "El. paštas": "[email protected]",
