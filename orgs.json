@@ -5,6 +5,11 @@
 		"Kontaktai": "https://am.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-2/"
 	},
 	{
+		"Id": "vda",
+		"Pavadinimas": "Valstybinė duomenų agentūra",
+		"Kontaktai": "https://vda.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/"
+	},
+	{
 		"Id": "eimin",
 		"Pavadinimas": "Ekonomikos ir inovacijų ministerija",
 		"Kontaktai": "https://eimin.lrv.lt/lt/struktura-ir-kontaktai/kontaktai-2/"

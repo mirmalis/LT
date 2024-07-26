@@ -1,0 +1,1197 @@
+﻿{
+  "Name": "Valstybinė duomenų agentūra",
+  "Padaliniai": [
+    {
+      "Pavadinimas": "Apklausų organizavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alfreda Žadeikienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 95 121",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Ana Budrikienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 460",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Anželika Drevinskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 30 482",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Arina Nečajevaitė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 650 87 159",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Asta Jaskevičienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 553",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Asta Rimkuvienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 607",
+          "Atsakingas už": "Telšių apskr."
+        },
+        {
+          "Vardas, pavardė": "Asta Vildžiūnienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+ 370 607 94 312",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Audronė Daubarienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 92 718",
+          "Atsakingas už": "Utenos apskr."
+        },
+        {
+          "Vardas, pavardė": "Audronė Merkinykienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 564",
+          "Atsakingas už": "Alytaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Audronė Misiukonytė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 608 05 434",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Aurelija Skrebienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+ 370 607 51 962",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Aušra Banaitienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 485",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Aušra Dargevičienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 597",
+          "Atsakingas už": "Telšių apskr."
+        },
+        {
+          "Vardas, pavardė": "Aušra Grigalionienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 271",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Birutė Vaitiekienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 412",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Birutė Zeinalovienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 30 568",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Daiva Bražiūnienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 608 05 034",
+          "Atsakingas už": "Utenos apskr."
+        },
+        {
+          "Vardas, pavardė": "Daiva Kudulė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 109",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Daiva Liaugaudaitė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 130",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Daiva Lukošienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 495",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Daiva Mikalajūnienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 608 06 204",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Dalia Baranauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 608 05 372",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Danguolė Podolskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 274",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Danielius Kristoforas Drevinskas",
+          "Pareigos": "Tarnautojas (klausėjas)",
+          "Tel. numeris": "+ 370 605 69 982",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Danutė Juzėnienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 92 681",
+          "Atsakingas už": "Utenos apskr."
+        },
+        {
+          "Vardas, pavardė": "Danutė Kalinskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 503",
+          "Atsakingas už": "Tauragės apskr."
+        },
+        {
+          "Vardas, pavardė": "Danutė Kulytienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 608 04 867",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Danutė Stramkauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 608 04 894",
+          "Atsakingas už": "Alytaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Džulita Keršytė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 92 708",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Edita Jurkaitienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 818",
+          "Atsakingas už": "Telšių apskr."
+        },
+        {
+          "Vardas, pavardė": "Eglė Norušienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 659 61 095",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Eimantas Pranarauskas",
+          "Pareigos": "Tarnautojas (klausėjas)",
+          "Tel. numeris": "+ 370 607 95 112",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Gabija Janušaitytė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 506",
+          "Atsakingas už": "Tauragės apskr."
+        },
+        {
+          "Vardas, pavardė": "Galina Blusevičienė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 659 60 856",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Galina Tatolienė-Utupienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 273",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Gediminas Banionis",
+          "Pareigos": "Tarnautojas (klausėjas)",
+          "Tel. numeris": "+ 370 608 05 018",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Genė Juškauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 345",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Giedrė Šilaikienė",
+          "Pareigos": "Specialistė (apklausų organizatorė)",
+          "Tel. numeris": "+ 370 607 94 315",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Gitana Šegamogaitė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 292",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Gitana Šematovičienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 606 16 045",
+          "Atsakingas už": "Alytaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Gražina Pranaitienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 92 714",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Gražina Sviklaitė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 92 689",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Ilona Kranauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 42 815",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Ilona Liongina Sinčuk",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 42 641",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Indra Valantinienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 107",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Indrė Mateikaitė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 634 49 669",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ineta Kabišaitienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 608 04 864",
+          "Atsakingas už": "Marijampolės apskr."
+        },
+        {
+          "Vardas, pavardė": "Ingrida Jurienė",
+          "Pareigos": "Specialistė (apklausų organizatorė)",
+          "Tel. numeris": "+ 370 607 94 364",
+          "Atsakingas už": "Tauragės apskr."
+        },
+        {
+          "Vardas, pavardė": "Irena Maigienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 92 687",
+          "Atsakingas už": "Utenos apskr."
+        },
+        {
+          "Vardas, pavardė": "Irena Murauskienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 608 05 767",
+          "Atsakingas už": "Alytaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Irina Jokubauskienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 608 05 787",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Jadvyga Barauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 389",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Janina Žiurinskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 563",
+          "Atsakingas už": "Marijampolės apskr."
+        },
+        {
+          "Vardas, pavardė": "Jelena Kučinskaja",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 92 715",
+          "Atsakingas už": "Utenos apskr."
+        },
+        {
+          "Vardas, pavardė": "Jolanta Kazbarienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 804",
+          "Atsakingas už": "Telšių apskr."
+        },
+        {
+          "Vardas, pavardė": "Jurgita Neverdauskaitė-Perez",
+          "Pareigos": "Specialistė (apklausų organizatorė)",
+          "Tel. numeris": "+ 370 607 94 486",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Jurgita Urbikienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 374",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Karolis Bernackas",
+          "Pareigos": "Tarnautojas (klausėjas)",
+          "Tel. numeris": "+ 370 600 98 385",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Kristina Velijeva",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 652 67 964",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Laima Valenskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 40 635",
+          "Atsakingas už": "Marijampolės apskr."
+        },
+        {
+          "Vardas, pavardė": "Lilija Urbonienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 155",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Lina Pupelienė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 655 43 584",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Loreta Česnauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 497",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Loreta Ingaunienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 170",
+          "Atsakingas už": "Utenos apskr."
+        },
+        {
+          "Vardas, pavardė": "Loreta Kantauskienė",
+          "Pareigos": "Specialistė (apklausų organizatorė)",
+          "Tel. numeris": "+ 370 607 95 160",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Marija Sriogienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 556",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Marina Šumskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 137",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Milda Strumskienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 302",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Narutė Lydekienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 608 06 122",
+          "Atsakingas už": "Alytaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Natalija Gedvilaitė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 607 95 164",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Nijolė Jurkėnienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 92 696",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Nijolė Kvarinskienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 95 071",
+          "Atsakingas už": "Telšių apskr."
+        },
+        {
+          "Vardas, pavardė": "Raimonda Gžimailė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 608 04 891",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Ramutė Donėlienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 516",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Rasa Baranauskaitė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 376",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Rasa Bukavičienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 92 723",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Rasa Stanikienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 92 688",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Rasa Uzdrė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+ 370 607 94 394",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Rasuolė Frankienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 298",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Regina Dagienė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 607 95 122",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Regina Kislauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 168",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Regina Ruškuvienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 601",
+          "Atsakingas už": "Telšių apskr."
+        },
+        {
+          "Vardas, pavardė": "Regina Vrubliauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 487",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Rima Katinienė",
+          "Pareigos": "Specialistė (apklausų organizatorė)",
+          "Tel. numeris": "+ 370 607 94 313",
+          "Atsakingas už": "Utenos apskr."
+        },
+        {
+          "Vardas, pavardė": "Rita Geležūnienė",
+          "Pareigos": "Specialistė (apklausų organizatorė)",
+          "Tel. numeris": "+ 370 607 94 558",
+          "Atsakingas už": "Alytaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Rita Klusytė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 554",
+          "Atsakingas už": "Panevėžio apskr."
+        },
+        {
+          "Vardas, pavardė": "Rosita Patūpaitė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 608 04 874",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Rusnė Žinelė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 135",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Rūta Baranauskaitė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 206",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Sigita Šikšnienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 95 184",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Silva Vėgėlienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 369",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Skaistuolė Misiūnaitė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 634 54 975",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Snieguolė Žiūkienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 459",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Svetlana Karzunina",
+          "Pareigos": "Specialistė (apklausų organizatorė)",
+          "Tel. numeris": "+ 370 608 05 087",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Tamara Genienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 110",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Ugnė Jarutytė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 689 65 079",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Valentina Veršickaja",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 33 824",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Vida Slušnienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 550",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Vida Vilkauskienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 94 368",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Vilija Jacikienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 676 90 773",
+          "Atsakingas už": "Tauragės apskr."
+        },
+        {
+          "Vardas, pavardė": "Vilma Kupčinskienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 607 32 127",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Vilma Žilinskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 606 15 028",
+          "Atsakingas už": "Alytaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Violeta Aksomaitė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 138",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Violeta Dembinskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 95 123",
+          "Atsakingas už": "Klaipėdos apskr."
+        },
+        {
+          "Vardas, pavardė": "Violeta Skamaročienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+ 370 607 94 284",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Violeta Visockaitė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 634 52 248",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Virginija Juškauskienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 34 209",
+          "Atsakingas už": "Marijampolės apskr."
+        },
+        {
+          "Vardas, pavardė": "Zita Činikaitė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 606 14 046",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Zita Mikštienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 288",
+          "Atsakingas už": "Vilniaus apskr."
+        },
+        {
+          "Vardas, pavardė": "Zita Žemaitienė",
+          "Pareigos": "Tarnautoja (kainų registratorė)",
+          "Tel. numeris": "+ 370 659 61 094",
+          "Atsakingas už": "Tauragės apskr."
+        },
+        {
+          "Vardas, pavardė": "Zofija Švobienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 387",
+          "Atsakingas už": "Šiaulių apskr."
+        },
+        {
+          "Vardas, pavardė": "Zoja Melkova",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 608 05 374",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Žydronė Jakonytė",
+          "Pareigos": "Tarnautoja (apklausų centro klausėja)",
+          "Tel. numeris": "+ 370 607 94 510",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Žydronė Paškevičienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 605 84 094",
+          "Atsakingas už": "Kauno apskr."
+        },
+        {
+          "Vardas, pavardė": "Žydrūnė Žikienė",
+          "Pareigos": "Tarnautoja (klausėja)",
+          "Tel. numeris": "+ 370 607 94 462",
+          "Atsakingas už": "Kauno apskr."
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Duomenų parengimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aistė Armoškienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 68 234",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Akvilė Stankevičiūtė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 152",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ala Sorokinienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+ 370 655 45 143",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Arūnė Karosienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 686 01 390",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Asta Kaa",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 92 718",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Asta Katkevičienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 29 780",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Asta Mažuknienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 66 715",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Česė Arbataitienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 138",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Daiva Didžiulienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 640 14 880",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Dalia Kirsnienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 72 131",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Dalia Vitkauskaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 94 017",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Danguolė Balčiūnienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 657 63 441",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Danguolė Palionienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+ 370 662 36 884",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Diana Tilinskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 148",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Dovilė Milunienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 699 24 791",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Dovilė Tamošiūnaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 32 839",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Edita Buividienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 630 25 115",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Edita Rinkevičienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 94 016",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Eglė Ragelevičienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 32 642",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Elena Augustinavičienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 29 790",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Erika Drungilienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 66 561",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Evelina Janonienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 56 581",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Everesta Meginienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 650 78 180",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Galina Karamyševa",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 650 93 656",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Genė Kašubienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 652 12 178",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ginalda Vasiliauskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 675 36 750",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Gražina Našlėnaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 658 59 243",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ieva Danilevičienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 66 563",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Inesa Ivaškevičienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 36 781",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Inesa Junčienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 638 50 062",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ineta Paulaitienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 50 875",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Inga Astramskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 95 149",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ingrida Kliūčiūtė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 57 882",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Irena Grigaitytė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 633 73 537",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Irena Jurevič",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 637 61 713",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Irina Danilevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+ 370 655 29 579",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Janina Laginauskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 140",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Janina Sarul",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 139",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jolanta Kušlytė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 633 51 549",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jolita Vilimaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 146",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jonė Gajauskaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 637 05 098",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jovita Lizdenytė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 145",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jūratė Žutautienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 94 018",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jurgita Franckevičiutė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 92 702",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Kristina Markauskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 47 051",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Kristina Masiulytė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 56 580",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Kristina Šiurienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 653 87 524",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Laura Kazlauskaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Kavaliauskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 640 39 631",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Macijauskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 66 562",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Loreta Butkutė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 654 99 491",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Loreta Lukoševičiūtė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 29 546",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Loreta Sviderskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 633 61 359",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Margarita Dargevičiūtė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 52 499",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Martina Diedeleva",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 685 42 755",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Natalija Stankūnienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 49 006",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Neringa Zakarienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 656 24 928",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Nijolė Jankūnaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 31 664",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Nijolė Kriščiūnienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 633 70 457",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Nineta Lisauskaitė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 66 593",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Olga Danilčeva",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 633 72 586",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Olga Kanašic",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 49 727",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Olimpija Kozlovska",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 637 85 390",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ona Baubkuvienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 94 019",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ona Kudlienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 50 876",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ramunė Pašakinskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 650 77 491",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Zaronskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 635 51 208",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Žilinskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 698 14 943",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Renata Ivoškienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 66 736",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Renata Kaliatkienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 636 11 018",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Rūta Zėringienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+ 370 687 82 325",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Svetlana Ablam",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 636 01 794",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Teresa Žuromskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 27 619",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vaida Černeckienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 633 69 241",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vaiva Kancytė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 608 05 780",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vida Juknevičienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 45 147",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vida Rupšienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+ 370 687 47 219",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vilma Vasiljeva",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 685 13 063",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Virginija Kokštienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 656 29 436",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vita Šeštokaitė-Sankauskienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 37 137",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Žeren Dragūnienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 655 51 219",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Žiedūna Vasiliūnienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+ 370 643 57 845",
+          "Atsakingas už": ""
+        }
+      ]
+    }
+  ]
+}
