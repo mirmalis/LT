@@ -122,6 +122,12 @@
       "Pavadinimas": "Dokumentų registravimo klausimai",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Birutė Zabukienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 86 056",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Brigita Kasparavičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 882",
@@ -143,6 +149,12 @@
           "Vardas, pavardė": "Edita Gedvilienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 552",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Erika Pocienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 921",
           "El. paštas": "[email protected]"
         },
         {
@@ -235,12 +247,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Birutė Zabukienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 86 056",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Daiva Žudytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 932",
@@ -274,12 +280,6 @@
           "Vardas, pavardė": "Elida Olšinskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 001",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Erika Pocienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 921",
           "El. paštas": "[email protected]"
         },
         {
