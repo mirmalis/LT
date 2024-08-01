@@ -118,6 +118,13 @@
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "477"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Vaitiekūnas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -1161,7 +1168,7 @@
         },
         {
           "Vardas, pavardė": "Rita Miciuvienė",
-          "Pareigos": "Vyresnioji specialistė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 614 91 955",
           "El. paštas": "[email protected]",
           "Kabinetas": ""

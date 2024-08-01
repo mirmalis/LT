@@ -97,13 +97,6 @@
       "Pavadinimas": "Specialieji atašė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Darius Remeika",
-          "Pareigos": "Veterinarijos ir fitosanitarijos atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "+3224019810",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Eglė Poviliūnė",
           "Pareigos": "Žuvininkystės atašė Lietuvos nuolatinėje atstovybėje ES",
           "Tel. numeris": "+3224019817",
@@ -125,32 +118,11 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Karolis Anužis",
-          "Pareigos": "LR žemės ūkio ir komercijos atašė LR diplomatinėje atstovybėje JAV, Vašingtone",
-          "Tel. numeris": "+12022345860",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Kristina Mineikienė",
-          "Pareigos": "LR žemės ūkio atašė LR diplomatinėje atstovybėje Japonijoje",
-          "Tel. numeris": "+81334085091",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Lina Blažinskienė",
           "Pareigos": "LR žemės ūkio atašė Lietuvos nuolatinėje atstovybėje ES",
           "Tel. numeris": "+3224019811",
           "El. paštas": "[email protected]",
           "Kabinetas": "253"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Palionis",
-          "Pareigos": "Kaimo plėtros atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "+3224019804",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Šarūnė Šablevičienė",
@@ -274,9 +246,9 @@
         },
         {
           "Vardas, pavardė": "Jovita Kulikauskaitė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37052391 122",
-          "El. paštas": "[email protected]",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": "237"
         },
         {
@@ -292,6 +264,13 @@
           "Tel. numeris": "+37052391 148",
           "El. paštas": "[email protected]",
           "Kabinetas": "201"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Palionis",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Savelijus Julius Zimanas",
@@ -997,6 +976,13 @@
           "Tel. numeris": "+37052391 240",
           "El. paštas": "[email protected]",
           "Kabinetas": "352"
+        },
+        {
+          "Vardas, pavardė": "Karolis Anužis",
+          "Pareigos": "Vyriausiasis patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Saulius Jasius",
@@ -1872,6 +1858,13 @@
           "Tel. numeris": "+37052391140",
           "El. paštas": "[email protected]",
           "Kabinetas": "255"
+        },
+        {
+          "Vardas, pavardė": "Kristina Mineikienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Lina Kaklauskienė",
