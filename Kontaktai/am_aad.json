@@ -2424,6 +2424,13 @@
       "Pavadinimas": "Vidaus tyrimų skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Dainius Augustinas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 618 12499",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Jurij Albu",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 661 69497",
@@ -3280,6 +3287,13 @@
           "Kabinetas": "Parko g. 14 (520 kab.), 31139 Visaginas"
         },
         {
+          "Vardas, pavardė": "Silvija Butkūnaitė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+370 647 04467",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Taikos g. 1-1, Švenčionys"
+        },
+        {
           "Vardas, pavardė": "Viktoras Ksenzovas",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+370 686 32926",
@@ -3651,13 +3665,6 @@
           "Kabinetas": "Nepriklausomybės g. 33, 17115 Šalčininkai"
         },
         {
-          "Vardas, pavardė": "Dainius Augustinas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 618 12499",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Vytauto g. 53 (3 kab.), 21106 Trakai"
-        },
-        {
           "Vardas, pavardė": "Egidijus Kirkliauskas",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+370 662 37957",
@@ -3768,6 +3775,13 @@
           "Kabinetas": "201"
         },
         {
+          "Vardas, pavardė": "Ilona Romaškevič",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+370 661 40509",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Irma Norkūnaitė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 653 70304",
@@ -3815,6 +3829,13 @@
           "Tel. numeris": "+370 620 76184",
           "El. paštas": "[email protected]",
           "Kabinetas": "219"
+        },
+        {
+          "Vardas, pavardė": "Virginijus Akulovas",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "+370 661 40519",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Vytautas Buinickas",

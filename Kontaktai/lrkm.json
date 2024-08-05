@@ -240,12 +240,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Viktorija Šmigelskaitė",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37060845958",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Vilma Važgienė",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060845459",
@@ -672,6 +666,12 @@
           "Vardas, pavardė": "Kristina Černiauskaitė",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060846024",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Laura Šerniūtė",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+37060845530",
           "El. paštas": "[email protected]"
         },
         {
