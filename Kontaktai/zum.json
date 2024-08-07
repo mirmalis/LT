@@ -5,27 +5,6 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Donatas Dudutis",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391007",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "383"
-        },
-        {
-          "Vardas, pavardė": "Egidijus Giedraitis",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391004",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "281"
-        },
-        {
-          "Vardas, pavardė": "Kęstutis Navickas",
-          "Pareigos": "Ministras",
-          "Tel. numeris": "+37052391000",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "278"
-        },
-        {
           "Vardas, pavardė": "Valdas Aleknavičius",
           "Pareigos": "Ministerijos kancleris",
           "Tel. numeris": "+37052391035",
@@ -33,51 +12,11 @@
           "Kabinetas": "380"
         },
         {
-          "Vardas, pavardė": "Vytautas Abukauskas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391005",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "387"
-        },
-        {
           "Vardas, pavardė": "Vytenis Tomkus",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+37052391002",
           "El. paštas": "[email protected]",
           "Kabinetas": "285"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministro kabinetas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Algirdas Igorius",
-          "Pareigos": "Ministro atstovas spaudai",
-          "Tel. numeris": "+37052391012; +37065815087",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "269"
-        },
-        {
-          "Vardas, pavardė": "Daivaras Rybakovas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37052391093",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "273"
-        },
-        {
-          "Vardas, pavardė": "Kristina Simonaitytė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37052391024",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "271"
-        },
-        {
-          "Vardas, pavardė": "Rokas Petrašiūnas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37052391036",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "283"
         }
       ]
     },
