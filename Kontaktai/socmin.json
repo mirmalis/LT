@@ -641,13 +641,6 @@
       "Pavadinimas": "Teisės taikymo ir atstovavimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gilmintas Vanagas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 690 25522",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
-        },
-        {
           "Vardas, pavardė": "Marius Vainauskas",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 658 59783",
@@ -1600,7 +1593,7 @@
         },
         {
           "Vardas, pavardė": "Soneta Brinienė",
-          "Pareigos": "Vyriausioji patarėja",
+          "Pareigos": "Vyriausioji patarėja, atliekanti grupės vadovo funkcijas",
           "Tel. numeris": "+370 665 26875",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
