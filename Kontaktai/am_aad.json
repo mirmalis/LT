@@ -1978,13 +1978,6 @@
           "Kabinetas": "Dariaus ir Girėno g. 4, 68176, Marijampolė"
         },
         {
-          "Vardas, pavardė": "Jolita Cegelienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 646 25435",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Kauno g. 69 (3 kab.), 62107 Alytus"
-        },
-        {
           "Vardas, pavardė": "Kristina Dundulytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 615 35428",
@@ -2017,6 +2010,13 @@
     {
       "Pavadinimas": "Teisėkūros skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jolita Cegelienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 646 25435",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Kauno g. 69 (3 kab.), 62107 Alytus"
+        },
         {
           "Vardas, pavardė": "Sigita Gustaitė-Jarukienė",
           "Pareigos": "Skyriaus vedėja",
