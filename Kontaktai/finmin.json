@@ -905,6 +905,13 @@
           "Kabinetas": "233"
         },
         {
+          "Vardas, pavardė": "Giedrius Šlepikas",
+          "Pareigos": "Apskaitos procesų analitikas",
+          "Tel. numeris": "2390083",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "234"
+        },
+        {
           "Vardas, pavardė": "Ingrida Markinienė",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "2390056",
@@ -1799,13 +1806,6 @@
           "Kabinetas": "542"
         },
         {
-          "Vardas, pavardė": "Evaldas Putrimas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "2194476",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "538"
-        },
-        {
           "Vardas, pavardė": "Gabija Brazauskienė",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "2390277",
@@ -2621,7 +2621,7 @@
       "Pavadinimas": "Socialinių investicijų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Banga Vaitkutė",
+          "Vardas, pavardė": "Banga Jovaišienė",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "2194499",
           "El. paštas": "[email protected]",

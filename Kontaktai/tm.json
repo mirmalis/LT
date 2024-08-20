@@ -207,13 +207,6 @@
           "Kabinetas": "312"
         },
         {
-          "Vardas, pavardė": "Livija Audiejaitienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 671 85510",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "314b"
-        },
-        {
           "Vardas, pavardė": "Mykolas Šavelskis",
           "Pareigos": "Vyresnysis patarėjas (turintis pavaldžių)",
           "Tel. numeris": "+370 673 22301",
@@ -1016,6 +1009,13 @@
           "Vardas, pavardė": "Julija Sadovnikova",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 684 61517",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "114"
+        },
+        {
+          "Vardas, pavardė": "Rolandas Rutkauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 605 94308",
           "El. paštas": "[email protected]",
           "Kabinetas": "114"
         },
