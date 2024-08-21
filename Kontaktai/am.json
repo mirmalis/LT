@@ -1185,8 +1185,205 @@
       ]
     },
     {
+      "Pavadinimas": "Administravimo departamentas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Lina Krasauskienė",
+          "Pareigos": "Vyresnioji patarėja, vykdanti direktoriaus funkcijas",
+          "Tel. numeris": "+370 687 98217",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "120"
+        },
+        {
+          "Vardas, pavardė": "Lina Krasauskienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 687 98217",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Dokumentų valdymo ir veiklos aprūpinimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Antanas Braškus (ministerijos ūkinis aptarnavimas, patalpų priežiūra)",
+          "Pareigos": "Specialistas",
+          "Tel. numeris": "+370 686 91088",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "R12"
+        },
+        {
+          "Vardas, pavardė": "Danguolė Prievelienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 646 93828",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Danguolė Tunkevičienė (kalbos redaktorė)",
+          "Pareigos": "Vyr. specialistė (kalbos redaktorė)",
+          "Tel. numeris": "+370 696 87592",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Gintautas Baliutavičius (administracinių pastatų ir telefoninės ryšių sistemos priežiūra ir remontas, ministerijos susitikimų ir renginių techninis aptarnavimas ir aprūpinimas)",
+          "Pareigos": "Vyresn. specialistas",
+          "Tel. numeris": "+370 665 25652",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "R12"
+        },
+        {
+          "Vardas, pavardė": "Ivan Balcevič (ministerijos tarnybinių lengvųjų automobilių dokumentacijos tvarkymas, vairuotojo funkcijos komandiruočių metu)",
+          "Pareigos": "Specialistas",
+          "Tel. numeris": "+370 686 12227",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "R13"
+        },
+        {
+          "Vardas, pavardė": "Laima Vaitkevičienė (archyvinių dokumentų klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 601 64554",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Krasauskienė",
+          "Pareigos": "Vyresn. patarėja, laikinai vykdanti skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+370  687 98217",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "101"
+        },
+        {
+          "Vardas, pavardė": "Renata Paukštienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 616 82073",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "106"
+        },
+        {
+          "Vardas, pavardė": "Rita Lukošienė (kalbos redaktorė)",
+          "Pareigos": "Vyr. specialistė (kalbos redaktorė)",
+          "Tel. numeris": "+370 695 49825",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rūta Dobranskienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 695 08819",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "101"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Informacinių sistemų vystymo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Arūnas Smaliukas",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Dovilė Maminskaitė",
+          "Pareigos": "Inžinierė programuotoja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Gediminas Bazilevičius",
+          "Pareigos": "Kompiuterių sistemų administratorius",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Giedrė Kekienė",
+          "Pareigos": "Kompiuterių sistemų analitikė, laikinai vykdanti skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+370 695 62973",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Giedrė Kurmilavičienė",
+          "Pareigos": "Kompiuterių sistemų analitikė",
+          "Tel. numeris": "+370 669 10228",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Inga Pauliūnienė",
+          "Pareigos": "Kompiuterių sistemų projektuotoja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jaroslav Antoni Siroic",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Juliana Vorono-Baranovska",
+          "Pareigos": "Kompiuterių sistemų analitikė",
+          "Tel. numeris": "+370 616 05452",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Karolis Vyčius",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Laimis Runkevičius",
+          "Pareigos": "Kompiuterių sistemų analitikas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lukas Vanglikas",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Petras Pauliūnas",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Pranciškus Ambrazas",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Asmenų aptarnavimo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jūratė Kaklauskienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 620 82238",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Laima Skaisgirienė",
           "Pareigos": "Vyr. specialistė",
@@ -1195,11 +1392,25 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Ona Burneikaitė-Raugalienė (Asmenų prašymų ir skundų nagrinėjimas)",
-          "Pareigos": "Vedėja",
+          "Vardas, pavardė": "Neringa Šarkauskienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 695 25362",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Ona Burneikaitė-Raugalienė",
+          "Pareigos": "Patarėja, vykdanti skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 695 27279",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Peleckytė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 665 15844",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "101"
         }
       ]
     },
@@ -1222,7 +1433,7 @@
         },
         {
           "Vardas, pavardė": "Veslava Švedė",
-          "Pareigos": "Vedėja",
+          "Pareigos": "Patarėja, vykdanti skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 616 06552",
           "El. paštas": "[email protected]",
           "Kabinetas": "105"
@@ -1245,98 +1456,6 @@
           "Tel. numeris": "+370 696 49647",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Dokumentų valdymo ir asmenų aptarnavimo skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Danguolė Prievelienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 646 93828",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Lina Krasauskienė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 687 98217",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "120"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Asmenų prašymų ir skundų nagrinėjimo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Asta Petrauskytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370  695 63147",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "101"
-        },
-        {
-          "Vardas, pavardė": "Jūratė Kaklauskienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 620 82238",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Neringa Šarkauskienė (Asmenų prašymų ir skundų nagrinėjimas)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 695 25362",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Rasa Peleckytė (Asmenų prašymų ir skundų nagrinėjimas)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 665 15844",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "101"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Dokumentų valdymo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Danguolė Tunkevičienė (kalbos redaktorė)",
-          "Pareigos": "Vyr. specialistė (kalbos redaktorė)",
-          "Tel. numeris": "+370 696 87592",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Laima Vaitkevičienė (archyvinių dokumentų klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 601 64554",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Renata Paukštienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 616 82073",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "105"
-        },
-        {
-          "Vardas, pavardė": "Rita Lukošienė (kalbos redaktorė)",
-          "Pareigos": "Vyr. specialistė (kalbos redaktorė)",
-          "Tel. numeris": "+370 695 49825",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Rūta Dobranskienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 695 08819",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "101"
         }
       ]
     },
@@ -1398,65 +1517,9 @@
           "Kabinetas": "503"
         },
         {
-          "Vardas, pavardė": "Arūnas Smaliukas",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Dovilė Maminskaitė",
-          "Pareigos": "Inžinierė programuotoja",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Gediminas Bazilevičius",
-          "Pareigos": "Kompiuterių sistemų administratorius",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Giedrė Kurmilavičienė",
-          "Pareigos": "Kompiuterių sistemų analitikė",
-          "Tel. numeris": "+370 669 10228",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Indraja Elžbieta Germanaitė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 696 65620",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Inga Pauliūnienė",
-          "Pareigos": "Kompiuterių sistemų projektuotoja",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Jaroslav Antoni Siroic",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Juliana Vorono-Baranovska",
-          "Pareigos": "Kompiuterių sistemų analitikė",
-          "Tel. numeris": "+370 616 05452",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Laimis Runkevičius",
-          "Pareigos": "Kompiuterių sistemų analitikas",
-          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1466,27 +1529,6 @@
           "Tel. numeris": "+370 698 26893",
           "El. paštas": "[email protected]",
           "Kabinetas": "503"
-        },
-        {
-          "Vardas, pavardė": "Lukas Vanglikas",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Petras Pauliūnas",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Pranciškus Ambrazas",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Valdemar Jankovskij",
@@ -1854,13 +1896,6 @@
           "Kabinetas": "412"
         },
         {
-          "Vardas, pavardė": "Antanas Braškus (ministerijos ūkinis aptarnavimas, patalpų priežiūra)",
-          "Pareigos": "Specialistas",
-          "Tel. numeris": "+370 686 91088",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "R12"
-        },
-        {
           "Vardas, pavardė": "Dovilė Montvilaitė (viešųjų pirkimų ir turto valdymo klausimai)",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 686 39794",
@@ -1875,25 +1910,11 @@
           "Kabinetas": "412"
         },
         {
-          "Vardas, pavardė": "Gintautas Baliutavičius (administracinių pastatų ir telefoninės ryšių sistemos priežiūra ir remontas, ministerijos susitikimų ir renginių techninis aptarnavimas ir aprūpinimas)",
-          "Pareigos": "Vyresn. specialistas",
-          "Tel. numeris": "+370 665 25652",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "R12"
-        },
-        {
           "Vardas, pavardė": "Ingrida Kinčiūtė-Zulgė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 620 98400",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Ivan Balcevič (ministerijos tarnybinių lengvųjų automobilių dokumentacijos tvarkymas, vairuotojo funkcijos komandiruočių metu)",
-          "Pareigos": "Specialistas",
-          "Tel. numeris": "+370 686 12227",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "R13"
         },
         {
           "Vardas, pavardė": "Raminta Vielavičienė",

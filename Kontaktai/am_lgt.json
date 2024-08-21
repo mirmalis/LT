@@ -204,14 +204,6 @@
           "Kabinetas": "213a"
         },
         {
-          "Vardas, pavardė": "Rasa Smolskutė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "209"
-        },
-        {
           "Vardas, pavardė": "Reda Reipšleger",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
@@ -250,6 +242,14 @@
           "Mobilus tel. nr.": "+370 646 51078",
           "El. paštas": "[email protected]",
           "Kabinetas": "211"
+        },
+        {
+          "Vardas, pavardė": "Valdas Stankevičius",
+          "Pareigos": "Vyriausiasis geologas",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 646 50836",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "213"
         }
       ]
     },
@@ -358,14 +358,6 @@
           "Kabinetas": "326"
         },
         {
-          "Vardas, pavardė": "Daina Vilkišiūtė",
-          "Pareigos": "Vyriausioji hidrogeologė",
-          "Tel. numeris": "(0 5) 233 5605",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "321"
-        },
-        {
           "Vardas, pavardė": "Darius Kutka",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "(0 5) 213 9051",
@@ -436,14 +428,6 @@
           "Mobilus tel. nr.": "+370 646 55703",
           "El. paštas": "[email protected]",
           "Kabinetas": "327"
-        },
-        {
-          "Vardas, pavardė": "Virgilija Mičiudienė",
-          "Pareigos": "Vyriausioji hidrogeologė",
-          "Tel. numeris": "(0 5) 213 9055",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "328"
         },
         {
           "Vardas, pavardė": "Zdislav Zanevskij",
@@ -633,14 +617,6 @@
           "Pareigos": "Vyriausiasis inžinierius",
           "Tel. numeris": "",
           "Mobilus tel. nr.": "+370 646 55892",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Marytė Baubienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
