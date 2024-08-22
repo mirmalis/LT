@@ -708,7 +708,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Skaistė Garlaitė (LIFE20 projekto \"Energijos efektyvumo didinimas Lietuvoje\" vyriausioji specialistė)",
+          "Vardas, pavardė": "Skaistė Garlaitė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 650 10109",
           "El. paštas": "[email protected]",
@@ -1282,6 +1282,13 @@
       "Pavadinimas": "Informacinių sistemų vystymo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aleksandra Černiauskienė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "+370 695 49899",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Arūnas Smaliukas",
           "Pareigos": "Inžinierius programuotojas",
           "Tel. numeris": "",
@@ -1334,13 +1341,6 @@
           "Vardas, pavardė": "Juliana Vorono-Baranovska",
           "Pareigos": "Kompiuterių sistemų analitikė",
           "Tel. numeris": "+370 616 05452",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Karolis Vyčius",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1790,7 +1790,7 @@
       "Pavadinimas": "Teisės skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Lina Mikuckienė (vykdanti Teisės ir personalo skyriaus vedėjo funkcijas)",
+          "Vardas, pavardė": "Lina Mikuckienė (vykdanti Teisės skyriaus vedėjo funkcijas)",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 695 65934",
           "El. paštas": "[email protected]",
