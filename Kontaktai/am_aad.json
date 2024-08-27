@@ -31,7 +31,7 @@
       "Pavadinimas": "Komunikacijos departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Renata Surovec",
+          "Vardas, pavardė": "Renata Surovec (atostogos iki rugsėjo 13 d.)",
           "Pareigos": "Departamento direktorė",
           "Tel. numeris": "+370 642 16311",
           "El. paštas": "[email protected]",
@@ -653,6 +653,13 @@
           "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
         },
         {
+          "Vardas, pavardė": "Ieva Lebednikienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 683 61526",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Inga Laučytė-Mačernienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 605 02162",
@@ -689,13 +696,6 @@
           "Vardas, pavardė": "Goda Steckytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 683 92493",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
-        },
-        {
-          "Vardas, pavardė": "Inesa Servaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 632 58735",
           "El. paštas": "[email protected]",
           "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
         },
@@ -2638,6 +2638,13 @@
           "Tel. numeris": "+370 612 71062",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12 (302 kab.), 44279 Kaunas"
+        },
+        {
+          "Vardas, pavardė": "Ema Šilerytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Gražina Štuopienė",
