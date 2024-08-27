@@ -782,6 +782,13 @@
           "Kabinetas": "510 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
+          "Vardas, pavardė": "Justinas Mikėnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 632 25864",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Rūta Pašiškevičiūtė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 661 04346",
@@ -793,6 +800,13 @@
     {
       "Pavadinimas": "Jūros aplinkos vertinimo skyrius (Klaipėda)",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Ema Jariašiūnaitė (Duomenų ir informacijos teikimas, duomenų vizualizacija)",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Taikos pr. 26, LT-91222 Klaipėda"
+        },
         {
           "Vardas, pavardė": "Nijolė Remeikaitė-Nikienė",
           "Pareigos": "Skyriaus vedėja",

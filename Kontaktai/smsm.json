@@ -170,6 +170,13 @@
       "Pavadinimas": "Atašė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Andrius Zalitis",
+          "Pareigos": "Švietimo ir mokslo atašė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Brigita Serafinavičiūtė",
           "Pareigos": "Švietimo ir mokslo atašė",
           "Tel. numeris": "",
@@ -1074,7 +1081,7 @@
         },
         {
           "Vardas, pavardė": "Vilma Kapočienė",
-          "Pareigos": "Vyriausioji specialistė, laikinai atlieka Ekonomikos departamento Investicijų skyriaus vedėjo funkcijas",
+          "Pareigos": "Vedėja",
           "Tel. numeris": "+370 614 23 186",
           "El. paštas": "[email protected]",
           "Kabinetas": "359"
