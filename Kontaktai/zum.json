@@ -35,6 +35,39 @@
       ]
     },
     {
+      "Pavadinimas": "Ministro kabinetas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jūratė Garliauskienė",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Duobaitė-Bumbulienė",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Saulius Mocevičius",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vilius Rekevičius",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+37052391 012",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Ministerijos patarėjai",
       "Darbuotojai": [
         {
