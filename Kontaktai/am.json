@@ -87,6 +87,13 @@
           "Tel. numeris": "+370 695 49984",
           "El. paštas": "[email protected]",
           "Kabinetas": "218"
+        },
+        {
+          "Vardas, pavardė": "Vytautė Bacianskaitė",
+          "Pareigos": "Aplinkos apsaugos atašė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -94,9 +101,9 @@
       "Pavadinimas": "Ministro priimamasis",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Nedas Lukoševičius",
+          "Vardas, pavardė": "Asta Petrauskytė",
           "Pareigos": "Ministro padėjėjas",
-          "Tel. numeris": "+370 695 49984",
+          "Tel. numeris": "+370 695 63147",
           "El. paštas": "[email protected]",
           "Kabinetas": "217"
         }
@@ -1254,6 +1261,13 @@
           "Kabinetas": "R12"
         },
         {
+          "Vardas, pavardė": "Asta Petrauskytė",
+          "Pareigos": "Patarėja, vykdanti skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+370  695 63147",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "101"
+        },
+        {
           "Vardas, pavardė": "Danguolė Prievelienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 646 93828",
@@ -1287,13 +1301,6 @@
           "Tel. numeris": "+370 601 64554",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Lina Krasauskienė",
-          "Pareigos": "Vyresn. patarėja, laikinai vykdanti skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370  687 98217",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "101"
         },
         {
           "Vardas, pavardė": "Renata Paukštienė",
