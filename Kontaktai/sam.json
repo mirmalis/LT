@@ -30,14 +30,14 @@
         },
         {
           "Vardas, pavardė": "Edgaras Diržius",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 5 205 5282",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 266 1401",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Edgaras Narkevičius",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 5 266 1496",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 266 1405",
           "El. paštas": "[email protected]"
         },
         {
@@ -70,9 +70,9 @@
       "Pavadinimas": "Specialieji atašė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Nerija Kuprevičienė",
+          "Vardas, pavardė": "Radvilė Jakaitienė",
           "Pareigos": "Specialusis atašė",
-          "Tel. numeris": "+32 496 561855",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         }
       ]
@@ -194,12 +194,6 @@
           "Vardas, pavardė": "Eglė Sirvydytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 205 3370",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Elita Radkevič",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 5 219 3332",
           "El. paštas": "[email protected]"
         },
         {
@@ -452,6 +446,12 @@
         {
           "Vardas, pavardė": "Marija Kudrevičiūtė",
           "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Nerija Kuprevičienė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "",
           "El. paštas": "[email protected]"
         }
@@ -1079,12 +1079,6 @@
           "Vardas, pavardė": "Oksana Pachomčik",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 260 4711",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Radvilė Jakaitienė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 5 219 3348",
           "El. paštas": "[email protected]"
         }
       ]
