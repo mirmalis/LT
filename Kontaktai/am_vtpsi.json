@@ -753,6 +753,15 @@
       "Pavadinimas": "Administracinių nusižengimų tyrimų skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Algis Adomavičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 647 16479",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius, 109 kab.",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Gedas Gvildys",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 613 82850",
@@ -821,6 +830,15 @@
       "Pavadinimas": "Rytų Lietuvos teisės skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Arūnas Kasparavičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Irma Šapokaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 90820",
@@ -854,6 +872,15 @@
           "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vilma Kmieliauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 647 17929",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
       ]
@@ -1033,15 +1060,6 @@
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius",
           "Atsakingas už": "statybos valstybinės priežiūros pareigūnų asistentas"
-        },
-        {
-          "Vardas, pavardė": "Kęstutis Meškauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 647 18258 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
-          "Konsultacijos telefonu": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius, 307 kab.",
-          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
         {
           "Vardas, pavardė": "Paulius Vaitekūnas",
