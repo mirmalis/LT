@@ -803,13 +803,6 @@
           "Tel. numeris": "+370 659 24790",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio 11, 202 kab."
-        },
-        {
-          "Vardas, pavardė": "Loreta Rynkevič",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 613 55179",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio 11, 214 kab."
         }
       ]
     },
@@ -1975,39 +1968,6 @@
           "Tel. numeris": "+370 637 69980",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 303 kab."
-        }
-      ]
-    },
-    {
-      "Pavadinimas": ",,Kurk Lietuvai''",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Agnė Pakšytė",
-          "Pareigos": "Projekto vadovė (bedarbių švietimo kokybės gerinimo klausimai)",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 11, 409 kab."
-        },
-        {
-          "Vardas, pavardė": "Giedrė Pociūtė",
-          "Pareigos": "Projekto vadovė (NVO finansinis tvarumas)",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 13, 310 kab."
-        },
-        {
-          "Vardas, pavardė": "Gintarė Petrauskaitė",
-          "Pareigos": "Projekto vadovė (bedarbių švietimo kokybės gerinimo klausimai)",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 11, 409 kab."
-        },
-        {
-          "Vardas, pavardė": "Ieva Mikutavičiūtė",
-          "Pareigos": "Projekto vadovė (NVO finansinis tvarumas)",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 13, 310 kab."
         }
       ]
     }

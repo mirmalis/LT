@@ -2000,7 +2000,7 @@
         {
           "Vardas, pavardė": "Živilė Dringelienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 647 76726",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kauno g. 69 - 3 (kab.), 62107 Alytus"
         }
@@ -3738,6 +3738,13 @@
     {
       "Pavadinimas": "Vilniaus aplinkos apsaugos skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aliona Vilčinskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 646 63807",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "219"
+        },
         {
           "Vardas, pavardė": "Arnoldas Sadkevičius",
           "Pareigos": "Vyresnysis specialistas",
