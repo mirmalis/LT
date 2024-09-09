@@ -138,7 +138,7 @@
         },
         {
           "Vardas, pavardė": "Ramūnas Druktenis",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėjas, laikinai vykdantis skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 5 207 3333",
           "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
@@ -1121,6 +1121,15 @@
           "Atsakingas už": "statybą leidžiančių dokumentų ir projektinių pasiūlymų tikrinimas"
         },
         {
+          "Vardas, pavardė": "Konstantin Reznik",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 607 75211",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Tomas Beržinis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+37060670278 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
@@ -1660,9 +1669,18 @@
           "Atsakingas už": ""
         },
         {
-          "Vardas, pavardė": "Eglė Stonkutė",
+          "Vardas, pavardė": "Eglė Šakė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 613 12025",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Plytų g. 61, Palanga",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Evelina Aleksejenko",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 647 16075",
           "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "Plytų g. 61, Palanga",

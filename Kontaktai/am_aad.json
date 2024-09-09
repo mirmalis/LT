@@ -111,6 +111,13 @@
           "Kabinetas": "-"
         },
         {
+          "Vardas, pavardė": "Vaida Grigelytė-Jonavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "-"
+        },
+        {
           "Vardas, pavardė": "Vytautas Jaškevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 700 02022",
@@ -1177,6 +1184,13 @@
           "Kabinetas": "Rotušės a. 12 (102 kab.), 44279 Kaunas"
         },
         {
+          "Vardas, pavardė": "Haroldas Čekavičius",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12 (102 kab.), 44279 Kaunas"
+        },
+        {
           "Vardas, pavardė": "Juozas Lenkutis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 665 98177",
@@ -1821,6 +1835,13 @@
     {
       "Pavadinimas": "Teisės departamentas",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Lilija Bičkaitienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 646 64636",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
+        },
         {
           "Vardas, pavardė": "Lina Virvilienė",
           "Pareigos": "Departamento direktorė",
