@@ -421,12 +421,6 @@
           "Kabinetas": "245"
         },
         {
-          "Vardas, pavardė": "Gitana Aukštuolienė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 620 35926",
-          "Kabinetas": "247"
-        },
-        {
           "Vardas, pavardė": "Vidmantas Tamulis",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+370 680 40669",
@@ -510,6 +504,17 @@
       ]
     },
     {
+      "Pavadinimas": "Teisiniai klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Balnienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 667 92434",
+          "Kabinetas": "308"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Projektų valdymo ir normavimo klausimai",
       "Darbuotojai": [
         {
@@ -535,17 +540,6 @@
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 674 94897",
           "Kabinetas": "311"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Teisiniai klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Daiva Balnienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 667 92434",
-          "Kabinetas": "308"
         }
       ]
     },
@@ -678,6 +672,17 @@
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 660 44572",
           "Kabinetas": "306"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Parengties ir krizių valdymo grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gitana Aukštuolienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 620 35926",
+          "Kabinetas": "247"
         }
       ]
     },

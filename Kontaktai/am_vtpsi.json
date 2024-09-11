@@ -481,15 +481,6 @@
       "Pavadinimas": "Informacinių sistemų valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Andrej Lukjanec",
-          "Pareigos": "Specialistas (Konsultavimas Infostatybos klausimais)",
-          "Tel. numeris": "+370 5 207 3333",
-          "Konsultacijos telefonu": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Arūnas Bekintis",
           "Pareigos": "Specialistas (Konsultavimas Infostatybos klausimais)",
           "Tel. numeris": "+370 5 207 3333",
@@ -904,6 +895,15 @@
           "Konsultacijos telefonu": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Martina Blėkaitienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 607 75046",
+          "Konsultacijos telefonu": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (205 kab.)",
           "Atsakingas už": ""
         },
         {
