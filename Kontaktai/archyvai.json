@@ -5,13 +5,6 @@
       "Pavadinimas": "LIETUVOS VYRIAUSIASIS ARCHYVARAS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Adomas Svirskas",
-          "Pareigos": "Vyriausiasis patarėjas IT klausimais",
-          "Tel. numeris": "+370 659 88306",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Doc. dr. Inga Zakšauskienė",
           "Pareigos": "Lietuvos vyriausioji archyvarė",
           "Tel. numeris": "+370 612 23 763",
@@ -48,13 +41,6 @@
           "Vardas, pavardė": "Daiva Lukšaitė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 649 89 246",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Igor Voitiulevič",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -144,6 +130,25 @@
           "Vardas, pavardė": "Vida Jakimavičienė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 674 34 879",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "VYRIAUSIASIS PATARĖJAS (IT KLAUSIMAIS)",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Adomas Svirskas",
+          "Pareigos": "Vyriausiasis patarėjas IT klausimais",
+          "Tel. numeris": "+370 659 88306",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Igor Voitiulevič",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
