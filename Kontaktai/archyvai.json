@@ -14,45 +14,17 @@
       ]
     },
     {
-      "Pavadinimas": "DOKUMENTŲ IR ARCHYVŲ VALDYMO IR NAUDOJIMO SKYRIUS",
+      "Pavadinimas": "VYRIAUSIASIS PATARĖJAS (IT KLAUSIMAIS)",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aistė Somkinė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 682 86 955",
+          "Vardas, pavardė": "Adomas Svirskas",
+          "Pareigos": "Vyriausiasis patarėjas IT klausimais",
+          "Tel. numeris": "+370 659 88306",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Andrius Zilnys",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 649 69 420",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Daina Čenytė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 613 89 188",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Daiva Lukšaitė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 649 89 246",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Jurgita Radėnienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 612 43 249",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Razbadauskas",
+          "Vardas, pavardė": "Igor Voitiulevič",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
@@ -136,17 +108,45 @@
       ]
     },
     {
-      "Pavadinimas": "VYRIAUSIASIS PATARĖJAS (IT KLAUSIMAIS)",
+      "Pavadinimas": "DOKUMENTŲ IR ARCHYVŲ VALDYMO IR NAUDOJIMO SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Adomas Svirskas",
-          "Pareigos": "Vyriausiasis patarėjas IT klausimais",
-          "Tel. numeris": "+370 659 88306",
+          "Vardas, pavardė": "Aistė Somkinė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 682 86 955",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Igor Voitiulevič",
+          "Vardas, pavardė": "Andrius Zilnys",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 649 69 420",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Daina Čenytė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 613 89 188",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Daiva Lukšaitė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 649 89 246",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jurgita Radėnienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 612 43 249",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Razbadauskas",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",

@@ -31,7 +31,7 @@
       "Pavadinimas": "Komunikacijos departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Renata Surovec (atostogos iki rugsėjo 13 d.)",
+          "Vardas, pavardė": "Renata Surovec",
           "Pareigos": "Departamento direktorė",
           "Tel. numeris": "+370 642 16311",
           "El. paštas": "[email protected]",
@@ -1653,6 +1653,13 @@
           "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
         },
         {
+          "Vardas, pavardė": "Daniil Lukin",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Henrikas Pšitulskis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 669 23773",
@@ -1693,13 +1700,6 @@
           "Tel. numeris": "+370 669 09018",
           "El. paštas": "[email protected]",
           "Kabinetas": "Vilniaus g. 86, 19120 Širvintos"
-        },
-        {
-          "Vardas, pavardė": "Renata Čuvalova",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 607 13904",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
         },
         {
           "Vardas, pavardė": "Romualdas Sakalauskas",
@@ -2362,13 +2362,6 @@
       "Pavadinimas": "Strategijos ir analizės skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Benas Švedas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 620 32843",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
-        },
-        {
           "Vardas, pavardė": "Donatas Šimėnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 665 14978",
@@ -2688,6 +2681,13 @@
           "Tel. numeris": "+370 687 59468",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12 (301 kab.), 44279 Kaunas"
+        },
+        {
+          "Vardas, pavardė": "Rytis Gutauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Tomas Dambrauskas",
