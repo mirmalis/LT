@@ -1540,6 +1540,13 @@
       "Pavadinimas": "Hidrologinių tyrimų skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Arnoldas Stankus",
+          "Pareigos": "Jūreivis",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Taikos pr. 26, LT-91222 Klaipėda"
+        },
+        {
           "Vardas, pavardė": "Arvydas Marcinkevičius (Ėminių ėmimas, krantų pokyčių monitoringas, darbuotojų sauga)",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 601 21251",
@@ -1924,8 +1931,8 @@
       "Pavadinimas": "Šiaurės Rytų Lietuvos aplinkos tyrimų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Anžela Giruckienė (tyrimų atlikimas, ėminių ėmimas, laboratorijų kontrolė)",
-          "Pareigos": "Vyresnioji specialistė",
+          "Vardas, pavardė": "Anžela Giruckienė (tyrimų atlikimas, ėminių ėmimas)",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 04574",
           "El. paštas": "[email protected]",
           "Kabinetas": "120 kab. Metalo g. 11, LT-28217 Utena"
@@ -1957,6 +1964,13 @@
           "Tel. numeris": "+370 659 67426",
           "El. paštas": "[email protected]",
           "Kabinetas": "122 kab. Metalo g. 11, LT-28217 Utena"
+        },
+        {
+          "Vardas, pavardė": "Laura Leleivienė (Ėminių ėmimas, tyrimų atlikimas, laboratorijų kontrolė)",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "212 kab. Metalo g. 11, LT-28217 Utena"
         },
         {
           "Vardas, pavardė": "Miglė Vilimaitė-Gluchovskienė (tyrimų atlikimas, ėminių ėmimas)",
