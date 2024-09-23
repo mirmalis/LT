@@ -242,12 +242,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rūta Šlepikienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Vida Jonušaitytė-Damijonaitienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 084",
@@ -307,9 +301,21 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Ieva Raugalaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 86 211",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Inga Drevinskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 704",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jogailė Babrauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 86 212",
           "El. paštas": "[email protected]"
         },
         {
@@ -631,12 +637,6 @@
           "Vardas, pavardė": "Laima Lukočienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 655",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Laima Matulytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 337",
           "El. paštas": "[email protected]"
         },
         {
@@ -1567,6 +1567,18 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Jurgita Kolbasovaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Laima Matulytė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Larisa Mačiūtienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 86 028",
@@ -1866,8 +1878,8 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Justina Baumilienė (sutikimų išdavimas)",
-          "Pareigos": "Vyresnioji patarėja",
+          "Vardas, pavardė": "Justina Kaminskaitė (sutikimų išdavimas)",
+          "Pareigos": "Skyriaus vyresnioji patarėja",
           "Tel. numeris": "+370 706 85 283",
           "El. paštas": "[email protected]"
         },
