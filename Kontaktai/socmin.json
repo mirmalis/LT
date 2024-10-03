@@ -122,13 +122,6 @@
           "Kabinetas": "A. Vivulskio g. 11, 305 kab."
         },
         {
-          "Vardas, pavardė": "Gražina Šapalaitė",
-          "Pareigos": "Patarėja (teisės aktų rengimas, strateginė teisės aktų analizė ir vertinimas)",
-          "Tel. numeris": "+370 658 58611",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 305 kab."
-        },
-        {
           "Vardas, pavardė": "Jekaterina Navickė",
           "Pareigos": "Politikos veiklos sričių ekspertė (Strateginė analizė ir prognozavimas, EUROMOD vystymas)",
           "Tel. numeris": "+370 659 24792",
@@ -381,13 +374,6 @@
           "Vardas, pavardė": "Lukas Čaplikas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 690 24705",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
-        },
-        {
-          "Vardas, pavardė": "Sigitas Voitinovičius (SPIS klausimai)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 612 90969",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
         },
@@ -1260,7 +1246,7 @@
         },
         {
           "Vardas, pavardė": "Justina Žutautaitė",
-          "Pareigos": "Vyriausioji specialistė (Šveicarijos-Lietuvos bendradarbiavimo programos investicijų užsienio kilmės Lietuvos gyventojų integracijos srityje koordinavimas)",
+          "Pareigos": "Patarėja (Šveicarijos-Lietuvos bendradarbiavimo programos investicijų užsienio kilmės Lietuvos gyventojų integracijos srityje koordinavimas)",
           "Tel. numeris": "+370 699 84421",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 304, 307 kab."
@@ -1353,6 +1339,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Dovilė Ščiukaitė",
+          "Pareigos": "Patarėja (socialinio draudimo pensijos, pensijų kaupimas)",
+          "Tel. numeris": "+370 658 60104",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 404, 405 kab."
+        },
+        {
           "Vardas, pavardė": "Inga Barauskaitė",
           "Pareigos": "Patarėja (šalpos pensijos, valstybinės pensijos)",
           "Tel. numeris": "+370 696 05045",
@@ -1368,7 +1361,7 @@
         },
         {
           "Vardas, pavardė": "Matas Vinkus",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėjas (ilgalaikės pensijų projekcijos, pensijų analitika)",
           "Tel. numeris": "+370 640 19428",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 404, 405 kab."
@@ -1983,10 +1976,10 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Viktorija Štarevičiūtė",
-          "Pareigos": "Projekto vadovė",
+          "Pareigos": "Projekto vadovė (senėjančios ir mažėjančios darbo jėgos kompensavimas naujosiomis technologijomis)",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "A. Vivulskio g. 11, 408 kab."
         }
       ]
     }

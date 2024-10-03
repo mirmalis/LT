@@ -881,6 +881,13 @@
           "Kabinetas": "Nuotolinė darbo vieta, Vilnius"
         },
         {
+          "Vardas, pavardė": "Eleonora Mataitienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 683 69212",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta (Klaipėda)"
+        },
+        {
           "Vardas, pavardė": "Ieva Žemaitienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 683 07678",
@@ -1017,13 +1024,6 @@
           "Tel. numeris": "+370 661 29251",
           "El. paštas": "[email protected]",
           "Kabinetas": "201 kab. Taikos pr. 26, LT-91222 Klaipėda"
-        },
-        {
-          "Vardas, pavardė": "Viktorija Žiūkaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 66702615",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12, LT 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Živilė Šidiškienė (Teritorijų planavimas. Strateginis pasekmių aplinkai vertinimas)",
@@ -1319,7 +1319,7 @@
         {
           "Vardas, pavardė": "Laima Žulpienė (Apmokėjimų už valstybinius laboratorinius tyrimus koordinavimas)",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 601 23822",
           "El. paštas": "[email protected]",
           "Kabinetas": "407 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
@@ -1359,7 +1359,7 @@
         {
           "Vardas, pavardė": "Artūr Nguen Kong",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 601 23167",
           "El. paštas": "[email protected]",
           "Kabinetas": "303 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
@@ -1397,6 +1397,13 @@
           "Tel. numeris": "+370 60122907",
           "El. paštas": "[email protected]",
           "Kabinetas": "311 kab. A. Goštauto g. 9, LT-01108 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Tomas Šimkūnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 683 69238",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Goštauto g. 9, LT-01108 Vilnius"
         },
         {
           "Vardas, pavardė": "Vijolė Papreckienė (Tyrimų atlikimas)",
@@ -1457,6 +1464,13 @@
     {
       "Pavadinimas": "Biologinių tyrimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Agnė Kleponienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 683 69234",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "408 kab. A. Goštauto g. 9, LT-01108 Vilnius"
+        },
         {
           "Vardas, pavardė": "Aleksandra Popova (Ėminių ėmimas, tyrimų atlikimas)",
           "Pareigos": "Vyriausioji specialistė",
@@ -1968,7 +1982,7 @@
         {
           "Vardas, pavardė": "Laura Leleivienė (Ėminių ėmimas, tyrimų atlikimas, laboratorijų kontrolė)",
           "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 646 83610",
           "El. paštas": "[email protected]",
           "Kabinetas": "212 kab. Metalo g. 11, LT-28217 Utena"
         },
@@ -2104,14 +2118,14 @@
         {
           "Vardas, pavardė": "Rasa Kiseliova (Tyrimų atlikimas, laboratorijų kontrolė)",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 601 23390",
           "El. paštas": "[email protected]",
           "Kabinetas": "405 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
         {
           "Vardas, pavardė": "Rita Blankienė (Tyrimų atlikimas)",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 601 23325",
           "El. paštas": "[email protected]",
           "Kabinetas": "532 kab. Oršos g. 8 , LT-09300 Vilnius"
         },

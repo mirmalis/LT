@@ -245,13 +245,6 @@
           "Tel. numeris": "+37052391179",
           "El. paštas": "[email protected]",
           "Kabinetas": "515"
-        },
-        {
-          "Vardas, pavardė": "Toma Eidintaitė",
-          "Pareigos": "Patarėjas (KPP 2014-2020)",
-          "Tel. numeris": "+37052391177",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "516"
         }
       ]
     },
@@ -572,14 +565,14 @@
         },
         {
           "Vardas, pavardė": "Jolita Jurkštienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391067",
           "El. paštas": "[email protected]",
           "Kabinetas": "411"
         },
         {
           "Vardas, pavardė": "Rita Čepienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391250",
           "El. paštas": "[email protected]",
           "Kabinetas": "413"
@@ -685,7 +678,7 @@
         },
         {
           "Vardas, pavardė": "Loreta Grigaitienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37062041285",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kaunas 305"
@@ -711,7 +704,7 @@
         },
         {
           "Vardas, pavardė": "Audronė Liaudanskaitė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 60292",
           "El. paštas": "[email protected]",
           "Kabinetas": "248"
@@ -758,7 +751,7 @@
         },
         {
           "Vardas, pavardė": "Goda Vainienė",
-          "Pareigos": "Vyresnioji patarėja",
+          "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "+37052391110",
           "El. paštas": "[email protected]",
           "Kabinetas": "270"
@@ -974,7 +967,7 @@
         },
         {
           "Vardas, pavardė": "Rimantė Juodenienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37068044349",
           "El. paštas": "[email protected]",
           "Kabinetas": "K-311"
@@ -1150,7 +1143,7 @@
         },
         {
           "Vardas, pavardė": "Loreta Mačytė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391282",
           "El. paštas": "[email protected]",
           "Kabinetas": "363"
@@ -1383,7 +1376,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37052391171",
           "El. paštas": "[email protected]",
-          "Kabinetas": "356"
+          "Kabinetas": "311"
         },
         {
           "Vardas, pavardė": "Zigmas Medingis",
@@ -1542,7 +1535,7 @@
         },
         {
           "Vardas, pavardė": "Goda Grebelienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391107",
           "El. paštas": "[email protected]",
           "Kabinetas": "372"
@@ -1577,7 +1570,7 @@
         },
         {
           "Vardas, pavardė": "Sonata Graibuvienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+37052391386",
           "El. paštas": "[email protected]",
           "Kabinetas": "374"
@@ -1713,7 +1706,7 @@
         },
         {
           "Vardas, pavardė": "Vita Jurgilienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391065",
           "El. paštas": "[email protected]",
           "Kabinetas": "389"
@@ -1786,7 +1779,7 @@
         },
         {
           "Vardas, pavardė": "Jolanta Karvelytė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391234",
           "El. paštas": "[email protected]",
           "Kabinetas": "289"
@@ -1882,7 +1875,7 @@
         },
         {
           "Vardas, pavardė": "Vilma Pukenytė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391042",
           "El. paštas": "[email protected]",
           "Kabinetas": "257"
@@ -1937,7 +1930,7 @@
         {
           "Vardas, pavardė": "Modestas Važnevičius",
           "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "+37052391041",
+          "Tel. numeris": "+37052391 041",
           "El. paštas": "[email protected]",
           "Kabinetas": "229"
         },
@@ -1951,7 +1944,7 @@
         {
           "Vardas, pavardė": "Vaida Lisauskienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+37052391251",
+          "Tel. numeris": "+37052391 251",
           "El. paštas": "[email protected]",
           "Kabinetas": "210"
         }

@@ -130,6 +130,13 @@
       "Pavadinimas": "Aplinkai saugaus elgesio skatinimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Meda Bagdonaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+3706 911 0082",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (202 kab.), 03201 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Monika Bučiūtė-Petrauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 656 06943",
@@ -503,6 +510,13 @@
           "Kabinetas": "Metalo g. 11 (202 kab.), 28217 Utena"
         },
         {
+          "Vardas, pavardė": "Edvinas Avdejevas",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "+370 649 98908",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Žemaitės g. 6 (219 kab.), 03117 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Gustas Šiaučiulis",
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+370 665 90131",
@@ -705,13 +719,6 @@
           "Tel. numeris": "+370 686 47592",
           "El. paštas": "[email protected]",
           "Kabinetas": "M. K. Čiurlionio g. 3 (3.4 kab.), 76303 Šiauliai"
-        },
-        {
-          "Vardas, pavardė": "Goda Steckytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 683 92493",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
         },
         {
           "Vardas, pavardė": "Ingutė Šalkauskienė",
@@ -1123,13 +1130,6 @@
           "Kabinetas": "Kauno g. 69 (104 kab.), 62107 Alytus"
         },
         {
-          "Vardas, pavardė": "Sigitas Mikėnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 686 49176",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Žemaitės g. 6 (210 kab.), 03117 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Simonas Minkevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 19324",
@@ -1524,6 +1524,13 @@
           "Tel. numeris": "+370 617 80236",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15A (303 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Sigitas Mikėnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 686 49176",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Žemaitės g. 6 (210 kab.), 03117 Vilnius"
         }
       ]
     },
@@ -1700,6 +1707,13 @@
           "Tel. numeris": "+370 669 09018",
           "El. paštas": "[email protected]",
           "Kabinetas": "Vilniaus g. 86, 19120 Širvintos"
+        },
+        {
+          "Vardas, pavardė": "Renata Čuvalova",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 607 13904",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
         },
         {
           "Vardas, pavardė": "Romualdas Sakalauskas",
@@ -2671,7 +2685,7 @@
         {
           "Vardas, pavardė": "Rytis Gutauskas",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 646 84255",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
         },
@@ -3218,7 +3232,7 @@
           "Kabinetas": "11"
         },
         {
-          "Vardas, pavardė": "Enrika Karinauskaitė",
+          "Vardas, pavardė": "Enrika Adomavičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 687 76932",
           "El. paštas": "[email protected]",
@@ -3772,13 +3786,6 @@
           "Tel. numeris": "+370 686 11263",
           "El. paštas": "[email protected]",
           "Kabinetas": "203"
-        },
-        {
-          "Vardas, pavardė": "Edvinas Avdejevas",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "+370 649 98908",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "219"
         },
         {
           "Vardas, pavardė": "Gintarė Vingelienė",

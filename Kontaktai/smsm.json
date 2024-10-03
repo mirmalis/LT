@@ -70,6 +70,32 @@
       ]
     },
     {
+      "Pavadinimas": "Kontaktai konsultacijoms, susijusioms su situacija Ukrainoje",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alvydas Puodžiukas",
+          "Pareigos": "teikia informaciją priimant karo Ukrainoje pabėgėlius į Lietuvos švietimo įstaigas",
+          "Tel. numeris": "+370 686 01 964",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Eglė Remeisienė",
+          "Pareigos": "teikia informaciją priimant karo Ukrainoje pabėgėlius į Lietuvos aukštąsias mokyklas",
+          "Tel. numeris": "+370 616 85 136",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Sigitas Stasiulis",
+          "Pareigos": "teikia informacinę pagalbą sporto federacijoms, asociacijoms ir sąjungoms sprendžiant karo Ukrainoje iššauktas problemas Ukrainos sportininkams, paprašiusiems pagalbos Lietuvoje",
+          "Tel. numeris": "+370 649 62 799",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Ministro patarėjai ir padėjėjai",
       "Darbuotojai": [
         {
@@ -99,32 +125,6 @@
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "483"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Kontaktai konsultacijoms, susijusioms su situacija Ukrainoje",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alvydas Puodžiukas",
-          "Pareigos": "teikia informaciją priimant karo Ukrainoje pabėgėlius į Lietuvos švietimo įstaigas",
-          "Tel. numeris": "+370 686 01 964",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Eglė Remeisienė",
-          "Pareigos": "teikia informaciją priimant karo Ukrainoje pabėgėlius į Lietuvos aukštąsias mokyklas",
-          "Tel. numeris": "+370 616 85 136",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Sigitas Stasiulis",
-          "Pareigos": "teikia informacinę pagalbą sporto federacijoms, asociacijoms ir sąjungoms sprendžiant karo Ukrainoje iššauktas problemas Ukrainos sportininkams, paprašiusiems pagalbos Lietuvoje",
-          "Tel. numeris": "+370 649 62 799",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -517,6 +517,39 @@
       ]
     },
     {
+      "Pavadinimas": "Pedagogų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Darius Gudinas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 620 41 982",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "365"
+        },
+        {
+          "Vardas, pavardė": "Liucija Jasiukevičienė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 666 32 714",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "366"
+        },
+        {
+          "Vardas, pavardė": "Nadia Venskuvienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 614 66 439",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "366"
+        },
+        {
+          "Vardas, pavardė": "Vaiva Stanionė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Švietimo pagalbos skyrius",
       "Darbuotojai": [
         {
@@ -560,39 +593,6 @@
           "Tel. numeris": "+370 620 64 126",
           "El. paštas": "[email protected]",
           "Kabinetas": "486"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Pedagogų skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Darius Gudinas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 620 41 982",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "365"
-        },
-        {
-          "Vardas, pavardė": "Liucija Jasiukevičienė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 666 32 714",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "366"
-        },
-        {
-          "Vardas, pavardė": "Nadia Venskuvienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 614 66 439",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "366"
-        },
-        {
-          "Vardas, pavardė": "Vaiva Stanionė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -1020,6 +1020,13 @@
           "Vardas, pavardė": "Asta Žurauskaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 615 78 510",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Dalia Meidutė-Birulienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+370 674 56 096",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1721,13 +1728,6 @@
           "Tel. numeris": "+370 647 31 582",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Ineta Ivanauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 21 264",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "105"
         },
         {
           "Vardas, pavardė": "Jonas Vasiliauskas",

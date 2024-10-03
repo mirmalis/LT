@@ -132,13 +132,6 @@
       "Pavadinimas": "Bausmių vykdymo politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Inga Griškevičienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 602 56324",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "410"
-        },
-        {
           "Vardas, pavardė": "Marius Rakštelis",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+370 647 67165",
@@ -647,6 +640,13 @@
           "Kabinetas": "223"
         },
         {
+          "Vardas, pavardė": "Sonata Morozienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 671 86335",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "504"
+        },
+        {
           "Vardas, pavardė": "Šarūnas Sabalevskis",
           "Pareigos": "Vyresnysis patarėjas (turintis pavaldžių)",
           "Tel. numeris": "+370 671 86374",
@@ -851,6 +851,13 @@
           "Kabinetas": "108"
         },
         {
+          "Vardas, pavardė": "Erlanda Polekaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 600 45391",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "108"
+        },
+        {
           "Vardas, pavardė": "Jolanta Vižinienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 00578",
@@ -863,6 +870,13 @@
           "Tel. numeris": "+370 671 86309",
           "El. paštas": "[email protected]",
           "Kabinetas": "503"
+        },
+        {
+          "Vardas, pavardė": "Rimantė Gaičevskytė-Savickė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 600 43461",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "107"
         },
         {
           "Vardas, pavardė": "Roberta Valkauskienė",
