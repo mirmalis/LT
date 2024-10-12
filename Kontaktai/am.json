@@ -250,7 +250,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aistė Rakauskienė (Bendrieji atliekų tvarkymo reikalavimai,  atliekų nebelaikymas atliekomis, Atliekų tvarkytojų valstybės registras)",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyr. patarėja",
           "Tel. numeris": "+370 696 80518",
           "El. paštas": "[email protected]",
           "Kabinetas": "308"
@@ -264,10 +264,17 @@
         },
         {
           "Vardas, pavardė": "Donata Jankauskaitė (GPAIS vystymo klausimai, GPAIS tobulinimo darbo grupė)",
-          "Pareigos": "Vyr. specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 616 20604",
           "El. paštas": "[email protected]",
           "Kabinetas": "308"
+        },
+        {
+          "Vardas, pavardė": "Eglė Razbadauskaitė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 620 31528",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Greta Česnaitytė",
@@ -341,7 +348,7 @@
         },
         {
           "Vardas, pavardė": "Virginija Vingrienė (Atliekų prevencijos ir tvarkymo strategijos ir žiedinės ekonomikos atliekų srityje formavimas ir įgyvendinimo koordinavimas;  žiedinės ekonomikos strateginių krypčių formavimo ir įgyvendinimo koordinavimas)",
-          "Pareigos": "Vyr. specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 30436",
           "El. paštas": "[email protected]",
           "Kabinetas": "302"
@@ -662,7 +669,7 @@
         },
         {
           "Vardas, pavardė": "Irma Kragnytė",
-          "Pareigos": "Vyr. specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 646 68018",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -1035,7 +1042,7 @@
         },
         {
           "Vardas, pavardė": "Vida Kučinskienė (jūros aplinkos apsaugos klausimai)",
-          "Pareigos": "Vyr. specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 682 10372",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -1487,7 +1494,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Daiva Tarutė (laikinai vykdanti skyriaus vedėjo funkcijas)",
-          "Pareigos": "Vyr. specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 696 52058",
           "El. paštas": "[email protected]",
           "Kabinetas": "318"
@@ -1551,6 +1558,13 @@
     {
       "Pavadinimas": "Korupcijos prevencijos ir vidaus tyrimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Indrė Gylytė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 696 89772",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Irma Vasiliauskienė",
           "Pareigos": "Vedėja",
@@ -1670,35 +1684,35 @@
       "Pavadinimas": "Europos Sąjungos investicijų valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Akvilė Naikutė",
+          "Vardas, pavardė": "Akvilė Naikutė (2021–2027 m. ES fondų investicijų programa: daugiabučių namų, viešųjų ir savivaldybės pastatų modernizavimas, EGADP: organinių medžiagų gamybinių pajėgumų sukūrimas, dotacijos atnaujinti (modernizuoti) pastatus, skaitmenizavimas)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 616 79109",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Alina Meilutytė-Petrauskė (ES lėšomis finansuojamų programų ir priemonių valdymas atliekų sistemos plėtros, užterštų teritorijų tvarkymo, biologinės įvairovės ir kraštovaizdžio, saugomų teritorijų tvarkymo srityse, valdymo ir kontrolės sistemos diegimas)",
+          "Vardas, pavardė": "Alina Meilutytė-Petrauskė (2021–2027 m. ES fondų investicijų programa: biologinės įvairovės išsaugojimas (jungtiniai projektai), audito klausimai, rodiklių stebėsena)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 616 98137",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Aušra Genevičiūtė (ES techninės paramos projektų administravimas)",
+          "Vardas, pavardė": "Aušra Genevičiūtė (2021–2027 m. ES fondų investicijų programa: biudžeto klausimai, techninės paramos lėšų koordinavimas, viešinimas ir informavimas)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 696 80659",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Daiva Astasevičiūtė (potvynių rizikos valdymo, užterštų teritorijų tvarkymo, vandens telkinių valymo, vandens išteklių valdymo, valstybinių parkų tvarkymo projektai)",
+          "Vardas, pavardė": "Daiva Astasevičiūtė (2021–2027 m. ES fondų investicijų programa: potvynių rizikos valdymas, užterštų teritorijų tvarkymas, oro monitoringas, aplinkosauginių procesų skaitmenizavimas, aplinkosaugos institucijų pajėgumų stiprinimas)",
           "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 612 98513",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Eglė Tolvaišienė",
+          "Vardas, pavardė": "Eglė Tolvaišienė (2021–2027 m. ES fondų investicijų programa: atliekų tvarkymo sektorius)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 22178",
           "El. paštas": "[email protected]",
@@ -1712,14 +1726,14 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Roma Būtėnienė (vandentvarkos sektoriaus, paviršinių nuotekų tvarkymo projektai)",
+          "Vardas, pavardė": "Roma Būtėnienė (2021–2027 m. ES fondų investicijų programa: vandentvarkos sektorius, vandens monitoringas, hidrometeorologinių stebėjimų plėtra, pajūrio krantotvarka)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 50323",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Sigita Alčauskienė (LIFE programa, aplinkos monitoringo pajėgumų stiprinimo, biologinės įvairovės išsaugojimo, vandens išteklių valdymo projektai)",
+          "Vardas, pavardė": "Sigita Alčauskienė (LIFE programa, EEE ir Norvegų programa 2021–2027 m. ES fondų investicijų programa: biologinės įvairovės išsaugojimas, miškų  plėtra, teršalų likvidavimas jūroje, žalioji infrastruktūra)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 31405",
           "El. paštas": "[email protected]",

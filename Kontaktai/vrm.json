@@ -384,7 +384,7 @@
         },
         {
           "Vardas, pavardė": "Alvija Vitkauskienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "(8 5) 271 8747",
           "El. paštas": "[email protected]",
           "Kabinetas": "337"
@@ -1118,6 +1118,13 @@
           "Kabinetas": "449"
         },
         {
+          "Vardas, pavardė": "Laurita Jančytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "(8 5) 271 8455",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "444"
+        },
+        {
           "Vardas, pavardė": "Lina Šemetulskytė",
           "Pareigos": "Departamento direktorė",
           "Tel. numeris": "(8 5) 271 7252; 8 602 41740",
@@ -1163,13 +1170,6 @@
           "Tel. numeris": "(8 5) 271 8582",
           "El. paštas": "[email protected]",
           "Kabinetas": "451"
-        },
-        {
-          "Vardas, pavardė": "Laurita Jančytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(8 5) 271 8455",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "444"
         },
         {
           "Vardas, pavardė": "Leokadija Zuzo",
@@ -1343,7 +1343,7 @@
         {
           "Vardas, pavardė": "Birutė Isella",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 647 78522",
           "El. paštas": "[email protected]",
           "Kabinetas": "429"
         },

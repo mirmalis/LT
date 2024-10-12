@@ -12,7 +12,7 @@
         },
         {
           "Vardas, pavardė": "Redvita Četkauskienė",
-          "Pareigos": "Vidaus tyrimų skyriaus vedėja, atliekanti kanclerio funkcijas",
+          "Pareigos": "Kanclerė",
           "Tel. numeris": "+370 706 85 004",
           "El. paštas": "[email protected]"
         },
@@ -771,14 +771,8 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Redvita Četkauskienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Saulius Stončius",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Vyriausiasis specialistas, atliekantis vedėjo funkcijas",
           "Tel. numeris": "+370 706 85 104",
           "El. paštas": "[email protected]"
         }
@@ -976,12 +970,6 @@
     {
       "Pavadinimas": "Nekilnojamojo turto kadastro veiklos koordinavimo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Arvidas Zulonas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 706 85 182",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Elena Stikliūnienė",
           "Pareigos": "Vyriausioji specialistė",
@@ -1654,6 +1642,12 @@
           "Vardas, pavardė": "Violeta Butkienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 706 85 286",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Violeta Petkevičiūtė (Vilniaus m., Vilniaus r. sav.)",
+          "Pareigos": "Skyriaus vyresnioji patarėja",
+          "Tel. numeris": "+370 706 86 178",
           "El. paštas": "[email protected]"
         }
       ]
@@ -2802,12 +2796,6 @@
           "Vardas, pavardė": "Rosita Remeikė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 800",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Sigita Pakeltienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 554",
           "El. paštas": "[email protected]"
         },
         {

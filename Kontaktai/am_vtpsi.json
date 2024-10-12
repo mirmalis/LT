@@ -97,6 +97,13 @@
           "Atsakingas už": ""
         },
         {
+          "Vardas, pavardė": "Daiva Gvildienė",
+          "Pareigos": "L. e. vedėjo pareigas",
+          "Tel. numeris": "+370 611 45672",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Laima Daugėlienė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 5 207 3333",
@@ -119,7 +126,7 @@
         },
         {
           "Vardas, pavardė": "Ramūnas Druktenis",
-          "Pareigos": "Patarėjas, laikinai vykdantis skyriaus vedėjo funkcijas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 5 207 3333",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
           "Atsakingas už": ""
@@ -531,13 +538,6 @@
       "Pavadinimas": "Teisėkūros ir teisės taikymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Daiva Gvildienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 611 45672",
-          "Kabinetas": "Nuotolinė darbo vieta",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Dalytė Rapalienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 54439",
@@ -586,7 +586,7 @@
         },
         {
           "Vardas, pavardė": "Gedas Gvildys",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 613 82850",
           "Kabinetas": "Naujoji g. 2, Alytus (309 kab.)",
           "Atsakingas už": ""
@@ -621,7 +621,7 @@
         },
         {
           "Vardas, pavardė": "Saulius Jurkša",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 604 76244",
           "Kabinetas": "L. Sapiegos g. 12, Kaunas (202 kab.)",
           "Atsakingas už": ""
@@ -727,7 +727,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Dovilė Morkūnaitė",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 612 32986",
           "Kabinetas": "Vilniaus g. 263, Šiauliai (324 kab.)",
           "Atsakingas už": ""
@@ -826,7 +826,7 @@
         },
         {
           "Vardas, pavardė": "Paulius Vaitekūnas",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 676 16697 (skambinti 13:00-15:00)",
           "Kabinetas": "L. Sapiegos g. 12, Kaunas",
           "Atsakingas už": "statybą leidžiančių dokumentų ir projektinių pasiūlymų tikrinimas"
@@ -1626,7 +1626,7 @@
         },
         {
           "Vardas, pavardė": "Mindaugas Mickevičius",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 682 76414 (skambinti 9:00 – 12:00)",
           "Kabinetas": "L. Sapiegos g. 12, Kaunas ( 414 kab.)",
           "Atsakingas už": "skundų nagrinėjimas"
@@ -1821,7 +1821,7 @@
         },
         {
           "Vardas, pavardė": "Asta Vizbarienė",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 607 68669",
           "Kabinetas": "J. Basanavičiaus a. 11, Vilkaviškis (208 kab.)",
           "Atsakingas už": ""
@@ -1896,7 +1896,7 @@
         },
         {
           "Vardas, pavardė": "Raimonda Kazlauskienė",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 607 69549",
           "Kabinetas": "Vytauto g. 59, Biržai",
           "Atsakingas už": ""
@@ -1971,7 +1971,7 @@
         },
         {
           "Vardas, pavardė": "Valdas Daugėla",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 607 67266",
           "Kabinetas": "Kvietinių g.  19B, Gargždai",
           "Atsakingas už": ""
@@ -1990,7 +1990,7 @@
         },
         {
           "Vardas, pavardė": "Giedrė Vaitkutė",
-          "Pareigos": "L. e. patarėjo pareigas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 607 65761",
           "Kabinetas": "Paprūdžio g. 20, Plungė",
           "Atsakingas už": ""
