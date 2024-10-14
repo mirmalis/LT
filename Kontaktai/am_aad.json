@@ -153,6 +153,39 @@
       ]
     },
     {
+      "Pavadinimas": "Vidaus tyrimų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dainius Augustinas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 618 12499",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Jurij Albu",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 661 69497",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Kristina Šimonytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 648 59356",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Vaidotas Glinskis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 612 04775",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "M. K. Čiurlionio g. 3, 76303 Šiauliai"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Administravimo departamentas",
       "Darbuotojai": [
         {
@@ -2451,39 +2484,6 @@
           "Tel. numeris": "+370 683 97787",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Vidaus tyrimų skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Dainius Augustinas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 618 12499",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Jurij Albu",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 661 69497",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Kristina Šimonytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 648 59356",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Vaidotas Glinskis",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 612 04775",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "M. K. Čiurlionio g. 3, 76303 Šiauliai"
         }
       ]
     },
