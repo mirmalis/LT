@@ -5,6 +5,13 @@
       "Pavadinimas": "Kontaktai žiniasklaidai",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Milda Štaraitytė",
+          "Pareigos": "Viešųjų ryšių specialistė",
+          "Tel. numeris": "+370 647 76 740",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Ūdrys Staselka",
           "Pareigos": "Viešųjų ryšių specialistas",
           "Tel. numeris": "+370 644 10 861",
@@ -472,6 +479,13 @@
           "Tel. numeris": "+370 683 82 609",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Augalų nacionaliniai genetiniai išteklių miško medžių augalų grupė, Miško medžių sėklų saugykla"
+        },
+        {
+          "Vardas, pavardė": "Juras Zaukevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Jūratė Laukineitienė",

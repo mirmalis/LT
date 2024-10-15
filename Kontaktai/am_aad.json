@@ -630,6 +630,13 @@
           "Tel. numeris": "+370 605 02162",
           "El. paštas": "[email protected]",
           "Kabinetas": "Birutės g. 16 (110 kab.), 91204 Klaipėda"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Žiūkaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12 (203 kab.), 44279 Kaunas"
         }
       ]
     },
@@ -2390,13 +2397,6 @@
           "Kabinetas": "Kauno g. 69 (112 kab.), 62107 Alytus"
         },
         {
-          "Vardas, pavardė": "Justas Tacionis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 612 19537",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15,  03201 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Loreta Starovoitova",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 680 91131",
@@ -3028,13 +3028,6 @@
           "Tel. numeris": "+370 615 33542",
           "El. paštas": "[email protected]",
           "Kabinetas": "Ugniagesių g. 1A, 74001 Jurbarkas"
-        },
-        {
-          "Vardas, pavardė": "Andrius Šašys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 686 55719",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Ugniagesių g. 1a, 74001 Jurbarkas"
         },
         {
           "Vardas, pavardė": "Darius Rumšas",
