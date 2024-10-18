@@ -36,6 +36,13 @@
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Razbadauskas",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -149,13 +156,6 @@
           "Vardas, pavardė": "Jurgita Radėnienė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 612 43 249",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Razbadauskas",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }

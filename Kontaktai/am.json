@@ -298,9 +298,9 @@
           "Kabinetas": "309"
         },
         {
-          "Vardas, pavardė": "Kamilė Petrauskienė (Eksploatuoti netinkamos transporto priemonės, aplinkosauginiai reikalavimai transporto priemonių techninei priežiūrai, padangų, filtrų, amortizatorių, alyvos atliekos)",
+          "Vardas, pavardė": "Jurga Girdziušienė",
           "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 620 68704",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -687,6 +687,13 @@
           "Tel. numeris": "+370 614 27548",
           "El. paštas": "[email protected]",
           "Kabinetas": "108"
+        },
+        {
+          "Vardas, pavardė": "Kamilė Petrauskienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 620 68704",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Lina Čeičytė (Klimato kaitos finansai, Modernizavimo fondas)",
@@ -1371,13 +1378,6 @@
       "Pavadinimas": "Informacinių sistemų vystymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aleksandra Černiauskienė",
-          "Pareigos": "Projektų vadovė",
-          "Tel. numeris": "+370 695 49899",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Arūnas Smaliukas",
           "Pareigos": "Inžinierius programuotojas",
           "Tel. numeris": "",
@@ -1832,13 +1832,6 @@
           "Tel. numeris": "+370 695 65934",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Reda Skirkevičiūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 672 09141",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -1912,6 +1905,13 @@
           "Tel. numeris": "+370 695 65934",
           "El. paštas": "[email protected]",
           "Kabinetas": "504"
+        },
+        {
+          "Vardas, pavardė": "Reda Skirkevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 672 09141",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Robertas Bulkevičius",

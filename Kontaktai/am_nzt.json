@@ -295,6 +295,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Danguolė Dervinienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 86 154",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Elena Jucikienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 978",
@@ -2982,6 +2988,12 @@
     {
       "Pavadinimas": "Informacinių technologijų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Airidas Gabinaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Darius Laukaitis",
           "Pareigos": "Vyriausiasis specialistas",
