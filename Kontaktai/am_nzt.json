@@ -784,7 +784,7 @@
         },
         {
           "Vardas, pavardė": "Saulius Stončius",
-          "Pareigos": "Vyriausiasis specialistas, atliekantis vedėjo funkcijas",
+          "Pareigos": "Skyriaus patarėjas, atliekantis vedėjo funkcijas",
           "Tel. numeris": "+370 706 85 104",
           "El. paštas": "[email protected]"
         }
@@ -2431,6 +2431,12 @@
           "Vardas, pavardė": "Irena Žvirzdinienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 706 85 716",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Rusteikienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
