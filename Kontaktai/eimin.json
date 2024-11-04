@@ -398,12 +398,6 @@
       "Pavadinimas": "Vidaus kontrolės įgyvendinimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aistė Raudoniūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37064418429",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Darius Grebliauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37068751005",
@@ -639,6 +633,12 @@
           "Vardas, pavardė": "Danutė Petrylaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37066781123",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Eglė Bajorinė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37063756852",
           "El. paštas": "[email protected]"
         },
         {
@@ -1220,6 +1220,12 @@
       "Pavadinimas": "Europos Sąjungos investicijų planavimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Agnė Petrauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37063771865",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Aurelija Kazlauskienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37061129027",
@@ -1232,6 +1238,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Inga Samsone",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37063771529",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Olga CelovaKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065676512",
@@ -1241,12 +1253,6 @@
           "Vardas, pavardė": "Renata Čitavičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37069611091",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vilija Riškienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069063551",
           "El. paštas": "[email protected]"
         },
         {

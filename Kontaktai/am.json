@@ -900,6 +900,13 @@
       "Pavadinimas": "Taršos prevencijos politikos grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Agnė Prušinskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 698 12631",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "322"
+        },
+        {
           "Vardas, pavardė": "Dovilė Navickienė",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 603 54457",
@@ -1413,13 +1420,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Jaroslav Antoni Siroic",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Juliana Vorono-Baranovska",
           "Pareigos": "Kompiuterių sistemų analitikė",
           "Tel. numeris": "+370 616 05452",
@@ -1504,13 +1504,6 @@
     {
       "Pavadinimas": "Europos Sąjungos ir tarptautinių ryšių skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Agnė Prušinskaitė (Aplinkos ministerijos pozicijos dėl EK teisės aktų, kitų institucijų pozicijų derinimas, ES teisės aktų įgyvendinimo planai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 698 12631",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "322"
-        },
         {
           "Vardas, pavardė": "Eimantė Lastovkaitė",
           "Pareigos": "Vedėja",
@@ -1790,13 +1783,6 @@
           "Vardas, pavardė": "Orinta Naudžiūnė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 616 83117",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Rita Lebrikienė (apskaitos ir atskaitomybės (AM), VB planavimo klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 615 39975",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

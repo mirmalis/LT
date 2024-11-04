@@ -52,13 +52,6 @@
           "Atsakingas už": "Miškotvarkos ir miškininkystės klausimų kuravimas"
         },
         {
-          "Vardas, pavardė": "Rūta Malevskytė",
-          "Pareigos": "Duomenų apsaugos pareigūnė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Ūdrys Staselka",
           "Pareigos": "Viešųjų ryšių specialistas",
           "Tel. numeris": "+370 644 10 861",
@@ -71,6 +64,13 @@
           "Tel. numeris": "+370 682 36028",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Finansų klausimai"
+        },
+        {
+          "Vardas, pavardė": "Vilius Benušis",
+          "Pareigos": "Duomenų apsaugos pareigūnas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
         }
       ]
     },

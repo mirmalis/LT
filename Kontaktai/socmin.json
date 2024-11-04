@@ -198,7 +198,7 @@
         },
         {
           "Vardas, pavardė": "Jūratė Baublienė",
-          "Pareigos": "Patarėja (Tarptautinė darbo organizacija, Jungtinės Tautos, Žmogaus teisių taryba, Europos Teisingumo Teismo bylos, Lietuvos atstovų į tarptautines organizacijas kandidatavimo kampanijos, Europos Taryba)",
+          "Pareigos": "Vyresnioji patarėja (Tarptautinė darbo organizacija, Jungtinės Tautos, Žmogaus teisių taryba, Europos Teisingumo Teismo bylos, Lietuvos atstovų į tarptautines organizacijas kandidatavimo kampanijos, Europos Taryba)",
           "Tel. numeris": "+370 659 24812",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 306 kab."
@@ -318,7 +318,7 @@
         },
         {
           "Vardas, pavardė": "Teresa Roščinska",
-          "Pareigos": "Patarėja (vyresnio amžiaus asmenų ir vaikų politikos klausimais)",
+          "Pareigos": "Vyresnioji patarėja (vyresnio amžiaus asmenų ir vaikų politikos klausimais)",
           "Tel. numeris": "+370 658 59325",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 203 kab."
@@ -371,6 +371,13 @@
           "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
         },
         {
+          "Vardas, pavardė": "Jurgita Mikailionienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 681 97753",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
+        },
+        {
           "Vardas, pavardė": "Justinas Skierus",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 600 01848",
@@ -404,6 +411,13 @@
           "Tel. numeris": "+370 662 02820",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
+        },
+        {
+          "Vardas, pavardė": "Vaiva Montrimienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 659 24811",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
         }
       ]
     },
@@ -435,13 +449,6 @@
           "Vardas, pavardė": "Indrė Akaveckienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 658 60790",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 230, 231, 232, 238 kab."
-        },
-        {
-          "Vardas, pavardė": "Ingrida Kliukienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 612 86671",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 230, 231, 232, 238 kab."
         },
@@ -644,13 +651,6 @@
           "Vardas, pavardė": "Raminta Zakarevičiūtė-Šiugždinienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 658 60994",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
-        },
-        {
-          "Vardas, pavardė": "Vaiva Montrimienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 659 24811",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 113 kab."
         }
@@ -917,7 +917,7 @@
         },
         {
           "Vardas, pavardė": "Ernestas Indriulis",
-          "Pareigos": "Vyriausiasis specialistas ( ministerijos programų, jos administracijos padalinių ir jos valdymo srityje esančių įstaigų vidaus auditas)",
+          "Pareigos": "Patarėjas (ministerijos programų, jos administracijos padalinių ir jos valdymo srityje esančių įstaigų vidaus auditas)",
           "Tel. numeris": "+370 658 60516",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 234 kab."
@@ -1694,7 +1694,7 @@
         },
         {
           "Vardas, pavardė": "Simona Mikalauskaitė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 659 30088",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13,  308 kab."
@@ -1788,7 +1788,7 @@
         },
         {
           "Vardas, pavardė": "Rokas Keršys",
-          "Pareigos": "Vyresnysis patarėjas (analitika darbo santykių klausimais)",
+          "Pareigos": "Patarėjas (analitika darbo santykių klausimais)",
           "Tel. numeris": "+370 611 15318",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 107 kab."
