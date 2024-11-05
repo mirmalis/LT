@@ -113,7 +113,7 @@
         {
           "Vardas, pavardė": "Ieva Lizūnaitė",
           "Pareigos": "LR žemės ūkio atašė LR diplomatinėje atstovybėje VFR",
-          "Tel. numeris": "",
+          "Tel. numeris": "+49 30 890 681 23",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -141,7 +141,7 @@
         {
           "Vardas, pavardė": "Mindaugas Simonaitis",
           "Pareigos": "LR žemės ūkio ir komercijos atašė LR diplomatinėje atstovybėje JAV, Vašingtone",
-          "Tel. numeris": "",
+          "Tel. numeris": "+ 1 202 234 5860",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -319,6 +319,13 @@
     {
       "Pavadinimas": "Išmokų už plotus skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Algis Bagdonas",
+          "Pareigos": "Vyriausiasis specialistas (KPP 2014-2020)",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "231"
+        },
         {
           "Vardas, pavardė": "Gediminas Dūdėnas",
           "Pareigos": "Vyriausiasis specialistas",
@@ -1147,13 +1154,6 @@
           "Tel. numeris": "+37052391 139",
           "El. paštas": "[email protected]",
           "Kabinetas": "362"
-        },
-        {
-          "Vardas, pavardė": "Loreta Mačytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37052391282",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "363"
         },
         {
           "Vardas, pavardė": "Natalija Guseva",
