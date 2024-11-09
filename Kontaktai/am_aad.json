@@ -236,7 +236,7 @@
           "Kabinetas": "M. K. Čiurlionio g. 3 (2.2 kab.), 76303 Šiauliai"
         },
         {
-          "Vardas, pavardė": "Ieva Krivičienė",
+          "Vardas, pavardė": "Ieva Krivičienė (archyvarė)",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 684 94459",
           "El. paštas": "[email protected]",
@@ -297,6 +297,13 @@
           "Tel. numeris": "+370 686 18922",
           "El. paštas": "[email protected]",
           "Kabinetas": "Žemaitės g. 6 (205 kab.), 03117 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Valdemara Kuktienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 642 07005",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
           "Vardas, pavardė": "Viktorija Dridi (archyvarė)",
@@ -687,7 +694,7 @@
         },
         {
           "Vardas, pavardė": "Neringa Pikturnaitė",
-          "Pareigos": "Vyresnioji specialistė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 647 66901",
           "El. paštas": "[email protected]",
           "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
@@ -1252,13 +1259,6 @@
           "Kabinetas": "Rotušės a. 12 (102 kab.), 44279 Kaunas"
         },
         {
-          "Vardas, pavardė": "Emilija Dedelaitė",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Rotušės a. 12 (102 kab.), 44279 Kaunas"
-        },
-        {
           "Vardas, pavardė": "Haroldas Čekavičius",
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+370 646 62591",
@@ -1753,14 +1753,14 @@
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+370 610 60531",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Miškininkų g. 5, 65156 Varėna"
+          "Kabinetas": "Aušros g. 15, 65190 Varėna"
         },
         {
           "Vardas, pavardė": "Antanas Krušniauskas",
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+370 665 05302",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Miškininkų g. 5, 65156 Varėna"
+          "Kabinetas": "Aušros g. 15, 65190 Varėna"
         },
         {
           "Vardas, pavardė": "Artūras Merkinykas",
@@ -2530,7 +2530,7 @@
       ]
     },
     {
-      "Pavadinimas": "Projektas \"Aplinkos apsaugos valstybinės kontrolės informacinės sistemos sukūrimas\"",
+      "Pavadinimas": "Projektas „Aplinkos apsaugos valstybinės kontrolės informacinės sistemos sukūrimas“",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Andžejus Naimovičius",
@@ -2551,7 +2551,7 @@
           "Pareigos": "Projekto vadovas",
           "Tel. numeris": "+370 612 19537",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15,  03201 Vilnius"
+          "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
           "Vardas, pavardė": "Karolina Tichomirova",
@@ -2603,7 +2603,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 661 09587",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Kranto g. 8 (3 kab.), 59114 Prienai"
+          "Kabinetas": "Vytauto g. 53, 59123 Prienai"
         },
         {
           "Vardas, pavardė": "Gytis Geraltauskas",
@@ -2650,7 +2650,7 @@
         {
           "Vardas, pavardė": "Oresta Šerkšnaitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 606 62426",
           "El. paštas": "[email protected]",
           "Kabinetas": "V. Kudirkos g. 3, 66120 Druskininkai"
         },
@@ -2666,12 +2666,12 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 686 76002",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Miškininkų g. 5, 65156 Varėna"
+          "Kabinetas": "Aušros g. 15, 65190 Varėna"
         },
         {
           "Vardas, pavardė": "Sigitas Kvaraciejus",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+ 370 618 56142",
+          "Tel. numeris": "+370 618 56142",
           "El. paštas": "[email protected]",
           "Kabinetas": "V. Kudirkos g. 3, 66120 Druskininkai"
         },
@@ -2680,14 +2680,14 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 687 88593",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Miškininkų g. 5, 65156 Varėna"
+          "Kabinetas": "Aušros g. 15, 65190 Varėna"
         },
         {
           "Vardas, pavardė": "Vilius Zalanskas",
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+370 665 93438",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Miškininkų g. 5, 65156 Varėna"
+          "Kabinetas": "Aušros g. 15, 65190 Varėna"
         }
       ]
     },

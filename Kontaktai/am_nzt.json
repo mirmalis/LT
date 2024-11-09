@@ -253,18 +253,6 @@
       "Pavadinimas": "Archyvinių dokumentų klausimai",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Audronė Motiejūnaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 86 158",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Aušrelė Rudokienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 047",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Birutė Kaziukonienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 662",
@@ -1146,7 +1134,7 @@
         {
           "Vardas, pavardė": "Irma Garuolienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 706 85 514",
           "El. paštas": "[email protected]"
         },
         {
@@ -1278,7 +1266,7 @@
         {
           "Vardas, pavardė": "Roberta Ripinskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 706 85 865",
           "El. paštas": "[email protected]"
         },
         {
@@ -1332,7 +1320,7 @@
         {
           "Vardas, pavardė": "Toma Geštautienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 706 85 902",
           "El. paštas": "[email protected]"
         },
         {
@@ -1561,6 +1549,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Giedrė Rukienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 601",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Gintaras Zubrickas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "",
@@ -1698,12 +1692,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Asta Grikštienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 413",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Asta Valiūnienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 440",
@@ -1803,12 +1791,6 @@
           "Vardas, pavardė": "Gema Linkienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 706 85 473",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Giedrė Rukienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 601",
           "El. paštas": "[email protected]"
         },
         {

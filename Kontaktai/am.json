@@ -157,29 +157,8 @@
       ]
     },
     {
-      "Pavadinimas": "Architektūros ir inovacijų politikos grupė",
+      "Pavadinimas": "Architektūros ir statybos politikos grupė",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aleksandras Jesinas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 665 17416",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Algimantė Treinienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 646 93675",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Artūras Sakalauskas",
-          "Pareigos": "Vyresn. patarėjas",
-          "Tel. numeris": "+370 616 24872",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
         {
           "Vardas, pavardė": "Asta Rokickienė",
           "Pareigos": "Grupės vadovė",
@@ -188,16 +167,35 @@
           "Kabinetas": "405"
         },
         {
-          "Vardas, pavardė": "Aurimas Petniūnas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 618 23454",
+          "Vardas, pavardė": "Daiva Vencienė",
+          "Pareigos": "Analitikė",
+          "Tel. numeris": "+370 616 34857",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Daiva Vencienė",
-          "Pareigos": "Analitikė",
-          "Tel. numeris": "+370 616 34857",
+          "Vardas, pavardė": "Žilvinas Sperauskas",
+          "Pareigos": "Analitikas",
+          "Tel. numeris": "+370 646 84725",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Architektūros ir urbanistikos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Algimantė Treinienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 646 93675",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Aurimas Petniūnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 618 23454",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -209,9 +207,75 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Ingrida Ignatavičienė",
+          "Vardas, pavardė": "Sandra Jeglinskė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 32944",
+          "Tel. numeris": "+370 671 13753",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Statybos normavimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dainius Vaičiūnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 616 35652",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Marius Rimkevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 620 61681",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Renata Planutienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 696 82448",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rimantas Dobrovolskis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 665 28927",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rūta Barisaitė-Klimavičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 685 59457",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vilia Kriaučiukaitė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 683 95454",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Inovacijų ir statybos produktų klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Artūras Sakalauskas",
+          "Pareigos": "Vyresn. patarėjas",
+          "Tel. numeris": "+370 616 24872",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Emanuelis Mituzas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 646 30265",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -221,11 +285,23 @@
           "Tel. numeris": "+370 600 66552",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Želdynų ir kraštovaizdžio urbanizuotose teritorijose klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aleksandras Jesinas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 665 17416",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Sandra Jeglinskė",
+          "Vardas, pavardė": "Ingrida Ignatavičienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 671 13753",
+          "Tel. numeris": "+370 695 32944",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -243,7 +319,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aistė Rakauskienė (Bendrieji atliekų tvarkymo reikalavimai,  atliekų nebelaikymas atliekomis, Atliekų tvarkytojų valstybės registras)",
-          "Pareigos": "Vyr. patarėja",
+          "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 696 80518",
           "El. paštas": "[email protected]",
           "Kabinetas": "308"
@@ -406,6 +482,13 @@
           "Tel. numeris": "+370 695 31922",
           "El. paštas": "[email protected]",
           "Kabinetas": "407"
+        },
+        {
+          "Vardas, pavardė": "Vilius Ragauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Živilė Liberienė",
@@ -829,74 +912,6 @@
       ]
     },
     {
-      "Pavadinimas": "Statybos politikos grupė",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Asta Rokickienė",
-          "Pareigos": "Architektūros ir inovacijų politikos grupės vadovė, laikinai vykdanti grupės vadovo funkcijas",
-          "Tel. numeris": "+370 695 67967",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "405"
-        },
-        {
-          "Vardas, pavardė": "Dainius Vaičiūnas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 616 35652",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Emanuelis Mituzas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 646 30265",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Marius Rimkevičius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 620 61681",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Renata Planutienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 696 82448",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Rimantas Dobrovolskis",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 665 28927",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Rūta Barisaitė-Klimavičienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 685 59457",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vilia Kriaučiukaitė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 683 95454",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Žilvinas Sperauskas",
-          "Pareigos": "Analitikas",
-          "Tel. numeris": "+370 646 84725",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Taršos prevencijos politikos grupė",
       "Darbuotojai": [
         {
@@ -926,133 +941,6 @@
           "Tel. numeris": "+370 686 46087",
           "El. paštas": "[email protected]",
           "Kabinetas": "319"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Beata Vilimaitė Šilobritienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 645 89487",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Dalia Židonytė (Taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 40243",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Raulinaitis (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 695 41925",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Rasa Griškevičienė (Planų ir programų strateginio pasekmių aplinkai vertinimo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 11585",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Vandentvarkos ir nuotekų tvarkymo politikos klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Evelina Cuzanauskienė (nuotekų tvarkymo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 696 93454",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "111"
-        },
-        {
-          "Vardas, pavardė": "Irmantas Valūnas (geriamojo vandens tiekimo ir nuotekų tvarkymo klausimai)",
-          "Pareigos": "Vyresn. patarėjas",
-          "Tel. numeris": "+370 684 04000",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "112"
-        },
-        {
-          "Vardas, pavardė": "Judita Vaišnorienė (geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 54136",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "119"
-        },
-        {
-          "Vardas, pavardė": "Kastytis Gedminas (nuotekų tvarkymo įrenginių taikymo klausimai)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 618 30134",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "119"
-        },
-        {
-          "Vardas, pavardė": "Marija Meišutovič-Akhtarieva (vandentvarkos sektoriaus politikos formavimo ir įgyvendinimo klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 618 78298",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "119"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Vandenų  ir žemės gelmių išteklių politikos klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Jolanta Krasovskienė (paviršinių vandens telkinių tvarkymo, plaukiojimo priemonių naudojimo (ne saugomose teritorijose), upių ir ežerų kadastro, tvenkinių įrengimo, ežerų patvenkimo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 646 89902",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "107"
-        },
-        {
-          "Vardas, pavardė": "Povilas Rudinskis",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 695 31984",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Tatjana Zabulienė (potvynių rizikos valdymo, nepratekamų dirbtinių vandens telkinių įrengimo, vandens išgavimo iš paviršinių vandens telkinių, žemės ūkio taršos valdymo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 34215",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "111"
-        },
-        {
-          "Vardas, pavardė": "Tomas Želvys (Vandenų ir žemės gelmių apsauga ir naudojimas, vandens telkinių valdymas)",
-          "Pareigos": "Vyresn. patarėjas",
-          "Tel. numeris": "+370 696 74940",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "112"
-        },
-        {
-          "Vardas, pavardė": "Vaidas Jusis (kietųjų naudingųjų iškasenų naudojimas, geoterminė energija)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 698 15052",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Valentina Tuskenytė (požeminio vandens ir užterštų teritorijų klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 86821",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "107"
-        },
-        {
-          "Vardas, pavardė": "Vida Kučinskienė (jūros aplinkos apsaugos klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 682 10372",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -1112,6 +1000,133 @@
           "Tel. numeris": "+370 695 41940",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Beata Vilimaitė Šilobritienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 645 89487",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Dalia Židonytė (Taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 40243",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Raulinaitis (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 41925",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Rasa Griškevičienė (Planų ir programų strateginio pasekmių aplinkai vertinimo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 11585",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Vandenų  ir žemės gelmių išteklių politikos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jolanta Krasovskienė (paviršinių vandens telkinių tvarkymo, plaukiojimo priemonių naudojimo (ne saugomose teritorijose), upių ir ežerų kadastro, tvenkinių įrengimo, ežerų patvenkimo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 646 89902",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "107"
+        },
+        {
+          "Vardas, pavardė": "Povilas Rudinskis",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 695 31984",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Tatjana Zabulienė (potvynių rizikos valdymo, nepratekamų dirbtinių vandens telkinių įrengimo, vandens išgavimo iš paviršinių vandens telkinių, žemės ūkio taršos valdymo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 34215",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "111"
+        },
+        {
+          "Vardas, pavardė": "Tomas Želvys (Vandenų ir žemės gelmių apsauga ir naudojimas, vandens telkinių valdymas)",
+          "Pareigos": "Vyresn. patarėjas",
+          "Tel. numeris": "+370 696 74940",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "112"
+        },
+        {
+          "Vardas, pavardė": "Vaidas Jusis (kietųjų naudingųjų iškasenų naudojimas, geoterminė energija)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 698 15052",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Valentina Tuskenytė (požeminio vandens ir užterštų teritorijų klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 86821",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "107"
+        },
+        {
+          "Vardas, pavardė": "Vida Kučinskienė (jūros aplinkos apsaugos klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 682 10372",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Vandentvarkos ir nuotekų tvarkymo politikos klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Evelina Cuzanauskienė (nuotekų tvarkymo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 696 93454",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "111"
+        },
+        {
+          "Vardas, pavardė": "Irmantas Valūnas (geriamojo vandens tiekimo ir nuotekų tvarkymo klausimai)",
+          "Pareigos": "Vyresn. patarėjas",
+          "Tel. numeris": "+370 684 04000",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "112"
+        },
+        {
+          "Vardas, pavardė": "Judita Vaišnorienė (geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 54136",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "119"
+        },
+        {
+          "Vardas, pavardė": "Kastytis Gedminas (nuotekų tvarkymo įrenginių taikymo klausimai)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 618 30134",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "119"
+        },
+        {
+          "Vardas, pavardė": "Marija Meišutovič-Akhtarieva (vandentvarkos sektoriaus politikos formavimo ir įgyvendinimo klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 618 78298",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "119"
         }
       ]
     },
@@ -1451,6 +1466,13 @@
           "Vardas, pavardė": "Pranciškus Ambrazas",
           "Pareigos": "Inžinierius programuotojas",
           "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vaidotas Valuckas",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "+370 695 39160",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -1815,6 +1837,39 @@
       ]
     },
     {
+      "Pavadinimas": "Teisės taikymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Lina Mikuckienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 695 65934",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "504"
+        },
+        {
+          "Vardas, pavardė": "Reda Skirkevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 672 09141",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Robertas Bulkevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 614 02149",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rūta Slidžiauskaitė-Maskoliūnė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 648 76041",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Teisėkūros klausimai",
       "Darbuotojai": [
         {
@@ -1872,39 +1927,6 @@
           "Tel. numeris": "+370 615 82713",
           "El. paštas": "[email protected]",
           "Kabinetas": "213"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Teisės taikymo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Lina Mikuckienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 695 65934",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "504"
-        },
-        {
-          "Vardas, pavardė": "Reda Skirkevičiūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 672 09141",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Robertas Bulkevičius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 614 02149",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Rūta Slidžiauskaitė-Maskoliūnė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 648 76041",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
