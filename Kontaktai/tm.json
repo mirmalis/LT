@@ -20,7 +20,7 @@
         },
         {
           "Vardas, pavardė": "Ewelina Dobrowolska",
-          "Pareigos": "Ministrė",
+          "Pareigos": "Laikinai einanti teisingumo ministro pareigas",
           "Tel. numeris": "+370 678 46964",
           "El. paštas": "[email protected]",
           "Kabinetas": "302"
@@ -837,6 +837,13 @@
           "Kabinetas": "503"
         },
         {
+          "Vardas, pavardė": "Beatričė Jasinskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 600 42636",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "503"
+        },
+        {
           "Vardas, pavardė": "Birutė Tebėrienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 645 78664",
@@ -859,7 +866,7 @@
         },
         {
           "Vardas, pavardė": "Justina Ščerbaitė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "L.e.p. skyriaus vedėja",
           "Tel. numeris": "+370 671 86309",
           "El. paštas": "[email protected]",
           "Kabinetas": "503"
@@ -886,11 +893,11 @@
           "Kabinetas": "007"
         },
         {
-          "Vardas, pavardė": "Simona Delekaitė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 600 42636",
+          "Vardas, pavardė": "Tadas Bružas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 618 51384",
           "El. paštas": "[email protected]",
-          "Kabinetas": "406"
+          "Kabinetas": "108"
         }
       ]
     },
@@ -1007,7 +1014,7 @@
         },
         {
           "Vardas, pavardė": "Rolandas Rutkauskas",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Patarėjas (parengties pareigūnas)",
           "Tel. numeris": "+370 605 94308",
           "El. paštas": "[email protected]",
           "Kabinetas": "114"

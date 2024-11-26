@@ -285,6 +285,13 @@
           "Tel. numeris": "+370 600 66552",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vytenis Poviliūnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 35081",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -339,7 +346,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Donata Jankauskaitė (GPAIS vystymo klausimai, GPAIS tobulinimo darbo grupė)",
+          "Vardas, pavardė": "Donata Jankauskaitė (GPAIS ir ATVR vystymo klausimai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 616 20604",
           "El. paštas": "[email protected]",
@@ -402,18 +409,18 @@
           "Kabinetas": "305"
         },
         {
-          "Vardas, pavardė": "Rasa Uselytė (Stebėsena ir analizė)",
+          "Vardas, pavardė": "Rasa Uselytė (atliekų sektoriaus stebėsena ir analizė)",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 695 11205",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "308"
         },
         {
-          "Vardas, pavardė": "Saulė Deveikytė (Vienkartinio plastiko mažinimo strategijos formavimas, įgyvendinimas, koordinavimas, gamintojo atsakomybės principo taikymas žvejybos įrankių, kuriuose yra plastiko, vienkartinių plastikinių gaminių gamintojams, importuotojams)",
+          "Vardas, pavardė": "Saulė Deveikytė (gamintojo atsakomybės principo taikymo žvejybos įrankių, kuriuose yra plastiko, vienkartinių plastikinių gaminių gamintojams, importuotojams klausimai)",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 616 43435",
           "El. paštas": "[email protected]",
-          "Kabinetas": "302"
+          "Kabinetas": "303"
         },
         {
           "Vardas, pavardė": "Vilma Slavinskienė",
@@ -486,7 +493,7 @@
         {
           "Vardas, pavardė": "Vilius Ragauskas",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 695 39160",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -915,13 +922,6 @@
       "Pavadinimas": "Taršos prevencijos politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Prušinskaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 698 12631",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "322"
-        },
-        {
           "Vardas, pavardė": "Dovilė Navickienė",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 603 54457",
@@ -1039,6 +1039,13 @@
     {
       "Pavadinimas": "Vandenų  ir žemės gelmių išteklių politikos klausimai",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Agnė Prušinskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 698 12631",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "322"
+        },
         {
           "Vardas, pavardė": "Jolanta Krasovskienė (paviršinių vandens telkinių tvarkymo, plaukiojimo priemonių naudojimo (ne saugomose teritorijose), upių ir ežerų kadastro, tvenkinių įrengimo, ežerų patvenkimo klausimai)",
           "Pareigos": "Patarėja",
@@ -1414,13 +1421,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Giedrė Kekienė",
-          "Pareigos": "Kompiuterių sistemų analitikė, laikinai vykdanti skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370 695 62973",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Giedrė Kurmilavičienė",
           "Pareigos": "Kompiuterių sistemų analitikė",
           "Tel. numeris": "+370 669 10228",
@@ -1443,7 +1443,7 @@
         },
         {
           "Vardas, pavardė": "Laimis Runkevičius",
-          "Pareigos": "Kompiuterių sistemų analitikas",
+          "Pareigos": "Kompiuterių sistemų analitikas, vykdantis skyriaus vedėjo funkcijas",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -1489,7 +1489,7 @@
           "Kabinetas": "105"
         },
         {
-          "Vardas, pavardė": "Indrė Mažeikienė",
+          "Vardas, pavardė": "Indrė Dagelė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 695 10279",
           "El. paštas": "[email protected]",
@@ -1497,7 +1497,7 @@
         },
         {
           "Vardas, pavardė": "Veslava Švedė",
-          "Pareigos": "Patarėja, vykdanti skyriaus vedėjo funkcijas",
+          "Pareigos": "Vedėja",
           "Tel. numeris": "+370 616 06552",
           "El. paštas": "[email protected]",
           "Kabinetas": "105"
@@ -1507,13 +1507,6 @@
     {
       "Pavadinimas": "Centralizuoto vidaus audito skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Daiva Tarutė (laikinai vykdanti skyriaus vedėjo funkcijas)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 696 52058",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "318"
-        },
         {
           "Vardas, pavardė": "Diana Gedziuševičiūtė",
           "Pareigos": "Vyr. specialistė",
@@ -1542,7 +1535,7 @@
         },
         {
           "Vardas, pavardė": "Gintarė Gulbinė (Aplinkos ministerijos pozicijos dėl ES teisės aktų, ES Aplinkos tarybos ir neformalūs ministrų susitikimai, ES teisės pažeidimo procedūros, neformalūs paklausimai)",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 696 86219",
           "El. paštas": "[email protected]",
           "Kabinetas": "313"
@@ -1753,13 +1746,6 @@
       "Pavadinimas": "Strateginio ir finansų valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Dalia Bieliauskaitė (apskaitos ir atskaitomybės (vykdomų programų, turto, dotacijų) klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 696 83911",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Gintaras Binkauskas (Rizikų valdymas)",
           "Pareigos": "Analitikas",
           "Tel. numeris": "+370 684 66899",
@@ -1795,7 +1781,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Jurga Aleknienė (Nacionalinė aplinkos apsaugos darbotvarkė, AM plėtros programa, LRV programos įgyvendinimas)",
+          "Vardas, pavardė": "Jurga Bagdonaitė (Nacionalinė aplinkos apsaugos darbotvarkė, AM plėtros programa, LRV programos įgyvendinimas)",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 696 61972",
           "El. paštas": "[email protected]",
@@ -1805,6 +1791,13 @@
           "Vardas, pavardė": "Orinta Naudžiūnė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 616 83117",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Šematulskienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 615 39975",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

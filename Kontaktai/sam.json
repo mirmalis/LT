@@ -321,6 +321,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Jonas Bartlingas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 5 266 1429",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Miglė Noreikaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 219 3334",
@@ -576,12 +582,6 @@
     {
       "Pavadinimas": "Strateginio planavimo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Daiva Dudutienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 205 5284",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Dalia Valaitienė",
           "Pareigos": "Patarėja",
