@@ -268,6 +268,12 @@
           "Pareigos": "Projektų vadovė",
           "Mobilus tel. nr.": "+37060286791",
           "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vilma Jasinskienė",
+          "Pareigos": "Skyriaus vadovė",
+          "Mobilus tel. nr.": "+37067979711",
+          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -428,6 +434,12 @@
     {
       "Pavadinimas": "Tvarios aplinkos projektų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Agota Laureckytė",
+          "Pareigos": "Projektų vadovė",
+          "Mobilus tel. nr.": "+37060283610",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Antonas Misevičius",
           "Pareigos": "Programos vadovas",
@@ -801,6 +813,12 @@
       "Pavadinimas": "Plėtros skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aurelija Prašmuntaitė",
+          "Pareigos": "Projekto veiklų koordinatorė",
+          "Mobilus tel. nr.": "+37060284927",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Aušra Šmitienė",
           "Pareigos": "LIFE IP EnerLIT projekto grupės vadovė",
           "Mobilus tel. nr.": "+37065054299",
@@ -1068,7 +1086,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Arūnas Dirgėla",
-          "Pareigos": "Vyriausiasis specialistas (patikrų)",
+          "Pareigos": "Vyriausiasis patikrų specialistas",
           "Mobilus tel. nr.": "+37061150443",
           "El. paštas": "[email protected]"
         },
@@ -1080,13 +1098,13 @@
         },
         {
           "Vardas, pavardė": "Gytis Milašius",
-          "Pareigos": "Vyriausiasis specialistas (patikrų)",
+          "Pareigos": "Vyriausiasis patikrų specialistas",
           "Mobilus tel. nr.": "+37061513522",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Ieva Virbalytė",
-          "Pareigos": "Vyriausioji specialistė (patikrų)",
+          "Pareigos": "Vyriausioji patikrų specialistė",
           "Mobilus tel. nr.": "+37064572401",
           "El. paštas": "[email protected]"
         },
@@ -1110,7 +1128,7 @@
         },
         {
           "Vardas, pavardė": "Mindaugas Kuosa",
-          "Pareigos": "Vyriausiasis specialistas (patikrų)",
+          "Pareigos": "Vyriausiasis patikrų specialistas",
           "Mobilus tel. nr.": "+37060284673",
           "El. paštas": "[email protected]"
         },
@@ -1180,7 +1198,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Alita Zolubienė",
-          "Pareigos": "Skyriaus vedėja",
+          "Pareigos": "Skyriaus vadovė",
           "Mobilus tel. nr.": "+37060283349",
           "El. paštas": "[email protected]"
         },

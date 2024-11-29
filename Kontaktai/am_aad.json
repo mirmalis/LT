@@ -2277,95 +2277,6 @@
       ]
     },
     {
-      "Pavadinimas": "Vilniaus miškų kontrolės skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Arūnas Trapikas",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
-        },
-        {
-          "Vardas, pavardė": "Daniil Lukin",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Smolensko g. 15 (109 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Henrikas Pšitulskis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Taikos g. 6 (2 kab.), 26107 Elektrėnai"
-        },
-        {
-          "Vardas, pavardė": "Ivona Okolovič",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Nepriklausomybės g. 33, 17115 Šalčininkai"
-        },
-        {
-          "Vardas, pavardė": "Marijonas Juškauskas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Smolensko g. 15 (301 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Nerijus Smaidžiūnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Smolensko g. 15 (111 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Pavel Svorobovič",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Nepriklausomybės g. 33, 17115 Šalčininkai"
-        },
-        {
-          "Vardas, pavardė": "Pranas Bernotas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Vilniaus g. 86, 19120 Širvintos"
-        },
-        {
-          "Vardas, pavardė": "Renata Čuvalova",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
-        },
-        {
-          "Vardas, pavardė": "Romualdas Sakalauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Vilniaus g. 86, 19120 Širvintos"
-        },
-        {
-          "Vardas, pavardė": "Stasys Rekašius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Taikos g. 6 (2 kab.), 05255 Elektrėnai"
-        },
-        {
-          "Vardas, pavardė": "Vaidas Jasevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Smolensko g. 15  (111 kab.), 03201 Vilnius"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Kauno miškų kontrolės skyrius",
       "Darbuotojai": [
         {
@@ -2451,6 +2362,95 @@
           "Tel. numeris": "",
           "El. paštas": "",
           "Kabinetas": "Senamiesčio g. 6 (2 kab.), 67105 Lazdijai"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Vilniaus miškų kontrolės skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Arūnas Trapikas",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
+        },
+        {
+          "Vardas, pavardė": "Daniil Lukin",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Smolensko g. 15 (109 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Henrikas Pšitulskis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Taikos g. 6 (2 kab.), 26107 Elektrėnai"
+        },
+        {
+          "Vardas, pavardė": "Ivona Okolovič",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Nepriklausomybės g. 33, 17115 Šalčininkai"
+        },
+        {
+          "Vardas, pavardė": "Marijonas Juškauskas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Smolensko g. 15 (301 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Nerijus Smaidžiūnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Smolensko g. 15 (111 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Pavel Svorobovič",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Nepriklausomybės g. 33, 17115 Šalčininkai"
+        },
+        {
+          "Vardas, pavardė": "Pranas Bernotas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Vilniaus g. 86, 19120 Širvintos"
+        },
+        {
+          "Vardas, pavardė": "Renata Čuvalova",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Taikos g. 1 (1 kab.), 18113 Švenčionys"
+        },
+        {
+          "Vardas, pavardė": "Romualdas Sakalauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Vilniaus g. 86, 19120 Širvintos"
+        },
+        {
+          "Vardas, pavardė": "Stasys Rekašius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Taikos g. 6 (2 kab.), 05255 Elektrėnai"
+        },
+        {
+          "Vardas, pavardė": "Vaidas Jasevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Smolensko g. 15  (111 kab.), 03201 Vilnius"
         }
       ]
     },
