@@ -203,6 +203,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Greta Jankauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 266 1401",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Inga Balčiūnienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 6 377 2792",
@@ -324,6 +330,12 @@
           "Vardas, pavardė": "Jonas Bartlingas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 5 266 1429",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Lina Kulytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -627,6 +639,12 @@
           "Vardas, pavardė": "Egidija Roževič",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 205 5286",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Neringa Kamenevienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 266 1453",
           "El. paštas": "[email protected]"
         },
         {
@@ -1077,8 +1095,14 @@
         },
         {
           "Vardas, pavardė": "Justė Pečeliūnaitė",
-          "Pareigos": "Vedėja, laikinai vykdanti pareigas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1419",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Nerijus Songaila",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 5 219 3348",
           "El. paštas": "[email protected]"
         }
       ]

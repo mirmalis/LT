@@ -265,67 +265,6 @@
       ]
     },
     {
-      "Pavadinimas": "Horizontalios politikos ir projektų valdymo grupė",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Audra Mikalauskaitė",
-          "Pareigos": "Vyriausioji patarėja (projektinio valdymo bei savivaldybių koordinavimo klausimais)",
-          "Tel. numeris": "+370 620 44972",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 204 kab."
-        },
-        {
-          "Vardas, pavardė": "Daina Urbonaitienė",
-          "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+370 696 05395",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 216 kab."
-        },
-        {
-          "Vardas, pavardė": "Kristina Senkuvienė",
-          "Pareigos": "Patarėja (demografijos ir projektų valdymo politikos klausimais)",
-          "Tel. numeris": "+370 659 24776",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
-        },
-        {
-          "Vardas, pavardė": "Rasa Genienė",
-          "Pareigos": "Vyresnioji patarėja (žmonių su negalia globos deinstitucionalizacijos ir įtraukties klausimais)",
-          "Tel. numeris": "+370 652 67564",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
-        },
-        {
-          "Vardas, pavardė": "Steponas Kulbauskas",
-          "Pareigos": "Vyriausiasis patarėjas (vyresnio amžiaus asmenų politikos klausimais)",
-          "Tel. numeris": "+370 696 84461",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 203 kab."
-        },
-        {
-          "Vardas, pavardė": "Svajūnė Sirvydytė",
-          "Pareigos": "Patarėja (Europos prieinamumo akto įgyvendinimo klausimais)",
-          "Tel. numeris": "+370 667 16965",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
-        },
-        {
-          "Vardas, pavardė": "Tautvydas Vencius",
-          "Pareigos": "Vyresnysis patarėjas (pažeidžiamų grupių klausimais)",
-          "Tel. numeris": "+370 658 59788",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
-        },
-        {
-          "Vardas, pavardė": "Teresa Roščinska",
-          "Pareigos": "Vyresnioji patarėja (vyresnio amžiaus asmenų ir vaikų politikos klausimais)",
-          "Tel. numeris": "+370 658 59325",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 203 kab."
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Informacinių technologijų  skyrius",
       "Darbuotojai": [
         {
@@ -418,6 +357,67 @@
           "Tel. numeris": "+370 659 24811",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Horizontalios politikos ir projektų valdymo grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Audra Mikalauskaitė",
+          "Pareigos": "Vyriausioji patarėja (projektinio valdymo bei savivaldybių koordinavimo klausimais)",
+          "Tel. numeris": "+370 620 44972",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 204 kab."
+        },
+        {
+          "Vardas, pavardė": "Daina Urbonaitienė",
+          "Pareigos": "Grupės vadovė",
+          "Tel. numeris": "+370 696 05395",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 216 kab."
+        },
+        {
+          "Vardas, pavardė": "Kristina Senkuvienė",
+          "Pareigos": "Patarėja (demografijos ir projektų valdymo politikos klausimais)",
+          "Tel. numeris": "+370 659 24776",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
+        },
+        {
+          "Vardas, pavardė": "Rasa Genienė",
+          "Pareigos": "Vyresnioji patarėja (žmonių su negalia globos deinstitucionalizacijos ir įtraukties klausimais)",
+          "Tel. numeris": "+370 652 67564",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
+        },
+        {
+          "Vardas, pavardė": "Steponas Kulbauskas",
+          "Pareigos": "Vyriausiasis patarėjas (vyresnio amžiaus asmenų politikos klausimais)",
+          "Tel. numeris": "+370 696 84461",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 203 kab."
+        },
+        {
+          "Vardas, pavardė": "Svajūnė Sirvydytė",
+          "Pareigos": "Patarėja (Europos prieinamumo akto įgyvendinimo klausimais)",
+          "Tel. numeris": "+370 667 16965",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
+        },
+        {
+          "Vardas, pavardė": "Tautvydas Vencius",
+          "Pareigos": "Vyresnysis patarėjas (pažeidžiamų grupių klausimais)",
+          "Tel. numeris": "+370 658 59788",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 205 kab."
+        },
+        {
+          "Vardas, pavardė": "Teresa Roščinska",
+          "Pareigos": "Vyresnioji patarėja (vyresnio amžiaus asmenų ir vaikų politikos klausimais)",
+          "Tel. numeris": "+370 658 59325",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 203 kab."
         }
       ]
     },
@@ -518,7 +518,7 @@
           "Pareigos": "Vyriausiasis patarėjas",
           "Tel. numeris": "+370 650 69357",
           "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 114 kab."
+          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
         },
         {
           "Vardas, pavardė": "Neringa Stagienė",
@@ -570,6 +570,32 @@
       ]
     },
     {
+      "Pavadinimas": "Teisės taikymo ir atstovavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jurgita Putrimienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 699 56840",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 107 kab."
+        },
+        {
+          "Vardas, pavardė": "Marius Vainauskas",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 658 59783",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 107 kab."
+        },
+        {
+          "Vardas, pavardė": "Raminta Zakarevičiūtė-Šiugždinienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 658 60994",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 107 kab."
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Turto valdymo skyrius",
       "Darbuotojai": [
         {
@@ -584,7 +610,7 @@
           "Pareigos": "Vyriausioji specialistė (turto valdymo klausimai)",
           "Tel. numeris": "+370 652 15496",
           "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 107 kab."
+          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
         },
         {
           "Vardas, pavardė": "Domas Mačiekus",
@@ -592,6 +618,13 @@
           "Tel. numeris": "+370 612 27346",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 125 kab."
+        },
+        {
+          "Vardas, pavardė": "Donatas Tijūnaitis",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 685 09904",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
         },
         {
           "Vardas, pavardė": "Edvard Žardin",
@@ -604,13 +637,6 @@
           "Vardas, pavardė": "Lolita Šinkūnienė",
           "Pareigos": "Vyriausioji specialistė (turto valdymo klausimai)",
           "Tel. numeris": "+370 647 64935",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 107 kab."
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Buckiūnas",
-          "Pareigos": "Vyriausiasis patarėjas, atliekantis skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370 650 69357",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 114 kab."
         },
@@ -634,32 +660,6 @@
           "Tel. numeris": "+370 620 38941",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 115 kab."
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Teisės taikymo ir atstovavimo skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Jurgita Putrimienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 699 56840",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
-        },
-        {
-          "Vardas, pavardė": "Marius Vainauskas",
-          "Pareigos": "Vedėjas",
-          "Tel. numeris": "+370 658 59783",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
-        },
-        {
-          "Vardas, pavardė": "Raminta Zakarevičiūtė-Šiugždinienė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 658 60994",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 113 kab."
         }
       ]
     },
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "Pavadinimas": "Finansų departamentas",
+      "Pavadinimas": "Ekonomikos departamentas",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Jūratė Dringelienė",
@@ -807,7 +807,7 @@
       ]
     },
     {
-      "Pavadinimas": "Finansų skyrius",
+      "Pavadinimas": "Finansų valdymo ir ekonomikos skyrius",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Justina Kuodytė",
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "Pavadinimas": "Strateginio planavimo ir monitoringo skyrius",
+      "Pavadinimas": "Strateginio planavimo ir biudžeto skyrius",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Asta Revuckienė",
@@ -1547,6 +1547,46 @@
       ]
     },
     {
+      "Pavadinimas": "Paramos būstui grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alena Daujotienė",
+          "Pareigos": "Patarėja (parama būstui įsigyti ar išsinuomoti)",
+          "Tel. numeris": "+370 615 19645",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
+        },
+        {
+          "Vardas, pavardė": "Asta Misiukienė",
+          "Pareigos": "Vyresnioji patarėja (finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms, bendradarbiavimas su ES institucijomis paramos būstui klausimai)",
+          "Tel. numeris": "+370 699 77810",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
+        },
+        {
+          "Vardas, pavardė": "Deniza Leontjeva",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 678 74915",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
+        },
+        {
+          "Vardas, pavardė": "Raselė Bernotienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 659 24810",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
+        },
+        {
+          "Vardas, pavardė": "Soneta Brinienė",
+          "Pareigos": "Vyriausioji patarėja, atliekanti grupės vadovo funkcijas",
+          "Tel. numeris": "+370 665 26875",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Piniginės paramos grupė",
       "Darbuotojai": [
         {
@@ -1597,46 +1637,6 @@
           "Tel. numeris": "+370 655 41967",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 208 kab."
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Paramos būstui grupė",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alena Daujotienė",
-          "Pareigos": "Patarėja (parama būstui įsigyti ar išsinuomoti)",
-          "Tel. numeris": "+370 615 19645",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
-        },
-        {
-          "Vardas, pavardė": "Asta Misiukienė",
-          "Pareigos": "Vyresnioji patarėja (finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms, bendradarbiavimas su ES institucijomis paramos būstui klausimai)",
-          "Tel. numeris": "+370 699 77810",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
-        },
-        {
-          "Vardas, pavardė": "Deniza Leontjeva",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 678 74915",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
-        },
-        {
-          "Vardas, pavardė": "Raselė Bernotienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 659 24810",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
-        },
-        {
-          "Vardas, pavardė": "Soneta Brinienė",
-          "Pareigos": "Vyriausioji patarėja, atliekanti grupės vadovo funkcijas",
-          "Tel. numeris": "+370 665 26875",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
         }
       ]
     },

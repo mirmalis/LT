@@ -343,6 +343,13 @@
           "Kabinetas": "510"
         },
         {
+          "Vardas, pavardė": "Judita Aleksiejūnė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 600 42648",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "407"
+        },
+        {
           "Vardas, pavardė": "Lina Urnikienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 671 85466",
@@ -666,6 +673,13 @@
           "Kabinetas": "216"
         },
         {
+          "Vardas, pavardė": "Andrė Pakalniškė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 605 94281",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
           "Vardas, pavardė": "Arūnas Burinskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 671 85678",
@@ -858,6 +872,13 @@
           "Kabinetas": "108"
         },
         {
+          "Vardas, pavardė": "Greta Simonavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 602 57133",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
           "Vardas, pavardė": "Jolanta Vižinienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 00578",
@@ -905,32 +926,11 @@
       "Pavadinimas": "Korupcijos prevencijos ir vidaus tyrimų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Andrė Pakalniškė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 605 94281",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Greta Simonavičienė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 602 57133",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
           "Vardas, pavardė": "Jolanta Bernotaitė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 600 37388",
           "El. paštas": "[email protected]",
           "Kabinetas": "204"
-        },
-        {
-          "Vardas, pavardė": "Judita Aleksiejūnė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 600 42648",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "407"
         },
         {
           "Vardas, pavardė": "Samanta Staneikaitė",
