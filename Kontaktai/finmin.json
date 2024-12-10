@@ -61,13 +61,6 @@
           "Kabinetas": "325"
         },
         {
-          "Vardas, pavardė": "Linas Mickus",
-          "Pareigos": "Finansų analitikas",
-          "Tel. numeris": "2390 012",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "509"
-        },
-        {
           "Vardas, pavardė": "Mindaugas Liutvinskas",
           "Pareigos": "Viceministras",
           "Tel. numeris": "2390 002",
@@ -1791,7 +1784,7 @@
           "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "2390225",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "503"
         },
         {
           "Vardas, pavardė": "Jūratė Laurikėnaitė",
@@ -1831,7 +1824,7 @@
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "2390269",
           "El. paštas": "[email protected]",
-          "Kabinetas": "501"
+          "Kabinetas": "543"
         },
         {
           "Vardas, pavardė": "Raimonda Čepukienė",
@@ -1998,6 +1991,13 @@
     {
       "Pavadinimas": "Organizacijos vystymo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aušra Aleksienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2194446",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "312"
+        },
         {
           "Vardas, pavardė": "Dalia Latakienė",
           "Pareigos": "Patarėja",
@@ -2886,6 +2886,13 @@
           "Kabinetas": "530"
         },
         {
+          "Vardas, pavardė": "Linas Mickus",
+          "Pareigos": "Finansų analitikas",
+          "Tel. numeris": "2390 012",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "536"
+        },
+        {
           "Vardas, pavardė": "Simona Narkevičienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "2194447",
@@ -2937,13 +2944,6 @@
     {
       "Pavadinimas": "Europos Sąjungos biudžeto skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aušra Aleksienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2194446",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "535"
-        },
         {
           "Vardas, pavardė": "Danguolė Androšiūnienė",
           "Pareigos": "Vyriausioji specialistė",

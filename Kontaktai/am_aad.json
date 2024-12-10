@@ -686,6 +686,13 @@
           "Kabinetas": "-"
         },
         {
+          "Vardas, pavardė": "Violeta Dragūnė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "-"
+        },
+        {
           "Vardas, pavardė": "Vytautas Jaškevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 700 02022",
@@ -1908,10 +1915,10 @@
         },
         {
           "Vardas, pavardė": "Raimondas Smagurauskas",
-          "Pareigos": "Skyriaus vedėjas",
+          "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "Dariaus ir Girėno g. 4 (22 kab.), 68176 Marijampolė"
+          "Kabinetas": "Dariaus ir Girėno g. 4 (23 kab.), 68176 Marijampolė"
         },
         {
           "Vardas, pavardė": "Ramūnas Mačernis",
@@ -2682,7 +2689,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aistina Kriščiūnaitė",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
           "Kabinetas": "Rotušės a. 12, 44279 Kaunas"

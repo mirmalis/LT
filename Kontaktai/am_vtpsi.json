@@ -364,13 +364,6 @@
       "Pavadinimas": "Informacinių sistemų valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Arūnas Bekintis",
-          "Pareigos": "Specialistas (Konsultavimas Infostatybos klausimais)",
-          "Tel. numeris": "+370 5 207 3333",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": "Konsultavimas Infostatybos klausimais"
-        },
-        {
           "Vardas, pavardė": "Domantas Ulys",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 607 75431",
@@ -413,13 +406,6 @@
           "Atsakingas už": "Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai"
         },
         {
-          "Vardas, pavardė": "Tomas Raščius",
-          "Pareigos": "Specialistas (Konsultavimas Infostatybos klausimais)",
-          "Tel. numeris": "+370 5 207 3333",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Valdas Molis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 687 56114",
@@ -432,13 +418,6 @@
           "Tel. numeris": "+370 672 07264",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)",
           "Atsakingas už": "Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai"
-        },
-        {
-          "Vardas, pavardė": "Žilvinas Poderys",
-          "Pareigos": "Specialistas (TPS Vartai)",
-          "Tel. numeris": "+370 5 207 3333",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": "TPS vartai"
         }
       ]
     },
@@ -667,13 +646,6 @@
       "Pavadinimas": "Vidurio Lietuvos teisės skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Greta Ramančiuckaitė",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 613 88610",
-          "Kabinetas": "Nuotolinė darbo vieta",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Laurita Nakrošienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 71827",
@@ -813,6 +785,13 @@
           "Atsakingas už": "statybą leidžiančių dokumentų ir projektinių pasiūlymų tikrinimas"
         },
         {
+          "Vardas, pavardė": "Rimgaudas Ališauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 691 10005 (skambinti 13:00-15:00)",
+          "Kabinetas": "",
+          "Atsakingas už": "statybos užbaigimo procedūros, ypatingi statiniai, statinių avarijos"
+        },
+        {
           "Vardas, pavardė": "Sergej Novikov",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 647 18407 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
@@ -837,7 +816,7 @@
           "Vardas, pavardė": "Vytautas Trinkūnas",
           "Pareigos": "L. e. vedėjo pareigas",
           "Tel. numeris": "+370 612 41315",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
           "Atsakingas už": "skyriaus darbo veiklos organizavimas"
         }
       ]
@@ -870,7 +849,7 @@
           "Vardas, pavardė": "Vytautas Trinkūnas",
           "Pareigos": "l. e. vedėjo pareigas, atliekantis skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 612 41315",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
           "Atsakingas už": "skyriaus darbo veiklos organizavimas"
         }
       ]
@@ -1191,6 +1170,13 @@
           "Tel. numeris": "+370 613  29769  (skambinti 9:00 – 12:00)",
           "Kabinetas": "J. Basanavičiaus g. 9, Varėna (1 kab.)",
           "Atsakingas už": "skundų nagrinėjimas"
+        },
+        {
+          "Vardas, pavardė": "Greta Ramančiuckaitė",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 613 88610",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Irma Vaikšnorienė",
