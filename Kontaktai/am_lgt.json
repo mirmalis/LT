@@ -106,6 +106,14 @@
           "Kabinetas": "130"
         },
         {
+          "Vardas, pavardė": "Olga Alimova",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 691  42889",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Tadas Gauronskis",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "(0 5) 233 7715",
@@ -118,6 +126,14 @@
     {
       "Pavadinimas": "Informacijos valdymo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Evaldas Samavičius",
+          "Pareigos": "Inžinierius programuotojas",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "+370 691 42749",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Inga Vilkanec",
           "Pareigos": "Vyriausioji specialistė",
@@ -470,7 +486,7 @@
           "Vardas, pavardė": "Danguolė Karmazienė",
           "Pareigos": "Vyriausioji geologė",
           "Tel. numeris": "(0 5) 213 9053",
-          "Mobilus tel. nr.": "+370 646 52012",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "316"
         },

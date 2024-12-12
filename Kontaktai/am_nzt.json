@@ -800,12 +800,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jolita Talalė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 706 85187",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Loreta Norkeliūnienė",
           "Pareigos": "Skyriaus patarėja",
           "Tel. numeris": "+370 706 85 060",
@@ -843,7 +837,7 @@
         },
         {
           "Vardas, pavardė": "Vilija Gritėnienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 706 85 121",
           "El. paštas": "[email protected]"
         },
@@ -1627,9 +1621,21 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Monika Tinterytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Nijolė Švedienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 935",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Raminta Šiaulytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {

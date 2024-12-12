@@ -632,13 +632,6 @@
           "Tel. numeris": "+370 613 26735",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
           "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Vilma Kmieliauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 647 17929",
-          "Kabinetas": "Nuotolinė darbo vieta",
-          "Atsakingas už": ""
         }
       ]
     },
@@ -664,6 +657,13 @@
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 682 92501",
           "Kabinetas": "Naujoji g. 2, Alytus (314 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vilma Zdancevičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 612 03 363",
+          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
       ]
@@ -788,8 +788,15 @@
           "Vardas, pavardė": "Rimgaudas Ališauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 691 10005 (skambinti 13:00-15:00)",
-          "Kabinetas": "",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius 304",
           "Atsakingas už": "statybos užbaigimo procedūros, ypatingi statiniai, statinių avarijos"
+        },
+        {
+          "Vardas, pavardė": "Rolandas Lučiūnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 690 60540",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": "ekspertizės rangovų veiklos, pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, deklaracijų tikrinimas, pažymų apie griovimą išdavimas"
         },
         {
           "Vardas, pavardė": "Sergej Novikov",
@@ -799,18 +806,18 @@
           "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
         {
-          "Vardas, pavardė": "Vaidas Ramūnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 682 02608 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
-          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
-        },
-        {
           "Vardas, pavardė": "Virgilijus Jonas Mažeika",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 659 62733 (skambinti 13:00-15:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (307 kab.)",
           "Atsakingas už": "statybos užbaigimo procedūros, ypatingi statiniai, statinių avarijos"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Dervinis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 689 99365",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
+          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
         {
           "Vardas, pavardė": "Vytautas Trinkūnas",
@@ -830,13 +837,6 @@
           "Tel. numeris": "+37064718321 (skambinti 13:00-15:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
           "Atsakingas už": "ekspertizės rangovų veiklos, pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, deklaracijų tikrinimas, pažymų apie griovimą išdavimas"
-        },
-        {
-          "Vardas, pavardė": "Konstantin Reznik",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 607 75211 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius",
-          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
         {
           "Vardas, pavardė": "Tomas Beržinis",
@@ -898,6 +898,13 @@
           "Tel. numeris": "+370 613 91686 (skambinti 13:00-15:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (410 kab.)",
           "Atsakingas už": "skyriaus darbo veiklos organizavimas"
+        },
+        {
+          "Vardas, pavardė": "Jelena Gordej",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 691 10007",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
+          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
         {
           "Vardas, pavardė": "Jolanta Grikepelienė",
