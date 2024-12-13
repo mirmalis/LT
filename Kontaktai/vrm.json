@@ -5,39 +5,11 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Bilotaitė",
-          "Pareigos": "Ministrė",
-          "Tel. numeris": "(8 5) 271 7201",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "224"
-        },
-        {
-          "Vardas, pavardė": "Agneta Ladek",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "(8 5) 271 7203",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "200"
-        },
-        {
-          "Vardas, pavardė": "Arnoldas Abramavičius",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "(8 5) 271 7076",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "227"
-        },
-        {
           "Vardas, pavardė": "Danutė Gudaitienė",
           "Pareigos": "Referentė",
           "Tel. numeris": "(8 5) 271 7207",
           "El. paštas": "[email protected]",
           "Kabinetas": "227"
-        },
-        {
-          "Vardas, pavardė": "Jovita Petkuvienė",
-          "Pareigos": "Kanclerė",
-          "Tel. numeris": "(8 5) 271 7202",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "222"
         },
         {
           "Vardas, pavardė": "Rolandas Šlepetys",
@@ -54,13 +26,6 @@
           "Kabinetas": "224"
         },
         {
-          "Vardas, pavardė": "Sigita Ščajevienė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "(8 5) 271 7206",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "229"
-        },
-        {
           "Vardas, pavardė": "Toma Stančikienė",
           "Pareigos": "Referentė",
           "Tel. numeris": "(8 5) 271 7295",
@@ -68,30 +33,11 @@
           "Kabinetas": "222"
         },
         {
-          "Vardas, pavardė": "Vitalij Dmitrijev",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "(8 5) 271 7205",
+          "Vardas, pavardė": "Vladislav Kondratovič",
+          "Pareigos": "Ministras",
+          "Tel. numeris": "(8 5) 271 7201",
           "El. paštas": "[email protected]",
-          "Kabinetas": "227"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministro visuomeniniai konsultantai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Edvardas Žukauskas",
-          "Pareigos": "Visuomeninis konsultantas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Gediminas Česonis",
-          "Pareigos": "Visuomeninis konsultantas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": ""
+          "Kabinetas": "224"
         }
       ]
     },

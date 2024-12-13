@@ -38,34 +38,6 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Albinas Vilčinskas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "311"
-        },
-        {
-          "Vardas, pavardė": "Daina Urbanavičienė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "312"
-        },
-        {
-          "Vardas, pavardė": "Deimantė Zutelienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37061865889",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
-        },
-        {
-          "Vardas, pavardė": "Gintarė Kudelytė",
-          "Pareigos": "Ministro padėjėja",
-          "Tel. numeris": "+37060847694",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
-        },
-        {
           "Vardas, pavardė": "Lina Zalieckaitė",
           "Pareigos": "Vyriausioji referentė",
           "Tel. numeris": "+37060845564",
@@ -73,46 +45,11 @@
           "Kabinetas": "300"
         },
         {
-          "Vardas, pavardė": "Rimantas Mikaitis",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "302"
-        },
-        {
-          "Vardas, pavardė": "Rolandas Kvietkauskas",
-          "Pareigos": "Ministerijos kancleris",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313"
-        },
-        {
-          "Vardas, pavardė": "Sigitas Šliažas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37060847703",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "209"
-        },
-        {
-          "Vardas, pavardė": "Simonas Kairys",
-          "Pareigos": "L. e. p. kultūros ministras",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
+          "Vardas, pavardė": "Šarūnas Birutis",
+          "Pareigos": "Kultūros ministras",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": "310"
-        },
-        {
-          "Vardas, pavardė": "Vygintas Gasparavičius",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "301"
-        },
-        {
-          "Vardas, pavardė": "Viktorija Vitkauskaitė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37060682063",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "201"
         }
       ]
     },

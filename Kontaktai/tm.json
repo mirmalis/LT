@@ -5,60 +5,18 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Augustas Ručinskas",
-          "Pareigos": "Kancleris",
-          "Tel. numeris": "+370 645 78664",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "305"
-        },
-        {
-          "Vardas, pavardė": "Daniel Ilkevič",
-          "Pareigos": "Ministrės patarėjas",
-          "Tel. numeris": "+370 616 54748",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "311"
-        },
-        {
-          "Vardas, pavardė": "Ewelina Dobrowolska",
-          "Pareigos": "Laikinai einanti teisingumo ministro pareigas",
-          "Tel. numeris": "+370 678 46964",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "302"
-        },
-        {
-          "Vardas, pavardė": "Gabija Grigaitė-Daugirdė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+370 645 78664",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
-        },
-        {
-          "Vardas, pavardė": "Katarzyna Bogdziewicz",
-          "Pareigos": "Ministrės patarėja",
-          "Tel. numeris": "+370 684 61252",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "304"
-        },
-        {
-          "Vardas, pavardė": "Neringa Jakavičienė",
-          "Pareigos": "Ministrės padėjėja",
-          "Tel. numeris": "+370 678 46964",
+          "Vardas, pavardė": "Raimonda Martynovienė",
+          "Pareigos": "Ministro padėjėja",
+          "Tel. numeris": "+370 600 38023",
           "El. paštas": "[email protected]",
           "Kabinetas": "301"
         },
         {
-          "Vardas, pavardė": "Paulius Žeimys",
-          "Pareigos": "Ministrės patarėjas viešiesiems ryšiams",
-          "Tel. numeris": "+370 618 51230",
+          "Vardas, pavardė": "Rimantas Mockus",
+          "Pareigos": "Ministras",
+          "Tel. numeris": "+370 600 38023",
           "El. paštas": "[email protected]",
-          "Kabinetas": "303"
-        },
-        {
-          "Vardas, pavardė": "Rokas Uscila",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 645 78664",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
+          "Kabinetas": "302"
         }
       ]
     },

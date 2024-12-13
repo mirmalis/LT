@@ -5,46 +5,11 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aistė Žilinskienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+370 614 53671",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "211"
-        },
-        {
           "Vardas, pavardė": "Arnas Liauksminas",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+32 473 852582",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Asta Petrauskytė",
-          "Pareigos": "Viceministrų referentė",
-          "Tel. numeris": "+370 695 63147",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Daiva Matusevičė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+370 686 06082",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "205"
-        },
-        {
-          "Vardas, pavardė": "Eimantas Norkūnas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 607 88563",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "215"
-        },
-        {
-          "Vardas, pavardė": "Giedrė Ričkutė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+370 696 18441",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "206"
         },
         {
           "Vardas, pavardė": "Jurga Valainytė",
@@ -54,25 +19,11 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Justas Ruškys",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 671 02303",
+          "Vardas, pavardė": "Povilas Poderskis",
+          "Pareigos": "Ministras",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "203"
-        },
-        {
-          "Vardas, pavardė": "Kęstutis Šetkus",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 687 17536",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "208"
-        },
-        {
-          "Vardas, pavardė": "Laura Masiliauskaitė",
-          "Pareigos": "Ministerijos kanclerė",
-          "Tel. numeris": "+370 695 76593",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "210"
+          "Kabinetas": "218"
         },
         {
           "Vardas, pavardė": "Raimondas Sakalauskas",
@@ -82,30 +33,11 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Simonas Gentvilas",
-          "Pareigos": "Ministras",
-          "Tel. numeris": "+370 695 49984",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "218"
-        },
-        {
           "Vardas, pavardė": "Vytautė Bacianskaitė",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+32 496 561837",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministro priimamasis",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Asta Petrauskytė",
-          "Pareigos": "Ministro padėjėja",
-          "Tel. numeris": "+370 695 63147",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "217"
         }
       ]
     },
@@ -364,6 +296,13 @@
     {
       "Pavadinimas": "Bendrieji komunalinių atliekų tvarkymo sistemų organizavimo, pakuočių ir pakuočių atliekų, biologiškai skaidžių atliekų tvarkymo klausimai",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Navickienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 696 83911",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Eglė Razbadauskaitė (Pakuočių ir jų atliekų tvarkymo klausimai)",
           "Pareigos": "Vyr. specialistė",

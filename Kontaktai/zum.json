@@ -5,58 +5,11 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Kazys Starkevičius",
-          "Pareigos": "Laikinai einantis žemės ūkio ministro pareigas",
-          "Tel. numeris": "+37052391 000",
+          "Vardas, pavardė": "Ignas Hofmanas",
+          "Pareigos": "Ministras",
+          "Tel. numeris": "+37052391000",
           "El. paštas": "[email protected]",
           "Kabinetas": "277"
-        },
-        {
-          "Vardas, pavardė": "Laura Ramanauskaitė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+37052391 004",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "281"
-        },
-        {
-          "Vardas, pavardė": "Valdas Aleknavičius",
-          "Pareigos": "Ministerijos kancleris",
-          "Tel. numeris": "+37052391 035",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "380"
-        },
-        {
-          "Vardas, pavardė": "Vytenis Tomkus",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391 002",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "285"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministro kabinetas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Jūratė Garliauskienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37052391 093",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "272"
-        },
-        {
-          "Vardas, pavardė": "Rasa Duobaitė-Bumbulienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37052391 024",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "271"
-        },
-        {
-          "Vardas, pavardė": "Saulius Mocevičius",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37052391 036",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "283"
         }
       ]
     },
