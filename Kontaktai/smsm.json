@@ -1416,6 +1416,13 @@
       "Pavadinimas": "Įstaigų veiklos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Arvydas Vaitiekėnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 619 30 236",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "365"
+        },
+        {
           "Vardas, pavardė": "Edita Pociūtė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 638 67 349",
@@ -1732,13 +1739,6 @@
     {
       "Pavadinimas": "Organizacijos vystymo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Arvydas Vaitiekėnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 619 30 236",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "174"
-        },
         {
           "Vardas, pavardė": "Gintarė Starkevičiūtė",
           "Pareigos": "Vyriausioji specialistė",

@@ -29,6 +29,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Kotryna Butkienė",
+          "Pareigos": "Ministro padėjėja",
+          "Tel. numeris": "+37065538942",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Lina Rinkevičienė",
           "Pareigos": "Referentė",
           "Tel. numeris": "+37065538905",
@@ -90,6 +96,12 @@
           "Vardas, pavardė": "Saulius Šimkevičius",
           "Pareigos": "Vyriausiasis  specialistas",
           "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Urtė Barisevičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37067178815",
           "El. paštas": "[email protected]"
         }
       ]
@@ -158,7 +170,7 @@
         },
         {
           "Vardas, pavardė": "Sandra Vitkienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37065861158",
           "El. paštas": "[email protected]"
         },
