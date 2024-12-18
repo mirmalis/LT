@@ -5,6 +5,13 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Alicija Ščerbaitė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "(8 5) 271 7206",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "229"
+        },
+        {
           "Vardas, pavardė": "Dalius Kuliešius",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "(8 5) 271 7202",
@@ -15,6 +22,13 @@
           "Vardas, pavardė": "Danutė Gudaitienė",
           "Pareigos": "Referentė",
           "Tel. numeris": "(8 5) 271 7207",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "227"
+        },
+        {
+          "Vardas, pavardė": "Gintaras Aliksandravičius",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "(8 5) 271 7205",
           "El. paštas": "[email protected]",
           "Kabinetas": "227"
         },
