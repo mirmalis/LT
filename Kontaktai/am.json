@@ -12,9 +12,23 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Giedrė Ričkutė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 696 18441",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Jurga Valainytė",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+370  698 71147, +32 491 923318",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Žižliauskaitė",
+          "Pareigos": "Kanclerės ir viceministrų referentė",
+          "Tel. numeris": "+370 695 49984",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -29,6 +43,13 @@
           "Vardas, pavardė": "Raimondas Sakalauskas",
           "Pareigos": "Vyr. patarėjas, atliekantis ministerijos parengties pareigūno funkcijas",
           "Tel. numeris": "+370 686 00052",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Ramūnas Krugelis",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 607 06074",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1742,6 +1763,13 @@
       "Pavadinimas": "Strateginio ir finansų valdymo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Audronė Truncienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 615 21076",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Gintaras Binkauskas (Rizikų valdymas)",
           "Pareigos": "Analitikas",
           "Tel. numeris": "+370 684 66899",
@@ -1817,9 +1845,9 @@
       "Pavadinimas": "Teisės skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Giedrė Ričkutė",
+          "Vardas, pavardė": "Lina Mikuckienė (vykdanti Teisės skyriaus vedėjo funkcijas)",
           "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 696 18441",
+          "Tel. numeris": "+370 695 65934",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -1889,13 +1917,6 @@
     {
       "Pavadinimas": "Teisės taikymo klausimai",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Lina Mikuckienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 695 65934",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "504"
-        },
         {
           "Vardas, pavardė": "Reda Skirkevičiūtė",
           "Pareigos": "Patarėja",
