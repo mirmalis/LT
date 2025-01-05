@@ -12,6 +12,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Daiva Taučkėlaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 664 78904",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Giedrė Ričkutė",
           "Pareigos": "Viceministrė",
           "Tel. numeris": "+370 696 18441",
@@ -22,6 +29,13 @@
           "Vardas, pavardė": "Jurga Valainytė",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+370  698 71147, +32 491 923318",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Kastytis Žuromskas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 664 10621",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1417,6 +1431,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Dovilė Mėlynytė",
+          "Pareigos": "Inžinierė programuotoja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Gediminas Bazilevičius",
           "Pareigos": "Kompiuterių sistemų administratorius",
           "Tel. numeris": "",
@@ -1941,38 +1962,31 @@
       ]
     },
     {
-      "Pavadinimas": "Valstybės turto ir viešųjų pirkimų skyrius",
+      "Pavadinimas": "Viešųjų pirkimų ir turto valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aldona Novikova (ministerijos turto valdymo klausimai, turto administravimas)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 607 92699",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "412"
-        },
-        {
-          "Vardas, pavardė": "Dovilė Montvilaitė (viešųjų pirkimų ir turto valdymo klausimai)",
+          "Vardas, pavardė": "Dovilė Montvilaitė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 686 39794",
           "El. paštas": "[email protected]",
           "Kabinetas": "103"
         },
         {
-          "Vardas, pavardė": "Elina Tijūnaitienė (ministerijos sistemoje veikiančių įstaigų patikėjimo ar panaudos pagrindais valdomo nekilnojamojo turto valdymo klausimai)",
+          "Vardas, pavardė": "Elina Tijūnaitienė (ministerijos sistemoje veikiančių įstaigų patikėjimo ar panaudos pagrindais valdomo turto valdymo klausimai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 665 25698",
           "El. paštas": "[email protected]",
           "Kabinetas": "412"
         },
         {
-          "Vardas, pavardė": "Ingrida Kinčiūtė-Zulgė",
+          "Vardas, pavardė": "Ingrida Kinčiūtė-Zulgė (viešieji pirkimai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 98400",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Raminta Vielavičienė",
+          "Vardas, pavardė": "Raminta Vielavičienė (viešieji pirkimai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 645 58336",
           "El. paštas": "[email protected]",
