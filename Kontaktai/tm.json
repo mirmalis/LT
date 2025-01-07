@@ -5,6 +5,20 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Miranda Borusevičiūtė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 618 51230",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Raimonda Čižauskaitė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 678 46964",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "307"
+        },
+        {
           "Vardas, pavardė": "Raimonda Martynovienė",
           "Pareigos": "Ministro padėjėja",
           "Tel. numeris": "+370 600 38023",
@@ -17,6 +31,13 @@
           "Tel. numeris": "+370 600 38023",
           "El. paštas": "[email protected]",
           "Kabinetas": "302"
+        },
+        {
+          "Vardas, pavardė": "Simas Lilas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 616 54748",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -877,13 +898,6 @@
           "Tel. numeris": "+370 645 78354",
           "El. paštas": "[email protected]",
           "Kabinetas": "007"
-        },
-        {
-          "Vardas, pavardė": "Tadas Bružas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 618 51384",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "108"
         }
       ]
     },
@@ -907,25 +921,25 @@
       ]
     },
     {
-      "Pavadinimas": "Transporto avarijų ir incidentų tyrimo skyrius",
+      "Pavadinimas": "Saugos tyrimų skyrius",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Laurynas Naujokaitis",
-          "Pareigos": "Vedėjas (Orlaivių avarijų ir incidentų tyrimų vadovas)",
+          "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 620 17761",
           "El. paštas": "[email protected]",
           "Kabinetas": "414"
         },
         {
           "Vardas, pavardė": "Mindaugas Česnauskis",
-          "Pareigos": "Vyresnysis patarėjas (Laivų avarijų ir incidentų tyrimų vadovas)",
+          "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+370 686 74879",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Tomas Milkevičius",
-          "Pareigos": "Patarėjas (Geležinkelių transporto katastrofų, eismo įvykių ir riktų tyrimų vadovas)",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 674 26509",
           "El. paštas": "[email protected]",
           "Kabinetas": "414"
@@ -1079,6 +1093,18 @@
           "Tel. numeris": "+370 686 07172",
           "El. paštas": "[email protected]",
           "Kabinetas": "104"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Pareigybės, nepriklausiančios struktūriniam padaliniui ir tiesiogiai pavaldžios ministrui",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Evelina Gruzdienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 684 61252",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },

@@ -33,11 +33,25 @@
           "Kabinetas": "A. Vivulskio g. 11, 324 kab."
         },
         {
+          "Vardas, pavardė": "Jekaterina Navickė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 689 99134",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vivulskio g. 11, 303 kab."
+        },
+        {
           "Vardas, pavardė": "Rasa Nuobaraitė",
           "Pareigos": "Kanclerė",
           "Tel. numeris": "+370 689 99134",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vivulskio g. 11, 414 kab."
+        },
+        {
+          "Vardas, pavardė": "Rita Grigalienė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 64945626",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vivulskio g. 11, 416 kab."
         }
       ]
     },
@@ -69,13 +83,6 @@
           "Vardas, pavardė": "Ignas Zenevičius",
           "Pareigos": "Duomenų analitikas",
           "Tel. numeris": "+370 6858 61970",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 305 kab."
-        },
-        {
-          "Vardas, pavardė": "Jekaterina Navickė",
-          "Pareigos": "Politikos veiklos sričių ekspertė (Strateginė analizė ir prognozavimas, EUROMOD vystymas)",
-          "Tel. numeris": "+370 659 24792",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 305 kab."
         },
@@ -294,13 +301,6 @@
           "Tel. numeris": "+370 615 60315",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 223, 224 kab."
-        },
-        {
-          "Vardas, pavardė": "Vaidotas Valuckas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 662 02820",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
         },
         {
           "Vardas, pavardė": "Vaiva Montrimienė",
@@ -573,7 +573,7 @@
         {
           "Vardas, pavardė": "Donatas Tijūnaitis",
           "Pareigos": "Vedėjas",
-          "Tel. numeris": "+370 685 09904",
+          "Tel. numeris": "+370 655 88949",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 113 kab."
         },
@@ -961,6 +961,13 @@
       "Pavadinimas": "Pareigybės, nepriskirtos administraciniam padaliniui",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Rasa Giedrienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 601 93996",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 340 kab."
+        },
+        {
           "Vardas, pavardė": "Živilė Kazakevičienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 606 10176",
@@ -1023,6 +1030,13 @@
           "Vardas, pavardė": "Sigita Arlauskienė",
           "Pareigos": "Patarėja (išorinė komunikacija, ryšiai su žiniasklaida)",
           "Tel. numeris": "+370 659 24769",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vivulskio g. 11, 302 kab."
+        },
+        {
+          "Vardas, pavardė": "Tadas Bružas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 658 05146",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vivulskio g. 11, 302 kab."
         }
@@ -1494,6 +1508,13 @@
           "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."
         },
         {
+          "Vardas, pavardė": "Daniel Ilkevič",
+          "Pareigos": "Grupės vadovas",
+          "Tel. numeris": "+370 659 60867",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vivulskio g. 13, 204 kab."
+        },
+        {
           "Vardas, pavardė": "Deniza Leontjeva",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 678 74915",
@@ -1509,7 +1530,7 @@
         },
         {
           "Vardas, pavardė": "Soneta Brinienė",
-          "Pareigos": "Vyriausioji patarėja, atliekanti grupės vadovo funkcijas",
+          "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "+370 665 26875",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 201, 207 kab."

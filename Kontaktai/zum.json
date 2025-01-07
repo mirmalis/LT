@@ -14,6 +14,25 @@
       ]
     },
     {
+      "Pavadinimas": "Ministro kabinetas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Irmantas Baltūsis",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+37052391 024",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "271"
+        },
+        {
+          "Vardas, pavardė": "Justas Jaskonis",
+          "Pareigos": "Ministro atstovas spaudai",
+          "Tel. numeris": "+37052391 012",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "283"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Ministerijos patarėjai",
       "Darbuotojai": [
         {
@@ -31,7 +50,7 @@
         {
           "Vardas, pavardė": "Darius Remeika",
           "Pareigos": "Veterinarijos ir fitosanitarijos atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "",
+          "Tel. numeris": "+32 240 19810",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -59,7 +78,7 @@
         {
           "Vardas, pavardė": "Karolis Anužis",
           "Pareigos": "Kaimo plėtros atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "",
+          "Tel. numeris": "+3224019804",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1388,14 +1407,14 @@
         {
           "Vardas, pavardė": "Rimutė Medeišytė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391198",
+          "Tel. numeris": "+37052391 198",
           "El. paštas": "[email protected]",
           "Kabinetas": "224"
         },
         {
           "Vardas, pavardė": "Rytas Dadurkevičius",
-          "Pareigos": "Vyriausiasis specialistas (KPP 2014-2020)",
-          "Tel. numeris": "+37052391192",
+          "Pareigos": "Vyriausiasis specialistas (SP 2023-2027)",
+          "Tel. numeris": "+37052391 192",
           "El. paštas": "[email protected]",
           "Kabinetas": "224"
         },
@@ -1442,7 +1461,7 @@
         {
           "Vardas, pavardė": "Gileta Buitkienė",
           "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37052391381",
+          "Tel. numeris": "+37052391 381",
           "El. paštas": "[email protected]",
           "Kabinetas": "206"
         },
@@ -1534,13 +1553,6 @@
           "Kabinetas": "290"
         },
         {
-          "Vardas, pavardė": "Daiva Svaravičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391003",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "285"
-        },
-        {
           "Vardas, pavardė": "Dalia Lapinskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37052391218",
@@ -1599,14 +1611,14 @@
         {
           "Vardas, pavardė": "Vaiva Adomaitienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": ""
+          "Tel. numeris": "+37052391 008",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "387"
         },
         {
           "Vardas, pavardė": "Vilija Gaigalienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391391",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37052391 391",
           "El. paštas": "[email protected]",
           "Kabinetas": "172"
         },

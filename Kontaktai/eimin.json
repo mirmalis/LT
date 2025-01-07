@@ -5,6 +5,24 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Agila Barzdienė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+37069842005",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Andžej Trachimovič",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+37069842419",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Darius Indriūnas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+37069842438",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Edita Savicka",
           "Pareigos": "Referentė",
           "Tel. numeris": "+37065099231",
@@ -23,6 +41,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Fausta Roznytė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+37065693164",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Gabrielė Remeikė",
           "Pareigos": "Ministerijos patarėja",
           "Tel. numeris": "+37069016496",
@@ -32,6 +56,12 @@
           "Vardas, pavardė": "Inga SteponavičienėKalendorius",
           "Pareigos": "Ministerijos vyriausioji patarėja",
           "Tel. numeris": "+37061479506",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Karolis Vaitkevičius",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+37065518440",
           "El. paštas": "[email protected]"
         },
         {
@@ -50,6 +80,18 @@
           "Vardas, pavardė": "Lukas Savickas",
           "Pareigos": "Ekonomikos ir inovacijų ministras",
           "Tel. numeris": "+37065538942",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Marius Stasiukaitis",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+37069842512",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Silva Lengvinienė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+37065935064",
           "El. paštas": "[email protected]"
         }
       ]
@@ -88,13 +130,13 @@
         },
         {
           "Vardas, pavardė": "Rugilė Augustaitytė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Rūta Serapinaitė-Audickė",
-          "Pareigos": "Skyriaus vedėjas",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37064092537",
           "El. paštas": "[email protected]"
         },
@@ -107,7 +149,7 @@
         {
           "Vardas, pavardė": "Urtė Barisevičiūtė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37067178815",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         }
       ]
@@ -169,7 +211,7 @@
       "Pavadinimas": "Finansų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gintarė Prunskienė",
+          "Vardas, pavardė": "Gintarė Baranauskaitė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37067196428",
           "El. paštas": "[email protected]"

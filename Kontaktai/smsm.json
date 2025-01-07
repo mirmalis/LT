@@ -17,6 +17,46 @@
           "Tel. numeris": "+370 5 219 1225",
           "El. paštas": "[email protected]",
           "Kabinetas": "225"
+        },
+        {
+          "Vardas, pavardė": "Regina Valutytė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 5 219 1226",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "226"
+        },
+        {
+          "Vardas, pavardė": "Rolandas Zuoza",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 219 1152",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "352"
+        },
+        {
+          "Vardas, pavardė": "Violeta Adlė",
+          "Pareigos": "Viceministro referentė",
+          "Tel. numeris": "+370 5 219 1153",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "353"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministro patarėjai ir padėjėjai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Eglė Šepetytė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 612 82 032",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "241"
+        },
+        {
+          "Vardas, pavardė": "Tomas Bičiūnas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 699 37 740",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -172,6 +212,65 @@
       ]
     },
     {
+      "Pavadinimas": "Centralizuota vidaus audito tarnyba (P. Savičiaus g. 17, Vilnius)",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aurelija Sinkevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 680 52 982",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "117"
+        },
+        {
+          "Vardas, pavardė": "Rasa Mikučiauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 698 21 046",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "117"
+        },
+        {
+          "Vardas, pavardė": "Rima Pitrėnienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 610 49 412",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "117"
+        },
+        {
+          "Vardas, pavardė": "Sondra Radzevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 614 91 861",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "117"
+        },
+        {
+          "Vardas, pavardė": "Vaidilutė Streikutė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 680 50 370",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "118"
+        },
+        {
+          "Vardas, pavardė": "Živilė Maškovienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 680 27 126",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "117"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Analitikos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Giedrius Padvilikis",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 687 03 886",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "477"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Strateginio planavimo skyrius",
       "Darbuotojai": [
         {
@@ -215,58 +314,6 @@
           "Tel. numeris": "+370 616 08 857",
           "El. paštas": "[email protected]",
           "Kabinetas": "121"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Analitikos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Giedrius Padvilikis",
-          "Pareigos": "Vedėjas",
-          "Tel. numeris": "+370 687 03 886",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "477"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Centralizuota vidaus audito tarnyba (P. Savičiaus g. 17, Vilnius)",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aurelija Sinkevičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 680 52 982",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "117"
-        },
-        {
-          "Vardas, pavardė": "Rasa Mikučiauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 698 21 046",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "117"
-        },
-        {
-          "Vardas, pavardė": "Sondra Radzevičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 614 91 861",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "117"
-        },
-        {
-          "Vardas, pavardė": "Vaidilutė Streikutė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 680 50 370",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "118"
-        },
-        {
-          "Vardas, pavardė": "Živilė Maškovienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 680 27 126",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "117"
         }
       ]
     },
@@ -386,53 +433,6 @@
       ]
     },
     {
-      "Pavadinimas": "Pedagogų skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Darius Gudinas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 620 41 982",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
-          "Vardas, pavardė": "Jolanta Sabutė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 21 264",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
-          "Vardas, pavardė": "Liucija Jasiukevičienė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 666 32 714",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
-          "Vardas, pavardė": "Nadia Venskuvienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 614 66 439",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
-          "Vardas, pavardė": "Simona Stankutė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 618 64 516",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
-          "Vardas, pavardė": "Vaiva Stanionė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Švietimo pagalbos skyrius",
       "Darbuotojai": [
         {
@@ -476,6 +476,53 @@
           "Tel. numeris": "+370 620 64 126",
           "El. paštas": "[email protected]",
           "Kabinetas": "486"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Pedagogų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Darius Gudinas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 620 41 982",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "487"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Sabutė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 620 21 264",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "487"
+        },
+        {
+          "Vardas, pavardė": "Liucija Jasiukevičienė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 666 32 714",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "487"
+        },
+        {
+          "Vardas, pavardė": "Nadia Venskuvienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 614 66 439",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "487"
+        },
+        {
+          "Vardas, pavardė": "Simona Stankutė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 618 64 516",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "487"
+        },
+        {
+          "Vardas, pavardė": "Vaiva Stanionė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -842,13 +889,6 @@
           "Kabinetas": "118"
         },
         {
-          "Vardas, pavardė": "Valdas Šulinskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 611 47 015",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "113"
-        },
-        {
           "Vardas, pavardė": "Vanda Kerpauskaitė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 698 17 475",
@@ -1151,13 +1191,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Egidija Kasperiūnienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 610 21 397",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Gražina Meiduvienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 612 05 263",
@@ -1341,13 +1374,6 @@
           "Tel. numeris": "+370 650 63 993",
           "El. paštas": "[email protected]",
           "Kabinetas": "483"
-        },
-        {
-          "Vardas, pavardė": "Rolandas Zuoza",
-          "Pareigos": "Vadovas",
-          "Tel. numeris": "+370 674 56 098",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "172"
         }
       ]
     },

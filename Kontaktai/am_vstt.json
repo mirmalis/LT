@@ -16,7 +16,7 @@
           "Pareigos": "Direktoriaus pavaduotoja",
           "Tel. numeris": "+370 614 86 633",
           "El. paštas": "[email protected]",
-          "Kabinetas": "106"
+          "Kabinetas": ""
         }
       ]
     },
@@ -33,12 +33,26 @@
       ]
     },
     {
-      "Pavadinimas": "VIEŠŲJŲ RYŠIŲ SPECIALISTAS",
+      "Pavadinimas": "LANKYTOJŲ APTARNAVIMO IR KOMUNIKACIJOS SKYRIUS",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Diana Rakauskaitė",
-          "Pareigos": "Viešųjų ryšių specialistas",
+          "Pareigos": "Laikinai vykdanti Lankytojų aptarnavimo ir komukacijos skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 698 35 776",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Diana Rakauskaitė",
+          "Pareigos": "Viešųjų ryšių specialistė",
+          "Tel. numeris": "+370 698 35 776",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Evelina Savickaitė (Nacionalinio lankytojų centro veiklos ir administravimo klausimai)",
+          "Pareigos": "Nacionalinio lankytojų centro edukatorė",
+          "Tel. numeris": "+370 665 70 494",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -48,30 +62,9 @@
       "Pavadinimas": "KRAŠTOVAIZDŽIO  APSAUGOS SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Eglė Kamantauskienė (Lietuvos Respublikos saugomų teritorijų valstybės kadastro, saugomų teritorijų erdvinių duomenų klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 615 98 317",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Ignas Šviežikas (Lietuvos Respublikos saugomų teritorijų valstybės kadastro, saugomų teritorijų erdvinių duomenų klausimai)",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 687 28 776",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Laima Dabregaitė (saugomų teritorijų planavimo klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 62 909",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Lukas Tubutis (Lietuvos Respublikos saugomų teritorijų valstybės kadastro, saugomų teritorijų erdvinių duomenų klausimai)",
-          "Pareigos": "Geografinių informacinių sistemų vyr. specialistas",
-          "Tel. numeris": "+370 652 99 010",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -200,21 +193,14 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Šarūnė Šmatavičiūtė",
+          "Vardas, pavardė": "Šarūnė Šmatavičiūtė (planuojamos ūkinės veiklos poveikio biologinei įvairovei vertinimo, strateginio pasekmių biologinei įvairovei vertinimo, poveikio „Natura 2000\" teritorijoms reikšmingumo vertinimo klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Ugnė Griežė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vita Monkuvienė (Saugomų rūšių informacinės sistemos administravimas, GIS ir duomenų klausimai)",
+          "Vardas, pavardė": "Ugnė Griežė (planuojamos ūkinės veiklos poveikio biologinei įvairovei vertinimo, strateginio pasekmių biologinei įvairovei vertinimo, poveikio „Natura 2000\" teritorijoms reikšmingumo vertinimo klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
@@ -230,11 +216,51 @@
       ]
     },
     {
-      "Pavadinimas": "VIEŠŲJŲ PIRKIMŲ IR PROJEKTŲ SKYRIUS",
+      "Pavadinimas": "INFORMACIJOS VALDYMO IR DUOMENŲ ANALIZĖS SKYRIUS",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Eglė Kamantauskienė (Lietuvos Respublikos saugomų teritorijų valstybės kadastro, saugomų teritorijų erdvinių duomenų klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 615 98 317",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Ignas Šviežikas (Lietuvos Respublikos saugomų teritorijų valstybės kadastro, saugomų teritorijų erdvinių duomenų klausimai)",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 687 28 776",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lukas Tubutis (Lietuvos Respublikos saugomų teritorijų valstybės kadastro, saugomų teritorijų erdvinių duomenų klausimai)",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 652 99 010",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Jankaitienė",
+          "Pareigos": "Laikinai vykdanti Informacijos valdymo ir duomenų analizės skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+370 659 29 176",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vita Monkuvienė (Saugomų rūšių informacinės sistemos administravimas, GIS ir duomenų klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "GAMTOS PROJEKTŲ VALDYMO SKYRIUS",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Evaldas Stadalius (viešųjų pirkimų klausimai)",
-          "Pareigos": "Viešųjų pirkimų specialistas",
+          "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -248,28 +274,35 @@
         },
         {
           "Vardas, pavardė": "Irena Mazaratij (projektų dėl saugomų teritorijų planavimo, monitoringo ir tvarkymo pajėgumų stiprinimo saugomose teritorijose, saugomų teritorijų valstybės kadastro modernizavimo veiklų administravimo klausimai)",
-          "Pareigos": "Projektų koordinatorė",
+          "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 64 281",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Justė Misiukevičienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Karolis Klusevičius (viešųjų pirkimų klausimai)",
-          "Pareigos": "Viešųjų pirkimų specialistas",
+          "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 610 05 841",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Kristina Malevskienė (viešųjų pirkimų klausimai)",
-          "Pareigos": "Viešųjų pirkimų specialistė",
+          "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 88 125",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Rasa Lenkaitienė (projektų dėl gamtotvarkos priemonių įgyvendinimo veiklų administravimo klausimai)",
-          "Pareigos": "Projektų koordinatorė",
+          "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 43 951",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -277,7 +310,7 @@
       ]
     },
     {
-      "Pavadinimas": "TEISĖS IR PERSONALO SKYRIUS",
+      "Pavadinimas": "TEISĖS IR ŽMOGIŠKŲJŲ IŠTEKLIŲ VALDYMO SKYRIUS",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Diana Urbonė (teisės taikymo, teisėkūros klausimai)",
@@ -324,19 +357,12 @@
       ]
     },
     {
-      "Pavadinimas": "BENDRŲJŲ REIKALŲ SKYRIUS",
+      "Pavadinimas": "TURTO VALDYMO SKYRIUS",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Elena Nalivaikienė (turto disponavimo, darbuotojų saugos ir sveikatos klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 47 332",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Evelina Savickaitė (Nacionalinio lankytojų centro veiklos ir administravimo klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 665 70 494",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -369,7 +395,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Lina Laurinaitytė (veiklos koordinavimas turto disponavimo, finansų valdymo, IT, gaisrinės saugos, darbuotojų saugos ir sveikatos, Nacionalinio lankytojų centro administravimo klausimais)",
+          "Vardas, pavardė": "Lina Laurinaitytė (veiklos koordinavimas turto disponavimo, finansų valdymo, IT, gaisrinės saugos, darbuotojų saugos ir sveikatos klausimais)",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+370 659 93 262",
           "El. paštas": "[email protected]",

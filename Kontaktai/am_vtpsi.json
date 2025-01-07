@@ -38,6 +38,13 @@
       "Pavadinimas": "Patarėjų grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aidas Valys",
+          "Pareigos": "Vyriausiasis patarėjas (kontrolės klausimais)",
+          "Tel. numeris": "+370 682 48350",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Ieva Kulikauskienė",
           "Pareigos": "Patarėja (žmogiškųjų išteklių valdymo klausimais)",
           "Tel. numeris": "+370 605 24997",
@@ -201,7 +208,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aidas Valys",
-          "Pareigos": "L. e. p. Vakarų Lietuvos statybos valstybinės priežiūros departamento direktorius, atliekantis Veiklos planavimo ir komunikacijos skyriaus vedėjo funkcijas",
+          "Pareigos": "Vedėjas (laikinai vykdo vedėjo funkcijas)",
           "Tel. numeris": "+370 682 48350",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)",
           "Atsakingas už": ""
@@ -792,13 +799,6 @@
           "Atsakingas už": "statybos užbaigimo procedūros, ypatingi statiniai, statinių avarijos"
         },
         {
-          "Vardas, pavardė": "Rolandas Lučiūnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 690 60540",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
-          "Atsakingas už": "ekspertizės rangovų veiklos, pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, deklaracijų tikrinimas, pažymų apie griovimą išdavimas"
-        },
-        {
           "Vardas, pavardė": "Sergej Novikov",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 647 18407 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
@@ -902,7 +902,7 @@
         {
           "Vardas, pavardė": "Jelena Gordej",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 691 10007",
+          "Tel. numeris": "+370 691 10007 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
           "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
@@ -1268,10 +1268,24 @@
       "Pavadinimas": "Vakarų Lietuvos statybos valstybinės priežiūros departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aidas Valys",
-          "Pareigos": "L. e. direktoriaus pareigas",
-          "Tel. numeris": "+370  682 48350",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)",
+          "Vardas, pavardė": "Gintaras Pužas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "Kabinetas": "",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Renata Račkauskaitė",
+          "Pareigos": "Direktorė",
+          "Tel. numeris": "+370  689 99537",
+          "Kabinetas": "Danės g. 17, Klaipėda (327 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Virgilijus Gross",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "Kabinetas": "",
           "Atsakingas už": ""
         }
       ]
@@ -1325,13 +1339,6 @@
           "Vardas, pavardė": "Lina Damalakienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 607 68341",
-          "Kabinetas": "Danės g. 17, Klaipėda (325 kab.)",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Petras Kynas",
-          "Pareigos": "Specialistas",
-          "Tel. numeris": "+370 602 81050",
           "Kabinetas": "Danės g. 17, Klaipėda (325 kab.)",
           "Atsakingas už": ""
         },

@@ -26,11 +26,32 @@
           "Kabinetas": "329"
         },
         {
+          "Vardas, pavardė": "Aloyzas Vitkauskas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "2390022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "337"
+        },
+        {
           "Vardas, pavardė": "Darius Sadeckas",
           "Pareigos": "Viceministras",
           "Tel. numeris": "2390 162",
           "El. paštas": "[email protected]",
           "Kabinetas": "333"
+        },
+        {
+          "Vardas, pavardė": "Kristupas Vaitiekūnas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "2390003",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "303"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Pakštys",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "2390023",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "325"
         },
         {
           "Vardas, pavardė": "Ričardas Kasperavičius",
@@ -45,6 +66,13 @@
           "Tel. numeris": "2390 100",
           "El. paštas": "[email protected]",
           "Kabinetas": "328"
+        },
+        {
+          "Vardas, pavardė": "Valentin Gavrilov",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "2390336",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "336"
         }
       ]
     },
@@ -230,6 +258,67 @@
       ]
     },
     {
+      "Pavadinimas": "Išlaidų audito skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Doroševienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390120",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "117"
+        },
+        {
+          "Vardas, pavardė": "Aušra Ugenskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390119",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Džilda Grybaitė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "2199312",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Lapinskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2199356",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "119"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Skobienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "2390038",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Laimutė Žukauskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "2199302",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "103"
+        },
+        {
+          "Vardas, pavardė": "Vaiva Raudonienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390193",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Pociutė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390074",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "119"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Grąžinamų lėšų ir rizikingų išlaidų vertinimo skyrius",
       "Darbuotojai": [
         {
@@ -338,75 +427,49 @@
       ]
     },
     {
-      "Pavadinimas": "Išlaidų audito skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Asta Doroševienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390120",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "117"
-        },
-        {
-          "Vardas, pavardė": "Aušra Ugenskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390119",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Džilda Grybaitė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "2199312",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Jolanta Lapinskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2199356",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "119"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Skobienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "2390038",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Laimutė Žukauskienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "2199302",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "103"
-        },
-        {
-          "Vardas, pavardė": "Vaiva Raudonienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390193",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Viktorija Pociutė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390074",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "119"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Apskaitos informacinių sistemų strategijos valdymo grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alma Maculevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390016",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "132"
+        },
         {
           "Vardas, pavardė": "Andžela Milė",
           "Pareigos": "Apskaitos informacinių sistemų analitikė",
           "Tel. numeris": "2390288",
           "El. paštas": "[email protected]",
           "Kabinetas": "512"
+        },
+        {
+          "Vardas, pavardė": "Angelė Paltanavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390061",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "132"
+        },
+        {
+          "Vardas, pavardė": "Danguolė Andrijauskienė",
+          "Pareigos": "Finansų analitikė",
+          "Tel. numeris": "2390256",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "512"
+        },
+        {
+          "Vardas, pavardė": "Guoda Liutkienė",
+          "Pareigos": "Finansų analitikė",
+          "Tel. numeris": "199329",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "130"
+        },
+        {
+          "Vardas, pavardė": "Jovita Steponavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390217",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "130"
         },
         {
           "Vardas, pavardė": "Lina Frejutė",
@@ -435,6 +498,20 @@
           "Tel. numeris": "2390292",
           "El. paštas": "[email protected]",
           "Kabinetas": "512"
+        },
+        {
+          "Vardas, pavardė": "Rasa Domarkienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390013",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "130"
+        },
+        {
+          "Vardas, pavardė": "Valentina Ožigar",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390086",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "132"
         }
       ]
     },
@@ -712,39 +789,6 @@
       ]
     },
     {
-      "Pavadinimas": "Skolinimosi ir investavimo skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aldas Beginskas",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390131",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "244"
-        },
-        {
-          "Vardas, pavardė": "Daiva Macijauskė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390139",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "244"
-        },
-        {
-          "Vardas, pavardė": "Edmundas Kiškis",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "2390176",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "244"
-        },
-        {
-          "Vardas, pavardė": "Vilma Varenikė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2199357",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "244"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Mokėjimo operacijų ir sąskaitų valdymo skyrius",
       "Darbuotojai": [
         {
@@ -781,6 +825,39 @@
           "Tel. numeris": "2194486",
           "El. paštas": "[email protected]",
           "Kabinetas": "242"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Skolinimosi ir investavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aldas Beginskas",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390131",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "244"
+        },
+        {
+          "Vardas, pavardė": "Daiva Macijauskė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2390139",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "244"
+        },
+        {
+          "Vardas, pavardė": "Edmundas Kiškis",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "2390176",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "244"
+        },
+        {
+          "Vardas, pavardė": "Vilma Varenikė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "2199357",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "244"
         }
       ]
     },
@@ -1195,6 +1272,13 @@
       "Pavadinimas": "Finansų rinkų politikos departamentas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Laima Šikšnelytė-Zananavičienė",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "2390059",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "221"
+        },
+        {
           "Vardas, pavardė": "Vilija Petronienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "2390184",
@@ -1447,13 +1531,6 @@
       "Pavadinimas": "Informacinių technologijų departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Eugenijus Dranseika",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "2390209",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "129"
-        },
-        {
           "Vardas, pavardė": "Kristina Ambrozaitytė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "2390281",
@@ -1466,6 +1543,18 @@
           "Tel. numeris": "2390295",
           "El. paštas": "[email protected]",
           "Kabinetas": "518"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Kibernetinio saugumo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Eugenijus Dranseika",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "2390209",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "129"
         },
         {
           "Vardas, pavardė": "Vilma Dzimidavičienė",
@@ -1473,60 +1562,6 @@
           "Tel. numeris": "2390259",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Valstybės biudžeto, apskaitos ir mokėjimų sistemos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alma Maculevičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390016",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "132"
-        },
-        {
-          "Vardas, pavardė": "Angelė Paltanavičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390061",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "132"
-        },
-        {
-          "Vardas, pavardė": "Danguolė Andrijauskienė",
-          "Pareigos": "Finansų analitikė",
-          "Tel. numeris": "2390256",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "512"
-        },
-        {
-          "Vardas, pavardė": "Guoda Liutkienė",
-          "Pareigos": "Finansų analitikė",
-          "Tel. numeris": "199329",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "130"
-        },
-        {
-          "Vardas, pavardė": "Jovita Steponavičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390217",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "130"
-        },
-        {
-          "Vardas, pavardė": "Rasa Domarkienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390013",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "130"
-        },
-        {
-          "Vardas, pavardė": "Valentina Ožigar",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2390086",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "132"
         }
       ]
     },

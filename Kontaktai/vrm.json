@@ -6,14 +6,14 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Alicija Ščerbaitė",
-          "Pareigos": "Ministro patarėja",
+          "Pareigos": "Viceministrė",
           "Tel. numeris": "(8 5) 271 7206",
           "El. paštas": "[email protected]",
           "Kabinetas": "229"
         },
         {
           "Vardas, pavardė": "Dalius Kuliešius",
-          "Pareigos": "Ministro patarėjas",
+          "Pareigos": "Ministerijos kancleris",
           "Tel. numeris": "(8 5) 271 7202",
           "El. paštas": "[email protected]",
           "Kabinetas": "222"
@@ -27,7 +27,7 @@
         },
         {
           "Vardas, pavardė": "Gintaras Aliksandravičius",
-          "Pareigos": "Ministro patarėjas",
+          "Pareigos": "Viceministras",
           "Tel. numeris": "(8 5) 271 7205",
           "El. paštas": "[email protected]",
           "Kabinetas": "227"
@@ -55,7 +55,7 @@
         },
         {
           "Vardas, pavardė": "Vaidotas Jakštas",
-          "Pareigos": "Ministro patarėjas",
+          "Pareigos": "Viceministras",
           "Tel. numeris": "(8 5) 271 7076",
           "El. paštas": "[email protected]",
           "Kabinetas": "227"
@@ -569,6 +569,13 @@
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Indrė Gasperė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "(8 5) 271 8500",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "347"
         },
         {
           "Vardas, pavardė": "Tomas Stankevičius",
@@ -1238,13 +1245,6 @@
           "Tel. numeris": "(8 5) 271 8966; 8 6024 1678",
           "El. paštas": "[email protected]",
           "Kabinetas": "423"
-        },
-        {
-          "Vardas, pavardė": "Diana Paukštienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "(8 5) 271 7124",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "420"
         },
         {
           "Vardas, pavardė": "Diana Zalieckė",

@@ -38,6 +38,27 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Ewelina Mokrzecka",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+37063704160",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "301"
+        },
+        {
+          "Vardas, pavardė": "Ingrida Veliutė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+37060845564",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "311"
+        },
+        {
+          "Vardas, pavardė": "Kotryna Žukauskaitė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+37065504378",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "209"
+        },
+        {
           "Vardas, pavardė": "Lina Zalieckaitė",
           "Pareigos": "Vyriausioji referentė",
           "Tel. numeris": "+37060845564",
@@ -45,10 +66,17 @@
           "Kabinetas": "300"
         },
         {
+          "Vardas, pavardė": "Regina Jaskelevičienė",
+          "Pareigos": "Ministerijos kanclerė",
+          "Tel. numeris": "+37060845564",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "313"
+        },
+        {
           "Vardas, pavardė": "Šarūnas Birutis",
           "Pareigos": "Kultūros ministras",
-          "Tel. numeris": "",
-          "El. paštas": "",
+          "Tel. numeris": "+37060845564",
+          "El. paštas": "[email protected]",
           "Kabinetas": "310"
         }
       ]
@@ -149,13 +177,6 @@
           "Tel. numeris": "+37060845601",
           "El. paštas": "[email protected]",
           "Kabinetas": "406"
-        },
-        {
-          "Vardas, pavardė": "Snieguolė Giraitienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37060645602",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "102"
         },
         {
           "Vardas, pavardė": "Vilmantė Krogertienė",

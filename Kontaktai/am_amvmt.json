@@ -516,13 +516,6 @@
           "Atsakingas už": "Genetiniai miško medžių ištekliai, Sėklinė miško bazė"
         },
         {
-          "Vardas, pavardė": "Toma Pakusaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 601 13 902",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Augalų nacionaliniai genetiniai išteklių žemės ūkio augalų grupė, Augalų sėklų saugykla"
-        },
-        {
           "Vardas, pavardė": "Živilė Kaunietė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 603 80 117",
@@ -765,6 +758,13 @@
           "Tel. numeris": "+370 663 53 691",
           "El. paštas": "[email protected]",
           "Atsakingas už": "MŪPS veiklos koordinavimas Kauno regione"
+        },
+        {
+          "Vardas, pavardė": "Žydrūnas Cicinas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 64 523",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
         }
       ]
     },
@@ -810,13 +810,6 @@
           "Vardas, pavardė": "Mindaugas Sakalauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 664 53 482",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Petras Ivinskis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 70 305",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
         },
