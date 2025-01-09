@@ -768,6 +768,25 @@
           "Kabinetas": "10"
         }
       ]
+    },
+    {
+      "Pavadinimas": "„Kurk Lietuvai“",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gustas Navickas",
+          "Pareigos": "Projekto vadovas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "307"
+        },
+        {
+          "Vardas, pavardė": "Šarūnė Abromaitė",
+          "Pareigos": "Projekto vadovė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "307"
+        }
+      ]
     }
   ]
 }
