@@ -1299,9 +1299,9 @@
         {
           "Vardas, pavardė": "Audronė Morkūnienė",
           "Pareigos": "Vyriausioji patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 660 38474",
           "El. paštas": "",
-          "Kabinetas": ""
+          "Kabinetas": "A. Vivulskio g. 11, 404, 405 kab."
         },
         {
           "Vardas, pavardė": "Dovilė Ščiukaitė",
@@ -1342,6 +1342,13 @@
           "Vardas, pavardė": "Rita Babianskaitė",
           "Pareigos": "Patarėja (socialinio draudimo pensijos, pensijų kaupimas, reglamentų ir tarptautinių sutarčių taikymas pensijų srityje)",
           "Tel. numeris": "+370 611 53492",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 404, 405 kab."
+        },
+        {
+          "Vardas, pavardė": "Sandra Šatė",
+          "Pareigos": "Patarėja (socialinio draudimo pensijos)",
+          "Tel. numeris": "+370 644 49826",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 404, 405 kab."
         },
@@ -1868,24 +1875,24 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aleksandr Tolstoj",
-          "Pareigos": "Vyresnysis patarėjas (darbuotojų sauga ir sveikata, potencialiai pavojingų įrenginių priežiūra, produktų (lynų kelio įrenginiai, liftai, mašinos) sauga)",
+          "Pareigos": "Vyresnysis patarėjas (potencialiai pavojingų įrenginių priežiūra, produktų (lynų kelio įrenginiai, liftai, mašinos, asmeninės apsaugos priemonės) sauga)",
           "Tel. numeris": "+370 615 67632",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 102 kab."
         },
         {
           "Vardas, pavardė": "Gintarė Bužinskaitė",
-          "Pareigos": "Vyresnioji patarėja (darbuotojų sauga ir sveikata, potencialiai pavojingų įrenginių priežiūra, produktų (asmeninės apsaugos priemonės) sauga)",
+          "Pareigos": "Vyresnioji patarėja (darbuotojų sauga ir sveikata)",
           "Tel. numeris": "+370 695 60706",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 102 kab."
         },
         {
           "Vardas, pavardė": "Kristina Stankevičienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Patarėja (potencialiai pavojingų įrenginių priežiūra, produktų (lynų kelio įrenginiai, liftai, mašinos, asmeninės apsaugos priemonės) sauga, LR darbuotojų saugos ir sveikatos komisijos veikla)",
           "Tel. numeris": "+370 635 68979",
           "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 102 kab."
+          "Kabinetas": "A. Vivulskio g. 13, 105 kab."
         },
         {
           "Vardas, pavardė": "Rasa Jakubėnienė",
@@ -1896,7 +1903,7 @@
         },
         {
           "Vardas, pavardė": "Rasa Šidagytė",
-          "Pareigos": "Vyresnioji patarėja (darbuotojų sauga ir sveikata, potencialiai pavojingų įrenginių priežiūra, produktų (mašinos, liftai, lynų kelio įrenginiai) sauga, LR darbuotojų saugos ir sveikatos komisijos veikla)",
+          "Pareigos": "Vyresnioji patarėja (darbuotojų sauga ir sveikata)",
           "Tel. numeris": "+370 656 79662",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 102 kab."

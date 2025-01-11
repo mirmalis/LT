@@ -98,12 +98,6 @@
       "Pavadinimas": "Inžinerinės geologijos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Danguolė Karmazienė",
-          "Pareigos": "Vyriausiasis geologas",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Eglė Šinkūnė",
           "Pareigos": "Vyriausiasis specialistas",
           "Mobilus tel. nr.": "+370 646 52914",
@@ -187,15 +181,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Irena Balčiūnaitė",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Mobilus tel. nr.": "+370 646 56799",
+          "Vardas, pavardė": "Danguolė Karmazienė",
+          "Pareigos": "Vyriausiasis geologas",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Izabelė Jakšta-Rakalovič",
-          "Pareigos": "Vyriausioji specialistė",
-          "Mobilus tel. nr.": "+370 646 55783",
+          "Vardas, pavardė": "Egidijus Jankauskas",
+          "Pareigos": "Vyresnysis specialistas",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -391,6 +385,18 @@
           "Vardas, pavardė": "Inga Vilkanec",
           "Pareigos": "Vyriausiasis specialistas",
           "Mobilus tel. nr.": "+370 646 44700",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Irena Balčiūnaitė",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Mobilus tel. nr.": "+370 646 56799",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Izabelė Jakšta-Rakalovič",
+          "Pareigos": "Vyriausioji specialistė",
+          "Mobilus tel. nr.": "+370 646 55783",
           "El. paštas": "[email protected]"
         },
         {
