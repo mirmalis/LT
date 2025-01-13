@@ -17,13 +17,6 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Irmantas Baltūsis",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37052391 024",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "271"
-        },
-        {
           "Vardas, pavardė": "Justas Jaskonis",
           "Pareigos": "Ministro atstovas spaudai",
           "Tel. numeris": "+37052391 012",
@@ -1066,7 +1059,7 @@
         },
         {
           "Vardas, pavardė": "Aurika Banienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+37052391194",
           "El. paštas": "[email protected]",
           "Kabinetas": "364"

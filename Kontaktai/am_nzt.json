@@ -433,7 +433,7 @@
         {
           "Vardas, pavardė": "Inga Pšemeneckytė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 706 85 069",
           "El. paštas": "[email protected]"
         },
         {
@@ -469,7 +469,7 @@
         {
           "Vardas, pavardė": "Rita Rusak (personalo klausimai)",
           "Pareigos": "Skyriaus vyresnioji patarėja",
-          "Tel. numeris": "+370 706 85 010",
+          "Tel. numeris": "+370 706 85 020",
           "El. paštas": "[email protected]"
         },
         {
@@ -481,7 +481,7 @@
         {
           "Vardas, pavardė": "Žana Svirskaja",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 706 85 067",
           "El. paštas": "[email protected]"
         }
       ]
@@ -740,6 +740,12 @@
     {
       "Pavadinimas": "Vidaus tyrimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Arūnas Krušas",
+          "Pareigos": "Skyriaus patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Dainius Stripinis",
           "Pareigos": "Vyriausiasis specialistas",
@@ -1958,7 +1964,7 @@
         {
           "Vardas, pavardė": "Lina Macijauskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37070685420",
+          "Tel. numeris": "+370 706 85 420",
           "El. paštas": "[email protected]"
         },
         {

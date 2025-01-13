@@ -41,7 +41,7 @@
         },
         {
           "Vardas, pavardė": "Lina Žižliauskaitė",
-          "Pareigos": "Kanclerės ir viceministrų referentė",
+          "Pareigos": "Viceministrų referentė",
           "Tel. numeris": "+370 695 49984",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -80,6 +80,18 @@
           "Tel. numeris": "+32 496 561837",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministro priimamasis",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Petrauskytė",
+          "Pareigos": "Ministro padėjėja",
+          "Tel. numeris": "+370 695 63147",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "217"
         }
       ]
     },

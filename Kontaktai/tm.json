@@ -9,7 +9,7 @@
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 618 51230",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "304"
         },
         {
           "Vardas, pavardė": "Raimonda Čižauskaitė",
@@ -37,7 +37,7 @@
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+370 616 54748",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "303"
         }
       ]
     },
@@ -923,6 +923,20 @@
     {
       "Pavadinimas": "Saugos tyrimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Andrius Uldukis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 602 56324",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Eimantė Tamašauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 684 60671",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Laurynas Naujokaitis",
           "Pareigos": "Vedėjas",
