@@ -791,13 +791,6 @@
           "Kabinetas": "109"
         },
         {
-          "Vardas, pavardė": "Darius Cibulskis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 678 85 296",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "175"
-        },
-        {
           "Vardas, pavardė": "Edmundas Jonuška",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 614 16 329",
@@ -1110,7 +1103,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 649 97 287",
           "El. paštas": "[email protected]",
-          "Kabinetas": "359"
+          "Kabinetas": "358"
         },
         {
           "Vardas, pavardė": "Vaida Balkuvienė",
@@ -1446,7 +1439,14 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 619 30 236",
           "El. paštas": "[email protected]",
-          "Kabinetas": "365"
+          "Kabinetas": "366"
+        },
+        {
+          "Vardas, pavardė": "Darius Cibulskis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 678 85 296",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "366"
         },
         {
           "Vardas, pavardė": "Edita Pociūtė",
@@ -1769,6 +1769,13 @@
           "Vardas, pavardė": "Gintarė Starkevičiūtė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 666 32 806",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "174"
+        },
+        {
+          "Vardas, pavardė": "Ilona Degulienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 699 37 393",
           "El. paštas": "[email protected]",
           "Kabinetas": "174"
         },
