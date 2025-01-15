@@ -5,6 +5,12 @@
       "Pavadinimas": "Lietuvos Respublikos energetikos ministerija",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Airidas Daukšas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 203 4424",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Alvydas Sakavičius",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+37067501862",
@@ -13,6 +19,12 @@
         {
           "Vardas, pavardė": "Arnoldas Pikžirnis",
           "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 203 4424",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Edita Gudauskienė",
+          "Pareigos": "Viceministrė",
           "Tel. numeris": "+370 5 203 4424",
           "El. paštas": "[email protected]"
         },

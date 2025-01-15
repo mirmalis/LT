@@ -1751,32 +1751,6 @@
       ]
     },
     {
-      "Pavadinimas": "Teisėkūros skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Daiva Abromavičiūtė-Būdžė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 687 28379",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Žvaigždžių g. 21 (13 kab.), 37109 Panevėžys"
-        },
-        {
-          "Vardas, pavardė": "Jolita Cegelienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 646 25435",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Kauno g. 69 (3 kab.), 62107 Alytus"
-        },
-        {
-          "Vardas, pavardė": "Sigita Gustaitė-Jarukienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 647 81716",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Kauno administracinių bylų nagrinėjimo skyrius",
       "Darbuotojai": [
         {
@@ -1834,6 +1808,32 @@
           "Tel. numeris": "+370 647 76726",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kauno g. 69 - 3 (kab.), 62107 Alytus"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Teisėkūros skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Abromavičiūtė-Būdžė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 687 28379",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Žvaigždžių g. 21 (13 kab.), 37109 Panevėžys"
+        },
+        {
+          "Vardas, pavardė": "Jolita Cegelienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 646 25435",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Kauno g. 69 (3 kab.), 62107 Alytus"
+        },
+        {
+          "Vardas, pavardė": "Sigita Gustaitė-Jarukienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 647 81716",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
         }
       ]
     },
@@ -3874,7 +3874,7 @@
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": ""
+          "Kabinetas": "218"
         },
         {
           "Vardas, pavardė": "Edgaras Skrebė",
@@ -3909,7 +3909,7 @@
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": ""
+          "Kabinetas": "218"
         },
         {
           "Vardas, pavardė": "Romuald Kaladiun",

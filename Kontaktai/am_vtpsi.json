@@ -385,13 +385,6 @@
           "Atsakingas už": "TPDR ir TPDRIS"
         },
         {
-          "Vardas, pavardė": "Jaunius Krivickas",
-          "Pareigos": "Specialistas (Infostatyba)",
-          "Tel. numeris": "+370 671 54046",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Juozapas Andrikonis",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 678 55142",
@@ -1090,13 +1083,6 @@
           "Atsakingas už": "deklaracijų, pažymų išdavimo teisėtumo tikrinimas"
         },
         {
-          "Vardas, pavardė": "Raimunda Tamulionienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 611  30649 (skambinti 9:00 – 12:00)",
-          "Kabinetas": "Respublikos g. 38, Panevėžys (402 kab.)",
-          "Atsakingas už": "skundų nagrinėjimas"
-        },
-        {
           "Vardas, pavardė": "Remigijus Averinas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 698  50991 (skambinti 9:00 – 12:00)",
@@ -1268,24 +1254,10 @@
       "Pavadinimas": "Vakarų Lietuvos statybos valstybinės priežiūros departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gintaras Pužas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "",
-          "Kabinetas": "",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Renata Račkauskaitė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370  689 99537",
           "Kabinetas": "Danės g. 17, Klaipėda (327 kab.)",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Virgilijus Gross",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "",
-          "Kabinetas": "",
           "Atsakingas už": ""
         }
       ]
@@ -1319,6 +1291,13 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 647 16075",
           "Kabinetas": "Plytų g. 61, Palanga",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Gintaras Pužas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 607 75433",
+          "Kabinetas": "Lietuvininkų g. 8, Šiliutė (kab. Nr. 304)",
           "Atsakingas už": ""
         },
         {
@@ -1387,6 +1366,13 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 672 06189",
           "Kabinetas": "Dariaus ir Girėno g. 6, Šilalė (2 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Virgilijus Gross",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 689 99538",
+          "Kabinetas": "Danės g. 17, Klaipėda (kab. Nr. 325)",
           "Atsakingas už": ""
         },
         {
@@ -1757,7 +1743,7 @@
           "Vardas, pavardė": "Laimis Jasinevičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 647 18419",
-          "Kabinetas": "P. Cvirkos g. 7, Rokiškis",
+          "Kabinetas": "Alvydo Matulkos g.7 , Rokiškis (kab. Nr. 206)",
           "Atsakingas už": ""
         },
         {

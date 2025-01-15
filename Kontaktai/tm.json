@@ -5,6 +5,13 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Laimas Dieninis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 615 69049",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "306"
+        },
+        {
           "Vardas, pavardė": "Miranda Borusevičiūtė",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 618 51230",
@@ -876,7 +883,7 @@
           "Pareigos": "L.e.p. skyriaus vedėja",
           "Tel. numeris": "+370 671 86309",
           "El. paštas": "[email protected]",
-          "Kabinetas": "503"
+          "Kabinetas": "406"
         },
         {
           "Vardas, pavardė": "Rimantė Gaičevskytė-Savickė",
