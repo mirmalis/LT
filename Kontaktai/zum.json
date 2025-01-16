@@ -14,18 +14,6 @@
       ]
     },
     {
-      "Pavadinimas": "Ministro kabinetas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Justas Jaskonis",
-          "Pareigos": "Ministro atstovas spaudai",
-          "Tel. numeris": "+37052391 012",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "283"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Ministerijos patarėjai",
       "Darbuotojai": [
         {
@@ -44,6 +32,13 @@
           "Vardas, pavardė": "Darius Remeika",
           "Pareigos": "Veterinarijos ir fitosanitarijos atašė Lietuvos nuolatinėje atstovybėje ES",
           "Tel. numeris": "+32 240 19810",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Deividas Kliučinskas",
+          "Pareigos": "LR žemės ūkio atašė LR ambasadoje JK",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
