@@ -5,13 +5,6 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Laimas Dieninis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 615 69049",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "306"
-        },
-        {
           "Vardas, pavardė": "Miranda Borusevičiūtė",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 618 51230",
@@ -1118,18 +1111,6 @@
       ]
     },
     {
-      "Pavadinimas": "Pareigybės, nepriklausiančios struktūriniam padaliniui ir tiesiogiai pavaldžios ministrui",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Evelina Gruzdienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 684 61252",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Pareigybės, nepriklausiančios struktūriniam padaliniui ir tiesiogiai pavaldžios ministerijos kancleriui",
       "Darbuotojai": [
         {
@@ -1138,6 +1119,20 @@
           "Tel. numeris": "+370 600 42717",
           "El. paštas": "[email protected]",
           "Kabinetas": "317"
+        },
+        {
+          "Vardas, pavardė": "Evelina Gruzdienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 684 61252",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Laimas Dieninis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 615 69049",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "306"
         }
       ]
     },
