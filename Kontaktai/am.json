@@ -348,6 +348,39 @@
       ]
     },
     {
+      "Pavadinimas": "Organizacijų licencijavimo, įrodančių dokumentų išrašymo, tarpvalstybinių atliekų vežimų, laivų perdirbimo, baterijų, elektronikos, apmokestinamųjų gaminių, eksploatuoti netinkamų transporto priemonių,  alyvos atliekų tvarkymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aurimas Jančiauskas (Baterijų, akumuliatorių, elektros ir elektroninės įrangos atliekų tvarkymo klausimai)",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 682 39134",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jurga Girdziušienė (tarpvalstybiniai atliekų vežimų, laivų perdirbimo klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 695 49899",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "303"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Kauzonas",
+          "Pareigos": "Vyr. patarėjas",
+          "Tel. numeris": "+370 695 26717",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "305"
+        },
+        {
+          "Vardas, pavardė": "Neringa Paškauskaitė (organizacijų licencijavimo, atliekų sutvarkymą įrodančių dokumentų išrašymo ir turinčių teisę išrašyti gaminių ir pakuočių atliekų sutvarkymą įrodančius dokumentus atliekų tvarkytojų sąrašo sudarymo bendrieji klausimai)",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 696 63217",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "306"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Bendrieji komunalinių atliekų tvarkymo sistemų organizavimo, pakuočių ir pakuočių atliekų, biologiškai skaidžių atliekų tvarkymo klausimai",
       "Darbuotojai": [
         {
@@ -410,39 +443,6 @@
           "Tel. numeris": "+370 696 26577",
           "El. paštas": "[email protected]",
           "Kabinetas": "303"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Organizacijų licencijavimo, įrodančių dokumentų išrašymo, tarpvalstybinių atliekų vežimų, laivų perdirbimo, baterijų, elektronikos, apmokestinamųjų gaminių, eksploatuoti netinkamų transporto priemonių,  alyvos atliekų tvarkymo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aurimas Jančiauskas (Baterijų, akumuliatorių, elektros ir elektroninės įrangos atliekų tvarkymo klausimai)",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 682 39134",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Jurga Girdziušienė (tarpvalstybiniai atliekų vežimų, laivų perdirbimo klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 695 49899",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "303"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Kauzonas",
-          "Pareigos": "Vyr. patarėjas",
-          "Tel. numeris": "+370 695 26717",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "305"
-        },
-        {
-          "Vardas, pavardė": "Neringa Paškauskaitė (organizacijų licencijavimo, atliekų sutvarkymą įrodančių dokumentų išrašymo ir turinčių teisę išrašyti gaminių ir pakuočių atliekų sutvarkymą įrodančius dokumentus atliekų tvarkytojų sąrašo sudarymo bendrieji klausimai)",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 696 63217",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "306"
         }
       ]
     },
