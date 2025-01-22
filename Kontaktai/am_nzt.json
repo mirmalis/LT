@@ -1561,12 +1561,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Giedrė Rukienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 601",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Gintaras Zubrickas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "",
@@ -1809,6 +1803,12 @@
           "Vardas, pavardė": "Emilija Kačinskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Giedrė Rukienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 601",
           "El. paštas": "[email protected]"
         },
         {
