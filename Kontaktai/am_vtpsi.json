@@ -82,6 +82,25 @@
       ]
     },
     {
+      "Pavadinimas": "Patarėjų grupės vyriausieji specialistai ir specialistai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Natalja Tarvid",
+          "Pareigos": "Specialistė (žmogiškųjų išteklių valdymo klausimais)",
+          "Tel. numeris": "+370 607 74286",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vitalija Belunskaitė",
+          "Pareigos": "Specialistė (finansininkė)",
+          "Tel. numeris": "+370 690 57142",
+          "Kabinetas": "A. Vienuolio g. 8. Vilnius (207 kab.)",
+          "Atsakingas už": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Konsultavimo skyrius",
       "Darbuotojai": [
         {
@@ -225,6 +244,13 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 604 76741",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Juonytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 690 22742",
+          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         },
         {

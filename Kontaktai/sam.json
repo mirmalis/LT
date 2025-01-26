@@ -79,6 +79,17 @@
       ]
     },
     {
+      "Pavadinimas": "Visuomeniniai konsultantai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Linas Svetikas",
+          "Pareigos": "Ministro visuomeninis konsultantas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Specialieji atašė",
       "Darbuotojai": [
         {
@@ -96,12 +107,6 @@
           "Vardas, pavardė": "Julijanas Gališanskis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 5 219 3310",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jūratė Baltinaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 266 1415",
           "El. paštas": "[email protected]"
         },
         {
@@ -459,6 +464,12 @@
           "Vardas, pavardė": "Ieva Gudanavičienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 219 3343",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Irma Diržinauskaitė-Butkienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
