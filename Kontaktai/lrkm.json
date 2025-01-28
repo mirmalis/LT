@@ -45,18 +45,25 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Dr. Ingrida Veliutė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "311"
+        },
+        {
+          "Vardas, pavardė": "Edita Klaunauskaitė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "312"
+        },
+        {
           "Vardas, pavardė": "Ewelina Mokrzecka",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+37063704160",
           "El. paštas": "[email protected]",
           "Kabinetas": "301"
-        },
-        {
-          "Vardas, pavardė": "Ingrida Veliutė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "311"
         },
         {
           "Vardas, pavardė": "Kotryna Žukauskaitė",
