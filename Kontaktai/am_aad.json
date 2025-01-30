@@ -28,18 +28,6 @@
       ]
     },
     {
-      "Pavadinimas": "Komunikacijos departamentas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Renata Surovec",
-          "Pareigos": "Departamento direktorė",
-          "Tel. numeris": "+370 642 16311",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (209 kab.), 03201 Vilnius"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Ryšių su visuomene skyrius",
       "Darbuotojai": [
         {
@@ -358,14 +346,14 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
+          "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
           "Vardas, pavardė": "Aldona Krikštaponienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "Nuotolinė darbo vieta"
+          "Kabinetas": "Žemaitės g. 6 (202 kab.), 03117 Vilnius"
         },
         {
           "Vardas, pavardė": "Eigintas Ličys",
@@ -379,7 +367,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
+          "Kabinetas": "Žemaitės g. 6 (202 kab.), 03117 Vilnius"
         },
         {
           "Vardas, pavardė": "Joana Augustauskienė",
@@ -393,7 +381,7 @@
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "Žemaitės g. 6 (215 kab.), 03117 Vilnius"
+          "Kabinetas": "Žemaitės g. 6 (216 kab.), 03117 Vilnius"
         },
         {
           "Vardas, pavardė": "Paulius Rutkauskas",
@@ -414,7 +402,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "Smolensko g. 15 (302 kab.), 03201 Vilnius"
+          "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
           "Vardas, pavardė": "Vaida Kubertavičiūtė",
@@ -428,7 +416,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "Žemaitės g. 6 (215 kab.), 03117 Vilnius"
+          "Kabinetas": "Žemaitės g. 6 (216 kab.), 03117 Vilnius"
         },
         {
           "Vardas, pavardė": "Viktorija Blažienė",
