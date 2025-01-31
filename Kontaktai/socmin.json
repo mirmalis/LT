@@ -296,20 +296,6 @@
           "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
         },
         {
-          "Vardas, pavardė": "Lukas Čaplikas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 690 24705",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
-        },
-        {
-          "Vardas, pavardė": "Tomas Kvaraciejus",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 607 66296",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
-        },
-        {
           "Vardas, pavardė": "Ugnius Samsanavičius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 615 60315",
@@ -1068,42 +1054,42 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Ana Buzarevič",
-          "Pareigos": "Patarėja (smurto prieš vaikus klausimai, vaikai, turintys negalią, kt. vaiko teisių apsaugos klausimai)",
+          "Pareigos": "Patarėja (smurto prieš vaikus, Teisėto darbo su vaikais (QR) kodo, kt. vaiko teisių klausimai)",
           "Tel. numeris": "+370 616 18454",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 242 kab."
         },
         {
           "Vardas, pavardė": "Dovilė Menčinskaitė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Patarėja (MDFT programa, Vaiko gerovės veiksmų plano, kt. vaiko teisių klausimai)",
           "Tel. numeris": "+370 634 88368",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 242 kab."
         },
         {
           "Vardas, pavardė": "Gailė Veršekienė",
-          "Pareigos": "Patarėja (Vaiko teisių apsaugos pagrindų įstatymo, kt. vaiko teisių apsaugos klausimai)",
+          "Pareigos": "Patarėja (seksualinio smurto prieš vaikus, Vaiko teisių apsaugos pagrindų įstatymo klausimai)",
           "Tel. numeris": "+370 691 42051",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 242 kab."
         },
         {
           "Vardas, pavardė": "Giedrė Mikalauskienė",
-          "Pareigos": "Vyresnioji patarėja (vaiko teisių apsaugos politikos formavimas ir įgyvendinimas)",
+          "Pareigos": "Vyresnioji patarėja (vaiko globos (rūpybos), įvaikinimo, vaiko laikino apgyvendinimo, vaiko laikinosios priežiūros, kt. vaiko teisių klausimai)",
           "Tel. numeris": "+370 652 17286",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 242 kab."
         },
         {
           "Vardas, pavardė": "Jurgita Bučiūtė-Barysienė",
-          "Pareigos": "Vyresnioji patarėja (Šeimos politikos klausimai, Šeimos kortelė)",
+          "Pareigos": "Vyresnioji patarėja (šeimos politikos, Šeimos kortelės, Vaiko gerovės tarybos prie LRV klausimai)",
           "Tel. numeris": "+370 659 24768",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 242 kab."
         },
         {
           "Vardas, pavardė": "Konstantinas Rečkovas",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėjas (vaiko garantijų klausimai, nelydimų nepilnamečių, vaikų su negalia, kt. vaiko teisių klausimai)",
           "Tel. numeris": "+370 652 99311",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 242 kab."
@@ -1762,13 +1748,6 @@
           "Vardas, pavardė": "Indrė Vaicekauskaitė",
           "Pareigos": "Patarėja (darbo apmokėjimas)",
           "Tel. numeris": "+370 657 03311",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 107 kab."
-        },
-        {
-          "Vardas, pavardė": "Jelena Polijančuk",
-          "Pareigos": "Vyresnioji patarėja (individualių ir kolektyvinių darbo santykių, darbo ir poilsio laiko, individualių darbo ginčų, atsakomybės ir žalos atlyginimo, nediskriminavimo darbo santykių srityje, laikinojo įdarbinimo reglamentavimas)",
-          "Tel. numeris": "+370 685 10369",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 107 kab."
         },

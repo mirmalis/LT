@@ -28,6 +28,18 @@
       ]
     },
     {
+      "Pavadinimas": "Komunikacijos departamentas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Laima Grižaitė",
+          "Pareigos": "Departamento direktorė (l. e. p.)",
+          "Tel. numeris": "+370 630 50112",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (209 kab.), 03201 Vilnius"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Ryšių su visuomene skyrius",
       "Darbuotojai": [
         {
@@ -3020,13 +3032,6 @@
         {
           "Vardas, pavardė": "Justas Norvilas",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Kvietinių g. 8, 96140 Gargždai"
-        },
-        {
-          "Vardas, pavardė": "Kristina Rėbždienė",
-          "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
           "Kabinetas": "Kvietinių g. 8, 96140 Gargždai"
