@@ -5,6 +5,20 @@
       "Pavadinimas": "Ministerijos vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Giedrius Grybauskas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 219 1153",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jonas Petkevičius",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 219 1153",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "354"
+        },
+        {
           "Vardas, pavardė": "Julija Būtėnaitė",
           "Pareigos": "Ministrės referentė",
           "Tel. numeris": "+370 5 219 1225",
@@ -52,11 +66,18 @@
           "Kabinetas": "241"
         },
         {
+          "Vardas, pavardė": "Rimantas Vaitkus",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "114"
+        },
+        {
           "Vardas, pavardė": "Tomas Bičiūnas",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+370 699 37 740",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "114"
         }
       ]
     },
@@ -266,18 +287,6 @@
       ]
     },
     {
-      "Pavadinimas": "Analitikos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Giedrius Padvilikis",
-          "Pareigos": "Vedėjas",
-          "Tel. numeris": "+370 687 03 886",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "477"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Strateginio planavimo skyrius",
       "Darbuotojai": [
         {
@@ -321,6 +330,25 @@
           "Tel. numeris": "+370 616 08 857",
           "El. paštas": "[email protected]",
           "Kabinetas": "121"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Analitikos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Giedrius Padvilikis",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 687 03 886",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "234"
+        },
+        {
+          "Vardas, pavardė": "Irina Kompanijec",
+          "Pareigos": "Duomenų analitikas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -426,53 +454,6 @@
       ]
     },
     {
-      "Pavadinimas": "Švietimo pagalbos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Daiva Vaišnorienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 666 33 093",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "482"
-        },
-        {
-          "Vardas, pavardė": "Ieva Vedeikytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 686 35 096",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "482"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Bagdonaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 686 75 746",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "486"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Marciukienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 618 19 126",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "486"
-        },
-        {
-          "Vardas, pavardė": "Kristina Valantinienė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 666 59 638",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "348"
-        },
-        {
-          "Vardas, pavardė": "Lingailė Bagužienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 64 126",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "486"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Pedagogų skyrius",
       "Darbuotojai": [
         {
@@ -516,6 +497,53 @@
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Švietimo pagalbos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Vaišnorienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 666 33 093",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "482"
+        },
+        {
+          "Vardas, pavardė": "Ieva Vedeikytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 686 35 096",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "482"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Bagdonaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 686 75 746",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "486"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Marciukienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 618 19 126",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "486"
+        },
+        {
+          "Vardas, pavardė": "Kristina Valantinienė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 666 59 638",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "348"
+        },
+        {
+          "Vardas, pavardė": "Lingailė Bagužienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 620 64 126",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "486"
         }
       ]
     },
@@ -711,6 +739,105 @@
           "Tel. numeris": "+370 698 51 059",
           "El. paštas": "[email protected]",
           "Kabinetas": "239"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Mokymosi visą gyvenimą departamentas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Julius Jakučinskas",
+          "Pareigos": "Direktorius",
+          "Tel. numeris": "+370 656 03 011",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "363"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Profesinio mokymo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Audronė Gudonytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 620 68 967",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "369"
+        },
+        {
+          "Vardas, pavardė": "Dalė Švelnienė",
+          "Pareigos": "Patarėja pavaduojanti skyriaus vedėją",
+          "Tel. numeris": "+370 614 57 507",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "370"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Zabietienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 666 59 354",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "370"
+        },
+        {
+          "Vardas, pavardė": "Jovita Černuševičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 699 08 091",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "370"
+        },
+        {
+          "Vardas, pavardė": "Rūta Žukauskaitė-Osipovič",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 614 90 048",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "369"
+        },
+        {
+          "Vardas, pavardė": "Vilma Matulionienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 666 59 321",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "370"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Neformalaus švietimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aušra Birietienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 664 46 081",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "367"
+        },
+        {
+          "Vardas, pavardė": "Giedrė Ulytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 620 30 635",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "367"
+        },
+        {
+          "Vardas, pavardė": "Gintarė Zajankauskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 615 16 465",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "367"
+        },
+        {
+          "Vardas, pavardė": "Julija Lekavičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Tomas Pūtys",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 686 13 797",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "368"
         }
       ]
     },
@@ -920,98 +1047,6 @@
           "Tel. numeris": "+370 620 19 162",
           "El. paštas": "[email protected]",
           "Kabinetas": "243"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Mokymosi visą gyvenimą departamentas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Julius Jakučinskas",
-          "Pareigos": "Direktorius",
-          "Tel. numeris": "+370 656 03 011",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "363"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Profesinio mokymo skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Audronė Gudonytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 68 967",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "369"
-        },
-        {
-          "Vardas, pavardė": "Dalė Švelnienė",
-          "Pareigos": "Patarėja pavaduojanti skyriaus vedėją",
-          "Tel. numeris": "+370 614 57 507",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "370"
-        },
-        {
-          "Vardas, pavardė": "Jolanta Zabietienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 666 59 354",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "370"
-        },
-        {
-          "Vardas, pavardė": "Jovita Černuševičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 699 08 091",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "370"
-        },
-        {
-          "Vardas, pavardė": "Rūta Žukauskaitė-Osipovič",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 614 90 048",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "369"
-        },
-        {
-          "Vardas, pavardė": "Vilma Matulionienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 666 59 321",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "370"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Neformalaus švietimo skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aušra Birietienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 664 46 081",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "367"
-        },
-        {
-          "Vardas, pavardė": "Giedrė Ulytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 30 635",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "367"
-        },
-        {
-          "Vardas, pavardė": "Gintarė Zajankauskaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 615 16 465",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "367"
-        },
-        {
-          "Vardas, pavardė": "Tomas Pūtys",
-          "Pareigos": "Vedėjas",
-          "Tel. numeris": "+370 686 13 797",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "368"
         }
       ]
     },

@@ -775,12 +775,6 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 146",
           "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Saulius Stončius",
-          "Pareigos": "Skyriaus patarėjas",
-          "Tel. numeris": "+370 706 85 104",
-          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -839,6 +833,12 @@
           "Vardas, pavardė": "Raselė Domeikienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 408",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Saulius Stončius",
+          "Pareigos": "Skyriaus patarėjas",
+          "Tel. numeris": "+370 706 85 104",
           "El. paštas": "[email protected]"
         },
         {
@@ -2079,12 +2079,6 @@
           "Vardas, pavardė": "Vilma Merkininkienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 579",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vilma Stanionienė",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "+370 706 85 471",
           "El. paštas": "[email protected]"
         },
         {

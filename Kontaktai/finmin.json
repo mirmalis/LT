@@ -1213,13 +1213,6 @@
           "Kabinetas": "249"
         },
         {
-          "Vardas, pavardė": "Karolina Lapėnė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "2199337",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "247"
-        },
-        {
           "Vardas, pavardė": "Renata Totorienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "2199321",
@@ -2607,6 +2600,13 @@
           "Kabinetas": "404"
         },
         {
+          "Vardas, pavardė": "Diana Kurtinytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "404"
+        },
+        {
           "Vardas, pavardė": "Egita Bugaitienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "2199374",
@@ -2827,7 +2827,7 @@
         {
           "Vardas, pavardė": "Lina Balčiūnienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "2194421",
+          "Tel. numeris": "2199310",
           "El. paštas": "[email protected]",
           "Kabinetas": "440"
         },
