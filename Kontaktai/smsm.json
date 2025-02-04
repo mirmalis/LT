@@ -68,7 +68,7 @@
         {
           "Vardas, pavardė": "Rimantas Vaitkus",
           "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 622 95 089",
           "El. paštas": "[email protected]",
           "Kabinetas": "114"
         },
@@ -346,7 +346,7 @@
         {
           "Vardas, pavardė": "Irina Kompanijec",
           "Pareigos": "Duomenų analitikas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 622 99 177",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -367,7 +367,7 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 618 85 352",
           "El. paštas": "[email protected]",
-          "Kabinetas": "487"
+          "Kabinetas": "105"
         }
       ]
     },
@@ -496,7 +496,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "487"
         }
       ]
     },
@@ -828,7 +828,7 @@
         {
           "Vardas, pavardė": "Julija Lekavičiūtė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 622 57 547",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -902,13 +902,6 @@
           "Tel. numeris": "+370 615 80 469",
           "El. paštas": "[email protected]",
           "Kabinetas": "113"
-        },
-        {
-          "Vardas, pavardė": "Budintis .",
-          "Pareigos": "Budintis",
-          "Tel. numeris": "+370 686 01 789",
-          "El. paštas": "",
-          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Danguolė Baliukynienė",
@@ -1000,6 +993,13 @@
           "Tel. numeris": "+370 614 38 353",
           "El. paštas": "[email protected]",
           "Kabinetas": "118"
+        },
+        {
+          "Vardas, pavardė": "ŠMSM Budintis",
+          "Pareigos": "Budintis",
+          "Tel. numeris": "+370 686 01 789",
+          "El. paštas": "",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Vanda Kerpauskaitė",
@@ -1469,7 +1469,7 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 618 81 071",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "231"
         }
       ]
     },
