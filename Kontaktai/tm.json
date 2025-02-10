@@ -111,6 +111,13 @@
       "Pavadinimas": "Bausmių vykdymo politikos grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Gintautas Šarauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Marius Rakštelis",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+370 647 67165",
@@ -274,7 +281,7 @@
         },
         {
           "Vardas, pavardė": "Aurelija Baltikauskaitė",
-          "Pareigos": "Vyresnioji patarėja (turinti pavaldžių)",
+          "Pareigos": "Vyresnioji patarėja, laikinai atliekanti grupės vadovės funkcijas",
           "Tel. numeris": "+370 600 42858",
           "El. paštas": "[email protected]",
           "Kabinetas": "505"
@@ -833,13 +840,6 @@
           "Vardas, pavardė": "Aliona Popova",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 671 88249",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "503"
-        },
-        {
-          "Vardas, pavardė": "Beatričė Jasinskaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 600 42636",
           "El. paštas": "[email protected]",
           "Kabinetas": "503"
         },

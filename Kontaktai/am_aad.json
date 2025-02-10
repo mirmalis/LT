@@ -97,6 +97,13 @@
           "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
         },
         {
+          "Vardas, pavardė": "Edita Markevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "-"
+        },
+        {
           "Vardas, pavardė": "Kęstutis Celiešius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 700 02022",
@@ -562,6 +569,74 @@
       ]
     },
     {
+      "Pavadinimas": "Klaipėdos aplinkos kokybės kontrolės skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dainius Tamošiūnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
+        },
+        {
+          "Vardas, pavardė": "Dalia Kalašinskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "M. K. Čiurlionio g. 3 (3.1 kab.), 76303 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Egidijus Kvasauskas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "M. K. Čiurlionio g. 3 (3.4 kab.), 76303 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Ingutė Šalkauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "M. K. Čiurlionio g. 3 (3.1 kab.), 76303 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Linda Rutkauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "M. K. Čiurlionio g. 3 (3.1 kab.), 76303 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Milda Kubilienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
+        },
+        {
+          "Vardas, pavardė": "Neringa Pikturnaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
+        },
+        {
+          "Vardas, pavardė": "Reda Arlauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "M. K. Čiurlionio g. 3 (2.7 kab.), 76303 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Vaida Rūkienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "M. K. Čiurlionio g. 3 (3.2 kab.), 76303 Šiauliai"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Kauno aplinkos kokybės kontrolės skyrius",
       "Darbuotojai": [
         {
@@ -665,74 +740,6 @@
       ]
     },
     {
-      "Pavadinimas": "Klaipėdos aplinkos kokybės kontrolės skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Dainius Tamošiūnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
-        },
-        {
-          "Vardas, pavardė": "Dalia Kalašinskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "M. K. Čiurlionio g. 3 (3.1 kab.), 76303 Šiauliai"
-        },
-        {
-          "Vardas, pavardė": "Egidijus Kvasauskas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "M. K. Čiurlionio g. 3 (3.4 kab.), 76303 Šiauliai"
-        },
-        {
-          "Vardas, pavardė": "Ingutė Šalkauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "M. K. Čiurlionio g. 3 (3.1 kab.), 76303 Šiauliai"
-        },
-        {
-          "Vardas, pavardė": "Linda Rutkauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "M. K. Čiurlionio g. 3 (3.1 kab.), 76303 Šiauliai"
-        },
-        {
-          "Vardas, pavardė": "Milda Kubilienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
-        },
-        {
-          "Vardas, pavardė": "Neringa Pikturnaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
-        },
-        {
-          "Vardas, pavardė": "Reda Arlauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "M. K. Čiurlionio g. 3 (2.7 kab.), 76303 Šiauliai"
-        },
-        {
-          "Vardas, pavardė": "Vaida Rūkienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "M. K. Čiurlionio g. 3 (3.2 kab.), 76303 Šiauliai"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Panevėžio aplinkos kokybės kontrolės skyrius",
       "Darbuotojai": [
         {
@@ -754,7 +761,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "J. Biliūno g. 28-1 (1 kab.), 29117 Anykščiai"
+          "Kabinetas": "J. Jablonskio g. 30, 29111 Anykščiai"
         },
         {
           "Vardas, pavardė": "Darius Pocius",
@@ -1385,6 +1392,88 @@
       ]
     },
     {
+      "Pavadinimas": "Kauno miškų kontrolės skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Algirdas Dičpinigaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Bažnyčios g. 3, 71122 Šakiai"
+        },
+        {
+          "Vardas, pavardė": "Algis Dusevičius",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Aušros g. 15, 65190 Varėna"
+        },
+        {
+          "Vardas, pavardė": "Antanas Krušniauskas",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Aušros g. 15, 65190 Varėna"
+        },
+        {
+          "Vardas, pavardė": "Artūras Merkinykas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Kauno g. 69, 62107 Alytus"
+        },
+        {
+          "Vardas, pavardė": "Egidijus Baltrušaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Dariaus ir Girėno g. 4, 68176 Marijampolė"
+        },
+        {
+          "Vardas, pavardė": "Gintaras Žukauskas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Dariaus ir Girėno g. 4, 68176 Marijampolė"
+        },
+        {
+          "Vardas, pavardė": "Irmantas Juškauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Ugniagesių g. 1, 74182 Jurbarkas"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Juškauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Ugniagesių g. 1, 74182 Jurbarkas"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Urbanavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Kauno g. 21, 55177 Jonava"
+        },
+        {
+          "Vardas, pavardė": "Raimondas Vincevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Kauno g. 21, 55177 Jonava"
+        },
+        {
+          "Vardas, pavardė": "Rytis Kuzmickas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Senamiesčio g. 6 (2 kab.), 67105 Lazdijai"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Vilniaus miškų kontrolės skyrius",
       "Darbuotojai": [
         {
@@ -1474,88 +1563,6 @@
       ]
     },
     {
-      "Pavadinimas": "Kauno miškų kontrolės skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Algirdas Dičpinigaitis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Bažnyčios g. 3, 71122 Šakiai"
-        },
-        {
-          "Vardas, pavardė": "Algis Dusevičius",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Aušros g. 15, 65190 Varėna"
-        },
-        {
-          "Vardas, pavardė": "Antanas Krušniauskas",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Aušros g. 15, 65190 Varėna"
-        },
-        {
-          "Vardas, pavardė": "Artūras Merkinykas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Kauno g. 69, 62107 Alytus"
-        },
-        {
-          "Vardas, pavardė": "Egidijus Baltrušaitis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Dariaus ir Girėno g. 4, 68176 Marijampolė"
-        },
-        {
-          "Vardas, pavardė": "Gintaras Žukauskas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Dariaus ir Girėno g. 4, 68176 Marijampolė"
-        },
-        {
-          "Vardas, pavardė": "Irmantas Juškauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Ugniagesių g. 1, 74182 Jurbarkas"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Juškauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Ugniagesių g. 1, 74182 Jurbarkas"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Urbanavičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Kauno g. 21, 55177 Jonava"
-        },
-        {
-          "Vardas, pavardė": "Raimondas Vincevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Kauno g. 21, 55177 Jonava"
-        },
-        {
-          "Vardas, pavardė": "Rytis Kuzmickas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "Senamiesčio g. 6 (2 kab.), 67105 Lazdijai"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Klaipėdos miškų kontrolės skyrius",
       "Darbuotojai": [
         {
@@ -1631,7 +1638,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "",
           "El. paštas": "",
-          "Kabinetas": "J. Gruodžio g. 37, 42129 Rokiškis"
+          "Kabinetas": "J. Jablonskio g. 30, 29111 Anykščiai"
         },
         {
           "Vardas, pavardė": "Modestas Muleras",
@@ -1758,6 +1765,32 @@
       ]
     },
     {
+      "Pavadinimas": "Teisėkūros skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Abromavičiūtė-Būdžė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 687 28379",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Žvaigždžių g. 21 (13 kab.), 37109 Panevėžys"
+        },
+        {
+          "Vardas, pavardė": "Jolita Cegelienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 646 25435",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Kauno g. 69 (3 kab.), 62107 Alytus"
+        },
+        {
+          "Vardas, pavardė": "Sigita Gustaitė-Jarukienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 647 81716",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Kauno administracinių bylų nagrinėjimo skyrius",
       "Darbuotojai": [
         {
@@ -1815,32 +1848,6 @@
           "Tel. numeris": "+370 647 76726",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kauno g. 69 - 3 (kab.), 62107 Alytus"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Teisėkūros skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Daiva Abromavičiūtė-Būdžė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 687 28379",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Žvaigždžių g. 21 (13 kab.), 37109 Panevėžys"
-        },
-        {
-          "Vardas, pavardė": "Jolita Cegelienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 646 25435",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Kauno g. 69 (3 kab.), 62107 Alytus"
-        },
-        {
-          "Vardas, pavardė": "Sigita Gustaitė-Jarukienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 647 81716",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
         }
       ]
     },
@@ -3024,6 +3031,13 @@
         },
         {
           "Vardas, pavardė": "Gintarė Granickienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "Kvietinių g. 8, 96140 Gargždai"
+        },
+        {
+          "Vardas, pavardė": "Irena Pliuškienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "",
           "El. paštas": "",

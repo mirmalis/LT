@@ -13,17 +13,24 @@
         },
         {
           "Vardas, pavardė": "Aušra Grinčiukė",
-          "Pareigos": "Viršininko pavaduotojas",
+          "Pareigos": "Viršininko pavaduotoja",
           "Tel. numeris": "+370 698 49857",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Statybos valstybinės priežiūros kuravimas"
         },
         {
           "Vardas, pavardė": "Diana Jasinavičiūtė",
-          "Pareigos": "Kancleris",
+          "Pareigos": "Kanclerė",
           "Tel. numeris": "+370 607 73878",
-          "Kabinetas": "A. Vienuolio g. 8 (211 kab.)",
-          "Atsakingas už": ""
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (211 kab.)",
+          "Atsakingas už": "Administravimo skyriaus, Išteklių valdymo skyriaus, Informacinių sistemų valdymo skyriaus ir Teisės departamento veiklos sričių kuravimas"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Špūraitė",
+          "Pareigos": "Pagal pavedimą vykdo viršininko pavaduotojo funkcijas",
+          "Tel. numeris": "+370 604 76361",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (208 kab.)",
+          "Atsakingas už": "Teritorijų planavimo ir žemės naudojimo valstybinės priežiūros kuravimas"
         },
         {
           "Vardas, pavardė": "Lina Bingelytė",
@@ -86,17 +93,17 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Natalja Tarvid",
-          "Pareigos": "Specialistė (žmogiškųjų išteklių valdymo klausimais)",
+          "Pareigos": "Specialistė",
           "Tel. numeris": "+370 607 74286",
           "Kabinetas": "Nuotolinė darbo vieta",
-          "Atsakingas už": ""
+          "Atsakingas už": "Žmogiškųjų išteklių valdymas"
         },
         {
           "Vardas, pavardė": "Vitalija Belunskaitė",
-          "Pareigos": "Specialistė (finansininkė)",
+          "Pareigos": "Specialistė",
           "Tel. numeris": "+370 690 57142",
           "Kabinetas": "A. Vienuolio g. 8. Vilnius (207 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Finansininkė"
         }
       ]
     },
@@ -183,6 +190,46 @@
       ]
     },
     {
+      "Pavadinimas": "Veiklos planavimo ir komunikacijos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aidas Valys",
+          "Pareigos": "L. e. vedėjo pareigas",
+          "Tel. numeris": "+370 682 48350",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Irena Jarušaitienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 682 91153",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Irma Brazienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 604 76741",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Juonytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 690 22742",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Nikita Stecenko",
+          "Pareigos": "Kvalifikuotas darbuotojas",
+          "Tel. numeris": "+370 606 70251",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
+          "Atsakingas už": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Vidaus tyrimų skyrius",
       "Darbuotojai": [
         {
@@ -223,61 +270,21 @@
       ]
     },
     {
-      "Pavadinimas": "Veiklos planavimo ir komunikacijos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aidas Valys",
-          "Pareigos": "Vedėjas (laikinai vykdo vedėjo funkcijas)",
-          "Tel. numeris": "+370 682 48350",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (201 kab.)",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Irena Jarušaitienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 682 91153",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Irma Brazienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 604 76741",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Lina Juonytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 690 22742",
-          "Kabinetas": "Nuotolinė darbo vieta",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Nikita Stecenko",
-          "Pareigos": "Kvalifikuotas darbuotojas",
-          "Tel. numeris": "+370 606 70251",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (110 kab.)",
-          "Atsakingas už": ""
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Administravimo skyrius",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aistė Valiaugaitė",
-          "Pareigos": "Patarėja (dokumentų valdymo klausimais)",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 73680",
           "Kabinetas": "A. Vienuolio g. 8 (102 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Dokumentų valdymo ir raštinės klausimų kuravimas"
         },
         {
           "Vardas, pavardė": "Diana Potapova",
-          "Pareigos": "Specialistė (viešųjų pirkimų klausimais)",
+          "Pareigos": "Specialistė",
           "Tel. numeris": "+370 687 17286",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (102 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Viešieji pirkimai"
         },
         {
           "Vardas, pavardė": "Gintarė Kalendauskienė",
@@ -309,10 +316,10 @@
         },
         {
           "Vardas, pavardė": "Jolanta Padvariškienė",
-          "Pareigos": "Vyriausioji specialistė (viešųjų pirkimų klausimais)",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 646 97032",
           "Kabinetas": "Nuotolinė darbo vieta",
-          "Atsakingas už": ""
+          "Atsakingas už": "Viešieji pirkimai"
         },
         {
           "Vardas, pavardė": "Jurgita Čereškienė",
@@ -330,7 +337,7 @@
         },
         {
           "Vardas, pavardė": "Lina Bingelytė",
-          "Pareigos": "Specialistė",
+          "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 646 67757",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (204 kab.)",
           "Atsakingas už": ""
@@ -358,10 +365,10 @@
         },
         {
           "Vardas, pavardė": "Mindaugas Petkelis",
-          "Pareigos": "Specialistas (viešųjų pirkimų klausimais)",
+          "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 604 76199",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (102 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Viešieji pirkimai"
         },
         {
           "Vardas, pavardė": "Ramunė Gajauskienė",
@@ -374,7 +381,7 @@
           "Vardas, pavardė": "Ramunė Grigaitienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 604 76293",
-          "Kabinetas": "L. Sapiegos g. 12 (401 kab.)",
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (401 kab.)",
           "Atsakingas už": ""
         },
         {
@@ -401,14 +408,14 @@
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 607 75431",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Bendradarbiavimas su kitomis įstaigomis, tvarkančiomis informacines sistemas, kuriose Statybos inspekcija vykdo funkcijas"
         },
         {
           "Vardas, pavardė": "Ingrida Mickuvienė",
-          "Pareigos": "Specialistė (TPDR, TPDRIS)",
+          "Pareigos": "Specialistė",
           "Tel. numeris": "+370 5 207 3333",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": "TPDR ir TPDRIS"
+          "Atsakingas už": "Teritorijų planavimo dokumentų registro administravimas, bendradarbiavimas su kitomis įstaigomis, tvarkančiomis informacines sistemas, kuriose Statybos inspekcija vykdo funkcijas"
         },
         {
           "Vardas, pavardė": "Juozapas Andrikonis",
@@ -419,14 +426,14 @@
         },
         {
           "Vardas, pavardė": "Justina Žardeckienė",
-          "Pareigos": "Specialistė (IS testavimas)",
+          "Pareigos": "Specialistė",
           "Tel. numeris": "+370 645 06291",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Testavimas"
         },
         {
           "Vardas, pavardė": "Karolis Aleksiejus",
-          "Pareigos": "Specialistas (Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai)",
+          "Pareigos": "Specialistas",
           "Tel. numeris": "+370 645 06339",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)",
           "Atsakingas už": "Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai"
@@ -436,11 +443,11 @@
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 687 56114",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Duomenų sauga"
         },
         {
           "Vardas, pavardė": "Vytas Varkavičius",
-          "Pareigos": "Specialistas (Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai)",
+          "Pareigos": "Specialistas",
           "Tel. numeris": "+370 672 07264",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)",
           "Atsakingas už": "Kompiuterizuotų darbo vietų priežiūra, dokumentų valdymo sistema, kompiuteriniai tinklai"
@@ -452,24 +459,24 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aivaras Makaravičius",
-          "Pareigos": "Specialistas (ūkvedys)",
+          "Pareigos": "Specialistas",
           "Tel. numeris": "+370 682 73851",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Ūkvedys"
         },
         {
           "Vardas, pavardė": "Darius Junelis",
-          "Pareigos": "Specialistas (turto valdymas)",
+          "Pareigos": "Specialistas",
           "Tel. numeris": "+370 68 724840",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius ( 105 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Turto valdymas"
         },
         {
           "Vardas, pavardė": "Diana Mateikienė",
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 613 91270",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (105 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Įstaigos veiklai naudojamų patalpų panaudos, nuomos sutarčių sudarymas, sąskaitų kontrolė"
         },
         {
           "Vardas, pavardė": "Evaldas Savickas",
@@ -487,10 +494,10 @@
         },
         {
           "Vardas, pavardė": "Kęstutis Skyrius",
-          "Pareigos": "Specialistas (turto valdymas)",
+          "Pareigos": "Specialistas",
           "Tel. numeris": "+370 603 87094",
           "Kabinetas": "Danės g. 17, Klaipėda (321 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "Turto valdymas"
         },
         {
           "Vardas, pavardė": "Renata Šilinskaitė",
@@ -522,7 +529,7 @@
           "Vardas, pavardė": "Sonata Pakalnienė",
           "Pareigos": "L. e. direktoriaus pareigas",
           "Tel. numeris": "+370 671 33208",
-          "Kabinetas": "A. Vienuolio g. 8 (303 kab.)",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
           "Atsakingas už": ""
         }
       ]
@@ -697,13 +704,6 @@
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 682 92501",
           "Kabinetas": "Naujoji g. 2, Alytus (314 kab.)",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Vilma Zdancevičiūtė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 612 03 363",
-          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
       ]
@@ -880,7 +880,7 @@
         },
         {
           "Vardas, pavardė": "Vytautas Trinkūnas",
-          "Pareigos": "l. e. vedėjo pareigas, atliekantis skyriaus vedėjo funkcijas",
+          "Pareigos": "Pagal pavedimą vykdo vedėjo pareigas",
           "Tel. numeris": "+370 612 41315",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
           "Atsakingas už": "skyriaus darbo veiklos organizavimas"
@@ -1356,7 +1356,7 @@
         },
         {
           "Vardas, pavardė": "Lilija Misiulienė",
-          "Pareigos": "Vyresnioji patarėja, laikinai vykdanti vedėjos funkcijas",
+          "Pareigos": "Pagal pavedimą vykdo vedėjo pareigas",
           "Tel. numeris": "+370 620 18357",
           "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)",
           "Atsakingas už": ""
@@ -1396,7 +1396,7 @@
         },
         {
           "Vardas, pavardė": "Lilija Misiulienė",
-          "Pareigos": "Vyresnioji patarėja, laikinai vykdanti vedėjos funkcijas",
+          "Pareigos": "Pagal pavedimą vykdo vedėjo pareigas",
           "Tel. numeris": "+370 620 18357",
           "Kabinetas": "Danės g. 17, Klaipėda (328 kab.)",
           "Atsakingas už": ""

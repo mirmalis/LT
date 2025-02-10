@@ -19,6 +19,13 @@
           "Kabinetas": "387"
         },
         {
+          "Vardas, pavardė": "Gediminas Tamašauskis",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "383"
+        },
+        {
           "Vardas, pavardė": "Ignas Hofmanas",
           "Pareigos": "Ministras",
           "Tel. numeris": "+37052391 000",
@@ -30,13 +37,6 @@
     {
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Gediminas Tamašauskis",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "383"
-        },
         {
           "Vardas, pavardė": "Genadijus Vorobjovas",
           "Pareigos": "Ministro patarėjas",
@@ -271,13 +271,6 @@
           "Tel. numeris": "+37052391 116",
           "El. paštas": "[email protected]",
           "Kabinetas": "263"
-        },
-        {
-          "Vardas, pavardė": "Kristina Juodonienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37052391 148",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "201"
         },
         {
           "Vardas, pavardė": "Mindaugas Palionis",
@@ -905,6 +898,13 @@
           "Kabinetas": "516"
         },
         {
+          "Vardas, pavardė": "Kristina Juodonienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37052391 148",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "201"
+        },
+        {
           "Vardas, pavardė": "Loreta Lazauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37052391 346",
@@ -1181,13 +1181,6 @@
     {
       "Pavadinimas": "Žuvininkystės departamentas",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Ieva Žundienė",
-          "Pareigos": "Departamento direktorius",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "425"
-        },
         {
           "Vardas, pavardė": "Tomas Keršys",
           "Pareigos": "Departamento direktorius",
