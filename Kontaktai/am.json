@@ -146,13 +146,6 @@
           "Kabinetas": "405"
         },
         {
-          "Vardas, pavardė": "Daiva Vencienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 616 34857",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Žilvinas Sperauskas",
           "Pareigos": "Analitikas",
           "Tel. numeris": "+370 646 84725",
@@ -201,6 +194,13 @@
           "Vardas, pavardė": "Dainius Vaičiūnas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 616 35652",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Daiva Vencienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 616 34857",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
