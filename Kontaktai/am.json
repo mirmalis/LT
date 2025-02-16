@@ -66,13 +66,6 @@
           "Tel. numeris": "+370 699 95537",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vytautė Bacianskaitė",
-          "Pareigos": "Aplinkos apsaugos atašė",
-          "Tel. numeris": "+32 496 561837",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -1587,6 +1580,13 @@
           "Vardas, pavardė": "Rolandas Kazlauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 687 28782",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vytautė Kančytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 614 08012",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
