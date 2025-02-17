@@ -5,6 +5,13 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aira Paliukėnaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 633-34862",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Arnas Liauksminas",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+32 473 852582",
@@ -175,6 +182,13 @@
           "Vardas, pavardė": "Sandra Jeglinskė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 671 13753",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vytas Lužys",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 645 62939",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
