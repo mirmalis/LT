@@ -40,9 +40,9 @@
         {
           "Vardas, pavardė": "Darius Jankauskas",
           "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": ""
+          "Tel. numeris": "+37052391 040",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "272"
         },
         {
           "Vardas, pavardė": "Genadijus Vorobjovas",
@@ -1188,13 +1188,6 @@
     {
       "Pavadinimas": "Žuvininkystės departamentas",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Ieva Žundienė",
-          "Pareigos": "Departamento direktorius",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "425"
-        },
         {
           "Vardas, pavardė": "Tomas Keršys",
           "Pareigos": "Departamento direktorius",
