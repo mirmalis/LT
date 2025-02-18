@@ -38,6 +38,13 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Darius Jankauskas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Genadijus Vorobjovas",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+37052391 046",
@@ -127,8 +134,8 @@
         {
           "Vardas, pavardė": "Meda Nacickaitė",
           "Pareigos": "LR žemės ūkio atašė LR ambasadoje Italijos Respublikoje",
-          "Tel. numeris": "",
-          "El. paštas": "",
+          "Tel. numeris": "+39 06 8776 1970, mob. +39 335 1933343",
+          "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
@@ -1182,6 +1189,13 @@
       "Pavadinimas": "Žuvininkystės departamentas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Ieva Žundienė",
+          "Pareigos": "Departamento direktorius",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "425"
+        },
+        {
           "Vardas, pavardė": "Tomas Keršys",
           "Pareigos": "Departamento direktorius",
           "Tel. numeris": "+37052391180",
@@ -1539,13 +1553,6 @@
           "Tel. numeris": "+37052391091",
           "El. paštas": "[email protected]",
           "Kabinetas": "373"
-        },
-        {
-          "Vardas, pavardė": "Marijus Mockeliūnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37052391262",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "390"
         },
         {
           "Vardas, pavardė": "Regina Borisevičienė",
