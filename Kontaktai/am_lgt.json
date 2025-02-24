@@ -81,9 +81,21 @@
       "Pavadinimas": "Teisės ir kontrolės skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Agata Milevič",
+          "Pareigos": "Vyriausioji specialistė",
+          "Mobilus tel. nr.": "+370 646 55 671",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Alicja Nekrošienė",
           "Pareigos": "Vyriausiasis specialistas",
           "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Beata Miloš",
+          "Pareigos": "Vyriausioji specialistė",
+          "Mobilus tel. nr.": "+370 646 50089",
           "El. paštas": "[email protected]"
         },
         {
