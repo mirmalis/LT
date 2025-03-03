@@ -47,6 +47,13 @@
           "Kabinetas": "302"
         },
         {
+          "Vardas, pavardė": "Rytis Jokubauskas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 668 42643",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "310"
+        },
+        {
           "Vardas, pavardė": "Simas Lilas",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+370 616 54748",
@@ -207,6 +214,13 @@
           "Kabinetas": "412"
         },
         {
+          "Vardas, pavardė": "Ugnė Jakaitytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 618 51328",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "317"
+        },
+        {
           "Vardas, pavardė": "Urtė Stančiukaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 671 86479",
@@ -306,6 +320,13 @@
           "Tel. numeris": "+370 671 85489",
           "El. paštas": "[email protected]",
           "Kabinetas": "314a"
+        },
+        {
+          "Vardas, pavardė": "Giedrė Sventickaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 600 42157",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "502"
         },
         {
           "Vardas, pavardė": "Ieva Vaitkūnaitė",
@@ -1127,6 +1148,13 @@
     {
       "Pavadinimas": "Pareigybės, nepriklausiančios struktūriniam padaliniui ir tiesiogiai pavaldžios ministerijos kancleriui",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Česlovas Atkočaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 611 27135",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "305"
+        },
         {
           "Vardas, pavardė": "Dovilė Mekionytė",
           "Pareigos": "Vyresnioji patarėja (duomenų apsaugos pareigūnė)",

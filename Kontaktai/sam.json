@@ -128,6 +128,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Nerija Kaulakienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 266 1415",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Valda Dirginčienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 5 213  0734",
@@ -1115,12 +1121,6 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 205 3627",
           "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Nerijus Songaila",
-          "Pareigos": "Vedėjas",
-          "Tel. numeris": "+370 5 219 3348",
-          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -1131,12 +1131,6 @@
           "Vardas, pavardė": "Aušrinė Storpirštienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 5 219 3319",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Danguolė Milkevičiūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 219 3308",
           "El. paštas": "[email protected]"
         },
         {

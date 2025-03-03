@@ -52,6 +52,13 @@
           "Kabinetas": "311"
         },
         {
+          "Vardas, pavardė": "Dr. Viktor Denisenko",
+          "Pareigos": "Visuomeninis konsultantas",
+          "Tel. numeris": "+37063408594",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "302"
+        },
+        {
           "Vardas, pavardė": "Edita Klaunauskaitė",
           "Pareigos": "Viceministrė",
           "Tel. numeris": "+37067973210",
@@ -554,18 +561,6 @@
       ]
     },
     {
-      "Pavadinimas": "Europos ekonominės erdvės finansinio mechanizmo kultūros programos koordinatorius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Rimantė Dėringytė",
-          "Pareigos": "Koordinatorė",
-          "Tel. numeris": "+37060562894",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "103"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Investicijų valdymo skyrius",
       "Darbuotojai": [
         {
@@ -602,13 +597,6 @@
           "Tel. numeris": "+37060847693",
           "El. paštas": "[email protected]",
           "Kabinetas": "113"
-        },
-        {
-          "Vardas, pavardė": "Sigina Makauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37060847470",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "112"
         },
         {
           "Vardas, pavardė": "Sonata Senkienė",
@@ -808,25 +796,6 @@
           "Tel. numeris": "+37060847697",
           "El. paštas": "[email protected]",
           "Kabinetas": "10"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "„Kurk Lietuvai“",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Gustas Navickas",
-          "Pareigos": "Projekto vadovas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
-        },
-        {
-          "Vardas, pavardė": "Šarūnė Abromaitė",
-          "Pareigos": "Projekto vadovė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
         }
       ]
     }

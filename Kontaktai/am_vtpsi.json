@@ -167,13 +167,6 @@
           "Atsakingas už": ""
         },
         {
-          "Vardas, pavardė": "Vida Aliukonienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 207 3333",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius  (210 kab.)",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Vijolė Mackonė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 207 3333",
@@ -423,13 +416,6 @@
           "Tel. numeris": "+370 678 55142",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (104 kab.)",
           "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Justina Žardeckienė",
-          "Pareigos": "Specialistė",
-          "Tel. numeris": "+370 645 06291",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": "Testavimas"
         },
         {
           "Vardas, pavardė": "Karolis Aleksiejus",
@@ -826,7 +812,7 @@
         },
         {
           "Vardas, pavardė": "Paulius Vaitekūnas",
-          "Pareigos": "Pagal pavedimą vykdo vedėjo pareigas",
+          "Pareigos": "L. e. vedėjo pareigas",
           "Tel. numeris": "+370 676 16697 (skambinti 13:00-15:00)",
           "Kabinetas": "L. Sapiegos g. 12, Kaunas (411 kab.)",
           "Atsakingas už": "skyriaus darbo veiklos organizavimas"
@@ -1395,6 +1381,13 @@
           "Atsakingas už": "konsultuoja telefonu deklaracijų apie statybos užbaigimą tvirtinimo klausimais"
         },
         {
+          "Vardas, pavardė": "Laimonas Martišauskis",
+          "Pareigos": "Pagal pavedimą vykdo vedėjo pareigas",
+          "Tel. numeris": "+370 610 24376",
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (313 kab.)",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Lina Petkauskė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 607 68406",
@@ -1443,7 +1436,7 @@
         },
         {
           "Vardas, pavardė": "Deimantė Kundrotienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 612 11465",
           "Kabinetas": "Vilniaus g. 263, Šiauliai (314 kab.)",
           "Atsakingas už": ""

@@ -35,7 +35,7 @@
         {
           "Vardas, pavardė": "Regina Valutytė",
           "Pareigos": "Viceministrė",
-          "Tel. numeris": "+370 5 219 1226",
+          "Tel. numeris": "+370 5 219 1227",
           "El. paštas": "[email protected]",
           "Kabinetas": "226"
         },
@@ -45,6 +45,13 @@
           "Tel. numeris": "+370 5 219 1152",
           "El. paštas": "[email protected]",
           "Kabinetas": "352"
+        },
+        {
+          "Vardas, pavardė": "Tomas Didžiulis",
+          "Pareigos": "Kancleris",
+          "Tel. numeris": "+370 5 219 1227",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "227"
         },
         {
           "Vardas, pavardė": "Violeta Adlė",
@@ -64,6 +71,13 @@
           "Tel. numeris": "+370 612 82 032",
           "El. paštas": "[email protected]",
           "Kabinetas": "241"
+        },
+        {
+          "Vardas, pavardė": "Julius Sarapinas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 622 03 676",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Kęstutis Bartuškevičius",
@@ -1806,13 +1820,6 @@
           "Vardas, pavardė": "Lina Bernatavičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 618 49 445",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "108"
-        },
-        {
-          "Vardas, pavardė": "Rita Jucienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 614 61 503",
           "El. paštas": "[email protected]",
           "Kabinetas": "108"
         },
