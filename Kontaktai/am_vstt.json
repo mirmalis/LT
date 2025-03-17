@@ -36,15 +36,15 @@
       "Pavadinimas": "LANKYTOJŲ APTARNAVIMO IR KOMUNIKACIJOS SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Diana Rakauskaitė",
-          "Pareigos": "Laikinai vykdanti Lankytojų aptarnavimo ir komunikacijos skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370 698 35 776",
+          "Vardas, pavardė": "Bernadeta Mineikienė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Diana Rakauskaitė",
-          "Pareigos": "Viešųjų ryšių specialistė",
+          "Pareigos": "Laikinai vykdanti Lankytojų aptarnavimo ir komunikacijos skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 698 35 776",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -116,6 +116,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Andrius Mačiulis",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Aušra Kamarauskaitė (buveinių apsaugai svarbių teritorijų apsaugos tikslų nustatymo, saugomų teritorijų ir „Natura 2000“ teritorijų atrankos, steigimo, planavimo dokumentų derinimo klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 671 23 852",
@@ -173,15 +180,22 @@
         },
         {
           "Vardas, pavardė": "Raimondas Čiuplys (su specialiomis žemės naudojimo sąlygomis, natūralių pievų ir ganyklų, pelkių ir šaltinynų teritorijomis susiję klausimai)",
-          "Pareigos": "Vyr. specialistas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 696 76 652",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Remigijus Uzdras (gyvosios gamtos monitoringo, vilkų apsaugos, medžiojamų gyvūnų apskaitos klausimai)",
-          "Pareigos": "Vyr. specialistas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 659 63 415",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rytas Papšys",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -377,13 +391,6 @@
           "Vardas, pavardė": "Kęstutis Krasnickas (turto priežiūros ir valdymo klausimai)",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 659 63 414",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Kristina Motuzienė (valstybės biudžeto ir ES projektų lėšų apskaitos ir kontrolės klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 674 30 438",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

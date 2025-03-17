@@ -103,6 +103,12 @@
           "Pareigos": "Patarėjas (teisei)",
           "Mobilus tel. nr.": "+370 646 53804",
           "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Minkevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Mobilus tel. nr.": "+370 646 55549",
+          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -140,6 +146,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Matas Vaitkus",
+          "Pareigos": "Vyriausiasis geologas",
+          "Mobilus tel. nr.": "+370 646 56910",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Roma Kanopienė",
           "Pareigos": "Vedėjas",
           "Mobilus tel. nr.": "+370 646 50782",
@@ -161,12 +173,6 @@
           "Vardas, pavardė": "Vidas Mikulėnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Mobilus tel. nr.": "+370 646 55044",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vytautas Minkevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Mobilus tel. nr.": "+370 646 55549",
           "El. paštas": "[email protected]"
         }
       ]

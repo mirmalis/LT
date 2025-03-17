@@ -367,12 +367,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Renata Zaborienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 695",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Rima Kaziukonienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 86 063",
@@ -395,6 +389,12 @@
     {
       "Pavadinimas": "Viešųjų ryšių skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gintarė Puodžiukaitė",
+          "Pareigos": "Skyriaus patarėja, atliekanti vedėjo funkcijas",
+          "Tel. numeris": "+370 706 85 072",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Ruslanas Golubovas",
           "Pareigos": "Skyriaus vyresnysis patarėjas",
@@ -481,7 +481,7 @@
         {
           "Vardas, pavardė": "Tatjana Ruseckaja",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+ 370 706 85 115",
           "El. paštas": "[email protected]"
         },
         {
@@ -887,12 +887,6 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 107",
           "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Valerija Sabaliauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 026",
-          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -937,7 +931,7 @@
         },
         {
           "Vardas, pavardė": "Vida Furmonienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Skyriaus patarėja",
           "Tel. numeris": "+370 706 85 141",
           "El. paštas": "[email protected]"
         },
@@ -1134,7 +1128,7 @@
         {
           "Vardas, pavardė": "Inga Rapnikaitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 706 86 199",
           "El. paštas": "[email protected]"
         },
         {

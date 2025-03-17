@@ -94,7 +94,7 @@
         {
           "Vardas, pavardė": "Raminta Bareckienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 609 91 848",
           "El. paštas": "[email protected]",
           "Kabinetas": "919 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
@@ -501,13 +501,6 @@
           "Tel. numeris": "+370 687 17405",
           "El. paštas": "[email protected]",
           "Kabinetas": "1005a kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Karolina Petniūnienė (Nacionalinė ŠESD apskaitos ataskaita; ŠESD projekcijos (Atliekų sektorius))",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 601 24105",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "1005A kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
           "Vardas, pavardė": "Karolis Šulinskas (Nacionalinė ŠESD apskaitos ataskaita; ŠESD projekcijos (Energetikos ir Transporto sektoriai); Apyvartinių taršos leidimų prekybos sistema; Degalų būvio ciklo metu išmetamas ŠESD kiekis)",
@@ -1094,6 +1087,13 @@
           "Kabinetas": "2 kab. Dariaus ir Girėno g. 4, LT-68176 Marijampolė"
         },
         {
+          "Vardas, pavardė": "Sandra Vaičiūnienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 609 85755",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "5L kab. Rotušės a. 12, LT 44279 Kaunas"
+        },
+        {
           "Vardas, pavardė": "Viktorija Šereikienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 683 07680",
@@ -1162,13 +1162,6 @@
           "Kabinetas": "Nuotolinė darbo vieta (Vilnius)"
         },
         {
-          "Vardas, pavardė": "Laura Develienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 22737",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "503B kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Linas Kraipavičius (Taršos leidimų išdavimas, pakeitimas, tikslinimas. PAV atliekų prevencijos dokumentų nagrinėjimas. Medienos kuro pelenų planų nagrinėjimas)",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 695 09549",
@@ -1192,7 +1185,7 @@
         {
           "Vardas, pavardė": "Rima Pabijanskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 609 88205",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta (Šiauliai)"
         },
@@ -1385,6 +1378,13 @@
           "Kabinetas": "313 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
         {
+          "Vardas, pavardė": "Paulina Pažerauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 63206957",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "311 kab. A. Goštauto g. 9, LT-01108 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Tadas Šupinis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 60122907",
@@ -1451,6 +1451,13 @@
           "Tel. numeris": "+370 686 08324",
           "El. paštas": "[email protected]",
           "Kabinetas": "025 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Vilmantas Amulevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 609 96330",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "25 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         }
       ]
     },
@@ -1751,13 +1758,6 @@
           "Tel. numeris": "+370 686 18915",
           "El. paštas": "[email protected]",
           "Kabinetas": "103 kab. Rotušės a. 12, LT 44279 Kaunas"
-        },
-        {
-          "Vardas, pavardė": "Sandra Vaičiūnienė (Ėminių ėmimas, ėminių priėmimas, tyrimų atlikimas)",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 609 85755",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "5L kab. Rotušės a. 12, LT 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Sigitas Čekanauskas (Ėminių ėmimas, ėminių priėmimas, tyrimų atlikimas, tyrimų protokolų rengimas, laboratorijų kontrolė)",

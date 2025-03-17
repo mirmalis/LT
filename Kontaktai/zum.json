@@ -31,6 +31,13 @@
           "Tel. numeris": "+37052391 000",
           "El. paštas": "[email protected]",
           "Kabinetas": "277"
+        },
+        {
+          "Vardas, pavardė": "Renatas Dūdonis",
+          "Pareigos": "Ministerijos kancleris",
+          "Tel. numeris": "+37052391 035",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "380"
         }
       ]
     },
@@ -42,7 +49,7 @@
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+37052391 040",
           "El. paštas": "[email protected]",
-          "Kabinetas": "272"
+          "Kabinetas": "269"
         },
         {
           "Vardas, pavardė": "Genadijus Vorobjovas",
@@ -50,13 +57,6 @@
           "Tel. numeris": "+37052391 046",
           "El. paštas": "[email protected]",
           "Kabinetas": "284"
-        },
-        {
-          "Vardas, pavardė": "Justas Jaskonis",
-          "Pareigos": "Ministro atstovas spaudai",
-          "Tel. numeris": "+37052391 012",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "283"
         }
       ]
     },
@@ -1708,6 +1708,13 @@
           "Tel. numeris": "+37052391 155",
           "El. paštas": "[email protected]",
           "Kabinetas": "385"
+        },
+        {
+          "Vardas, pavardė": "Karolina Lubauskaitė-Šlepetienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37052391 039",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "376"
         },
         {
           "Vardas, pavardė": "Mantas Kubilinskas",

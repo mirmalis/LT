@@ -73,18 +73,18 @@
           "Kabinetas": "301"
         },
         {
+          "Vardas, pavardė": "Gintarė Karvelė",
+          "Pareigos": "Vyriausioji referentė",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "300"
+        },
+        {
           "Vardas, pavardė": "Kotryna Žukauskaitė",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+37065504378",
           "El. paštas": "[email protected]",
           "Kabinetas": "209"
-        },
-        {
-          "Vardas, pavardė": "Lina Zalieckaitė",
-          "Pareigos": "Vyriausioji referentė",
-          "Tel. numeris": "+37060845564",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "300"
         },
         {
           "Vardas, pavardė": "Ramunė Vaičiulytė",
@@ -464,10 +464,10 @@
         },
         {
           "Vardas, pavardė": "Kristina Gasiulytė",
-          "Pareigos": "Vyriausioji specialistė, laikinai atliekanti vadovo funkcijas",
+          "Pareigos": "Patarėja, laikinai atliekanti vadovo funkcijas",
           "Tel. numeris": "+37060847674",
           "El. paštas": "[email protected]",
-          "Kabinetas": "104"
+          "Kabinetas": "201"
         },
         {
           "Vardas, pavardė": "Vaida Juškauskaitė-Mata Rigola",
@@ -508,13 +508,6 @@
           "Tel. numeris": "+37067194556",
           "El. paštas": "[email protected]",
           "Kabinetas": "212"
-        },
-        {
-          "Vardas, pavardė": "Indrė Viktorija Užukukytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37069131520",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "410"
         },
         {
           "Vardas, pavardė": "Janina Krušinskaitė",
@@ -565,7 +558,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aida Balčiūnaitė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37060847690",
           "El. paštas": "[email protected]",
           "Kabinetas": "117"
@@ -593,7 +586,7 @@
         },
         {
           "Vardas, pavardė": "Rita Veniukevičienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37060847693",
           "El. paštas": "[email protected]",
           "Kabinetas": "113"
@@ -708,7 +701,7 @@
         },
         {
           "Vardas, pavardė": "Edita Benetienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37060847669",
           "El. paštas": "[email protected]",
           "Kabinetas": "12"
@@ -718,7 +711,7 @@
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+37064538010",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "11"
         },
         {
           "Vardas, pavardė": "German Paberzs",
@@ -732,7 +725,14 @@
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+37060845583",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "15"
+        },
+        {
+          "Vardas, pavardė": "Gintarė Karvelė",
+          "Pareigos": "Vyriausioji referentė",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "300"
         },
         {
           "Vardas, pavardė": "Irena Enčienė",
@@ -743,7 +743,7 @@
         },
         {
           "Vardas, pavardė": "Jolanta Balkuvienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37060845568",
           "El. paštas": "[email protected]",
           "Kabinetas": "13"
@@ -778,10 +778,10 @@
         },
         {
           "Vardas, pavardė": "Lina Zalieckaitė",
-          "Pareigos": "Vyriausioji referentė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37060845564",
           "El. paštas": "[email protected]",
-          "Kabinetas": "300"
+          "Kabinetas": "111"
         },
         {
           "Vardas, pavardė": "Šarūnė Eimutytė-Česnavičienė",

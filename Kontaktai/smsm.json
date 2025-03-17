@@ -77,7 +77,7 @@
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+370 622 03 676",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "114"
         },
         {
           "Vardas, pavardė": "Kęstutis Bartuškevičius",
@@ -358,6 +358,13 @@
       "Pavadinimas": "Analitikos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Barbora Daunoravičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 668 42 158",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "234"
+        },
+        {
           "Vardas, pavardė": "Giedrius Padvilikis",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 687 03 886",
@@ -366,10 +373,10 @@
         },
         {
           "Vardas, pavardė": "Irina Kompanijec",
-          "Pareigos": "Duomenų analitikas",
+          "Pareigos": "Duomenų analitikė",
           "Tel. numeris": "+370 622 99 177",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "234"
         }
       ]
     },
@@ -1844,7 +1851,7 @@
         },
         {
           "Vardas, pavardė": "Ilona Degulienė",
-          "Pareigos": "Patarėja, atliekanti skyriaus vedėjo funkcijas",
+          "Pareigos": "Vyriausioji specialistė, atliekanti skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 699 37 393",
           "El. paštas": "[email protected]",
           "Kabinetas": "174"

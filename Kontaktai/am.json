@@ -80,6 +80,13 @@
           "Tel. numeris": "+370 675 82090",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vasara Davidian",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 618 83498",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -464,7 +471,7 @@
       "Pavadinimas": "Būsto politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aleksandras Dolgovas",
+          "Vardas, pavardė": "Aleksandr Dolgov",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 612 62844",
           "El. paštas": "[email protected]",
@@ -621,6 +628,13 @@
           "Kabinetas": "402"
         },
         {
+          "Vardas, pavardė": "Dovilė Lenkauskaitė (jūrų biologinė įvairovė, ekosisteminės paslaugos, genetiniai ištekliai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 646 68134",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "404"
+        },
+        {
           "Vardas, pavardė": "Džiugas Anuškevičius (saugomos teritorijos, paukščių apsaugai svarbios teritorijos, HELCOM, poveikio „Natura 2000“ vertinimas, monitoringas)",
           "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 695 60686",
@@ -710,6 +724,13 @@
           "Tel. numeris": "+370 615 54788",
           "El. paštas": "[email protected]",
           "Kabinetas": "404"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Kirstukas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 616 22482",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Mindaugas Žolynas (kraštovaizdis, saugomos teritorijos)",
@@ -1689,13 +1710,6 @@
     {
       "Pavadinimas": "Strateginio valdymo ir investicijų departamentas",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Auksė Spundzevičienė",
-          "Pareigos": "Direktorė",
-          "Tel. numeris": "+370 693 87280",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
         {
           "Vardas, pavardė": "Inesis Kiškis",
           "Pareigos": "Patarėjas",
