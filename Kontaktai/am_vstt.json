@@ -36,13 +36,6 @@
       "Pavadinimas": "LANKYTOJŲ APTARNAVIMO IR KOMUNIKACIJOS SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Bernadeta Mineikienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Diana Rakauskaitė",
           "Pareigos": "Laikinai vykdanti Lankytojų aptarnavimo ir komunikacijos skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 698 35 776",
@@ -118,7 +111,7 @@
         {
           "Vardas, pavardė": "Andrius Mačiulis",
           "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 614 86 639",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -179,6 +172,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Mindaugas Janušonis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Raimondas Čiuplys (su specialiomis žemės naudojimo sąlygomis, natūralių pievų ir ganyklų, pelkių ir šaltinynų teritorijomis susiję klausimai)",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 696 76 652",
@@ -195,7 +195,7 @@
         {
           "Vardas, pavardė": "Rytas Papšys",
           "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 680 13120",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -254,16 +254,9 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Rasa Jankaitienė",
-          "Pareigos": "Laikinai vykdanti Informacijos valdymo ir duomenų analizės skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370 659 29 176",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vita Monkuvienė (Saugomų rūšių informacinės sistemos administravimas, GIS ir duomenų klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "",
+          "Vardas, pavardė": "Vita Monkuvienė (skyriaus veiklos organizavimas, Saugomų rūšių informacinės sistemos administravimas, GIS ir duomenų klausimai)",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 690 23 585",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -343,7 +336,7 @@
         {
           "Vardas, pavardė": "Justyna Jodko (dokumentų valdymo, vidaus administravimo, administracinių paslaugų klausimai)",
           "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 659 29 483",
+          "Tel. numeris": "+370 607 69 156",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

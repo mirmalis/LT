@@ -6,7 +6,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aira Paliukėnaitė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 633 34862",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -20,7 +20,7 @@
         },
         {
           "Vardas, pavardė": "Daiva Taučkėlaitė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 664 78904",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -62,7 +62,7 @@
         },
         {
           "Vardas, pavardė": "Ramunė Baniulienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 687 17091",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -71,6 +71,13 @@
           "Vardas, pavardė": "Sigita Vasiljevaitė",
           "Pareigos": "Ministerijos kanclerė",
           "Tel. numeris": "+370 699 95537",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Skirmantas Pocius",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 616 04980",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -252,13 +259,6 @@
           "Tel. numeris": "+370 685 59457",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vilia Kriaučiukaitė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 683 95454",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -365,13 +365,6 @@
       "Pavadinimas": "Organizacijų licencijavimo, įrodančių dokumentų išrašymo, tarpvalstybinių atliekų vežimų, laivų perdirbimo, baterijų, elektronikos, apmokestinamųjų gaminių, eksploatuoti netinkamų transporto priemonių,  alyvos atliekų tvarkymo klausimai",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aurimas Jančiauskas (Baterijų, akumuliatorių, elektros ir elektroninės įrangos atliekų tvarkymo klausimai)",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 682 39134",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Jurga Girdziušienė (tarpvalstybiniai atliekų vežimų, laivų perdirbimo klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 695 49899",
@@ -397,13 +390,6 @@
     {
       "Pavadinimas": "Bendrieji komunalinių atliekų tvarkymo sistemų organizavimo, pakuočių ir pakuočių atliekų, biologiškai skaidžių atliekų tvarkymo klausimai",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aistė Vieraitytė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 695 48936",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
         {
           "Vardas, pavardė": "Asta Navickienė",
           "Pareigos": "Vyr. specialistė",
@@ -514,7 +500,7 @@
         },
         {
           "Vardas, pavardė": "Martinas Nyderis (Pastatų atnaujinimo (modernizavimo) sritis)",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 696 97200",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -530,6 +516,13 @@
           "Vardas, pavardė": "Vilius Ragauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 695 39160",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Virginija Pilipienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 696 85344",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -896,13 +889,6 @@
     {
       "Pavadinimas": "Miškų politikos grupė",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Ada Tebėrienė (vidinės miškotvarkos projektai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 687 98259",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "301"
-        },
         {
           "Vardas, pavardė": "Anžela Valainė",
           "Pareigos": "Patarėja",
@@ -1283,6 +1269,13 @@
       "Pavadinimas": "Administravimo departamentas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Edvinas Kripaitis",
+          "Pareigos": "Analitikas",
+          "Tel. numeris": "+370 686 25772",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Lina Krasauskienė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 687 98217",
@@ -1321,6 +1314,13 @@
           "Tel. numeris": "+370 695 27279",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vilia Kriaučiukaitė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 683 95454",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -1339,7 +1339,7 @@
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370  695 63147",
           "El. paštas": "[email protected]",
-          "Kabinetas": "101"
+          "Kabinetas": "118"
         },
         {
           "Vardas, pavardė": "Danguolė Prievelienė",
@@ -1605,13 +1605,6 @@
           "Kabinetas": "313"
         },
         {
-          "Vardas, pavardė": "Justė Pečeliūnaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 696 84706",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Ramunė Tartilaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 50987",
@@ -1855,13 +1848,6 @@
           "Vardas, pavardė": "Jūratė Jundienė (MVP rengimo, vykdymo koordinavimas)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 615 80748",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Jūratė Maldauskienė (AM ir pavaldžių įstaigų finansų klausimai, stebėsena, analizė, kontrolė)",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 687 48180",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

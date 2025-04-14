@@ -69,6 +69,13 @@
           "Tel. numeris": "+37052391094",
           "El. paštas": "[email protected]",
           "Kabinetas": "396"
+        },
+        {
+          "Vardas, pavardė": "Vaida Šopytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37052391 045",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "283"
         }
       ]
     },
@@ -557,13 +564,6 @@
           "Kabinetas": "413"
         },
         {
-          "Vardas, pavardė": "Evelina Blažiūnaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391252",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "415"
-        },
-        {
           "Vardas, pavardė": "Irina Budnikienė",
           "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
           "Tel. numeris": "+37052391061",
@@ -1027,7 +1027,7 @@
         {
           "Vardas, pavardė": "Daiva Veličkienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37305391172",
+          "Tel. numeris": "+37052391 172",
           "El. paštas": "[email protected]",
           "Kabinetas": "351"
         },
@@ -1058,6 +1058,13 @@
           "Tel. numeris": "+37052398470",
           "El. paštas": "[email protected]",
           "Kabinetas": "349"
+        },
+        {
+          "Vardas, pavardė": "Marius Masiulis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "351"
         },
         {
           "Vardas, pavardė": "Marius Tendzegolskis",

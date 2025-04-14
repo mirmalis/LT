@@ -135,22 +135,22 @@
       "Pavadinimas": "Komunikacijos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Asta Dudurytė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 659 65884",
+          "Kabinetas": "129"
+        },
+        {
           "Vardas, pavardė": "Justina Šveikytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 660 31978",
-          "Kabinetas": "129"
+          "Kabinetas": "128"
         },
         {
           "Vardas, pavardė": "Ligija Kliunkienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 631 71518",
-          "Kabinetas": "128"
-        },
-        {
-          "Vardas, pavardė": "Raminta Zimbienė",
-          "Pareigos": "Organizacijos valdymo departamento direktorė, vykdanti Komunikacijos skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+370 636 90496",
-          "Kabinetas": "101"
+          "Kabinetas": "127"
         },
         {
           "Vardas, pavardė": "Valerija Marija Kozikaitė",
@@ -372,7 +372,7 @@
           "Vardas, pavardė": "Stanislovas Lingys",
           "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+370 641 67211",
-          "Kabinetas": ""
+          "Kabinetas": "230"
         }
       ]
     },
@@ -424,7 +424,7 @@
           "Vardas, pavardė": "Eglė Vyšniauskaitė",
           "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "+370 620 97168",
-          "Kabinetas": "245"
+          "Kabinetas": "246"
         },
         {
           "Vardas, pavardė": "Vidmantas Tamulis",
@@ -453,7 +453,7 @@
           "Vardas, pavardė": "Monika Žilinskaitė–Veželienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 690 90496",
-          "Kabinetas": "130"
+          "Kabinetas": "132"
         },
         {
           "Vardas, pavardė": "Tomas Biekša",
@@ -514,7 +514,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Daiva Balnienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 667 92434",
           "Kabinetas": "308"
         }
@@ -560,7 +560,7 @@
         },
         {
           "Vardas, pavardė": "Justyna Franckevič (Vandens kelių plėtra)",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 18148",
           "Kabinetas": "312"
         },
@@ -657,7 +657,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aldas Genys",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 660 44577",
           "Kabinetas": "306"
         },
@@ -684,6 +684,12 @@
     {
       "Pavadinimas": "Parengties ir krizių valdymo grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Artūras Purlys",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 685 32906",
+          "Kabinetas": "250"
+        },
         {
           "Vardas, pavardė": "Gitana Aukštuolienė",
           "Pareigos": "Vyresnioji patarėja",
@@ -900,6 +906,12 @@
           "Kabinetas": "415"
         },
         {
+          "Vardas, pavardė": "Vilma Romanovienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 659 65866",
+          "Kabinetas": "411"
+        },
+        {
           "Vardas, pavardė": "Zita Nemanienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 682 23260",
@@ -994,6 +1006,12 @@
           "Kabinetas": "406"
         },
         {
+          "Vardas, pavardė": "Svetlana Žalpienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 685 37527",
+          "Kabinetas": "407"
+        },
+        {
           "Vardas, pavardė": "Žydrūnas Jonutis",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+370 684 52156",
@@ -1038,7 +1056,7 @@
           "Vardas, pavardė": "Ričardas Rutkauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 679 89345",
-          "Kabinetas": "250"
+          "Kabinetas": "245"
         },
         {
           "Vardas, pavardė": "Roma Andruškevičienė",

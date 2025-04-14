@@ -47,7 +47,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rasa Mikšaitė (atsakinga už viceministrų darbo organizavimą)",
+          "Vardas, pavardė": "Rasa Mikšaitė (atsakinga už viceministrų ir kanclerės darbo organizavimą)",
           "Pareigos": "Referentė",
           "Tel. numeris": "+370 5 203 4424",
           "El. paštas": "[email protected]"
@@ -122,12 +122,6 @@
       "Pavadinimas": "Energetinio saugumo grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Artūras Petkus",
-          "Pareigos": "Vyriausiasis patarėjas (parengties pareigūnas)",
-          "Tel. numeris": "+37067745064",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Aurelija Bielskytė-Petrenko",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37067510772",
@@ -147,7 +141,7 @@
         },
         {
           "Vardas, pavardė": "Gediminas Karalius",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyriausiasis patarėjas",
           "Tel. numeris": "+37060246536",
           "El. paštas": "[email protected]"
         },
@@ -231,6 +225,12 @@
           "Vardas, pavardė": "Ina Medvedeva-Ragėnienė",
           "Pareigos": "Ministerijos vyriausioji patarėja",
           "Tel. numeris": "+37060251261",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Milita Nekrošiūtė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "+37067494798",
           "El. paštas": "[email protected]"
         },
         {
@@ -359,11 +359,11 @@
       ]
     },
     {
-      "Pavadinimas": "Strateginio ir finansų valdymo skyrius",
+      "Pavadinimas": "Strateginio planavimo ir biudžeto grupė",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Arvydas Dragūnas",
-          "Pareigos": "Vedėjas",
+          "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+37067741053",
           "El. paštas": "[email protected]"
         },
@@ -481,13 +481,13 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aurimas Salapėta",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+37060246552",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Brigita Banuškevičė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37065676511",
           "El. paštas": "[email protected]"
         },
@@ -545,12 +545,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jurgita Danieliūtė",
-          "Pareigos": "Vyriausioji  specialistė",
-          "Tel. numeris": "+37066834347",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Jurgita Jakevičiūtė",
           "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+37060216183",
@@ -598,7 +592,7 @@
         },
         {
           "Vardas, pavardė": "Dovilė Kavaliauskienė",
-          "Pareigos": "Vyresnioji patarėja (teisės taikymo ir teisėkūros klausimais)",
+          "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+37066834271",
           "El. paštas": "[email protected]"
         },

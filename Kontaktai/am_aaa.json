@@ -384,10 +384,17 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Daina Mekienė (verslinė žvejyba vidaus vandenyse; vandens telkinių nuoma)",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 614 80675",
           "El. paštas": "[email protected]",
           "Kabinetas": "207 kab. Metalo g. 11, LT-28217 Utena"
+        },
+        {
+          "Vardas, pavardė": "Dalia Černevičienė (Saugomų rūšių, zoologijos sodų, laukinių gyvūnų naudojimo licencijavimas; akvakultūros gamtotvarka)",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 609 96542",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
           "Vardas, pavardė": "Dalia Koryznienė (GMO riboto naudojimo veiklos leidimų išdavimas; laukinių gyvūnų laikymas nelaisvėje, invazinės rūšys)",
@@ -395,13 +402,6 @@
           "Tel. numeris": "+370 615 50147",
           "El. paštas": "[email protected]",
           "Kabinetas": "914 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Darius Mikelaitis",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 612 88923",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "913 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
           "Vardas, pavardė": "Gabija Dikaitė (CITES leidimai; prekyba laukinėmis rūšimis, jų įvežimas/išvežimas į/iš Lietuvos Respubliką (-os)",
@@ -482,18 +482,18 @@
           "Kabinetas": "1005a kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
-          "Vardas, pavardė": "Aušra Nausėdienė (Apyvartinių taršos leidimų prekybos sistema)",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 605 07627",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Juozapavičiaus g. 9, LT-09311 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Eglė Kairienė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 612 89668",
           "El. paštas": "[email protected]",
           "Kabinetas": "515 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Emilija Rudytė (Pasienio anglies dioksido korekcinis mechanizmas, apyvartinių taršos leidimų prekybos sistema)",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 63206947",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "918 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
           "Vardas, pavardė": "Inga Žiukelytė (Nacionalinė ŠESD apskaitos ataskaita; ŠESD projekcijos (Žemės ūkio sektorius))",
@@ -956,6 +956,13 @@
           "Kabinetas": "214 kab. Kauno g. 69, LT-62107 Alytus"
         },
         {
+          "Vardas, pavardė": "Justina Jarmakaitė-Tulauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Laima Prudnikovienė (PAV. Statinio projekto sprendiniai. Teritorijų planavimas. Strateginis pasekmių aplinkai vertinimas. Poveikio aplinkai monitoringas)",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 665 55456",
@@ -991,8 +998,8 @@
           "Kabinetas": "304 kab., Rotušės a. 12, LT 44279 Kaunas"
         },
         {
-          "Vardas, pavardė": "Skirmantė Stankevičienė (PAV. Statinio projekto sprendiniai. Strateginis pasekmių aplinkai vertinimas. Poveikio aplinkai monitoringas)",
-          "Pareigos": "Vyriausioji specialistė",
+          "Vardas, pavardė": "Skirmantė Stankevičienė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 85561",
           "El. paštas": "[email protected]",
           "Kabinetas": "209 kab. Taikos pr. 26, LT-91222 Klaipėda"
@@ -1202,6 +1209,13 @@
           "Tel. numeris": "+370 687 03572",
           "El. paštas": "[email protected]",
           "Kabinetas": "212 kab. Taikos pr. 26, LT-91222 Klaipėda"
+        },
+        {
+          "Vardas, pavardė": "Živilė Vaserytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 612 31469",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta"
         }
       ]
     },
@@ -1230,8 +1244,8 @@
           "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
-          "Vardas, pavardė": "Rūta Jarmolavičienė (Taršos leidimų išdavimas, pakeitimas, patikslinimas. PAV vandenų taršos prevencijos dokumentų nagrinėjimas. Aplinkos monitoringo programų nagrinėjimas. Nuotekų dumblo naudojimo tręšimui planų nagrinėjimas)",
-          "Pareigos": "Vyriausioji specialistė",
+          "Vardas, pavardė": "Rūta Jarmolavičienė",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 695 11201",
           "El. paštas": "[email protected]",
           "Kabinetas": "33 kab. Žvaigždžių g. 21, LT-37109 Panevėžys"
@@ -1256,13 +1270,6 @@
           "Tel. numeris": "+370 644 05735",
           "El. paštas": "[email protected]",
           "Kabinetas": "Žvaigždžių g. 21, LT-37109 Panevėžys"
-        },
-        {
-          "Vardas, pavardė": "Virgilija Kozakienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 687 36296",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "2.1 kab. Tilžės g. 198, LT-76203 Šiauliai"
         }
       ]
     },
@@ -1294,13 +1301,6 @@
           "Tel. numeris": "+370 609 76821",
           "El. paštas": "[email protected]",
           "Kabinetas": "208 kab. Taikos pr. 26, LT-91222 Klaipėda"
-        },
-        {
-          "Vardas, pavardė": "Laima Žulpienė (Apmokėjimų už valstybinius laboratorinius tyrimus koordinavimas)",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 601 23822",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "407 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
         {
           "Vardas, pavardė": "Loreta Vitkauskaitė (Leidimų atlikti taršos šaltinių išmetamų/išleidžiamų į aplinką teršalų ir teršalų aplinkos elementuose laboratorinius tyrimus/matavimus/imti ėminius laboratoriniams tyrimams atlikti išdavimo koordinavimas, laboratorijų kontrolė)",
@@ -1765,6 +1765,13 @@
           "Tel. numeris": "+370 665 07324",
           "El. paštas": "[email protected]",
           "Kabinetas": "103 kab. Rotušės a. 12, LT 44279 Kaunas"
+        },
+        {
+          "Vardas, pavardė": "Skirmantė Dragūnaitienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 612 66930",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "5L kab. Rotušės a. 12, LT 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Tomas Vilkickas",

@@ -1,0 +1,238 @@
+﻿{
+  "Name": "Sveikatos apsaugos ministerijos ekstremalių sveikatai situacijų centras",
+  "Padaliniai": [
+    {
+      "Pavadinimas": "Vadovybė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Audronė Sviklaitė",
+          "Pareigos": "Direktorė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Sandra Sabonienė",
+          "Pareigos": "Direktoriaus pavaduotoja",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Administravimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aivaras Bareikis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Aleksandr Minič",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Edita Pridotkienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Ieva Liutkevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 679 58077",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Irma Varnaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Ivan Guzenko",
+          "Pareigos": "Vyriausiasis specialistas programavimui",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Laura Butkevičė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Laura Kriaučiūnaitė-Teresevičienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 668 49753",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Riaubienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Doškutė -  Kasparavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Robert Skaskevič",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Sergėjus Gračiovas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Šarūnas Malinauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Parengties planavimo ir prevencijos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Eglė Jakšienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Raimonda Kazlauskienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 670 37405",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Sandra Idienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ekstremalių situacijų koordinavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Darija Platūkytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Paulius Gradeckas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 674 90427",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Medicinos rezervo saugojimo ir farmacinės veiklos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Bernardas Losinskij",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Ineta Gasperovič",
+          "Pareigos": "Sandėlininkė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Irėnijus Sabutis",
+          "Pareigos": "Vyriausiasis specialistas, farmacinės veiklos vadovas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Laimutė Jeršovienė",
+          "Pareigos": "Vyriausioji sandėlininkė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Valančius",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 652 69863",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Silvija Stasytė",
+          "Pareigos": "Sandėlininkė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Medicinos rezervo planavimo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Eglė Katinienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Milda Orintė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Renata Pilipavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    }
+  ]
+}

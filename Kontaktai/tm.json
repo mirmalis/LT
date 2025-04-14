@@ -92,13 +92,6 @@
           "Kabinetas": "405"
         },
         {
-          "Vardas, pavardė": "Jevgenijus Kuzma",
-          "Pareigos": "Vyriausiasis patarėjas (turintis pavaldžių)",
-          "Tel. numeris": "+370 602 56889",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "407"
-        },
-        {
           "Vardas, pavardė": "Martynas Dobrovolskis",
           "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+370 602 67271",
@@ -166,7 +159,7 @@
         },
         {
           "Vardas, pavardė": "Austėja Mikutytė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 603 60634",
           "El. paštas": "[email protected]",
           "Kabinetas": "314b"
@@ -337,7 +330,7 @@
         },
         {
           "Vardas, pavardė": "Indrė Balčiūnienė",
-          "Pareigos": "Vyresnioji patarėja (turinti pavaldžių)",
+          "Pareigos": "Vyriausioji patarėja (turinti pavaldžių)",
           "Tel. numeris": "+370 602 56854",
           "El. paštas": "[email protected]",
           "Kabinetas": "510"
@@ -514,13 +507,6 @@
           "Tel. numeris": "+370 607 67003",
           "El. paštas": "[email protected]",
           "Kabinetas": "201"
-        },
-        {
-          "Vardas, pavardė": "Rosita Pletienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 671 85519",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "213"
         },
         {
           "Vardas, pavardė": "Samanta Delekaitė",
@@ -723,7 +709,7 @@
         },
         {
           "Vardas, pavardė": "Audronė Varnagirė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 671 86285",
           "El. paštas": "[email protected]",
           "Kabinetas": "218"
@@ -755,13 +741,6 @@
           "Tel. numeris": "+370 671 86305",
           "El. paštas": "[email protected]",
           "Kabinetas": "212"
-        },
-        {
-          "Vardas, pavardė": "Dalia Simutienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 671 86313",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313"
         },
         {
           "Vardas, pavardė": "Elena Gudavičienė",
@@ -835,13 +814,6 @@
           "Vardas, pavardė": "Jolita Sankauskaitė-Treigienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 607 67016",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "402"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Kupinaitė-Beperšč",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 602 56081",
           "El. paštas": "[email protected]",
           "Kabinetas": "402"
         },
@@ -948,7 +920,7 @@
         },
         {
           "Vardas, pavardė": "Samanta Staneikaitė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 605 94250",
           "El. paštas": "[email protected]",
           "Kabinetas": "116"
@@ -963,7 +935,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 684 60671",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "414"
         },
         {
           "Vardas, pavardė": "Laurynas Naujokaitis",
@@ -981,7 +953,7 @@
         },
         {
           "Vardas, pavardė": "Tomas Milkevičius",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+370 674 26509",
           "El. paštas": "[email protected]",
           "Kabinetas": "414"
@@ -991,7 +963,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 678 46964",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "414"
         }
       ]
     },

@@ -45,6 +45,13 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Anna Kuznecovienė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+37063137643",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "306"
+        },
+        {
           "Vardas, pavardė": "Dr. Ingrida Veliutė",
           "Pareigos": "Viceministrė",
           "Tel. numeris": "+37067973210",
@@ -53,7 +60,7 @@
         },
         {
           "Vardas, pavardė": "Dr. Viktor Denisenko",
-          "Pareigos": "Visuomeninis konsultantas",
+          "Pareigos": "Viceministras",
           "Tel. numeris": "+37063408594",
           "El. paštas": "[email protected]",
           "Kabinetas": "302"
@@ -75,7 +82,7 @@
         {
           "Vardas, pavardė": "Gintarė Karvelė",
           "Pareigos": "Vyriausioji referentė",
-          "Tel. numeris": "+37067973210",
+          "Tel. numeris": "+37060994792",
           "El. paštas": "[email protected]",
           "Kabinetas": "300"
         },
@@ -113,32 +120,25 @@
       "Pavadinimas": "Ryšių su visuomene ir strateginės komunikacijos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Grinevičiūtė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37067199451",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "306"
-        },
-        {
           "Vardas, pavardė": "Deimantė Tamutytė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Vyriausioji specialistė, laikinai atliekanti skyriaus vedėjos funkcijas",
           "Tel. numeris": "+37060845971",
           "El. paštas": "[email protected]",
-          "Kabinetas": "306"
+          "Kabinetas": "100"
         },
         {
           "Vardas, pavardė": "Eva Liukpetrytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37060847701",
           "El. paštas": "[email protected]",
-          "Kabinetas": "306"
+          "Kabinetas": "100"
         },
         {
           "Vardas, pavardė": "Ramūnas Korsakas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060845569",
           "El. paštas": "[email protected]",
-          "Kabinetas": "306"
+          "Kabinetas": "100"
         }
       ]
     },
@@ -211,7 +211,7 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37060845496",
           "El. paštas": "[email protected]",
-          "Kabinetas": "406"
+          "Kabinetas": "405"
         }
       ]
     },
@@ -464,7 +464,7 @@
         },
         {
           "Vardas, pavardė": "Kristina Gasiulytė",
-          "Pareigos": "Patarėja, laikinai atliekanti vadovo funkcijas",
+          "Pareigos": "Patarėja, laikinai atliekanti grupės vadovės funkcijas",
           "Tel. numeris": "+37060847674",
           "El. paštas": "[email protected]",
           "Kabinetas": "201"
@@ -730,7 +730,7 @@
         {
           "Vardas, pavardė": "Gintarė Karvelė",
           "Pareigos": "Vyriausioji referentė",
-          "Tel. numeris": "+37067973210",
+          "Tel. numeris": "+37060994792",
           "El. paštas": "[email protected]",
           "Kabinetas": "300"
         },
@@ -739,7 +739,7 @@
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+37060845571",
           "El. paštas": "[email protected]",
-          "Kabinetas": "100"
+          "Kabinetas": "102"
         },
         {
           "Vardas, pavardė": "Jolanta Balkuvienė",
@@ -782,6 +782,13 @@
           "Tel. numeris": "+37060845564",
           "El. paštas": "[email protected]",
           "Kabinetas": "111"
+        },
+        {
+          "Vardas, pavardė": "Silvija Bunokė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37063316354",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "300"
         },
         {
           "Vardas, pavardė": "Šarūnė Eimutytė-Česnavičienė",

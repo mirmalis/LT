@@ -45,6 +45,12 @@
 		"Kontaktai": "https://sam.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/"
 	},
 	{
+		"Id": "essc",
+		"Pavadinimas": "Sveikatos apsaugos ministerijos ekstremalių sveikatai situacijų centras",
+		"Kontaktai": "https://essc.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/",
+		"Prie": "sam"
+	},
+	{
 		"Id": "smsm",
 		"Pavadinimas": "Švietimo, mokslo ir sporto ministerija",
 		"Kontaktai": "https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/"

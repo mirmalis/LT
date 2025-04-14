@@ -169,7 +169,7 @@
           "Pareigos": "Sportininkų atstovė",
           "Tel. numeris": "+370 686 01 947",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "www.sportininkuatstovas.lt"
         },
         {
           "Vardas, pavardė": "Reda Nausėdaitė",
@@ -218,7 +218,7 @@
         },
         {
           "Vardas, pavardė": "Daiva Banaitienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 667 22 096",
           "El. paštas": "[email protected]",
           "Kabinetas": "229"
@@ -340,7 +340,7 @@
         },
         {
           "Vardas, pavardė": "Vilmantė Germanavičienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 618 19 208",
           "El. paštas": "[email protected]",
           "Kabinetas": "123"
@@ -453,7 +453,7 @@
         },
         {
           "Vardas, pavardė": "Loreta Graželienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 615 64 410",
           "El. paštas": "[email protected]",
           "Kabinetas": "346"
@@ -506,23 +506,9 @@
           "Kabinetas": "487"
         },
         {
-          "Vardas, pavardė": "Nadia Venskuvienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 614 66 439",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
           "Vardas, pavardė": "Simona Stankutė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 618 64 516",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
-          "Vardas, pavardė": "Vaiva Stanionė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "487"
         }
@@ -547,7 +533,7 @@
         },
         {
           "Vardas, pavardė": "Jurgita Bagdonaitė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 686 75 746",
           "El. paštas": "[email protected]",
           "Kabinetas": "486"
@@ -624,13 +610,6 @@
           "Tel. numeris": "+370 620 67 086",
           "El. paštas": "[email protected]",
           "Kabinetas": "478"
-        },
-        {
-          "Vardas, pavardė": "Albertas Žalys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 685 58 851",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "480"
         },
         {
           "Vardas, pavardė": "Daiva Vipartienė",
@@ -815,7 +794,7 @@
         },
         {
           "Vardas, pavardė": "Rūta Žukauskaitė-Osipovič",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 614 90 048",
           "El. paštas": "[email protected]",
           "Kabinetas": "369"
@@ -1262,7 +1241,7 @@
         },
         {
           "Vardas, pavardė": "Inga Dundulienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 664 88 185",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -1358,7 +1337,7 @@
         },
         {
           "Vardas, pavardė": "Nerija Lučinskaitė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 666 55 293",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -1393,13 +1372,6 @@
           "Vardas, pavardė": "Dalia Galnaitytė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 50 297",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "483"
-        },
-        {
-          "Vardas, pavardė": "Gintarė Papartė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 620 80 996",
           "El. paštas": "[email protected]",
           "Kabinetas": "483"
         },
@@ -1480,7 +1452,7 @@
         },
         {
           "Vardas, pavardė": "Sigitas Stasiulis",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 649 62 799",
           "El. paštas": "[email protected]",
           "Kabinetas": "230"
@@ -1722,7 +1694,7 @@
         },
         {
           "Vardas, pavardė": "Ilona Žarnovskienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 664 88 182",
           "El. paštas": "[email protected]",
           "Kabinetas": "110"
@@ -1824,6 +1796,13 @@
           "Kabinetas": "107"
         },
         {
+          "Vardas, pavardė": "Kristina Bukauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 620 33 967",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "174"
+        },
+        {
           "Vardas, pavardė": "Lina Bernatavičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 618 49 445",
@@ -1853,13 +1832,6 @@
           "Vardas, pavardė": "Ilona Degulienė",
           "Pareigos": "Vyriausioji specialistė, atliekanti skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 699 37 393",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "174"
-        },
-        {
-          "Vardas, pavardė": "Kristina Bukauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 33 967",
           "El. paštas": "[email protected]",
           "Kabinetas": "174"
         },
