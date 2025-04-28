@@ -1329,13 +1329,6 @@
           "Kabinetas": "Kauno g. 69, 62107 Alytus"
         },
         {
-          "Vardas, pavardė": "Saulius Džiaugys",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12 (210 kab.), 44279 Kaunas"
-        },
-        {
           "Vardas, pavardė": "Saulius Tuska",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "–",
@@ -1770,7 +1763,7 @@
         {
           "Vardas, pavardė": "Indrė Žurauskė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 632 24992",
           "El. paštas": "[email protected]",
           "Kabinetas": "Dariaus ir Girėno g. 4, 68176, Marijampolė"
         },
@@ -2002,6 +1995,13 @@
     {
       "Pavadinimas": "Pranešimų priėmimo tarnyba",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Grybauskienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "–",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
         {
           "Vardas, pavardė": "Deimantas Gudelis",
           "Pareigos": "Vyriausiasis specialistas",
@@ -2532,7 +2532,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aidas Jakimavčius",
-          "Pareigos": "Kompiuterių sistemų analitikas",
+          "Pareigos": "Kompiuterinių sistemų analitikas",
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta"
@@ -2574,8 +2574,15 @@
         },
         {
           "Vardas, pavardė": "Skalmantas Olšauskas",
-          "Pareigos": "Kompiuterių sistemų analitikas",
+          "Pareigos": "Kompiuterinių sistemų analitikas",
           "Tel. numeris": "–",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta"
+        },
+        {
+          "Vardas, pavardė": "Vilgailė Narkevičiūtė",
+          "Pareigos": "Kompiuterinių sistemų analitikė",
+          "Tel. numeris": "+370 603 30850",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta"
         }
@@ -3901,13 +3908,6 @@
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "217"
-        },
-        {
-          "Vardas, pavardė": "Daiva Grybauskienė",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "218"
         },
         {
           "Vardas, pavardė": "Edgaras Skrebė",

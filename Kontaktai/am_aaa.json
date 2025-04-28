@@ -726,13 +726,6 @@
       "Pavadinimas": "Bendrųjų analitinių kompetencijų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Angelė Kėdaitienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 682 20698",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Juozapavičiaus g. 9, LT-09311 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Daiva Žilienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 661 36159",
@@ -888,6 +881,13 @@
           "Kabinetas": "512, A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
+          "Vardas, pavardė": "Loreta Jovaišienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 686 48427",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "211 kab. Metalo g. 11, LT-28217 Utena"
+        },
+        {
           "Vardas, pavardė": "Oleg Vasiljev",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 620 69821",
@@ -958,7 +958,7 @@
         {
           "Vardas, pavardė": "Justina Jarmakaitė-Tulauskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 611 79481",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1071,13 +1071,6 @@
           "Tel. numeris": "+370 616 22392",
           "El. paštas": "[email protected]",
           "Kabinetas": "2.4 kab. Tilžės g. 198, LT-76203 Šiauliai"
-        },
-        {
-          "Vardas, pavardė": "Loreta Jovaišienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 686 48427",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "211 kab. Metalo g. 11, LT-28217 Utena"
         },
         {
           "Vardas, pavardė": "Neringa Misevičienė",
@@ -1352,7 +1345,7 @@
         {
           "Vardas, pavardė": "Gintautas Šaduikis (Tyrimų atlikimas, laboratorijų kontrolė)",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 632 08649",
           "El. paštas": "[email protected]",
           "Kabinetas": "303 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
@@ -1380,7 +1373,7 @@
         {
           "Vardas, pavardė": "Paulina Pažerauskaitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 63206957",
+          "Tel. numeris": "+37063206957",
           "El. paštas": "[email protected]",
           "Kabinetas": "311 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
@@ -2079,6 +2072,13 @@
           "Tel. numeris": "+370 618 17703",
           "El. paštas": "[email protected]",
           "Kabinetas": "518 kab. Oršos g. 8 , LT-09300 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Edita Sokolnikienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 614 03020",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "532 kab. Oršos g. 8 , LT-09300 Vilnius"
         },
         {
           "Vardas, pavardė": "Gražina Mozūrienė (Ėminių ėmimas, tyrimų atlikimas, laboratorijų kontrolė)",

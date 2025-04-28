@@ -818,6 +818,13 @@
       "Pavadinimas": "Skolinimosi ir investavimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Agnė Sakalauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37063523149",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "244"
+        },
+        {
           "Vardas, pavardė": "Aldas Beginskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37069031984",
@@ -1066,7 +1073,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Andrius Kurklietis",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+37069032198",
           "El. paštas": "[email protected]",
           "Kabinetas": "507"
@@ -1245,7 +1252,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Laima Šikšnelytė-Zananavičienė",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37065878049",
           "El. paštas": "[email protected]",
           "Kabinetas": "221"
@@ -1425,7 +1432,7 @@
         {
           "Vardas, pavardė": "Gintarė Petraitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069102615",
+          "Tel. numeris": "+37063753606",
           "El. paštas": "[email protected]",
           "Kabinetas": "205"
         },
@@ -1759,7 +1766,7 @@
         {
           "Vardas, pavardė": "Gabija Brazauskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37063523149",
+          "Tel. numeris": "+37068128396",
           "El. paštas": "[email protected]",
           "Kabinetas": "501"
         },
@@ -1969,13 +1976,6 @@
           "Tel. numeris": "+37069032212",
           "El. paštas": "[email protected]",
           "Kabinetas": "313"
-        },
-        {
-          "Vardas, pavardė": "Roma Karalienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37065262580",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "314"
         }
       ]
     },
@@ -2021,13 +2021,6 @@
           "Tel. numeris": "+37068201038",
           "El. paštas": "[email protected]",
           "Kabinetas": "05"
-        },
-        {
-          "Vardas, pavardė": "Mykolas Lisoveckas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37068603639",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
         },
         {
           "Vardas, pavardė": "Nora Martinkėnienė",
@@ -2626,13 +2619,6 @@
       "Pavadinimas": "Valdymo ir kontrolės sistemų priežiūros skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Asta Karašė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37063054867",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "454"
-        },
-        {
           "Vardas, pavardė": "Beatričė Jasinskaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37063631366",
@@ -2848,7 +2834,7 @@
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37065889629",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "531"
         }
       ]
     },
@@ -2860,7 +2846,7 @@
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37069032102",
           "El. paštas": "[email protected]",
-          "Kabinetas": "433"
+          "Kabinetas": "540"
         },
         {
           "Vardas, pavardė": "Jelena Vysockaja-Mockienė",

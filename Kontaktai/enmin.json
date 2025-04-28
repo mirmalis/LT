@@ -70,12 +70,6 @@
       "Pavadinimas": "Komunikacijos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Laimis Bratikas",
-          "Pareigos": "Vedėjas",
-          "Tel. numeris": "+37060251034",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Milda Numgaudienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37060247482",
@@ -199,6 +193,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Sandra Vainutė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+37067740688",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Vida Dzermeikienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37065842175",
@@ -206,7 +206,7 @@
         },
         {
           "Vardas, pavardė": "Vilmantas Markevičius",
-          "Pareigos": "Projektų vadovas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+37060247406",
           "El. paštas": "[email protected]"
         }

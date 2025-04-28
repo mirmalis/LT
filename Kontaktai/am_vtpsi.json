@@ -557,13 +557,6 @@
           "Tel. numeris": "+370 659 62747",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
           "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Vaida Eitutienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370  647 17650",
-          "Kabinetas": "Nuotolinė darbo vieta",
-          "Atsakingas už": ""
         }
       ]
     },
@@ -643,13 +636,6 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 90820",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (309 kab.)",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Pavel Trusov",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37060774130",
-          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         },
         {
@@ -769,6 +755,20 @@
           "Vardas, pavardė": "Laura Marozaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 613 15895",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Samanta Luganeckaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 647 18290",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vaida Eitutienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370  647 17650",
           "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
@@ -1372,6 +1372,13 @@
           "Tel. numeris": "+370 682 57617 (skambinti  I-IV 9.00-11.00 val.)",
           "Kabinetas": "Respublikos g. 32 Telšiai (418 kab.)",
           "Atsakingas už": "konsultuoja telefonu deklaracijų apie statybos užbaigimą tvirtinimo klausimais"
+        },
+        {
+          "Vardas, pavardė": "Daiva Ralienė",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+370 689 99534",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Laimonas Martišauskis",

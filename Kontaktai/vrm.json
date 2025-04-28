@@ -141,7 +141,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Adomas Puidokas",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyriausiasis patarėjas",
           "Tel. numeris": "+370 5 2718838",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -502,6 +502,14 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "311"
+        },
+        {
+          "Vardas, pavardė": "Indrė Gustaitienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 2718325",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "314"
         }
       ]
     },
