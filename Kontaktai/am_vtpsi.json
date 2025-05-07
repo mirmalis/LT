@@ -415,7 +415,7 @@
           "Pareigos": "Specialistė",
           "Tel. numeris": "+370 5 207 3333",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (103 kab.)",
-          "Atsakingas už": "Teritorijų planavimo dokumentų registro administravimas, bendradarbiavimas su kitomis įstaigomis, tvarkančiomis informacines sistemas, kuriose Statybos inspekcija vykdo funkcijas"
+          "Atsakingas už": "Bendradarbiavimas su kitomis įstaigomis, tvarkančiomis informacines sistemas, kuriose Statybos inspekcija vykdo funkcijas"
         },
         {
           "Vardas, pavardė": "Juozapas Andrikonis",
@@ -683,6 +683,20 @@
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 682 92501",
           "Kabinetas": "Naujoji g. 2, Alytus (314 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Renata Abromavičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 689 99821",
+          "Kabinetas": "L. Sapiegos g. 12, Kaunas (205 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Samanta Ladzinskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 690 04017",
+          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
       ]
@@ -1137,6 +1151,13 @@
           "Atsakingas už": "statinių statybos užbaigimas"
         },
         {
+          "Vardas, pavardė": "Vidmantas Bulovas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 600 50762 (skambinti 9:00-12:00)",
+          "Kabinetas": "Respublikos g. 38, Panevėžys",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Virginijus Kuolalis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 687  45399 (skambinti 9:00-12:00)",
@@ -1571,9 +1592,9 @@
         {
           "Vardas, pavardė": "Algirdas Matulis",
           "Pareigos": "Specialistas",
-          "Tel. numeris": "+370 682 11815 (skambinti 9:00 – 12:00)",
-          "Kabinetas": "Maironio g. 9, Utena (104 kab.)",
-          "Atsakingas už": "konsultacijų teikimas dėl teritorijų planavimą reglamentuojančių teisės aktų taikymo"
+          "Tel. numeris": "",
+          "Kabinetas": "Nuotolinė darbo vieta",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Alma Peliakienė",
@@ -1585,9 +1606,9 @@
         {
           "Vardas, pavardė": "Asta Maksimovienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 690 59072",
+          "Tel. numeris": "+370 690 59072 (skambinti 9:00 – 12:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (202 kab.)",
-          "Atsakingas už": "skundų nagrinėjimas"
+          "Atsakingas už": "teritorijų planavimo dokumentų valstybinė priežiūra"
         },
         {
           "Vardas, pavardė": "Aušra Šutienė",
@@ -1655,6 +1676,13 @@
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 604 76361",
           "Kabinetas": "208",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Simonas Valotka",
+          "Pareigos": "L. e. direktoriaus pareigas",
+          "Tel. numeris": "+370 691 10002",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (209 kab.)",
           "Atsakingas už": ""
         }
       ]

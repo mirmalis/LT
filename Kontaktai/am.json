@@ -134,13 +134,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Eglė Paužuolienė",
-          "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+370 657 99389",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Inga Aksamitauskaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 669 59056",
@@ -516,6 +509,13 @@
           "Vardas, pavardė": "Martinas Nyderis (Pastatų atnaujinimo (modernizavimo) sritis)",
           "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 696 97200",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vaidota Ludavičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 10091",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1061,6 +1061,39 @@
       ]
     },
     {
+      "Pavadinimas": "Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Beata Vilimaitė Šilobritienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 645 89487",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Dalia Židonytė (Taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 40243",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Raulinaitis (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 41925",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Rasa Griškevičienė (Planų ir programų strateginio pasekmių aplinkai vertinimo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 11585",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Vandentvarkos ir nuotekų tvarkymo politikos klausimai",
       "Darbuotojai": [
         {
@@ -1158,39 +1191,6 @@
           "Tel. numeris": "+370 682 10372",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Beata Vilimaitė Šilobritienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 645 89487",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Dalia Židonytė (Taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 40243",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Raulinaitis (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 695 41925",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Rasa Griškevičienė (Planų ir programų strateginio pasekmių aplinkai vertinimo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 11585",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
         }
       ]
     },
@@ -1570,13 +1570,6 @@
           "Vardas, pavardė": "Indrė Dagelė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 695 10279",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "105"
-        },
-        {
-          "Vardas, pavardė": "Veslava Švedė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 616 06552",
           "El. paštas": "[email protected]",
           "Kabinetas": "105"
         }

@@ -5,6 +5,13 @@
       "Pavadinimas": "Administracija",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Eglė Paužuolienė",
+          "Pareigos": "Direktoriaus pavaduotoja",
+          "Tel. numeris": "+370 5 216 3385",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Giedrius Kadziauskas",
           "Pareigos": "Direktorius",
           "Tel. numeris": "+370 5 216 3385",
@@ -84,7 +91,7 @@
         },
         {
           "Vardas, pavardė": "Dominyka Šurpikienė",
-          "Pareigos": "Skyriaus vedėja (l. e. p.)",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
@@ -347,6 +354,13 @@
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12 (203 kab.), 44279 Kaunas"
+        },
+        {
+          "Vardas, pavardė": "Rasa Kavoliūnė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "–",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12 (308 kab.), 44279 Kaunas"
         }
       ]
     },
@@ -710,13 +724,6 @@
           "Kabinetas": "Kauno g. 69 (210 kab.), 62107 Alytus"
         },
         {
-          "Vardas, pavardė": "Rasa Kavoliūnė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12 (308 kab.), 44279 Kaunas"
-        },
-        {
           "Vardas, pavardė": "Rasa Žolynaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "–",
@@ -851,6 +858,13 @@
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15 (205 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Toma Zubaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "-",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (303 kab.), 03123 Vilnius"
         },
         {
           "Vardas, pavardė": "Vidmantas Raičinskis",
@@ -2995,6 +3009,13 @@
           "Kabinetas": "Plytų g. 61, 00131 Palanga"
         },
         {
+          "Vardas, pavardė": "Jurgita Juknienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
+        },
+        {
           "Vardas, pavardė": "Laura Dagilienė",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "–",
@@ -3904,7 +3925,7 @@
         },
         {
           "Vardas, pavardė": "Aušrinė Oniūnaitė",
-          "Pareigos": "Vyresnioji specialistė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "217"
@@ -3929,13 +3950,6 @@
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "216"
-        },
-        {
-          "Vardas, pavardė": "Markas Kladčenko",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "218"
         },
         {
           "Vardas, pavardė": "Romuald Kaladiun",

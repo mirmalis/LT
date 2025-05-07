@@ -11,6 +11,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Emilija Daukševič",
+          "Pareigos": "Ministro padėjėja",
+          "Tel. numeris": "+370 5 266 1400",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Evaldas Raistenskis",
           "Pareigos": "Ministerijos kancleris",
           "Tel. numeris": "+370 5 266 1401",
@@ -197,12 +203,6 @@
       "Pavadinimas": "Korupcijos prevencijos ir vidaus tyrimų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Goborovienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 266 1477",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Eglė Tamošiūnienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 5 205 3373",
@@ -382,12 +382,6 @@
           "Vardas, pavardė": "Emilija Šukaitytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 260 4711",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Gytis Arbutavičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 5 205 5295",
           "El. paštas": "[email protected]"
         },
         {
@@ -811,12 +805,6 @@
       "Pavadinimas": "Investicijų įgyvendinimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Sakalinskienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 260 4701",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Alina Lupeikienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1411",
@@ -1154,7 +1142,7 @@
         {
           "Vardas, pavardė": "Jonas Paulius Mackevičius",
           "Pareigos": "Specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 5 210 9660",
           "El. paštas": "[email protected]"
         },
         {
@@ -1286,6 +1274,12 @@
     {
       "Pavadinimas": "Veiklos administravimo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aivaras Bareikis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 5 210 9670",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Gintautas Juodis",
           "Pareigos": "Vyriausiasis specialistas",

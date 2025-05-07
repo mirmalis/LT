@@ -223,7 +223,7 @@
           "Pareigos": "Patarėja (KPP 2014-2020)",
           "Tel. numeris": "+37052391288",
           "El. paštas": "[email protected]",
-          "Kabinetas": "516"
+          "Kabinetas": "503"
         },
         {
           "Vardas, pavardė": "Inga Venciulytė",
@@ -259,6 +259,13 @@
           "Tel. numeris": "+37052391179",
           "El. paštas": "[email protected]",
           "Kabinetas": "515"
+        },
+        {
+          "Vardas, pavardė": "Povilas Valteris",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37052391 177",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -736,13 +743,6 @@
           "Tel. numeris": "+3705 239 8474",
           "El. paštas": "[email protected]",
           "Kabinetas": "247"
-        },
-        {
-          "Vardas, pavardė": "Simonas Valotka",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+3705 210 0528",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "251"
         }
       ]
     },
@@ -902,7 +902,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37052391072",
           "El. paštas": "[email protected]",
-          "Kabinetas": "516"
+          "Kabinetas": "251"
         },
         {
           "Vardas, pavardė": "Kristina Juodonienė",
@@ -1742,13 +1742,6 @@
     {
       "Pavadinimas": "Ryšių su visuomene ir bendradarbiavimo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Anolita Barzdonienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391057",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "275"
-        },
         {
           "Vardas, pavardė": "Danguolė Starkuvienė",
           "Pareigos": "Vyriausioji specialistė",
