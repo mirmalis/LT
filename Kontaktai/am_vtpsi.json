@@ -325,7 +325,7 @@
           "Vardas, pavardė": "Jurgita Čereškienė",
           "Pareigos": "Specialistė (raštinė)",
           "Tel. numeris": "+370 612 53955",
-          "Kabinetas": "Maironio g. 9, Utena (201 kab.)",
+          "Kabinetas": "Maironio g. 9, Utena (101 kab.)",
           "Atsakingas už": ""
         },
         {
@@ -695,7 +695,7 @@
         {
           "Vardas, pavardė": "Samanta Ladzinskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 690 04017",
+          "Tel. numeris": "+370 600 51047",
           "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
@@ -1671,13 +1671,6 @@
     {
       "Pavadinimas": "Žemės naudojimo valstybinės priežiūros departamentas",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Jurgita Špūraitė",
-          "Pareigos": "Direktorė",
-          "Tel. numeris": "+370 604 76361",
-          "Kabinetas": "208",
-          "Atsakingas už": ""
-        },
         {
           "Vardas, pavardė": "Simonas Valotka",
           "Pareigos": "L. e. direktoriaus pareigas",

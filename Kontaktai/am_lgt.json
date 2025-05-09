@@ -58,6 +58,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Lina Kavoliukienė",
+          "Pareigos": "Finansų analitikas",
+          "Mobilus tel. nr.": "+370 646 57069",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Milda Juciūtė",
           "Pareigos": "Vedėjas",
           "Mobilus tel. nr.": "+370 646 54862",
@@ -428,6 +434,12 @@
     {
       "Pavadinimas": "Leidimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jurgita Vaičiulienė",
+          "Pareigos": "Patarėjas",
+          "Mobilus tel. nr.": "+370 691 42749",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Kristina Griguolė",
           "Pareigos": "Vyriausiasis specialistas",

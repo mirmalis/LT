@@ -64,13 +64,6 @@
       "Pavadinimas": "Ministerijos patarėjai",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Dalia Miniataitė",
-          "Pareigos": "Ministerijos vyriausioji patarėja",
-          "Tel. numeris": "+37052391094",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "396"
-        },
-        {
           "Vardas, pavardė": "Vaida Šopytė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391 045",
@@ -1195,6 +1188,13 @@
     {
       "Pavadinimas": "Žuvininkystės departamentas",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Ieva Žundienė",
+          "Pareigos": "Departamento direktorius",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "425"
+        },
         {
           "Vardas, pavardė": "Tomas Keršys",
           "Pareigos": "Departamento direktorius",
