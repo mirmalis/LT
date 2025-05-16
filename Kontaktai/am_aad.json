@@ -50,6 +50,13 @@
       "Pavadinimas": "Ryšių su visuomene skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Augustė Pukelė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 601 50589",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Laima Grižaitė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 630 50112",
@@ -2511,7 +2518,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 612 19537",
           "El. paštas": "[email protected]",
-          "Kabinetas": "nuo"
+          "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
           "Vardas, pavardė": "Loreta Starovoitova",

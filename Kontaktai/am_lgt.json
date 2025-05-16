@@ -65,7 +65,7 @@
         },
         {
           "Vardas, pavardė": "Milda Juciūtė",
-          "Pareigos": "Vedėjas",
+          "Pareigos": "Vyriausioji specialistė",
           "Mobilus tel. nr.": "+370 646 54862",
           "El. paštas": "[email protected]"
         },
@@ -434,6 +434,12 @@
     {
       "Pavadinimas": "Leidimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Danuta Gotovecka",
+          "Pareigos": "Vyresnioji specialistė",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Jurgita Vaičiulienė",
           "Pareigos": "Patarėjas",

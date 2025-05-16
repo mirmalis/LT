@@ -485,7 +485,7 @@
           "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "+370 611 27140",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "225"
         },
         {
           "Vardas, pavardė": "Justina Sušinskaitė",
@@ -789,7 +789,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 602 56081",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "313"
         },
         {
           "Vardas, pavardė": "Saulius Jonikas",
@@ -823,6 +823,13 @@
           "Tel. numeris": "+370 602 56516",
           "El. paštas": "[email protected]",
           "Kabinetas": "402"
+        },
+        {
+          "Vardas, pavardė": "Tomas Liutkevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 607 67003",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -940,7 +947,7 @@
           "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+370 602 56324",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "414"
         },
         {
           "Vardas, pavardė": "Eimantė Tamašauskienė",

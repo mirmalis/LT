@@ -186,16 +186,16 @@
       "Pavadinimas": "Architektūros ir urbanistikos klausimai",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Algimantė Treinienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 646 93675",
+          "Vardas, pavardė": "Aurimas Petniūnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 618 23454",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Aurimas Petniūnas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 618 23454",
+          "Vardas, pavardė": "Donata Paulauskaitė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 696 82115",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -369,39 +369,6 @@
       ]
     },
     {
-      "Pavadinimas": "Bendrieji atliekų  ir atskirų atliekų srautų (tekstilės, statybinių ir pelenų) tvarkymo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aistė Rakauskienė (atliekų nebelaikymo atliekomis, šalutinių produktų, tekstilės atliekų klausimai)",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 696 80518",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Danguolė Kazlauskienė (leidimų atliekų apdorojimui, atliekų naudojimo ir šalinimo techninio reglamento, atliekų apskaitos,  atliekų deginimo reikalavimų klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 696 52058",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "303"
-        },
-        {
-          "Vardas, pavardė": "Jovita Surdokienė",
-          "Pareigos": "Vyr. patarėja",
-          "Tel. numeris": "+370 696 54712",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "305"
-        },
-        {
-          "Vardas, pavardė": "Kristina Sabaliauskienė (atliekų tvarkymo veiklos nutraukimo, specialistų mokymo ir kompetencijos tobulinimo, atliekų sąvartynų pelenų ir šlako atliekų tvarkymo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 696 26577",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "303"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Organizacijų licencijavimo, įrodančių dokumentų išrašymo, tarpvalstybinių atliekų vežimų, laivų perdirbimo, baterijų, elektronikos, apmokestinamųjų gaminių, eksploatuoti netinkamų transporto priemonių,  alyvos atliekų tvarkymo klausimai",
       "Darbuotojai": [
         {
@@ -457,6 +424,39 @@
           "Tel. numeris": "+370 687 27458",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Bendrieji atliekų  ir atskirų atliekų srautų (tekstilės, statybinių ir pelenų) tvarkymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aistė Rakauskienė (atliekų nebelaikymo atliekomis, šalutinių produktų, tekstilės atliekų klausimai)",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 696 80518",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Danguolė Kazlauskienė (leidimų atliekų apdorojimui, atliekų naudojimo ir šalinimo techninio reglamento, atliekų apskaitos,  atliekų deginimo reikalavimų klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 696 52058",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "303"
+        },
+        {
+          "Vardas, pavardė": "Jovita Surdokienė",
+          "Pareigos": "Vyr. patarėja",
+          "Tel. numeris": "+370 696 54712",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "305"
+        },
+        {
+          "Vardas, pavardė": "Kristina Sabaliauskienė (atliekų tvarkymo veiklos nutraukimo, specialistų mokymo ir kompetencijos tobulinimo, atliekų sąvartynų pelenų ir šlako atliekų tvarkymo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 696 26577",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "303"
         }
       ]
     },
@@ -1002,98 +1002,6 @@
       ]
     },
     {
-      "Pavadinimas": "Cheminių medžiagų klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aurelija Bajoraitienė (cheminių medžiagų tiekimo rinkai ir naudojimo reglamentavimas, patvariųjų organinių teršalų, gyvsidabrio tvarkymo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 618 76434",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "110"
-        },
-        {
-          "Vardas, pavardė": "Donata Pipiraitė-Vališkienė (cheminių medžiagų valdymas)",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 687 25786",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "110"
-        },
-        {
-          "Vardas, pavardė": "Ingrida Varžgalienė (ozono sluoksnį ardančios medžiagos, pavojingųjų cheminių medžiagų importas ir eksportas, duomenų ir informacijos apie chemines medžiagas ir mišinius teikimas)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 618 60873",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "110"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Aplinkos oro klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Danguolė Sužiedėlytė (oro taršos mažinimo tikslai ir mažinimo planas, dideli kurą deginantys įrenginiai, žemės ūkis, tirpiklių, dažų, lakų, kitų LOJ turinčių produktų naudojimas, oro kokybė)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 687 72136",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "109"
-        },
-        {
-          "Vardas, pavardė": "Elena Auglienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 645 22458",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Paulius Žvirblis (kuro ir kitas deginimas, kietojo kuro kokybė, benzino saugojimas ir paskirstymas, AEI naudojimas)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 695 28551",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Renata Gagienė (transportas, birios palaidos kietosios medžiagos, degalų ir skystojo kuro kokybė)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 41940",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Beata Vilimaitė Šilobritienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 645 89487",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Dalia Židonytė (Taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 40243",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Raulinaitis (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 695 41925",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        },
-        {
-          "Vardas, pavardė": "Rasa Griškevičienė (Planų ir programų strateginio pasekmių aplinkai vertinimo klausimai)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 11585",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "316"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Vandenų  ir žemės gelmių išteklių politikos klausimai",
       "Darbuotojai": [
         {
@@ -1191,6 +1099,98 @@
           "Tel. numeris": "+370 618 78298",
           "El. paštas": "[email protected]",
           "Kabinetas": "119"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Cheminių medžiagų klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aurelija Bajoraitienė (cheminių medžiagų tiekimo rinkai ir naudojimo reglamentavimas, patvariųjų organinių teršalų, gyvsidabrio tvarkymo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 618 76434",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "110"
+        },
+        {
+          "Vardas, pavardė": "Donata Pipiraitė-Vališkienė (cheminių medžiagų valdymas)",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 687 25786",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "110"
+        },
+        {
+          "Vardas, pavardė": "Ingrida Varžgalienė (ozono sluoksnį ardančios medžiagos, pavojingųjų cheminių medžiagų importas ir eksportas, duomenų ir informacijos apie chemines medžiagas ir mišinius teikimas)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 618 60873",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "110"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Aplinkos oro klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Danguolė Sužiedėlytė (oro taršos mažinimo tikslai ir mažinimo planas, dideli kurą deginantys įrenginiai, žemės ūkis, tirpiklių, dažų, lakų, kitų LOJ turinčių produktų naudojimas, oro kokybė)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 687 72136",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "109"
+        },
+        {
+          "Vardas, pavardė": "Elena Auglienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 645 22458",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Paulius Žvirblis (kuro ir kitas deginimas, kietojo kuro kokybė, benzino saugojimas ir paskirstymas, AEI naudojimas)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 28551",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Renata Gagienė (transportas, birios palaidos kietosios medžiagos, degalų ir skystojo kuro kokybė)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 41940",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Beata Vilimaitė Šilobritienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 645 89487",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Dalia Židonytė (Taršos integruotos prevencijos ir kontrolės leidimų ir taršos leidimų klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 40243",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Raulinaitis (Planuojamos ūkinės veiklos poveikio aplinkai vertinimo klausimai)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 41925",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Rasa Griškevičienė (Planų ir programų strateginio pasekmių aplinkai vertinimo klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 11585",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
         {
           "Vardas, pavardė": "Gediminas Bazilevičius",
           "Pareigos": "Kompiuterių sistemų administratorius",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 659 93182",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1908,32 +1908,6 @@
       ]
     },
     {
-      "Pavadinimas": "Teisės taikymo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Reda Skirkevičiūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 672 09141",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Robertas Bulkevičius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 614 02149",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Rūta Slidžiauskaitė-Maskoliūnė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 648 76041",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Teisėkūros klausimai",
       "Darbuotojai": [
         {
@@ -1991,6 +1965,32 @@
           "Tel. numeris": "+370 615 82713",
           "El. paštas": "[email protected]",
           "Kabinetas": "213"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Teisės taikymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Reda Skirkevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 672 09141",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Robertas Bulkevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 614 02149",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rūta Slidžiauskaitė-Maskoliūnė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 648 76041",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
