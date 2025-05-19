@@ -431,12 +431,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Asta Zubkevičė",
-          "Pareigos": "Projektų vadovė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Audrius Smaliukas",
           "Pareigos": "Skyriaus patarėjas",
           "Tel. numeris": "+370 706 85 063",
@@ -715,6 +709,12 @@
           "Vardas, pavardė": "Reda Siautilė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 518",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Reda Strumskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -1337,7 +1337,7 @@
         },
         {
           "Vardas, pavardė": "Viktorija Smalakienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Skyriaus vyresnioji patarėja",
           "Tel. numeris": "+370 706 86 007",
           "El. paštas": "[email protected]"
         },

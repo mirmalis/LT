@@ -97,23 +97,29 @@
       ]
     },
     {
+      "Pavadinimas": "Pareigybės, nepriskirtos administraciniam padaliniui",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Joana Korabliovienė",
+          "Pareigos": "Ministerijos vyriausioji patarėja (turinti pavaldžių asmenų)",
+          "Tel. numeris": "+370 5 205 5298",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Robertas Jakimonis",
+          "Pareigos": "Ministerijos vyriausiasis specialistas",
+          "Tel. numeris": "+370 5 210 9661",
+          "El. paštas": "[email protected]"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Visuomeniniai konsultantai",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Linas Svetikas",
           "Pareigos": "Ministro visuomeninis konsultantas",
           "Tel. numeris": "",
-          "El. paštas": "[email protected]"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministerijos patarėjai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Joana Korabliovienė",
-          "Pareigos": "Vyriausioji patarėja",
-          "Tel. numeris": "+370 5 205 5298",
           "El. paštas": "[email protected]"
         }
       ]

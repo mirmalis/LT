@@ -7,7 +7,7 @@
         {
           "Vardas, pavardė": "Andrius Dubinas",
           "Pareigos": "Viceministras",
-          "Tel. numeris": "+37069842498",
+          "Tel. numeris": "+370 698 42498",
           "El. paštas": "[email protected]",
           "Kabinetas": "311"
         },
@@ -45,6 +45,13 @@
           "Tel. numeris": "+370 668 42654",
           "El. paštas": "[email protected]",
           "Kabinetas": "305"
+        },
+        {
+          "Vardas, pavardė": "Ričardas Pocius",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 668 42720",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "309"
         },
         {
           "Vardas, pavardė": "Rimantas Mockus",
@@ -509,13 +516,6 @@
           "Kabinetas": "202"
         },
         {
-          "Vardas, pavardė": "Samanta Delekaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 671 90738",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "203"
-        },
-        {
           "Vardas, pavardė": "Sandra Vasiulytė-Maliaukė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 602 67368",
@@ -855,7 +855,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 684 61252",
           "El. paštas": "[email protected]",
-          "Kabinetas": "108"
+          "Kabinetas": "406"
         },
         {
           "Vardas, pavardė": "Vaida Kaščiokaitienė",
@@ -863,6 +863,32 @@
           "Tel. numeris": "+370 687 00578",
           "El. paštas": "[email protected]",
           "Kabinetas": "107"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Korupcijos prevencijos ir vidaus tyrimų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Agnė Goborovienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 600 42858",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Bernotaitė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 600 37388",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "204"
+        },
+        {
+          "Vardas, pavardė": "Samanta Staneikaitė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 605 94250",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
         }
       ]
     },
@@ -910,32 +936,6 @@
           "Tel. numeris": "+370 645 78354",
           "El. paštas": "[email protected]",
           "Kabinetas": "007"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Korupcijos prevencijos ir vidaus tyrimų skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Agnė Goborovienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 600 42858",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Jolanta Bernotaitė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 600 37388",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "204"
-        },
-        {
-          "Vardas, pavardė": "Samanta Staneikaitė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 605 94250",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
         }
       ]
     },
@@ -1137,7 +1137,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 611 27135",
           "El. paštas": "[email protected]",
-          "Kabinetas": "305"
+          "Kabinetas": "306"
         },
         {
           "Vardas, pavardė": "Dovilė Mekionytė",
@@ -1151,7 +1151,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 615 69049",
           "El. paštas": "[email protected]",
-          "Kabinetas": "306"
+          "Kabinetas": "305"
         }
       ]
     },

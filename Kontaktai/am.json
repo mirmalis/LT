@@ -121,7 +121,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Andrius Girdziušas",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėjas, vykdantis skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 695 62741",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -1855,6 +1855,13 @@
           "Vardas, pavardė": "Jūratė Jundienė (MVP rengimo, vykdymo koordinavimas)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 615 80748",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jūratė Maldauskienė",
+          "Pareigos": "Vyr. patarėja",
+          "Tel. numeris": "+370 687 48180",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
