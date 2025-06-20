@@ -416,6 +416,13 @@
           "Tel. numeris": "+370 669 48395",
           "El. paštas": "[email protected]",
           "Kabinetas": "914 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Toma Bulauskienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 661 29251",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "201 kab. Taikos pr. 26, LT-91222 Klaipėda"
         }
       ]
     },
@@ -531,9 +538,9 @@
         {
           "Vardas, pavardė": "Aistė Mockienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 615 29583",
           "El. paštas": "[email protected]",
-          "Kabinetas": "kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+          "Kabinetas": "A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
           "Vardas, pavardė": "Artūras Polita (Nacionalinė oro teršalų apskaita (pramonė), oro teršalų projekcijos, apskaitos duomenų ir informacinių ataskaitų teikimas EK)",
@@ -1010,13 +1017,6 @@
           "Tel. numeris": "+370 620 85561",
           "El. paštas": "[email protected]",
           "Kabinetas": "209 kab. Taikos pr. 26, LT-91222 Klaipėda"
-        },
-        {
-          "Vardas, pavardė": "Toma Bulauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 661 29251",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "201 kab. Taikos pr. 26, LT-91222 Klaipėda"
         },
         {
           "Vardas, pavardė": "Vilma Lilienė",
@@ -1952,13 +1952,6 @@
       "Pavadinimas": "Šiaurės Rytų Lietuvos aplinkos tyrimų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Anžela Giruckienė (tyrimų atlikimas, ėminių ėmimas)",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 687 04574",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "120 kab. Metalo g. 11, LT-28217 Utena"
-        },
-        {
           "Vardas, pavardė": "Augustas Vilimas (Ėminių ėmimas, tyrimų atlikimas)",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 659 67430",
@@ -2093,6 +2086,13 @@
           "Tel. numeris": "+370 611 29426",
           "El. paštas": "[email protected]",
           "Kabinetas": "526 kab. Oršos g. 8 , LT-09300 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Indrė Rimutė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Oršos g. 8 , LT-09300 Vilnius"
         },
         {
           "Vardas, pavardė": "Jolanta Norkūnaitė (Ėminių ėmimas, oro monitoringo stočių priežiūra)",

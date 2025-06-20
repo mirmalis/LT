@@ -144,6 +144,13 @@
       "Pavadinimas": "Aplinkai saugaus elgesio skatinimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Dominyka Šurpikienė",
+          "Pareigos": "Skyriaus vedėja (l. e. p.)",
+          "Tel. numeris": "-",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15  (202 kab.), 03201 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Meda Bagdonaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 691 10082",
@@ -156,13 +163,6 @@
           "Tel. numeris": "+370 656 06943",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15 (202 kab.), 03201 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Paula Bumbulytė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 661 31523",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15  (202 kab.), 03201 Vilnius"
         },
         {
           "Vardas, pavardė": "Viktorija Dridi",
@@ -410,15 +410,8 @@
           "Kabinetas": "M. K. Čiurlionio g. 3 (3.2 kab.), 76303 Šiauliai"
         },
         {
-          "Vardas, pavardė": "Jurgita Malskaitienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Žemaitės g. 6 (216 kab.), 03117 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Paulius Rutkauskas",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kauno g. 16B, 20114 Ukmergė"
@@ -1064,6 +1057,13 @@
           "Kabinetas": "Prezidento g. 7, 72261 Tauragė"
         },
         {
+          "Vardas, pavardė": "Rosita Vaškūnė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "–",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12 (102 kab.), 44279 Kaunas"
+        },
+        {
           "Vardas, pavardė": "Tomas Tamošiūnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "–",
@@ -1341,6 +1341,13 @@
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Žalgirio g. 11A, 93251 Klaipėda"
+        },
+        {
+          "Vardas, pavardė": "Egidijus Zykas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "–",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Žemaitės g. 6 (210 kab.), 03117 Vilnius"
         },
         {
           "Vardas, pavardė": "Jolita Matulevičienė",
@@ -1646,13 +1653,6 @@
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "J. Jablonskio g. 30, 29111 Anykščiai"
-        },
-        {
-          "Vardas, pavardė": "Modestas Muleras",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "J. Gruodžio g. 37, 42129 Rokiškis"
         },
         {
           "Vardas, pavardė": "Sigitas Prievelis",
@@ -2268,13 +2268,6 @@
           "Kabinetas": "M. K. Čiurlionio g. 3 (2.2 kab.), 76303 Šiauliai"
         },
         {
-          "Vardas, pavardė": "Ieva Krivičienė (archyvarė)",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 684 94459",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (207 kab.), 03201 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Laima Maniušienė (dokumentų valdymo klausimai  Utenos regione)",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 686 71602",
@@ -2289,7 +2282,7 @@
           "Kabinetas": "Rotušės a. 12 (104 kab.), 44279 Kaunas"
         },
         {
-          "Vardas, pavardė": "Modesta Bobelienė (kalbos redaktorė)",
+          "Vardas, pavardė": "Modesta Banytė (kalbos redaktorė)",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 659 02008",
           "El. paštas": "[email protected]",
@@ -2590,13 +2583,6 @@
           "Vardas, pavardė": "Skalmantas Olšauskas",
           "Pareigos": "Kompiuterinių sistemų analitikas",
           "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
-        },
-        {
-          "Vardas, pavardė": "Vilgailė Narkevičiūtė",
-          "Pareigos": "Kompiuterinių sistemų analitikė",
-          "Tel. numeris": "+370 603 30850",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta"
         }
@@ -3072,6 +3058,13 @@
           "Kabinetas": "Birutės g. 16 (212 kab.), 91204 Klaipėda"
         },
         {
+          "Vardas, pavardė": "Žydrūnas Kazbaraitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
+        },
+        {
           "Vardas, pavardė": "Živilė Vaitiškytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "–",
@@ -3145,13 +3138,6 @@
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kvietinių g. 8, 96140 Gargždai"
-        },
-        {
-          "Vardas, pavardė": "Virgilijus Dvilys",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Lokystos g. 36, 75136 Šilalė"
         }
       ]
     },
@@ -3975,13 +3961,6 @@
         {
           "Vardas, pavardė": "Viktorija Ivickytė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "–",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "219"
-        },
-        {
-          "Vardas, pavardė": "Vytautas Buinickas",
-          "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "219"

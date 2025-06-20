@@ -68,18 +68,6 @@
       ]
     },
     {
-      "Pavadinimas": "Ministerijos vyriausieji patarėjai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Dalia Miniataitė",
-          "Pareigos": "Ministerijos vyriausioji patarėja",
-          "Tel. numeris": "+37052391094",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "396"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Ministerijos patarėjai",
       "Darbuotojai": [
         {
@@ -88,6 +76,18 @@
           "Tel. numeris": "+37052391 045",
           "El. paštas": "[email protected]",
           "Kabinetas": "283"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministerijos vyriausieji patarėjai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dalia Miniataitė",
+          "Pareigos": "Ministerijos vyriausioji patarėja",
+          "Tel. numeris": "+37052391094",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "396"
         }
       ]
     },
@@ -146,8 +146,8 @@
         {
           "Vardas, pavardė": "Lina Blažinskienė",
           "Pareigos": "LR žemės ūkio atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "+3224019811",
-          "El. paštas": "[email protected]",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": ""
         },
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "Pavadinimas": "Europos Sąjungos reikalų ir paramos politikos departamentas",
+      "Pavadinimas": "Europos Sąjungos paramos politikos departamentas",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Artiom Volkov",
@@ -211,42 +211,42 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Alma Rasimienė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052398418",
           "El. paštas": "[email protected]",
           "Kabinetas": "515"
         },
         {
           "Vardas, pavardė": "Diana Paliukėnienė",
-          "Pareigos": "Vyriausiasis specialistas (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052391 215",
           "El. paštas": "[email protected]",
           "Kabinetas": "516"
         },
         {
           "Vardas, pavardė": "Gytė Grudzinskaitė",
-          "Pareigos": "Vyriausiasis specialistas (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052391181",
           "El. paštas": "[email protected]",
           "Kabinetas": "516"
         },
         {
           "Vardas, pavardė": "Ieva Mizejė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052391288",
           "El. paštas": "[email protected]",
           "Kabinetas": "503"
         },
         {
           "Vardas, pavardė": "Inga Venciulytė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052391266",
           "El. paštas": "[email protected]",
           "Kabinetas": "502"
         },
         {
           "Vardas, pavardė": "Jolita Banytė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052398467",
           "El. paštas": "[email protected]",
           "Kabinetas": "503"
@@ -260,14 +260,14 @@
         },
         {
           "Vardas, pavardė": "Miglė Tumonytė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052391258",
           "El. paštas": "[email protected]",
           "Kabinetas": "515"
         },
         {
           "Vardas, pavardė": "Natalija Šukeloic",
-          "Pareigos": "Patarėjas (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052391179",
           "El. paštas": "[email protected]",
           "Kabinetas": "515"
@@ -277,7 +277,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37052391 177",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "516"
         }
       ]
     },
@@ -286,7 +286,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Algis Bagdonas",
-          "Pareigos": "Vyriausiasis specialistas (KPP 2014-2020)",
+          "Pareigos": "Vyriausiasis specialistas (SP 2023-2027)",
           "Tel. numeris": "+37052391 255",
           "El. paštas": "[email protected]",
           "Kabinetas": "231"
@@ -307,7 +307,7 @@
         },
         {
           "Vardas, pavardė": "Jurgita Čeponienė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052391127",
           "El. paštas": "[email protected]",
           "Kabinetas": "256"
@@ -335,14 +335,14 @@
         },
         {
           "Vardas, pavardė": "Rolana Miknevičienė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052391225",
           "El. paštas": "[email protected]",
           "Kabinetas": "253"
         },
         {
           "Vardas, pavardė": "Rūta Smilgaitytė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052391347",
           "El. paštas": "[email protected]",
           "Kabinetas": "256"
@@ -361,7 +361,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Agnė Kvedarienė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052391277",
           "El. paštas": "[email protected]",
           "Kabinetas": "507"
@@ -375,14 +375,14 @@
         },
         {
           "Vardas, pavardė": "Dalia Rutkauskaitė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052391267",
           "El. paštas": "[email protected]",
           "Kabinetas": "514"
         },
         {
           "Vardas, pavardė": "Inga Budzevičiūtė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052398458",
           "El. paštas": "[email protected]",
           "Kabinetas": "504"
@@ -396,35 +396,35 @@
         },
         {
           "Vardas, pavardė": "Milda Jusienė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052398469",
           "El. paštas": "[email protected]",
           "Kabinetas": "514"
         },
         {
           "Vardas, pavardė": "Rimantas Dambrauskas",
-          "Pareigos": "Vyriausiasis specialistas (KPP 2014-2020)",
+          "Pareigos": "Vyriausiasis specialistas (SP 2023-2027)",
           "Tel. numeris": "+37052391144",
           "El. paštas": "[email protected]",
           "Kabinetas": "504"
         },
         {
           "Vardas, pavardė": "Sigutė Mečkovskienė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052391 100",
           "El. paštas": "[email protected]",
           "Kabinetas": "505"
         },
         {
           "Vardas, pavardė": "Snieguolė Valiulienė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052398460",
           "El. paštas": "[email protected]",
           "Kabinetas": "507"
         },
         {
           "Vardas, pavardė": "Žilvinas Jasiulevičius",
-          "Pareigos": "Vyriausiasis specialistas (KPP 2014-2020)",
+          "Pareigos": "Vyriausiasis specialistas (SP 2023-2027)",
           "Tel. numeris": "+37052391265",
           "El. paštas": "[email protected]",
           "Kabinetas": "514"
@@ -436,7 +436,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Agnė Rėkutė-Bagdonė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+370 614 45286",
           "El. paštas": "[email protected]",
           "Kabinetas": "513"
@@ -464,21 +464,21 @@
         },
         {
           "Vardas, pavardė": "Jelena Dokudovič",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
+          "Pareigos": "Vyriausioji specialistė (SP 2023-2027)",
           "Tel. numeris": "+37052391124",
           "El. paštas": "[email protected]",
           "Kabinetas": "513"
         },
         {
           "Vardas, pavardė": "Nomeda Padvaiskaitė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052398477",
           "El. paštas": "[email protected]",
           "Kabinetas": "513"
         },
         {
           "Vardas, pavardė": "Virginija Liukpetrytė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
+          "Pareigos": "Patarėja (SP 2023-2027)",
           "Tel. numeris": "+37052391274",
           "El. paštas": "[email protected]",
           "Kabinetas": "513"
@@ -541,6 +541,13 @@
           "Tel. numeris": "+37052391067",
           "El. paštas": "[email protected]",
           "Kabinetas": "411"
+        },
+        {
+          "Vardas, pavardė": "Rimantė Juodenienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37068044349",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "K-311"
         },
         {
           "Vardas, pavardė": "Rita Čepienė",
@@ -683,7 +690,7 @@
         },
         {
           "Vardas, pavardė": "Inga Puzienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+3705 239 1357",
           "El. paštas": "[email protected]",
           "Kabinetas": "247"
@@ -936,13 +943,6 @@
           "Tel. numeris": "+37068058793",
           "El. paštas": "[email protected]",
           "Kabinetas": "K-311"
-        },
-        {
-          "Vardas, pavardė": "Rimantė Juodenienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37068044349",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "K-311"
         }
       ]
     },
@@ -1020,7 +1020,7 @@
         {
           "Vardas, pavardė": "Marius Masiulis",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+37052391 254",
           "El. paštas": "[email protected]",
           "Kabinetas": "351"
         },
@@ -1153,6 +1153,13 @@
     {
       "Pavadinimas": "Žuvininkystės departamentas",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Ieva Žundienė",
+          "Pareigos": "Departamento direktorius",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "425"
+        },
         {
           "Vardas, pavardė": "Tomas Keršys",
           "Pareigos": "Departamento direktorius",
@@ -1513,6 +1520,13 @@
           "Kabinetas": "373"
         },
         {
+          "Vardas, pavardė": "Kristina Latviūnienė",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37052391 262",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Regina Borisevičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37052398465",
@@ -1813,74 +1827,6 @@
       ]
     },
     {
-      "Pavadinimas": "Turto ir viešųjų pirkimų skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Agnija Vikšnienė",
-          "Pareigos": "Vyriausioji specialistė (KPP 2014-2020)",
-          "Tel. numeris": "+37052391095",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "354"
-        },
-        {
-          "Vardas, pavardė": "Dalia Sereikaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37052391209",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "339"
-        },
-        {
-          "Vardas, pavardė": "Darius Žuklys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37052391048",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "354"
-        },
-        {
-          "Vardas, pavardė": "Dovilė Gerbutavičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391053",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "201"
-        },
-        {
-          "Vardas, pavardė": "Gintautė Samalavičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391037",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "354"
-        },
-        {
-          "Vardas, pavardė": "Ignas Kišvinas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37052391280",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "353"
-        },
-        {
-          "Vardas, pavardė": "Karolis Tvaskus",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+37052391227",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "358"
-        },
-        {
-          "Vardas, pavardė": "Nerijus Gudelis",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37052391188",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "338"
-        },
-        {
-          "Vardas, pavardė": "Neringa Gujytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37052391109",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "353"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Tarptautinių reikalų ir eksporto skatinimo skyrius",
       "Darbuotojai": [
         {
@@ -1919,13 +1865,6 @@
           "Kabinetas": "255"
         },
         {
-          "Vardas, pavardė": "Lina Kaklauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391388",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "261"
-        },
-        {
           "Vardas, pavardė": "Šarūnė Šablevičienė",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "",
@@ -1944,6 +1883,13 @@
     {
       "Pavadinimas": "Teisėkūros ir atstovavimo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Akvilė Chlebnikova",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37052391210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "212"
+        },
         {
           "Vardas, pavardė": "Andrius Burlėga",
           "Pareigos": "Skyriaus vedėjas",
@@ -1964,6 +1910,13 @@
           "Tel. numeris": "+37066470945",
           "El. paštas": "[email protected]",
           "Kabinetas": "215"
+        },
+        {
+          "Vardas, pavardė": "Irutė Osičnienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37052391285",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "212"
         },
         {
           "Vardas, pavardė": "Jolanta Oleškevič",
@@ -1991,7 +1944,7 @@
           "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+37052391 041",
           "El. paštas": "[email protected]",
-          "Kabinetas": "229"
+          "Kabinetas": "259"
         },
         {
           "Vardas, pavardė": "Renata Skyrelienė",
@@ -2013,13 +1966,6 @@
       "Pavadinimas": "Teisės ir personalo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Akvilė Chlebnikova",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "212"
-        },
-        {
           "Vardas, pavardė": "Algirdas Sereika",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+37052391229",
@@ -2039,13 +1985,6 @@
           "Tel. numeris": "+37052391356",
           "El. paštas": "[email protected]",
           "Kabinetas": "226"
-        },
-        {
-          "Vardas, pavardė": "Irutė Osičnienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391285",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "212"
         },
         {
           "Vardas, pavardė": "Jūratė Rusteikienė",
@@ -2088,6 +2027,79 @@
           "Tel. numeris": "+37052391117",
           "El. paštas": "[email protected]",
           "Kabinetas": "222"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Turto valdymo skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Agnija Vikšnienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37052391095",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "354"
+        },
+        {
+          "Vardas, pavardė": "Dovilė Gerbutavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37052391053",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "201"
+        },
+        {
+          "Vardas, pavardė": "Ignas Kišvinas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37052391280",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "353"
+        },
+        {
+          "Vardas, pavardė": "Karolis Tvaskus",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+37052391227",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "358"
+        },
+        {
+          "Vardas, pavardė": "Nerijus Gudelis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37052391188",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "338"
+        },
+        {
+          "Vardas, pavardė": "Neringa Gujytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37052391109",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "353"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Viešųjų pirkimų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dalia Sereikaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37052391209",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "339"
+        },
+        {
+          "Vardas, pavardė": "Darius Žuklys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37052391048",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "354"
+        },
+        {
+          "Vardas, pavardė": "Gintautė Samalavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37052391037",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "354"
         }
       ]
     }

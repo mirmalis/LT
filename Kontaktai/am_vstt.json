@@ -37,8 +37,15 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Diana Rakauskaitė",
-          "Pareigos": "Laikinai vykdanti Lankytojų aptarnavimo ir komunikacijos skyriaus vedėjo funkcijas",
+          "Pareigos": "Viešųjų ryšių specialistė",
           "Tel. numeris": "+370 698 35 776",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Eglė Juozėnaitė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 659 78 550",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -52,7 +59,7 @@
         {
           "Vardas, pavardė": "Rasa Strang (Nacionalinio lankytojų centro veiklos ir administravimo klausimai)",
           "Pareigos": "Nacionalinio lankytojų centro edukacinių programų koordinatorė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 665 70 494",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -90,13 +97,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Vilius Lapas (saugomų teritorijų planavimo klausimai)",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 619 68 123",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Vytautas Rukas (saugomų teritorijų planavimo, gamtos paveldo klausimai)",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 659 64 335",
@@ -109,14 +109,7 @@
       "Pavadinimas": "BIOLOGINĖS ĮVAIROVĖS SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Prakapienė (su Kaimo plėtros programa, parama ir privačių valdų deklaravimu susiję klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 659 63 294",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Andrius Mačiulis",
+          "Vardas, pavardė": "Andrius Mačiulis (žemės sklypų išpirkimo klausimai)",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 614 86 639",
           "El. paštas": "[email protected]",
@@ -233,6 +226,13 @@
       "Pavadinimas": "INFORMACIJOS VALDYMO IR DUOMENŲ ANALIZĖS SKYRIUS",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Austėja Jasinskytė (saugomų ir invazinių rūšių informacinių sistemų, BIOMON klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 658 309 23",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Eglė Kamantauskienė (Lietuvos Respublikos saugomų teritorijų valstybės kadastro, saugomų teritorijų erdvinių duomenų klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 615 98 317",
@@ -254,7 +254,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Vita Monkuvienė (skyriaus veiklos organizavimas, Saugomų rūšių informacinės sistemos administravimas, GIS ir duomenų klausimai)",
+          "Vardas, pavardė": "Vita Monkuvienė (veiklos koordinavimas informacinių sistemų, GIS ir duomenų analizės klausimais)",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 690 23 585",
           "El. paštas": "[email protected]",
@@ -273,8 +273,8 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Indrė Petkevičienė (Viešųjų pirkimų ir projektų skyriaus veiklų koordinavimas, projektų dėl saugomų teritorijų planavimo, biologinės įvairovės informacinės platformos sukūrimo veiklų administravimo klausimai)",
-          "Pareigos": "Skyriaus vedėja",
+          "Vardas, pavardė": "Indrė Petkevičienė",
+          "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 665 80 106",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -304,6 +304,13 @@
           "Vardas, pavardė": "Kristina Malevskienė (viešųjų pirkimų klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 88 125",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Miglė Stanikūnė (Viešųjų pirkimų ir projektų skyriaus veiklų koordinavimas, projektų dėl saugomų teritorijų planavimo, biologinės įvairovės informacinės platformos sukūrimo veiklų administravimo klausimai)",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 659 64 278",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

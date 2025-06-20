@@ -5,6 +5,12 @@
 		"Kontaktai": "https://am.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-2/"
 	},
 	{
+		"Id": "lgt",
+		"Pavadinimas": "Lietuvos geologijos tarnyba",
+		"Kontaktai": "https://lgt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/",
+		"Prie": "am"
+	},
+	{
 		"Id": "vda",
 		"Pavadinimas": "Valstybinė duomenų agentūra",
 		"Kontaktai": "https://vda.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/"
@@ -110,12 +116,6 @@
 		"Id": "amvmt",
 		"Pavadinimas": "Valstybinė miškų tarnyba",
 		"Kontaktai": "https://amvmt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/",
-		"Prie": "am"
-	},
-	{
-		"Id": "lgt",
-		"Pavadinimas": "Lietuvos geologijos tarnyba",
-		"Kontaktai": "https://lgt.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai/",
 		"Prie": "am"
 	},
 	{

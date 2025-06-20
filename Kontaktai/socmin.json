@@ -425,6 +425,13 @@
           "Kabinetas": "A. Vivulskio g. 11, 230, 231, 232, 238 kab."
         },
         {
+          "Vardas, pavardė": "Jurgita Paulauskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 659 85449",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 230, 231, 232, 238 kab."
+        },
+        {
           "Vardas, pavardė": "Marius Mulma",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+370 696 12044",
@@ -552,8 +559,15 @@
           "Kabinetas": "A. Vivulskio g. 11, 107 kab."
         },
         {
+          "Vardas, pavardė": "Justina Ščerbaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 658 81417",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 107 kab."
+        },
+        {
           "Vardas, pavardė": "Raminta Zakarevičiūtė-Šiugždinienė",
-          "Pareigos": "Vyresnioji patarėja, laikinai atliekanti skyriaus vedėjo funkcijas",
+          "Pareigos": "Vedėja",
           "Tel. numeris": "+370 658 60994",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 107 kab."
@@ -767,6 +781,13 @@
     {
       "Pavadinimas": "Finansų valdymo ir ekonomikos skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dalė Kubiliūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 637 64273",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 207 kab."
+        },
         {
           "Vardas, pavardė": "Justina Kuodytė",
           "Pareigos": "Vyriausioji specialistė",
@@ -1011,13 +1032,6 @@
           "Vardas, pavardė": "Arūnas Staknys",
           "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+370 659 24780",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 212 kab."
-        },
-        {
-          "Vardas, pavardė": "Marius Sukarevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 691 00763",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 212 kab."
         },
@@ -1920,13 +1934,6 @@
     {
       "Pavadinimas": "Nevyriausybinių organizacijų plėtros grupė",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Akvilė Žaromskytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 638 41580",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 308 kab."
-        },
         {
           "Vardas, pavardė": "Aurelija Olendraitė",
           "Pareigos": "Grupės vadovė",

@@ -71,7 +71,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Milda Numgaudienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Vedėja",
           "Tel. numeris": "+37060247482",
           "El. paštas": "[email protected]"
         },
@@ -87,15 +87,21 @@
       "Pavadinimas": "Specialieji atašė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Beata Viršumirska",
+          "Pareigos": "Energetikos atašė Lietuvos Respublikos ambasadoje Lenkijos Respublikoje",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Gabija Talačkaitė-Radzvilavičienė",
           "Pareigos": "Energetikos atašė pavaduotoja Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
           "Tel. numeris": "+32 491 923 289",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Justina Ratkevičiūtė",
+          "Vardas, pavardė": "Jurgita Jakevičiūtė",
           "Pareigos": "Energetikos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
-          "Tel. numeris": "+32 477 562142",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -539,9 +545,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jurgita Jakevičiūtė",
-          "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+37060216183",
+          "Vardas, pavardė": "Justina Ratkevičiūtė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+37064684990",
           "El. paštas": "[email protected]"
         },
         {
@@ -591,6 +597,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Dovilė Stoškuvienė",
+          "Pareigos": "Vyriausioji specialistė (viešųjų pirkimų koordinavimo klausimais)",
+          "Tel. numeris": "+37065641152",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Egidija Laurišaitė",
           "Pareigos": "Vyriausioji specialistė (BDAR pareigūnas)",
           "Tel. numeris": "+37066834290",
@@ -600,6 +612,12 @@
           "Vardas, pavardė": "Gintarė Vilūnė",
           "Pareigos": "Patarėja (atstovavimo teismuose ir teisėkūros klausimais)",
           "Tel. numeris": "+37060247315",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Greta Lapinskienė",
+          "Pareigos": "Patarėja (atstovavimo teismuose ir teisėkūros klausimais)",
+          "Tel. numeris": "+37067494790",
           "El. paštas": "[email protected]"
         },
         {

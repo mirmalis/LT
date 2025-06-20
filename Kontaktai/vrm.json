@@ -103,7 +103,7 @@
           "Tel. numeris": "+370 675 69375",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "327"
+          "Kabinetas": "341"
         }
       ]
     },
@@ -427,6 +427,14 @@
           "Kabinetas": "341"
         },
         {
+          "Vardas, pavardė": "Edita Radvanskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 2717187",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "327"
+        },
+        {
           "Vardas, pavardė": "Erlandas Balčiūnas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 5 2718887",
@@ -440,7 +448,7 @@
           "Tel. numeris": "+370 5 2718369",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "341"
+          "Kabinetas": "327"
         },
         {
           "Vardas, pavardė": "Laima Petrauskienė",
@@ -449,14 +457,6 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "331"
-        },
-        {
-          "Vardas, pavardė": "Mantas Žukauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 5 2717187",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "327"
         },
         {
           "Vardas, pavardė": "Paulius Skardžius",
@@ -507,6 +507,14 @@
           "Vardas, pavardė": "Indrė Gustaitienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2718325",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "314"
+        },
+        {
+          "Vardas, pavardė": "Inga Sirutavičė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 5 2718468",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "314"
@@ -627,7 +635,7 @@
         },
         {
           "Vardas, pavardė": "Vilma Verkauskienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2718535",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -889,14 +897,6 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "119"
-        },
-        {
-          "Vardas, pavardė": "Vyta Gliebuvienė",
-          "Pareigos": "Specialistė",
-          "Tel. numeris": "+370 5 2718918",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "130"
         }
       ]
     },
@@ -1219,7 +1219,7 @@
         {
           "Vardas, pavardė": "Laura Stadalienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 2718226",
+          "Tel. numeris": "+370 666 52713",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "449"
@@ -1280,7 +1280,7 @@
         {
           "Vardas, pavardė": "Indrė Barčienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 2718453",
+          "Tel. numeris": "+370 666 52 672",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "449"
@@ -1320,8 +1320,8 @@
         {
           "Vardas, pavardė": "Virginija Lauruvėnė",
           "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 5 2718625",
-          "Mobilus tel. nr.": "+370 601 24092",
+          "Tel. numeris": "+370 601 24092",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "447"
         }
@@ -1528,6 +1528,14 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "307A"
+        },
+        {
+          "Vardas, pavardė": "Marius Sargevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "316"
         },
         {
           "Vardas, pavardė": "Vidmantas Mečkauskas",
