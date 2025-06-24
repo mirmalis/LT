@@ -718,6 +718,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Paulius Vanagas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 5 260 4890",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Rūta Bartulė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1407",
@@ -804,12 +810,6 @@
     {
       "Pavadinimas": "Investicijų įgyvendinimo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alina Lupeikienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 266 1411",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Asta Leonienė",
           "Pareigos": "Patarėja",
