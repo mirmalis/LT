@@ -183,7 +183,7 @@
       ]
     },
     {
-      "Pavadinimas": "Veiklos planavimo ir komunikacijos skyrius",
+      "Pavadinimas": "Veiklos planavimo ir kompetencijų skyrius",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aidas Valys",
@@ -808,7 +808,7 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+ 370 659 62735 (skambinti 13:00-15:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (304 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
         {
           "Vardas, pavardė": "Gediminas Puškorius",
@@ -864,7 +864,7 @@
           "Pareigos": "L. e. patarėjo pareigas",
           "Tel. numeris": "+370 612 41315",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (303 kab.)",
-          "Atsakingas už": ""
+          "Atsakingas už": "statybos leidimų tikrinimas ir išdavimas"
         }
       ]
     },
@@ -887,10 +887,10 @@
         },
         {
           "Vardas, pavardė": "Tomas Beržinis",
-          "Pareigos": "Specialistas",
+          "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060670278 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (310 kab.)",
-          "Atsakingas už": "statybos valstybinės priežiūros pareigūnų asistentas"
+          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         }
       ]
     },
@@ -938,13 +938,6 @@
           "Tel. numeris": "+370 613 91686 (skambinti 13:00-15:00)",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (310 kab.)",
           "Atsakingas už": "skyriaus darbo veiklos organizavimas"
-        },
-        {
-          "Vardas, pavardė": "Jelena Gordej",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 691 10007 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (305 kab.)",
-          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         },
         {
           "Vardas, pavardė": "Jolanta Grikepelienė",
@@ -1477,6 +1470,13 @@
           "Atsakingas už": ""
         },
         {
+          "Vardas, pavardė": "Liuda Starenkaja",
+          "Pareigos": "Specialistė",
+          "Tel. numeris": "+370 689 99802",
+          "Kabinetas": "Vilniaus g. 263, Šiauliai (314 kab.)",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Rimantas Gaigalas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 671 33241",
@@ -1590,6 +1590,13 @@
           "Tel. numeris": "+370 611 38295 (skambinti 9:00 – 12:00)",
           "Kabinetas": "L. Sapiegos g. 12,  Kaunas (408 kab.)",
           "Atsakingas už": "skundų nagrinėjimas"
+        },
+        {
+          "Vardas, pavardė": "Virginija Narbutienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 689 99801",
+          "Kabinetas": "Vasario 16-osios g. 6, Tauragė (207 kab.)",
+          "Atsakingas už": ""
         }
       ]
     },

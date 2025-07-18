@@ -57,7 +57,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Rasa Strang (Nacionalinio lankytojų centro veiklos ir administravimo klausimai)",
+          "Vardas, pavardė": "Rūta Česnulevičiūtė (Nacionalinio lankytojų centro veiklos ir administravimo klausimai)",
           "Pareigos": "Nacionalinio lankytojų centro edukacinių programų koordinatorė",
           "Tel. numeris": "+370 665 70 494",
           "El. paštas": "[email protected]",
@@ -116,13 +116,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Aušra Kamarauskaitė (buveinių apsaugai svarbių teritorijų apsaugos tikslų nustatymo, saugomų teritorijų ir „Natura 2000“ teritorijų atrankos, steigimo, planavimo dokumentų derinimo klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 671 23 852",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Dagmara Žebrauskienė (invazinių rūšių klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 64 332",
@@ -151,23 +144,9 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Jonas Pašukonis (planuojamos ūkinės veiklos poveikio biologinei įvairovei vertinimo, strateginio pasekmių biologinei įvairovei vertinimo, poveikio „Natura 2000\" teritorijoms reikšmingumo vertinimo, biologinės įvairovės apsaugos reglamentavimo klausimai)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 659 63 299",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Kęstutis Katilius (buveinių apsaugai svarbių teritorijų apsaugos tikslų nustatymo, EB svarbos buveinių ir augalų rūšių monitoringo metodiniai klausimai)",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 659 47 298",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Janušonis",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 667 46 594",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -200,13 +179,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Šarūnė Šmatavičiūtė (planuojamos ūkinės veiklos poveikio biologinei įvairovei vertinimo, strateginio pasekmių biologinei įvairovei vertinimo, poveikio „Natura 2000\" teritorijoms reikšmingumo vertinimo klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 645 04 206",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Ugnė Griežė (su specialiomis žemės naudojimo sąlygomis, natūralių pievų ir ganyklų, pelkių ir šaltinynų teritorijomis susiję klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 64 329",
@@ -217,6 +189,46 @@
           "Vardas, pavardė": "Žygimantas Obelevičius (Buveinių direktyvos ir Paukščių direktyvos ataskaitų EK rengimo, ES bioįvairovės strategijos nacionalinių įsipareigojimų klausimai)",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 659 47 337",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "POVEIKIO APLINKAI VERTINIMO SKYRIUS",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aušra Kamarauskaitė (buveinių apsaugai svarbių teritorijų apsaugos tikslų nustatymo, saugomų teritorijų ir „Natura 2000“ teritorijų atrankos, steigimo, planavimo dokumentų derinimo klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 671 23 852",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jonas Pašukonis (planuojamos ūkinės veiklos poveikio biologinei įvairovei vertinimo, strateginio pasekmių biologinei įvairovei vertinimo, poveikio „Natura 2000\" teritorijoms reikšmingumo vertinimo, biologinės įvairovės apsaugos reglamentavimo klausimai)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 659 63 299",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Janušonis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 667 46 594",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Šarūnė Šmatavičiūtė (planuojamos ūkinės veiklos poveikio biologinei įvairovei vertinimo, strateginio pasekmių biologinei įvairovei vertinimo, poveikio „Natura 2000\" teritorijoms reikšmingumo vertinimo klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 645 04 206",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Žydrė Stirbienė",
+          "Pareigos": "Teisės ir žmogiškųjų išteklių valdymo skyriaus vedėja, vykdanti Poveikio aplinkai vertinimo skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+370 614 59 047",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -427,6 +439,13 @@
     {
       "Pavadinimas": "LIFE PROJEKTAS „NATURA 2000 TINKLO VALDYMO OPTIMIZAVIMAS LIETUVOJE” NR. LIFE 16 IPE/LT/016",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Birutė Valatkienė",
+          "Pareigos": "Gamtosaugos ekspertė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Dalia Čebatariūnaitė",
           "Pareigos": "Projekto administratorė",

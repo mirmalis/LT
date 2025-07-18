@@ -18,10 +18,10 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Albertas Kasperavičius",
-          "Pareigos": "Direktoriaus pavaduotojas,  vykdantis direktoriaus funkcijas",
+          "Pareigos": "Direktoriaus pavaduotojas",
           "Tel. numeris": "+370 687 72 931",
           "El. paštas": "[email protected]",
-          "Atsakingas už": ""
+          "Atsakingas už": "MKT, STA, NMI skyrių kuravimas"
         },
         {
           "Vardas, pavardė": "Jolanta Volteraitytė",
@@ -45,11 +45,25 @@
           "Atsakingas už": ""
         },
         {
+          "Vardas, pavardė": "Mindaugas Tarnauskas",
+          "Pareigos": "Direktorius",
+          "Tel. numeris": "+370 693 59 520",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Ričardas Beniušis",
           "Pareigos": "Vyriausiasis patarėjas",
           "Tel. numeris": "+370 614 24 660",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Miškotvarkos ir miškininkystės klausimų kuravimas"
+        },
+        {
+          "Vardas, pavardė": "Rimantas Šerkšnas",
+          "Pareigos": "Projektų vadovas",
+          "Tel. numeris": "+370 601 10 803",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Ūdrys Staselka",
@@ -149,13 +163,6 @@
           "Vardas, pavardė": "Algimantas Gregeris",
           "Pareigos": "Miškotvarkos inžinierius",
           "Tel. numeris": "+370 693 45 191",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "NMI lauko matavimų grupės veikla"
-        },
-        {
-          "Vardas, pavardė": "Audrius Šmaižys",
-          "Pareigos": "Miškotvarkos inžinierius",
-          "Tel. numeris": "+370 683 10 374",
           "El. paštas": "[email protected]",
           "Atsakingas už": "NMI lauko matavimų grupės veikla"
         },
@@ -418,6 +425,13 @@
           "Tel. numeris": "+370 686 91 346",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Valstybinės miškų apskaitos vykdymas, nepriklausomų medienos matuotojų atestavimas, statistinių duomenų apie miškus rengimas"
+        },
+        {
+          "Vardas, pavardė": "Vilija Gurskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 675 04 753",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Vidinės miškotvarkos projektų tvirtinimas"
         }
       ]
     },

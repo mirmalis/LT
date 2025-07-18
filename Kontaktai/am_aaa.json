@@ -85,7 +85,7 @@
           "Kabinetas": "506C kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
-          "Vardas, pavardė": "Raimonda Staškienė",
+          "Vardas, pavardė": "Raimonda Rinkevičė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 697 66487",
           "El. paštas": "[email protected]",
@@ -384,7 +384,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Daina Mekienė (verslinė žvejyba vidaus vandenyse; vandens telkinių nuoma)",
-          "Pareigos": "Skyriaus vedėja",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 614 80675",
           "El. paštas": "[email protected]",
           "Kabinetas": "207 kab. Metalo g. 11, LT-28217 Utena"
@@ -411,7 +411,7 @@
           "Kabinetas": "914 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
-          "Vardas, pavardė": "Jurgita Ivanovienė (Specialioji žvejyba; ne mėgėjų žvejybos įrankių įsigijimas/prekyba; medžiojamųjų gyvūnų papildomas limitas)",
+          "Vardas, pavardė": "Jurgita Ivanovienė (Specialioji žvejyba; ne mėgėjų žvejybos įrankių įsigijimas/prekyba)",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 669 48395",
           "El. paštas": "[email protected]",
@@ -970,13 +970,6 @@
           "Kabinetas": "214 kab. Kauno g. 69, LT-62107 Alytus"
         },
         {
-          "Vardas, pavardė": "Justina Jarmakaitė-Tulauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 611 79481",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Laima Prudnikovienė (PAV. Statinio projekto sprendiniai. Teritorijų planavimas. Strateginis pasekmių aplinkai vertinimas. Poveikio aplinkai monitoringas)",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 665 55456",
@@ -1017,6 +1010,13 @@
           "Tel. numeris": "+370 620 85561",
           "El. paštas": "[email protected]",
           "Kabinetas": "209 kab. Taikos pr. 26, LT-91222 Klaipėda"
+        },
+        {
+          "Vardas, pavardė": "Vesta Čiteikytė (PAV. Statinio projekto sprendiniai. Strateginis pasekmių aplinkai vertinimas. Poveikio aplinkai monitoringas)",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 618 22036",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta, Tauragė"
         },
         {
           "Vardas, pavardė": "Vilma Lilienė",
@@ -1337,7 +1337,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Agnė Abramavičiūtė-Gecevičienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 632 68529",
           "El. paštas": "[email protected]",
           "Kabinetas": "305 kab. A. Goštauto g. 9, LT-01108 Vilnius"
@@ -1357,20 +1357,6 @@
           "Kabinetas": "303 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
         {
-          "Vardas, pavardė": "Goda Stirbytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 632 10370",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Goštauto g. 9, LT-01108 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Inga Stankevičienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 618 78574",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "311 kab. A. Goštauto g. 9, LT-01108 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Lukas Tamašauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 601 21826",
@@ -1381,13 +1367,6 @@
           "Vardas, pavardė": "Paulina Pažerauskaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37063206957",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "311 kab. A. Goštauto g. 9, LT-01108 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Tadas Šupinis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 60122907",
           "El. paštas": "[email protected]",
           "Kabinetas": "311 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },

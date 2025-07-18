@@ -61,8 +61,16 @@
           "Kabinetas": "222"
         },
         {
+          "Vardas, pavardė": "Rytis Gasparavičius",
+          "Pareigos": "Ministerijos vyriausiasis patarėjas",
+          "Tel. numeris": "+370 5 2717211",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "221"
+        },
+        {
           "Vardas, pavardė": "Rolandas Šlepetys",
-          "Pareigos": "Ministerijos vyriausiasis patarėjas (parengties pareigūnas)",
+          "Pareigos": "Ministerijos vyriausiasis patarėjas",
           "Tel. numeris": "+370 5 2717209",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -1296,7 +1304,7 @@
         {
           "Vardas, pavardė": "Leokadija Zuzo",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 2718563",
+          "Tel. numeris": "+370 666 52671",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "451"
@@ -1335,6 +1343,14 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2718732",
           "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "439"
+        },
+        {
+          "Vardas, pavardė": "Austėja Pilkaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 2718418",
+          "Mobilus tel. nr.": "+370 645 54009",
           "El. paštas": "[email protected]",
           "Kabinetas": "439"
         },
@@ -1389,7 +1405,7 @@
         {
           "Vardas, pavardė": "Vaida Bičiūnienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5271 8529",
+          "Tel. numeris": "+370 5 2718529",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "428"
@@ -1631,14 +1647,6 @@
           "Vardas, pavardė": "Nomeda Poteliūnienė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 5 2717215",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "207"
-        },
-        {
-          "Vardas, pavardė": "Sonata Griežė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 2717189",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "207"

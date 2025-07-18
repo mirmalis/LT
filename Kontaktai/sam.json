@@ -23,12 +23,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Indrė Dujauskienė",
-          "Pareigos": "Vyriausioji specialistė (referentė)",
-          "Tel. numeris": "+370 5 266 1499",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Irmina Frolova-Milašienė",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 5 219 3309",
@@ -374,7 +368,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Artūras Šimkus",
-          "Pareigos": "Patarėjas, laikinai vykdantis skyriaus vedėjo funkcijas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 5 205 3625",
           "El. paštas": "[email protected]"
         },
@@ -388,6 +382,12 @@
           "Vardas, pavardė": "Greta Zambžickaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1440",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Indrė Dujauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 205 3621",
           "El. paštas": "[email protected]"
         },
         {
@@ -607,12 +607,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Miglė Domeikienė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 5 264 8755",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Nemira Liaugaudaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 219 3311",
@@ -656,12 +650,6 @@
           "Vardas, pavardė": "Audrius Rukanskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 5 235 1648",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Aušra Sadauskienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 205 5284",
           "El. paštas": "[email protected]"
         },
         {
@@ -970,6 +958,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Aušra Sadauskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 205 5284",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Diana Smaliukaitė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 5 219 3314",
@@ -1140,6 +1134,12 @@
       "Pavadinimas": "Tarptautinio bendradarbiavimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Gintvilė Bagdonavičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 210 9664",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Jonas Paulius Mackevičius",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 5 210 9660",
@@ -1153,7 +1153,7 @@
         },
         {
           "Vardas, pavardė": "Jurgita Kinderienė",
-          "Pareigos": "Patarėja, laikinai vykdanti skyriaus vedėjo funkcijas",
+          "Pareigos": "Vedėja",
           "Tel. numeris": "+370 5 205 3627",
           "El. paštas": "[email protected]"
         },
@@ -1178,6 +1178,12 @@
           "Vardas, pavardė": "Donatas Keršis",
           "Pareigos": "Vedėjas",
           "Tel. numeris": "+370 5 205 5290",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Evelina Adaškevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 210 9663",
           "El. paštas": "[email protected]"
         },
         {
@@ -1296,12 +1302,6 @@
           "Vardas, pavardė": "Gintautas Juodis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 5 219 3318",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Indrė Dujauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 266 1499",
           "El. paštas": "[email protected]"
         },
         {

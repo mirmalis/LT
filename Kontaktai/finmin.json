@@ -141,13 +141,6 @@
           "Kabinetas": "413"
         },
         {
-          "Vardas, pavardė": "Jurga Žilikienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37069031950",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "412"
-        },
-        {
           "Vardas, pavardė": "Lilija Suchocka",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37069032048",
@@ -207,11 +200,18 @@
           "Kabinetas": "423"
         },
         {
-          "Vardas, pavardė": "Ieva Kanovalovaitė",
+          "Vardas, pavardė": "Dalia Laniauskaitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069032134",
+          "Tel. numeris": "+37063523149",
           "El. paštas": "[email protected]",
           "Kabinetas": "423"
+        },
+        {
+          "Vardas, pavardė": "Jurga Žilikienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+37069031950",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "412"
         },
         {
           "Vardas, pavardė": "Ramutė Petrošė",
@@ -219,20 +219,6 @@
           "Tel. numeris": "+37069032087",
           "El. paštas": "[email protected]",
           "Kabinetas": "410"
-        },
-        {
-          "Vardas, pavardė": "Vaida Jurgelevičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069032050",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "423"
-        },
-        {
-          "Vardas, pavardė": "Vida Žagūnienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37065886781",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "424"
         }
       ]
     },
@@ -294,13 +280,6 @@
       "Pavadinimas": "Valstybės valdymo ir apsaugos sektorių skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Akvilina Bružienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37069032165",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "411"
-        },
-        {
           "Vardas, pavardė": "Andrius Jautakis",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+37069031996",
@@ -334,13 +313,6 @@
           "Tel. numeris": "+37069031976",
           "El. paštas": "[email protected]",
           "Kabinetas": "414"
-        },
-        {
-          "Vardas, pavardė": "Rūta Miškinienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069031943",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "411"
         }
       ]
     },
@@ -1215,7 +1187,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Kristina Ambrozaitytė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37064549537",
           "El. paštas": "[email protected]",
           "Kabinetas": "127"
@@ -1274,7 +1246,7 @@
         },
         {
           "Vardas, pavardė": "Ramūnas Daukša",
-          "Pareigos": "Informacinių technologijų sistemų administratorius",
+          "Pareigos": "Skyriaus vadovas",
           "Tel. numeris": "+37066036871",
           "El. paštas": "[email protected]",
           "Kabinetas": "135"
@@ -1548,13 +1520,6 @@
           "Tel. numeris": "+37069031985",
           "El. paštas": "[email protected]",
           "Kabinetas": "504"
-        },
-        {
-          "Vardas, pavardė": "Rūta Pileckienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37065878045",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "503"
         }
       ]
     },
@@ -2265,6 +2230,13 @@
           "Vardas, pavardė": "Agnė Pakšytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37064417300",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "431"
+        },
+        {
+          "Vardas, pavardė": "Arminas Stočkus",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37065878045",
           "El. paštas": "[email protected]",
           "Kabinetas": "431"
         },
