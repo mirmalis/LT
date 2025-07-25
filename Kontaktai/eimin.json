@@ -164,12 +164,6 @@
       "Pavadinimas": "Dokumentų valdymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Giedrė Persijanovė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37062664026",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Laura Voverienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37061551143",
@@ -1023,35 +1017,6 @@
       ]
     },
     {
-      "Pavadinimas": "Viešųjų pirkimų politikos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Dovilė Šacikauskė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37065284691",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jovita Lonienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37066998612",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jurgita Klusevičiūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37069149446",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rima Ambrazevičienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37065023183",
-          "El. paštas": "[email protected]"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Skaitmeninių iniciatyvų grupė",
       "Darbuotojai": [
         {
@@ -1088,6 +1053,35 @@
           "Vardas, pavardė": "Virginija Baniūnienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37067918728",
+          "El. paštas": "[email protected]"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Viešųjų pirkimų politikos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dovilė Šacikauskė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+37065284691",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jovita Lonienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37066998612",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Klusevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37069149446",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rima Ambrazevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37065023183",
           "El. paštas": "[email protected]"
         }
       ]
@@ -1210,6 +1204,12 @@
           "Vardas, pavardė": "Inga Buzienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37065957297",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Laura Žukauskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37065199813",
           "El. paštas": "[email protected]"
         },
         {

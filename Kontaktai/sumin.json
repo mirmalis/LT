@@ -557,12 +557,6 @@
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 631 93996",
           "Kabinetas": "119"
-        },
-        {
-          "Vardas, pavardė": "Vytautas Leškevičius",
-          "Pareigos": "Vyriausiasis patarėjas",
-          "Tel. numeris": "+370 660 31982",
-          "Kabinetas": "314"
         }
       ]
     },
@@ -749,12 +743,6 @@
           "Kabinetas": "220"
         },
         {
-          "Vardas, pavardė": "Jurgita Rimkuvienė",
-          "Pareigos": "Vyriausioji patarėja",
-          "Tel. numeris": "+370 611 20324",
-          "Kabinetas": "114"
-        },
-        {
           "Vardas, pavardė": "Laurynas Buzys",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 635 54208",
@@ -912,7 +900,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Danutė Čepienė",
-          "Pareigos": "L. e. skyriaus vedėjo pareigas",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 613 10279",
           "Kabinetas": "402"
         },
@@ -927,6 +915,12 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 601 93603",
           "Kabinetas": "417"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Rimkuvienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 611 20324",
+          "Kabinetas": "405"
         },
         {
           "Vardas, pavardė": "Rasa Tomonienė",

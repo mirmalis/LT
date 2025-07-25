@@ -193,6 +193,20 @@
           "Atsakingas už": ""
         },
         {
+          "Vardas, pavardė": "Anastasija Moisejenkova",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+ 370 659 62735",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (304 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Audrius Kalesnikas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 606 70256",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (302 kab.)",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Edvinas Mencleris",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 689 99819",
@@ -803,13 +817,6 @@
     {
       "Pavadinimas": "Pirmasis statybos priežiūros skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Anastasija Moisejenkova",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+ 370 659 62735 (skambinti 13:00-15:00)",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (304 kab.)",
-          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
-        },
         {
           "Vardas, pavardė": "Gediminas Puškorius",
           "Pareigos": "Vyriausiasis specialistas",
@@ -1707,7 +1714,7 @@
         {
           "Vardas, pavardė": "Audrius Kalesnikas",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37060670256",
+          "Tel. numeris": "+370 606 70256",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius   (302 kab.)",
           "Atsakingas už": ""
         },

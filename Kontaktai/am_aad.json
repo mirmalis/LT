@@ -38,11 +38,11 @@
       "Pavadinimas": "Komunikacijos departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Laima Grižaitė (atostogos liepos 7–18 d.)",
+          "Vardas, pavardė": "Laima Grižaitė",
           "Pareigos": "Departamento direktorė (l. e. p.)",
           "Tel. numeris": "+370 630 50112",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15 (209 kab.), 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15 (306 kab.), 03201 Vilnius"
         }
       ]
     },
@@ -57,7 +57,7 @@
           "Kabinetas": "Smolensko g. 15 (203 kab.), 03201 Vilnius"
         },
         {
-          "Vardas, pavardė": "Laima Grižaitė (atostogos liepos 7–18 d.)",
+          "Vardas, pavardė": "Laima Grižaitė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 630 50112",
           "El. paštas": "[email protected]",
@@ -101,7 +101,7 @@
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "–",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15 (306 kab.), 03201 Vilnius"
         },
         {
           "Vardas, pavardė": "Edita Markevičienė",
@@ -148,7 +148,7 @@
           "Pareigos": "Skyriaus vedėja (l. e. p.)",
           "Tel. numeris": "-",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15  (202 kab.), 03201 Vilnius"
+          "Kabinetas": "Smolensko g. 15 (306 kab.), 03201 Vilnius"
         },
         {
           "Vardas, pavardė": "Meda Bagdonaitė",
@@ -2099,13 +2099,6 @@
           "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
         },
         {
-          "Vardas, pavardė": "Jurij Albu",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 661 69497",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, 03123 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Raimondas Merčaitis",
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+370 609 64670",
@@ -2526,7 +2519,7 @@
       "Pavadinimas": "APVA projektas „Informavimas apie aplinkos taršos prevenciją ir kontrolę“",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Laima Grižaitė (atostogos liepos 7–18 d.)",
+          "Vardas, pavardė": "Laima Grižaitė",
           "Pareigos": "Komunikacijos ekspertas turinio rengimui",
           "Tel. numeris": "+370 630 50112",
           "El. paštas": "[email protected]",
