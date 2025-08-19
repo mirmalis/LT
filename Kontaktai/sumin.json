@@ -24,7 +24,7 @@
         },
         {
           "Vardas, pavardė": "Eugenijus Sabutis",
-          "Pareigos": "Susisiekimo ministras",
+          "Pareigos": "Laikinai einantis susisiekimo ministro pareigas",
           "Tel. numeris": "+370 673 18625",
           "Kabinetas": "201"
         },
@@ -230,7 +230,7 @@
         },
         {
           "Vardas, pavardė": "Ramunė Mikalauskienė",
-          "Pareigos": "Grupės vadovas",
+          "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+370 690 48967",
           "Kabinetas": "212"
         }
@@ -439,7 +439,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Jurgita Norkienė",
-          "Pareigos": "Vyriausiasis patarėjas",
+          "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "+370  607 97788",
           "Kabinetas": "132"
         },
@@ -502,19 +502,19 @@
         },
         {
           "Vardas, pavardė": "Asta Nakaitė",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 660 31983",
           "Kabinetas": "307"
         },
         {
           "Vardas, pavardė": "Jurgita Barysienė",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 641 67660",
           "Kabinetas": "307"
         },
         {
           "Vardas, pavardė": "Jurgita Jakavičiūtė",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 674 94897",
           "Kabinetas": "311"
         }
@@ -530,14 +530,8 @@
           "Kabinetas": "308"
         },
         {
-          "Vardas, pavardė": "Justyna Franckevič (Vandens kelių plėtra)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 18148",
-          "Kabinetas": "312"
-        },
-        {
           "Vardas, pavardė": "Teresa Gudauskienė (Aviacijos plėtra)",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 638 67478",
           "Kabinetas": "308"
         }
@@ -565,13 +559,13 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Gražina Šiaučiūnaitė",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 658 73360",
           "Kabinetas": "302"
         },
         {
           "Vardas, pavardė": "Ina Irens",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 694 79817",
           "Kabinetas": "317"
         }
@@ -756,7 +750,7 @@
         },
         {
           "Vardas, pavardė": "Vaida Kazlauskienė",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 660 75278",
           "Kabinetas": "238"
         },
@@ -859,7 +853,7 @@
         },
         {
           "Vardas, pavardė": "Giedrė Kizevičienė",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 660 81342",
           "Kabinetas": "413"
         },
@@ -965,7 +959,7 @@
         },
         {
           "Vardas, pavardė": "Joana Narkevičienė",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 660 31990",
           "Kabinetas": "409"
         },
@@ -1006,7 +1000,7 @@
         },
         {
           "Vardas, pavardė": "Indrė Bernotaitė",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 690 71347",
           "Kabinetas": "124"
         },
@@ -1018,15 +1012,9 @@
         },
         {
           "Vardas, pavardė": "Jovita Razgutė",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 660 31977",
           "Kabinetas": "124"
-        },
-        {
-          "Vardas, pavardė": "Rasa Sirutavičienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 644 57150",
-          "Kabinetas": "251"
         },
         {
           "Vardas, pavardė": "Ričardas Rutkauskas",
@@ -1036,7 +1024,7 @@
         },
         {
           "Vardas, pavardė": "Roma Andruškevičienė",
-          "Pareigos": "Grupės vadovas",
+          "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+370 620 17580",
           "Kabinetas": "243"
         }

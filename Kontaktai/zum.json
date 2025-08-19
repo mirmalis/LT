@@ -34,7 +34,7 @@
         },
         {
           "Vardas, pavardė": "Ignas Hofmanas",
-          "Pareigos": "Ministras",
+          "Pareigos": "Laikinai einantis ministro pareigas",
           "Tel. numeris": "+37052391 000",
           "El. paštas": "[email protected]",
           "Kabinetas": "277"
@@ -75,18 +75,6 @@
       ]
     },
     {
-      "Pavadinimas": "Ministerijos patarėjai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Vaida Šopytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37052391 045",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "283"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Ministerijos vyriausieji patarėjai",
       "Darbuotojai": [
         {
@@ -99,26 +87,31 @@
       ]
     },
     {
+      "Pavadinimas": "Ministerijos patarėjai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Vaida Šopytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37052391 045",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "283"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Specialieji atašė",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Darius Remeika",
           "Pareigos": "Veterinarijos ir fitosanitarijos atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "+32 240 19810",
-          "El. paštas": "[email protected]",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Deividas Kliučinskas",
           "Pareigos": "LR žemės ūkio atašė LR ambasadoje JK",
           "Tel. numeris": "+44 7551 989527",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Eglė Poviliūnė",
-          "Pareigos": "Žuvininkystės atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "+3224019817",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -137,6 +130,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Ieva Žundienė",
+          "Pareigos": "Žuvininkystės atašė Lietuvos nuolatinėje atstovybėje ES",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Karolis Anužis",
           "Pareigos": "Kaimo plėtros atašė Lietuvos nuolatinėje atstovybėje ES",
           "Tel. numeris": "+3224019804",
@@ -146,8 +146,8 @@
         {
           "Vardas, pavardė": "Kristina Mineikienė",
           "Pareigos": "LR žemės ūkio atašė LR diplomatinėje atstovybėje Japonijoje",
-          "Tel. numeris": "+81334085091",
-          "El. paštas": "[email protected]",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": ""
         },
         {
@@ -162,6 +162,13 @@
           "Pareigos": "LR žemės ūkio atašė LR ambasadoje Italijos Respublikoje",
           "Tel. numeris": "+39 06 8776 1970\nmob. +39 335 1933343",
           "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Palionis",
+          "Pareigos": "Lietuvos Respublikos žemės ūkio atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": ""
         },
         {
@@ -614,6 +621,13 @@
           "Tel. numeris": "+37069765767",
           "El. paštas": "[email protected]",
           "Kabinetas": "252"
+        },
+        {
+          "Vardas, pavardė": "Inga Puzienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+3705 239 1357",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "247"
         }
       ]
     },
@@ -687,13 +701,6 @@
           "Tel. numeris": "+370 687 60292",
           "El. paštas": "[email protected]",
           "Kabinetas": "248"
-        },
-        {
-          "Vardas, pavardė": "Inga Puzienė",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+3705 239 1357",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "247"
         },
         {
           "Vardas, pavardė": "Palmira Petniūnienė",
@@ -1020,7 +1027,7 @@
         {
           "Vardas, pavardė": "Marius Masiulis",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37052391 254",
+          "Tel. numeris": "+37052391 268",
           "El. paštas": "[email protected]",
           "Kabinetas": "351"
         },
@@ -1144,25 +1151,6 @@
       ]
     },
     {
-      "Pavadinimas": "Žuvininkystės departamentas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Ieva Žundienė",
-          "Pareigos": "Departamento direktorius",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "425"
-        },
-        {
-          "Vardas, pavardė": "Tomas Keršys",
-          "Pareigos": "Departamento direktorius",
-          "Tel. numeris": "+37052391180",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "424"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Europos Sąjungos paramos žuvininkystei skyrius",
       "Darbuotojai": [
         {
@@ -1188,8 +1176,8 @@
         },
         {
           "Vardas, pavardė": "Joana Žemaitienė",
-          "Pareigos": "Skyriaus vedėjas (ŽF 2014-2020)",
-          "Tel. numeris": "+37052398426",
+          "Pareigos": "Patarėja (ŽF 2014-2020)",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "427"
         },
@@ -1206,6 +1194,13 @@
           "Tel. numeris": "+37052398410",
           "El. paštas": "[email protected]",
           "Kabinetas": "430"
+        },
+        {
+          "Vardas, pavardė": "Tomas Keršys",
+          "Pareigos": "Skyriaus vedėjas (ŽF 2014-2020)",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "424"
         }
       ]
     },
@@ -1417,13 +1412,6 @@
           "Tel. numeris": "+37052391 192",
           "El. paštas": "[email protected]",
           "Kabinetas": "224"
-        },
-        {
-          "Vardas, pavardė": "Stanislovas Gaidys",
-          "Pareigos": "Specialistas",
-          "Tel. numeris": "+37052391226",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "205"
         },
         {
           "Vardas, pavardė": "Vytautas Matulaitis",
@@ -1656,13 +1644,6 @@
           "Kabinetas": "263"
         },
         {
-          "Vardas, pavardė": "Mindaugas Palionis",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+37052391026",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "260"
-        },
-        {
           "Vardas, pavardė": "Savelijus Julius Zimanas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37052391393",
@@ -1763,9 +1744,9 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Danguolė Starkuvienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391018",
-          "El. paštas": "[email protected]",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": "166"
         },
         {
@@ -1809,13 +1790,6 @@
           "Tel. numeris": "+37052391 021",
           "El. paštas": "[email protected]",
           "Kabinetas": "274"
-        },
-        {
-          "Vardas, pavardė": "Nijolė Gumbrienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37052391014",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "162"
         }
       ]
     },
@@ -2048,13 +2022,6 @@
           "Kabinetas": "353"
         },
         {
-          "Vardas, pavardė": "Karolis Tvaskus",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+37052391227",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "358"
-        },
-        {
           "Vardas, pavardė": "Nerijus Gudelis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37052391188",
@@ -2093,6 +2060,13 @@
           "Tel. numeris": "+37052391037",
           "El. paštas": "[email protected]",
           "Kabinetas": "354"
+        },
+        {
+          "Vardas, pavardė": "Karolis Tvaskus",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "",
+          "El. paštas": "",
+          "Kabinetas": "358"
         }
       ]
     }

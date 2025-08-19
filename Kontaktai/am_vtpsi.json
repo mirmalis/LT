@@ -45,13 +45,6 @@
       "Pavadinimas": "Patarėjų grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Ieva Kulikauskienė",
-          "Pareigos": "Patarėja (žmogiškųjų išteklių valdymo klausimais)",
-          "Tel. numeris": "+370 605 24997",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Jūratė Pliusnytė",
           "Pareigos": "Patarėja (finansų valdymo klausimais)",
           "Tel. numeris": "+370 698 31913",
@@ -277,7 +270,7 @@
         {
           "Vardas, pavardė": "Remigijus Stundžia",
           "Pareigos": "Specialistas",
-          "Tel. numeris": "+370 613 90596",
+          "Tel. numeris": "+370 613 90596 (skambinti I - IV 6:00-8:00 ir 17:00-19:00, V 15:45-17:45)",
           "Kabinetas": "A. Vienuolio g. 8 Vilnius (209 kab.) / Nuotolinė darbo vieta",
           "Atsakingas už": ""
         }
@@ -884,13 +877,6 @@
           "Tel. numeris": "+370 676 16697 (skambinti 13:00-15:00)",
           "Kabinetas": "L. Sapiegos g. 12, Kaunas (411 kab.)",
           "Atsakingas už": "skyriaus darbo veiklos organizavimas"
-        },
-        {
-          "Vardas, pavardė": "Tomas Beržinis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37060670278 (skambinti I 13:00-15:00, IV 13:00-15:00, V 10:00-12:00)",
-          "Kabinetas": "A. Vienuolio g. 8, Vilnius (310 kab.)",
-          "Atsakingas už": "skundų nagrinėjimas, objektų patikros"
         }
       ]
     },
@@ -1306,13 +1292,6 @@
           "Atsakingas už": ""
         },
         {
-          "Vardas, pavardė": "Danila Rudakov",
-          "Pareigos": "Specialistas",
-          "Tel. numeris": "+370 607 68430",
-          "Kabinetas": "Danės g.17, Klaipėda",
-          "Atsakingas už": ""
-        },
-        {
           "Vardas, pavardė": "Donatas Kaubrys",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 687 89778",
@@ -1330,7 +1309,7 @@
           "Vardas, pavardė": "Evelina Aleksejenko",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 647 16075",
-          "Kabinetas": "Plytų g. 61, Palanga",
+          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         },
         {
@@ -1446,6 +1425,13 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 610 35820",
           "Kabinetas": "Vilniaus g.30,106 kab.,  Pakruojis",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Danila Rudakov",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 676 17824",
+          "Kabinetas": "Danės g.17, Klaipėda",
           "Atsakingas už": ""
         },
         {

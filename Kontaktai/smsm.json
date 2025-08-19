@@ -27,7 +27,7 @@
         },
         {
           "Vardas, pavardė": "Raminta Popovienė",
-          "Pareigos": "Ministrė",
+          "Pareigos": "Laikinai einanti švietimo, mokslo ir sporto ministro pareigas",
           "Tel. numeris": "+370 5 219 1225",
           "El. paštas": "[email protected]",
           "Kabinetas": "225"
@@ -38,6 +38,13 @@
           "Tel. numeris": "+370 5 219 1227",
           "El. paštas": "[email protected]",
           "Kabinetas": "226"
+        },
+        {
+          "Vardas, pavardė": "Rima Pečiulė",
+          "Pareigos": "Kanclerio referentė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Rolandas Zuoza",
@@ -157,6 +164,13 @@
     {
       "Pavadinimas": "Specialistai, nepriskirti padaliniui",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Arvydas Vaitiekėnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 619 30 236",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "366"
+        },
         {
           "Vardas, pavardė": "Dainius Dzimanavičius",
           "Pareigos": "Patarėjas",
@@ -654,6 +668,13 @@
           "Kabinetas": "478"
         },
         {
+          "Vardas, pavardė": "Paulius Vaitiekus",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 664 88 515",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "480"
+        },
+        {
           "Vardas, pavardė": "Salvinija Petrulytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 661 09 875",
@@ -699,6 +720,13 @@
           "Tel. numeris": "+370 686 91 783",
           "El. paštas": "[email protected]",
           "Kabinetas": "236"
+        },
+        {
+          "Vardas, pavardė": "Monika Maminskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Tadas Juknevičius",
@@ -1234,7 +1262,7 @@
         },
         {
           "Vardas, pavardė": "Dalia Meidutė-Birulienė",
-          "Pareigos": "Vyresnioji specialistė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 674 56 096",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -1504,13 +1532,6 @@
     {
       "Pavadinimas": "Įstaigų veiklos skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Arvydas Vaitiekėnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 619 30 236",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "366"
-        },
         {
           "Vardas, pavardė": "Darius Cibulskis",
           "Pareigos": "Vyriausiasis specialistas",

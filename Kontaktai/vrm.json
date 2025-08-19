@@ -103,6 +103,43 @@
       ]
     },
     {
+      "Pavadinimas": "Specialieji ir teisėsaugos atašė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gintarė Geimanaitė",
+          "Pareigos": "Lietuvos Respublikos specialusis atašė vidaus reikalų klausimams Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Jurgita Trakimavičienė",
+          "Pareigos": "Teisėsaugos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Šemetulskytė",
+          "Pareigos": "Lietuvos Respublikos specialusis atašė vidaus reikalų klausimams Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Tania Griškienė",
+          "Pareigos": "Lietuvos Respublikos specialusis atašė vidaus reikalų klausimams Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Ministerijos mokslo ir inovacijų patarėja",
       "Darbuotojai": [
         {
@@ -193,20 +230,12 @@
       "Pavadinimas": "Tarptautinio bendradarbiavimo grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gintarė Geimanaitė",
-          "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+370 5 2717227",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "323"
-        },
-        {
           "Vardas, pavardė": "Irina Valiulienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2717140",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "319"
+          "Kabinetas": "323"
         },
         {
           "Vardas, pavardė": "Jurgis Stirblys",
@@ -226,8 +255,8 @@
         },
         {
           "Vardas, pavardė": "Maksim Afanasjev",
-          "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "+370 5 2718495",
+          "Pareigos": "Grupės vadovas",
+          "Tel. numeris": "+370 52718495",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "317"
@@ -247,14 +276,6 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "315"
-        },
-        {
-          "Vardas, pavardė": "Tania Griškienė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 5 2718491",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -648,19 +669,6 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "438"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Teisėsaugos atašė",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Jurgita Trakimavičienė",
-          "Pareigos": "Teisėsaugos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
-          "Tel. numeris": "",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -1241,12 +1249,12 @@
           "Kabinetas": "444"
         },
         {
-          "Vardas, pavardė": "Lina Šemetulskytė",
+          "Vardas, pavardė": "Virginija Lauruvėnė",
           "Pareigos": "Departamento direktorė",
-          "Tel. numeris": "+370 5 2717252",
-          "Mobilus tel. nr.": "+370 602 41740",
+          "Tel. numeris": "+370 60124092",
+          "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "422"
+          "Kabinetas": ""
         }
       ]
     },
@@ -1287,7 +1295,7 @@
         },
         {
           "Vardas, pavardė": "Indrė Barčienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 666 52 672",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -1324,14 +1332,6 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "444"
-        },
-        {
-          "Vardas, pavardė": "Virginija Lauruvėnė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 601 24092",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "447"
         }
       ]
     },
@@ -1467,9 +1467,9 @@
           "Vardas, pavardė": "Irina Bieliauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 2718388",
-          "Mobilus tel. nr.": "",
+          "Mobilus tel. nr.": "+370 66 652 475",
           "El. paštas": "[email protected]",
-          "Kabinetas": "427"
+          "Kabinetas": "433"
         },
         {
           "Vardas, pavardė": "Renata Malakauskienė",
@@ -1548,7 +1548,7 @@
         {
           "Vardas, pavardė": "Marius Sargevičius",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 5 271 8708",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "316"
@@ -1580,7 +1580,7 @@
           "Tel. numeris": "+370 5 2198627",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "408"
+          "Kabinetas": "412"
         },
         {
           "Vardas, pavardė": "Jelena Buiko",

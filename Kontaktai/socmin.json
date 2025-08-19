@@ -48,7 +48,7 @@
         },
         {
           "Vardas, pavardė": "Inga Ruginienė",
-          "Pareigos": "Ministrė",
+          "Pareigos": "laikinai einanti socialinės apsaugos ir darbo ministro pareigas",
           "Tel. numeris": "+370 706 64220",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vivulskio g. 11, 324 kab."
@@ -223,11 +223,18 @@
       "Pavadinimas": "Socialinės apsaugos ir darbo atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Inga Buškutė",
+          "Pareigos": "Atašė",
+          "Tel. numeris": "+370 686 27569",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rue Belliard 41-43, Brussels"
+        },
+        {
           "Vardas, pavardė": "Justina Lukaševičiūtė",
           "Pareigos": "Atašė",
           "Tel. numeris": "+370 658 60355, +32 490 64 4042",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "Rue Belliard 41-43, Brussels"
         },
         {
           "Vardas, pavardė": "Rita Skrebiškienė",
@@ -1266,6 +1273,13 @@
           "Kabinetas": "A. Vivulskio g. 13, 304, 307 kab."
         },
         {
+          "Vardas, pavardė": "Gerda Turavičiūtė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 633 38172",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 304, 307 kab."
+        },
+        {
           "Vardas, pavardė": "Gražina Genė",
           "Pareigos": "Patarėja (Užsieniečių integracija į švietimo sistemą, perkeliamų lietuvių kilmės asmenų integracija)",
           "Tel. numeris": "+370 685 77050",
@@ -1377,13 +1391,6 @@
           "Vardas, pavardė": "Inga Barauskaitė",
           "Pareigos": "Patarėja (šalpos pensijos, valstybinės pensijos)",
           "Tel. numeris": "+370 696 05045",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 404, 405 kab."
-        },
-        {
-          "Vardas, pavardė": "Inga Buškutė",
-          "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+370 686 27569",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 404, 405 kab."
         },
@@ -1707,6 +1714,13 @@
           "Kabinetas": "A. Vivulskio g. 13,  K2, 103 kab."
         },
         {
+          "Vardas, pavardė": "Monika Račinskė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 656 35911",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, K2, 103 kab."
+        },
+        {
           "Vardas, pavardė": "Ramunė Vitartaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 667 83058",
@@ -1999,6 +2013,13 @@
           "Vardas, pavardė": "Valda Pranckuvienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 658 60554",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 303 kab."
+        },
+        {
+          "Vardas, pavardė": "Vytautas Buinauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 685 11825",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 303 kab."
         }

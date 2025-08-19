@@ -12,18 +12,18 @@
           "Kabinetas": "311"
         },
         {
-          "Vardas, pavardė": "Justina Keršienė",
-          "Pareigos": "Viceministrų padėjėja",
-          "Tel. numeris": "+370 600 42636",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "308"
-        },
-        {
           "Vardas, pavardė": "Miranda Borusevičiūtė",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 618 51230",
           "El. paštas": "[email protected]",
           "Kabinetas": "304"
+        },
+        {
+          "Vardas, pavardė": "Nerija Stasiulienė",
+          "Pareigos": "Kanclerė",
+          "Tel. numeris": "+370 668 42654",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "305"
         },
         {
           "Vardas, pavardė": "Raimonda Čižauskaitė",
@@ -40,13 +40,6 @@
           "Kabinetas": "301"
         },
         {
-          "Vardas, pavardė": "Renata Saulytė",
-          "Pareigos": "Kanclerė",
-          "Tel. numeris": "+370 668 42654",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "305"
-        },
-        {
           "Vardas, pavardė": "Ričardas Pocius",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+370 668 42720",
@@ -55,7 +48,7 @@
         },
         {
           "Vardas, pavardė": "Rimantas Mockus",
-          "Pareigos": "Ministras",
+          "Pareigos": "Laikinai einantis teisingumo ministro pareigas",
           "Tel. numeris": "+370 600 38023",
           "El. paštas": "[email protected]",
           "Kabinetas": "302"
@@ -77,7 +70,7 @@
         {
           "Vardas, pavardė": "Virginija Vervečkaitė",
           "Pareigos": "Ministro patarėja  (viešiesiems ryšiams)",
-          "Tel. numeris": "+370 6719 0738",
+          "Tel. numeris": "+370 671 90738",
           "El. paštas": "[email protected]",
           "Kabinetas": "107"
         }
@@ -228,6 +221,13 @@
           "Kabinetas": "412"
         },
         {
+          "Vardas, pavardė": "Rugilė Hokušaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 671 85510",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "317"
+        },
+        {
           "Vardas, pavardė": "Simas Grigonis",
           "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+370 671 90760",
@@ -246,7 +246,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 671 86479",
           "El. paštas": "[email protected]",
-          "Kabinetas": "317"
+          "Kabinetas": "401"
         },
         {
           "Vardas, pavardė": "Vytautė Kazlauskaitė- Švenčionienė",
@@ -485,7 +485,7 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 645 78761",
           "El. paštas": "[email protected]",
-          "Kabinetas": "201a"
+          "Kabinetas": "209"
         },
         {
           "Vardas, pavardė": "Jurga Greičienė",
@@ -811,8 +811,15 @@
       "Pavadinimas": "Centralizuotas vidaus audito skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Jurgita Žilienė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 674 25627",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "404"
+        },
+        {
           "Vardas, pavardė": "Rasa Serapinienė",
-          "Pareigos": "L.e.p. skyriaus vedėja",
+          "Pareigos": "Vyriausiasis patarėjas",
           "Tel. numeris": "+370 602 56516",
           "El. paštas": "[email protected]",
           "Kabinetas": "402"
@@ -988,13 +995,6 @@
           "Tel. numeris": "+370 684 61517",
           "El. paštas": "[email protected]",
           "Kabinetas": "114"
-        },
-        {
-          "Vardas, pavardė": "Pijus Karaliūnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 607 67003",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "226"
         },
         {
           "Vardas, pavardė": "Rolandas Rutkauskas",

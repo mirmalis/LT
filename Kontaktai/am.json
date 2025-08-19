@@ -40,8 +40,15 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Kristina Simonaitytė",
+          "Pareigos": "Aplinkos apsaugos atašė",
+          "Tel. numeris": "+32 490 644041",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Povilas Poderskis",
-          "Pareigos": "Ministras",
+          "Pareigos": "Laikinai einantis aplinkos ministro pareigas",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "218"
@@ -218,13 +225,6 @@
     {
       "Pavadinimas": "Statybos normavimo klausimai",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Dainius Vaičiūnas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 616 35652",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
         {
           "Vardas, pavardė": "Daiva Vencienė",
           "Pareigos": "Vyresn. patarėja",
@@ -485,13 +485,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Kristina Bernotaitė (Pastatų atnaujinimo (modernizavimo) sritis pagal LIFE20 projektą \"Energijos efektyvumo didinimas Lietuvoje\")",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 57893",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Laura Lukoševičienė",
           "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+370 695 48717",
@@ -502,6 +495,13 @@
           "Vardas, pavardė": "Martinas Nyderis (Pastatų atnaujinimo (modernizavimo) sritis)",
           "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 696 97200",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Rasa Sirutavičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 671 02303",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -691,13 +691,6 @@
           "Kabinetas": "416"
         },
         {
-          "Vardas, pavardė": "Kristina Simonaitytė (Nacionalinis gamtos atkūrimo planas, ekosistemų atkūrimas)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 695 62973",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Laura Janulaitienė (gyvūnų, augalų rūšių apsauga ir naudojimas, saugomos ir invazinės rūšys)",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 698 83219",
@@ -766,6 +759,13 @@
           "Tel. numeris": "+370 686 17499",
           "El. paštas": "[email protected]",
           "Kabinetas": "313-314"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Dapkutė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 687 17536",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Vilmantas Graičiūnas (žvejyba, medžioklė)",
@@ -1551,6 +1551,13 @@
           "Tel. numeris": "+370 695 10279",
           "El. paštas": "[email protected]",
           "Kabinetas": "105"
+        },
+        {
+          "Vardas, pavardė": "Mantė Urbanavičienė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -1729,6 +1736,13 @@
     {
       "Pavadinimas": "Darnaus vystymosi ir žaliosios transformacijos skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Grėtė Lelė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 49553",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Karolis Kinčius",
           "Pareigos": "Vedėjas",
