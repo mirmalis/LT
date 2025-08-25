@@ -940,6 +940,12 @@
       "Pavadinimas": "Sveikatos sistemos žmogiškųjų išteklių politikos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Antanė Pošienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 266 1436",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Audronė Daiva Dragūnienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 266 1422",
@@ -1326,6 +1332,12 @@
           "Vardas, pavardė": "Oksana Kavaliauskienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 219 3330",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Valdemar Giliun",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 5 210 9681",
           "El. paštas": "[email protected]"
         }
       ]

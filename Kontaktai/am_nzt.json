@@ -11,12 +11,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Irina Urbonė",
-          "Pareigos": "Direktoriaus pavaduotoja",
-          "Tel. numeris": "+370 706 85 100",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Redvita Četkauskienė",
           "Pareigos": "Kanclerė",
           "Tel. numeris": "+370 706 85 004",
@@ -129,15 +123,15 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rasa Švilpienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Regina Jurkonienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 86 666",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Rima Švilpienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -2201,12 +2195,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Karolina Sipavičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 519",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Kęstutis Bertašius",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 969",
@@ -3010,6 +2998,12 @@
           "Vardas, pavardė": "Ignas Sakalauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 007",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Kazimieras Lisauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         }
       ]

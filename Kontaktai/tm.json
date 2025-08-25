@@ -68,7 +68,7 @@
           "Kabinetas": "303"
         },
         {
-          "Vardas, pavardė": "Virginija Vervečkaitė",
+          "Vardas, pavardė": "Virginija Vervečkaitė- Motuzienė",
           "Pareigos": "Ministro patarėja  (viešiesiems ryšiams)",
           "Tel. numeris": "+370 671 90738",
           "El. paštas": "[email protected]",
@@ -79,13 +79,6 @@
     {
       "Pavadinimas": "Specialieji atašė",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Tautginas Mickevičius",
-          "Pareigos": "Lietuvos Respublikos teisėsaugos atašė teisingumo klausimams Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "+370 684 61263, +32 491 923320",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
         {
           "Vardas, pavardė": "Tautvydas Žėkas",
           "Pareigos": "Specialusis atašė teisingumo klausimams Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
@@ -488,13 +481,6 @@
           "Kabinetas": "209"
         },
         {
-          "Vardas, pavardė": "Jurga Greičienė",
-          "Pareigos": "Vyriausioji patarėja",
-          "Tel. numeris": "+370 611 27140",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "225"
-        },
-        {
           "Vardas, pavardė": "Justina Sušinskaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 684 60519",
@@ -521,6 +507,13 @@
           "Tel. numeris": "+370 602 67368",
           "El. paštas": "[email protected]",
           "Kabinetas": "201a"
+        },
+        {
+          "Vardas, pavardė": "Tautginas Mickevičius",
+          "Pareigos": "Vyriausiasis patarėjas",
+          "Tel. numeris": "+370 684 61263",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "202"
         },
         {
           "Vardas, pavardė": "Vaida Štrafėlė",
@@ -804,6 +797,13 @@
           "Tel. numeris": "+370 671 86277",
           "El. paštas": "[email protected]",
           "Kabinetas": "216"
+        },
+        {
+          "Vardas, pavardė": "Virmantė Voinilko",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 671 86311",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },

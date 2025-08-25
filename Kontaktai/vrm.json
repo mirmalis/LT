@@ -547,6 +547,14 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "314"
+        },
+        {
+          "Vardas, pavardė": "Monika Markevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 2718325",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "314"
         }
       ]
     },
@@ -1639,6 +1647,14 @@
           "Vardas, pavardė": "Miglė Gelčytė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2718870",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "207"
+        },
+        {
+          "Vardas, pavardė": "Miglė Stumbraitė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "207"

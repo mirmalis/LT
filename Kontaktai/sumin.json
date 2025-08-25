@@ -88,6 +88,12 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Artūras Kungys",
+          "Pareigos": "Transporto atašė",
+          "Tel. numeris": "+370 660 81339",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Kristina Semėnė",
           "Pareigos": "Telekomunikacijų ir pašto atašė",
           "Tel. numeris": "+32 491 923286",
@@ -103,12 +109,6 @@
           "Vardas, pavardė": "Liutauras Šlajus",
           "Pareigos": "Transporto atašė",
           "Tel. numeris": "+32 2 401 9867",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vilius Veitas",
-          "Pareigos": "Transporto atašė",
-          "Tel. numeris": "+32 478 793 772",
           "Kabinetas": ""
         }
       ]
@@ -396,12 +396,6 @@
     {
       "Pavadinimas": "Vandens transporto grupė",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Artūras Kungys",
-          "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "+370 660 81339",
-          "Kabinetas": "123"
-        },
         {
           "Vardas, pavardė": "Aurelija Gudelevičienė",
           "Pareigos": "Patarėja",
