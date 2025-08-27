@@ -127,8 +127,15 @@
       "Pavadinimas": "Ryšių su visuomene ir strateginės komunikacijos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Ieva Jonilienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+37067310005",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "100"
+        },
+        {
           "Vardas, pavardė": "Ramūnas Korsakas",
-          "Pareigos": "Vyriausiasis specialistas, laikinai atliekantis skyriaus vedėjo funkcijas",
+          "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060845569",
           "El. paštas": "[email protected]",
           "Kabinetas": "100"

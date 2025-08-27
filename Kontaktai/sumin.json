@@ -90,7 +90,13 @@
         {
           "Vardas, pavardė": "Artūras Kungys",
           "Pareigos": "Transporto atašė",
-          "Tel. numeris": "+370 660 81339",
+          "Tel. numeris": "+324 7879 3772",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Gytis Mažeika",
+          "Pareigos": "Transporto atašė",
+          "Tel. numeris": "",
           "Kabinetas": ""
         },
         {
@@ -103,12 +109,6 @@
           "Vardas, pavardė": "Liliana Jaroslavska",
           "Pareigos": "Transporto atašė Lietuvos Respublikos diplomatinėje atstovybėje Lenkijos Respublikoje",
           "Tel. numeris": "",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Liutauras Šlajus",
-          "Pareigos": "Transporto atašė",
-          "Tel. numeris": "+32 2 401 9867",
           "Kabinetas": ""
         }
       ]
@@ -535,10 +535,10 @@
       "Pavadinimas": "Tarptautinio bendradarbiavimo grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gytis Mažeika",
-          "Pareigos": "Grupės vadovas",
-          "Tel. numeris": "+370 659 35155",
-          "Kabinetas": "316"
+          "Vardas, pavardė": "Aušra Gobienė",
+          "Pareigos": "Grupės vadovė",
+          "Tel. numeris": "+370 699 37871",
+          "Kabinetas": "315"
         },
         {
           "Vardas, pavardė": "Stanislav Widtmann",
@@ -597,12 +597,6 @@
     {
       "Pavadinimas": "Ekonominės diplomatijos klausimai",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aušra Gobienė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 699 37871",
-          "Kabinetas": "315"
-        },
         {
           "Vardas, pavardė": "Jolanta Šukštienė",
           "Pareigos": "Patarėja",

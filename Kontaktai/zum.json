@@ -75,18 +75,6 @@
       ]
     },
     {
-      "Pavadinimas": "Ministerijos vyriausieji patarėjai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Dalia Miniataitė",
-          "Pareigos": "Ministerijos vyriausioji patarėja",
-          "Tel. numeris": "+37052391094",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "396"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Ministerijos patarėjai",
       "Darbuotojai": [
         {
@@ -95,6 +83,18 @@
           "Tel. numeris": "+37052391 045",
           "El. paštas": "[email protected]",
           "Kabinetas": "283"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministerijos vyriausieji patarėjai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Dalia Miniataitė",
+          "Pareigos": "Ministerijos vyriausioji patarėja",
+          "Tel. numeris": "+37052391094",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "396"
         }
       ]
     },
@@ -1177,7 +1177,7 @@
         {
           "Vardas, pavardė": "Joana Žemaitienė",
           "Pareigos": "Patarėja (ŽF 2014-2020)",
-          "Tel. numeris": "+37052398426",
+          "Tel. numeris": "3+7052398426",
           "El. paštas": "[email protected]",
           "Kabinetas": "427"
         },
@@ -2022,6 +2022,13 @@
           "Kabinetas": "353"
         },
         {
+          "Vardas, pavardė": "Karolis Tvaskus",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+37052391227",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "358"
+        },
+        {
           "Vardas, pavardė": "Nerijus Gudelis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37052391188",
@@ -2040,6 +2047,13 @@
     {
       "Pavadinimas": "Viešųjų pirkimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Česlava Vaznienė",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+37052391093",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "272"
+        },
         {
           "Vardas, pavardė": "Dalia Sereikaitė",
           "Pareigos": "Patarėja",
@@ -2060,13 +2074,6 @@
           "Tel. numeris": "+37052391037",
           "El. paštas": "[email protected]",
           "Kabinetas": "354"
-        },
-        {
-          "Vardas, pavardė": "Karolis Tvaskus",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": "358"
         }
       ]
     }
