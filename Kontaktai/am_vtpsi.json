@@ -45,6 +45,13 @@
       "Pavadinimas": "Patarėjų grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Ieva Baltušė",
+          "Pareigos": "Patarėja (žmogiškųjų išteklių valdymo klausimais)",
+          "Tel. numeris": "+370 691 10003",
+          "Kabinetas": "A. Vienuolio g. 8, Vilnius (207 kab.)",
+          "Atsakingas už": ""
+        },
+        {
           "Vardas, pavardė": "Jūratė Pliusnytė",
           "Pareigos": "Patarėja (finansų valdymo klausimais)",
           "Tel. numeris": "+370 698 31913",
@@ -629,6 +636,13 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 620 90820",
           "Kabinetas": "A. Vienuolio g. 8, Vilnius (309 kab.)",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Marijus Paužuolis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 607 74742",
+          "Kabinetas": "Nuotolinė darbo vieta",
           "Atsakingas už": ""
         },
         {

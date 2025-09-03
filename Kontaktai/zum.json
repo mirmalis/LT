@@ -75,18 +75,6 @@
       ]
     },
     {
-      "Pavadinimas": "Ministerijos patarėjai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Vaida Šopytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37052391 045",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "283"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Ministerijos vyriausieji patarėjai",
       "Darbuotojai": [
         {
@@ -95,6 +83,25 @@
           "Tel. numeris": "+37052391094",
           "El. paštas": "[email protected]",
           "Kabinetas": "396"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministerijos patarėjai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Vaida Šopytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37052391 045",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "283"
+        },
+        {
+          "Vardas, pavardė": "Valdas Janonis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },

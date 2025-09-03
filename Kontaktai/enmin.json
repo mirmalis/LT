@@ -93,15 +93,33 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jurgita Jakevičiūtė",
+          "Vardas, pavardė": "Donata Matulevičienė",
           "Pareigos": "Energetikos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
           "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Jakevičiūtė",
+          "Pareigos": "Energetikos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "+32 477 562142",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Lina Sabaitienė",
           "Pareigos": "Branduolinės energetikos atašė Lietuvos nuolatinėje atstovybėje prie Tarptautinių organizacijų Vienoje",
           "Tel. numeris": "+43 1 710 978014",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Sandra Vainutė",
+          "Pareigos": "Energetikos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Saulius Šimanauskas",
+          "Pareigos": "Energetikos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         }
       ]
@@ -184,12 +202,6 @@
           "Vardas, pavardė": "Karolis Švaikauskas",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+37067039352",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Sandra Vainutė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+37067740688",
           "El. paštas": "[email protected]"
         },
         {
@@ -320,12 +332,6 @@
     {
       "Pavadinimas": "Energijos efektyvumo politikos grupė",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Kęstutis Šukvietis",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37060246543",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Linas Bagdonavičius",
           "Pareigos": "Patarėjas",
@@ -521,12 +527,6 @@
       "Pavadinimas": "Tarptautinio bendradarbiavimo grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Donata Matulevičienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37060246369",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Ilona Jančienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37067274168",
@@ -542,12 +542,6 @@
           "Vardas, pavardė": "Rokas Navickas",
           "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+37060216183",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Saulius Šimanauskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37060246702",
           "El. paštas": "[email protected]"
         }
       ]

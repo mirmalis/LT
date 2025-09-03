@@ -1465,6 +1465,13 @@
       "Pavadinimas": "Tarptautinio bendradarbiavimo grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Agnė Leonaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Asta Mikailionienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 618 87 853",
@@ -1486,11 +1493,25 @@
           "Kabinetas": "233"
         },
         {
+          "Vardas, pavardė": "Julius Mitrikevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Jurga Strumskienė",
           "Pareigos": "Vadovė",
           "Tel. numeris": "+370 615 35 203",
           "El. paštas": "[email protected]",
           "Kabinetas": "232"
+        },
+        {
+          "Vardas, pavardė": "Matas Globys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Milda Špėlytė-Letulienė",
@@ -1559,13 +1580,6 @@
           "Tel. numeris": "+370 647 31 582",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Jonas Vasiliauskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 698 18 403",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "112"
         },
         {
           "Vardas, pavardė": "Raimonda Mikalajūnienė",

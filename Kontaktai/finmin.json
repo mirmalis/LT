@@ -2577,13 +2577,6 @@
           "Kabinetas": "535"
         },
         {
-          "Vardas, pavardė": "Eglė Linkevičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069031970",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Julija Kvietkė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37069032085",
@@ -2910,6 +2903,13 @@
     {
       "Pavadinimas": "Investicijų audito skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aistė Popova",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37065059484",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Asta Doroševienė",
           "Pareigos": "Vyriausioji specialistė",
