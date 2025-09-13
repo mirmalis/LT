@@ -577,6 +577,12 @@
       "Pavadinimas": "Geresnio reglamentavimo ir verslo priežiūros politikos grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Alma Grigonytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37062067855",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Danutė Petrylaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37066781123",
@@ -835,6 +841,12 @@
       "Pavadinimas": "Inovacijų politikos grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Arnas Barišauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37068437339",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Arvydas Vainauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37065556865",
@@ -871,7 +883,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Edvinas GrikšasKalendorius",
+          "Vardas, pavardė": "Edvinas Grikšas",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+37065943059",
           "El. paštas": "[email protected]"
@@ -1034,13 +1046,13 @@
         },
         {
           "Vardas, pavardė": "Neringa Šimkienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37065921029",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Simona Radikaitė-Ben Chahed",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 64407621",
           "El. paštas": "[email protected]"
         }
@@ -1150,7 +1162,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rasa Tumaševičiūtė",
+          "Vardas, pavardė": "Rasa Bručė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37066314898",
           "El. paštas": "[email protected]"
@@ -1162,7 +1174,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Irena Mickevičiūtė",
-          "Pareigos": "Patarėja, laikinai atliekanti Skyriaus vedėjo funkcijas",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065949321",
           "El. paštas": "[email protected]"
         },
@@ -1220,7 +1232,7 @@
         },
         {
           "Vardas, pavardė": "Gerda Krukonienė",
-          "Pareigos": "Patarėjas, laikinai atliekantis Skyriaus vedėjo funkcijas",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065919386",
           "El. paštas": "[email protected]"
         },

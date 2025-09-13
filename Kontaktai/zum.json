@@ -71,6 +71,13 @@
       "Pavadinimas": "Ministerijos patarėjai",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Dalia Miniataitė",
+          "Pareigos": "Vyriausioji patarėja",
+          "Tel. numeris": "+37052391094",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "396"
+        },
+        {
           "Vardas, pavardė": "Vaida Šopytė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391 045",
@@ -82,19 +89,7 @@
           "Pareigos": "Patarėjas",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministerijos vyriausieji patarėjai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Dalia Miniataitė",
-          "Pareigos": "Ministerijos vyriausioji patarėja",
-          "Tel. numeris": "+37052391094",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "396"
+          "Kabinetas": "275"
         }
       ]
     },
@@ -104,8 +99,8 @@
         {
           "Vardas, pavardė": "Darius Remeika",
           "Pareigos": "Veterinarijos ir fitosanitarijos atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "",
-          "El. paštas": "",
+          "Tel. numeris": "+3224019810, mob. tel. +32491923279",
+          "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
@@ -153,15 +148,15 @@
         {
           "Vardas, pavardė": "Kristina Mineikienė",
           "Pareigos": "LR žemės ūkio atašė LR diplomatinėje atstovybėje Japonijoje",
-          "Tel. numeris": "",
-          "El. paštas": "",
+          "Tel. numeris": "+81334085091, mob. tel. +819095480767",
+          "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Lina Blažinskienė",
           "Pareigos": "LR žemės ūkio atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "",
-          "El. paštas": "",
+          "Tel. numeris": "+32473540309",
+          "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
@@ -314,7 +309,7 @@
         },
         {
           "Vardas, pavardė": "Gediminas Dūdėnas",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Vyriausiasis specialistas (SP 2023-2027)",
           "Tel. numeris": "+37052391 246",
           "El. paštas": "[email protected]",
           "Kabinetas": "336"
@@ -889,13 +884,6 @@
           "Tel. numeris": "+37052391 148",
           "El. paštas": "[email protected]",
           "Kabinetas": "201"
-        },
-        {
-          "Vardas, pavardė": "Loreta Lazauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391 346",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "251"
         },
         {
           "Vardas, pavardė": "Martynas Mackevičius",

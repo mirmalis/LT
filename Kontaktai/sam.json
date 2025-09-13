@@ -361,6 +361,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Greta Undžytė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 5 266 1411",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Greta Zambžickaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1440",
@@ -1110,12 +1116,6 @@
       "Pavadinimas": "Tarptautinio bendradarbiavimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gintvilė Bagdonavičiūtė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 210 9664",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Jonas Paulius Mackevičius",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+370 5 210 9660",
@@ -1268,12 +1268,6 @@
     {
       "Pavadinimas": "Veiklos administravimo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aivaras Bareikis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 5 210 9670",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Gintautas Juodis",
           "Pareigos": "Vyriausiasis specialistas",

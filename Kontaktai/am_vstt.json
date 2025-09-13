@@ -43,13 +43,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Eglė Juozėnaitė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 659 78 550",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Rūta Česnulevičiūtė (Nacionalinio lankytojų centro veiklos ir administravimo klausimai)",
           "Pareigos": "Nacionalinio lankytojų centro edukacinių programų koordinatorė",
           "Tel. numeris": "+370 665 70 494",
@@ -222,6 +215,13 @@
           "Vardas, pavardė": "Jonas Pašukonis (planuojamos ūkinės veiklos poveikio biologinei įvairovei vertinimo, strateginio pasekmių biologinei įvairovei vertinimo, poveikio „Natura 2000\" teritorijoms reikšmingumo vertinimo, biologinės įvairovės apsaugos reglamentavimo klausimai)",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 659 63 299",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Laima Šveistytė (teisės aktų, susijusių su saugomų rūšių ir teritorijų apsauga, rengimas, planuojamos ūkinės veiklos poveikio aplinkai vertinimo dokumentų nagrinėjimas bei išvadų dėl jų kokybės ir galimų pasekmių saugomoms teritorijoms rengimas)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 699 37 096",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -550,7 +550,7 @@
       "Pavadinimas": "PROJEKTAS „PROTECT BALTIC\"",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Eglė Zarankaitė",
+          "Vardas, pavardė": "Eglė Baranauskienė",
           "Pareigos": "Teisininkė",
           "Tel. numeris": "",
           "El. paštas": "[email protected]",

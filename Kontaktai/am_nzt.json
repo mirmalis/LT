@@ -742,7 +742,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Reda Siautilė",
+          "Vardas, pavardė": "Reda Murauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 518",
           "El. paštas": "[email protected]"
@@ -1465,12 +1465,6 @@
       "Pavadinimas": "Vilniaus apygardos žemės tvarkymo ir administravimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aistė Paužinskė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 86 195",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Algis Šalkauskas",
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+370 706 85 940",
@@ -1809,6 +1803,12 @@
           "Vardas, pavardė": "Greta Jonkutė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 734",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gvidas Repečka",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 706 85 314",
           "El. paštas": "[email protected]"
         },
         {
