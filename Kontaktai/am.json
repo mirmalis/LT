@@ -89,6 +89,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Ugnė Grikinytė",
+          "Pareigos": "Aplinkos apsaugos atašė",
+          "Tel. numeris": "+370 695 62973",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Vasara Davidian",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+370 618 83498",
@@ -99,18 +106,6 @@
           "Vardas, pavardė": "Vestina Gudeliauskaitė",
           "Pareigos": "Kanclerės ir viceministrų referentė",
           "Tel. numeris": "+370 657 99389",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministro priimamasis",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Daiva Stalemėkė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37065790673",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -1635,7 +1630,7 @@
         {
           "Vardas, pavardė": "Rasa Mončiunskaitė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 695 49984",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1643,6 +1638,13 @@
           "Vardas, pavardė": "Rolandas Kazlauskas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 687 28782",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Simona Gaižauskienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 672 71381",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }

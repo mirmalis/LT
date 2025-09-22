@@ -59,6 +59,13 @@
           "Kabinetas": "306"
         },
         {
+          "Vardas, pavardė": "Dalia Salapėtienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+37067306213",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "300"
+        },
+        {
           "Vardas, pavardė": "Dr. Ingrida Veliutė",
           "Pareigos": "Viceministrė",
           "Tel. numeris": "+37067973210",
@@ -430,6 +437,13 @@
           "Kabinetas": "416"
         },
         {
+          "Vardas, pavardė": "Vaida Vilkuotytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "214"
+        },
+        {
           "Vardas, pavardė": "Vilma Baltrėnaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37060843766",
@@ -714,6 +728,13 @@
           "Kabinetas": "14"
         },
         {
+          "Vardas, pavardė": "Dalia Salapėtienė",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+37067306213",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "300"
+        },
+        {
           "Vardas, pavardė": "Edita Benetienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37060847669",
@@ -810,6 +831,39 @@
           "Tel. numeris": "+37060847697",
           "El. paštas": "[email protected]",
           "Kabinetas": "10"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Kurk Lietuvai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Goda Damaševičiūtė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "412"
+        },
+        {
+          "Vardas, pavardė": "Greta Vilkelytė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "101"
+        },
+        {
+          "Vardas, pavardė": "Marija Miknevičiūtė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "209"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Semėnaitė",
+          "Pareigos": "Projektų vadovė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "209"
         }
       ]
     }

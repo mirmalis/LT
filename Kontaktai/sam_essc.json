@@ -68,14 +68,7 @@
         {
           "Vardas, pavardė": "Laura Butkevičė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 37 282 244",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Laura Kriaučiūnaitė-Teresevičienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 668 49753",
+          "Tel. numeris": "+370 659 22483",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -94,6 +87,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Renata Mikulytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Robert Skaskevič",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 37 282 244",
@@ -102,6 +102,13 @@
         },
         {
           "Vardas, pavardė": "Sergėjus Gračiovas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Vydas Ivanauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 37 282 244",
           "El. paštas": "[email protected]",
@@ -193,6 +200,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Remigijus Stungurys",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Silvija Stasytė",
           "Pareigos": "Sandėlininkė",
           "Tel. numeris": "+370 37 282 244",
@@ -206,6 +220,20 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Eglė Katinienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Juratė Pavilionienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 37 282 244",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Raminta Lubienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 37 282 244",
           "El. paštas": "[email protected]",

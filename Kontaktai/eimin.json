@@ -84,7 +84,7 @@
         },
         {
           "Vardas, pavardė": "Milda Bareišaitė",
-          "Pareigos": "Ministerijos vyresnioji patarėja",
+          "Pareigos": "Ministerijos vyriausioji patarėja",
           "Tel. numeris": "+37065071034",
           "El. paštas": "[email protected]"
         },
@@ -92,12 +92,6 @@
           "Vardas, pavardė": "Paulius Petrauskas",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+37069016753",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Renata Ambroževičiūtė",
-          "Pareigos": "Ministerijos vyriausioji patarėja",
-          "Tel. numeris": "+37061685672",
           "El. paštas": "[email protected]"
         },
         {
@@ -433,7 +427,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Deividas Čėsnas",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+37064306709",
           "El. paštas": "[email protected]"
         },
@@ -732,13 +726,13 @@
         },
         {
           "Vardas, pavardė": "Julija Levinienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37067543343",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Jurgita Degėsienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37065892863",
           "El. paštas": "[email protected]"
         },
@@ -1081,13 +1075,13 @@
         },
         {
           "Vardas, pavardė": "Rasa Tiaškevičienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37064418428",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Vilmantė Grencienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37064965354",
           "El. paštas": "[email protected]"
         },
@@ -1131,12 +1125,6 @@
     {
       "Pavadinimas": "Pramonės politikos skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Ilona MalcevaKalendorius",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+37065941575",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Jurgita Žiemienė",
           "Pareigos": "Patarėja",
@@ -1384,7 +1372,7 @@
         },
         {
           "Vardas, pavardė": "Povilas Kriaučeliūnas",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+37069842185",
           "El. paštas": "[email protected]"
         },

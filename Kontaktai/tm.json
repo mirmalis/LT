@@ -33,13 +33,6 @@
           "Kabinetas": "307"
         },
         {
-          "Vardas, pavardė": "Raimonda Martynovienė",
-          "Pareigos": "Ministro padėjėja",
-          "Tel. numeris": "+370 600 38023",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "301"
-        },
-        {
           "Vardas, pavardė": "Ričardas Pocius",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+370 645 78664",
@@ -66,13 +59,6 @@
           "Tel. numeris": "+370 616 54748",
           "El. paštas": "[email protected]",
           "Kabinetas": "303"
-        },
-        {
-          "Vardas, pavardė": "Virginija Vervečkaitė- Motuzienė",
-          "Pareigos": "Ministro patarėja  (viešiesiems ryšiams)",
-          "Tel. numeris": "+370 671 90738",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "107"
         }
       ]
     },
@@ -844,11 +830,11 @@
           "Kabinetas": "108"
         },
         {
-          "Vardas, pavardė": "Virginija Gaidytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 600 42636",
+          "Vardas, pavardė": "Virginija Vervečkaitė-Motuzienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 671 90738",
           "El. paštas": "[email protected]",
-          "Kabinetas": "406"
+          "Kabinetas": "107"
         }
       ]
     },
@@ -945,7 +931,7 @@
         {
           "Vardas, pavardė": "Ugnius Pažūsis",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 678 46964",
+          "Tel. numeris": "+370 686 06099",
           "El. paštas": "[email protected]",
           "Kabinetas": "414"
         }
