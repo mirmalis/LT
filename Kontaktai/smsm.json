@@ -27,7 +27,7 @@
         },
         {
           "Vardas, pavardė": "Raminta Popovienė",
-          "Pareigos": "Laikinai einanti švietimo, mokslo ir sporto ministro pareigas",
+          "Pareigos": "Švietimo, mokslo ir sporto ministrė",
           "Tel. numeris": "+370 5 219 1225",
           "El. paštas": "[email protected]",
           "Kabinetas": "225"
@@ -567,23 +567,9 @@
           "Kabinetas": "487"
         },
         {
-          "Vardas, pavardė": "Nadia Venskuvienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 614 66 439",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
           "Vardas, pavardė": "Rūta Gajauskaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 618 67 954",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "487"
-        },
-        {
-          "Vardas, pavardė": "Simona Stankutė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 618 64 516",
           "El. paštas": "[email protected]",
           "Kabinetas": "487"
         }
@@ -731,7 +717,7 @@
         {
           "Vardas, pavardė": "Monika Maminskaitė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 601 90 986",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1456,6 +1442,13 @@
           "Vardas, pavardė": "Laurynas Zibolis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 650 63 993",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "483"
+        },
+        {
+          "Vardas, pavardė": "Martynas Račkauskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "483"
         }

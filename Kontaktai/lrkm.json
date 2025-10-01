@@ -52,13 +52,6 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Anna Kuznecovienė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+37063137643",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "306"
-        },
-        {
           "Vardas, pavardė": "Dalia Salapėtienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+37067306213",
@@ -66,53 +59,11 @@
           "Kabinetas": "300"
         },
         {
-          "Vardas, pavardė": "Dr. Ingrida Veliutė",
-          "Pareigos": "Viceministrė",
+          "Vardas, pavardė": "Ignotas Adomavičius",
+          "Pareigos": "Kultūros ministras",
           "Tel. numeris": "+37067973210",
           "El. paštas": "[email protected]",
-          "Kabinetas": "311"
-        },
-        {
-          "Vardas, pavardė": "Dr. Viktor Denisenko",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37063408594",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "302"
-        },
-        {
-          "Vardas, pavardė": "Edita Klaunauskaitė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+370 64537719",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "312"
-        },
-        {
-          "Vardas, pavardė": "Ewelina Mokrzecka",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37063704160",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "301"
-        },
-        {
-          "Vardas, pavardė": "Kotryna Žukauskaitė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37065504378",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "209"
-        },
-        {
-          "Vardas, pavardė": "Ramunė Vaičiulytė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37064539020",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
-        },
-        {
-          "Vardas, pavardė": "Regina Jaskelevičienė",
-          "Pareigos": "Ministerijos kanclerė",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313"
+          "Kabinetas": "310"
         },
         {
           "Vardas, pavardė": "Silvija Bunokė",
@@ -120,13 +71,6 @@
           "Tel. numeris": "+37063316354",
           "El. paštas": "[email protected]",
           "Kabinetas": "300"
-        },
-        {
-          "Vardas, pavardė": "Šarūnas Birutis",
-          "Pareigos": "Laikinai einantis kultūros ministro pareigas",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "310"
         }
       ]
     },
@@ -492,7 +436,7 @@
         },
         {
           "Vardas, pavardė": "Kristina Gasiulytė",
-          "Pareigos": "Patarėja, laikinai atliekanti grupės vadovės funkcijas",
+          "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+37060847674",
           "El. paštas": "[email protected]",
           "Kabinetas": "201"
@@ -861,7 +805,7 @@
         {
           "Vardas, pavardė": "Viktorija Semėnaitė",
           "Pareigos": "Projektų vadovė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+37067486556",
           "El. paštas": "[email protected]",
           "Kabinetas": "209"
         }

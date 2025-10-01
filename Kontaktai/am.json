@@ -19,13 +19,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Gediminas Žygelis",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 696 84706",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Jurga Valainytė",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+370  698 71147, +32 491 923318",
@@ -34,8 +27,8 @@
         },
         {
           "Vardas, pavardė": "Kastytis Žuromskas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 664 10621",
+          "Pareigos": "Ministras",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -47,13 +40,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Povilas Poderskis",
-          "Pareigos": "Laikinai einantis aplinkos ministro pareigas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "218"
-        },
-        {
           "Vardas, pavardė": "Raimondas Sakalauskas",
           "Pareigos": "Vyr. patarėjas, atliekantis ministerijos parengties pareigūno funkcijas",
           "Tel. numeris": "+370 686 00052",
@@ -61,44 +47,9 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Ramunė Baniulienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+370 687 17091",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Sigita Vasiljevaitė",
-          "Pareigos": "Ministerijos kanclerė",
-          "Tel. numeris": "+370 699 95537",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Skirmantas Pocius",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 616 04980",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Tomas Vaitkevičius",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 675 82090",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Ugnė Grikinytė",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+370 695 62973",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vasara Davidian",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+370 618 83498",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -892,6 +843,13 @@
           "Tel. numeris": "+370 686 17484",
           "El. paštas": "[email protected]",
           "Kabinetas": "317"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Danilevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 57893",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -1365,13 +1323,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Danguolė Tunkevičienė (kalbos redaktorė)",
-          "Pareigos": "Vyr. specialistė (kalbos redaktorė)",
-          "Tel. numeris": "+370 696 87592",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Gintautas Baliutavičius (administracinių pastatų ir telefoninės ryšių sistemos priežiūra ir remontas, ministerijos susitikimų ir renginių techninis aptarnavimas ir aprūpinimas)",
           "Pareigos": "Vyresn. specialistas",
           "Tel. numeris": "+370 665 25652",
@@ -1581,7 +1532,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Mindaugas Savukynas",
+          "Vardas, pavardė": "Mindaugas Savukynas (vykdantis Centralizuoto vidaus audito skyriaus vedėjo funkcijas)",
           "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 645 53295",
           "El. paštas": "[email protected]",

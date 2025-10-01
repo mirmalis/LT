@@ -11,22 +11,10 @@
           "Kabinetas": "217"
         },
         {
-          "Vardas, pavardė": "Algirdas Pieniuta",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 685 42889",
-          "Kabinetas": "239"
-        },
-        {
           "Vardas, pavardė": "Aušra Siniuvienė",
           "Pareigos": "Vyriausioji specialistė (referentė)",
           "Tel. numeris": "+370 633 35244",
           "Kabinetas": "214"
-        },
-        {
-          "Vardas, pavardė": "Eugenijus Sabutis",
-          "Pareigos": "Laikinai einantis susisiekimo ministro pareigas",
-          "Tel. numeris": "+370 673 18625",
-          "Kabinetas": "201"
         },
         {
           "Vardas, pavardė": "Irena Žilinskaitė",
@@ -35,28 +23,16 @@
           "Kabinetas": "202"
         },
         {
-          "Vardas, pavardė": "Julijus Glebovas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 614 31308",
-          "Kabinetas": "205"
-        },
-        {
           "Vardas, pavardė": "Juras Taminskas",
-          "Pareigos": "Viceministras",
+          "Pareigos": "Ministras",
           "Tel. numeris": "+370 614 31308",
-          "Kabinetas": "207"
+          "Kabinetas": "201"
         },
         {
           "Vardas, pavardė": "Lukas Paškevičius",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+370 652 98076",
           "Kabinetas": "120"
-        },
-        {
-          "Vardas, pavardė": "Mantas Svečiulis",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 685 52693",
-          "Kabinetas": "204"
         },
         {
           "Vardas, pavardė": "Roderikas Žiobakas",
@@ -135,6 +111,12 @@
           "Kabinetas": "127"
         },
         {
+          "Vardas, pavardė": "Rūta Ambložiejūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 660 31978",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Žydrūnė Tursaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 659 13413",
@@ -146,12 +128,6 @@
       "Pavadinimas": "Centralizuoto vidaus audito skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Audrys Varnelė",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 616 94843",
-          "Kabinetas": "108"
-        },
-        {
           "Vardas, pavardė": "Genadijus Vidinevičius",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 616 02461",
@@ -159,7 +135,7 @@
         },
         {
           "Vardas, pavardė": "Jelena Pojarkova",
-          "Pareigos": "Vyresnioji patarėja",
+          "Pareigos": "L.e. skyriaus vedėjo pareigas",
           "Tel. numeris": "+370 690 27651",
           "Kabinetas": "109A"
         },
@@ -550,12 +526,6 @@
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 658 73360",
           "Kabinetas": "302"
-        },
-        {
-          "Vardas, pavardė": "Ina Irens",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 694 79817",
-          "Kabinetas": "317"
         }
       ]
     },

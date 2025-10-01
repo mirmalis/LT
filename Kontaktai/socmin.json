@@ -33,34 +33,6 @@
           "Kabinetas": "A. Vivulskio g. 11, 418 kab."
         },
         {
-          "Vardas, pavardė": "Eitvydas Bingelis",
-          "Pareigos": "Viceministras (pensijų, piniginės paramos, paramos būstui, socialinio draudimo veiklos sritys)",
-          "Tel. numeris": "+370 689 99134",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 11, 417 kab."
-        },
-        {
-          "Vardas, pavardė": "Ignas Algirdas Dobrovolskas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 686 03655",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 11, 315 kab."
-        },
-        {
-          "Vardas, pavardė": "Inga Ruginienė",
-          "Pareigos": "laikinai einanti socialinės apsaugos ir darbo ministro pareigas",
-          "Tel. numeris": "+370 706 64220",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 11, 324 kab."
-        },
-        {
-          "Vardas, pavardė": "Ingrida Kutkienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "A. Vivulskio g. 11, 310 kab."
-        },
-        {
           "Vardas, pavardė": "Jekaterina Navickė",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "",
@@ -68,11 +40,25 @@
           "Kabinetas": "A. Vivulskio g. 11, 303 kab."
         },
         {
+          "Vardas, pavardė": "Jūratė Zailskienė",
+          "Pareigos": "Ministrė",
+          "Tel. numeris": "+370 706 64220",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vivulskio g. 11, 324 kab."
+        },
+        {
           "Vardas, pavardė": "Rita Grigalienė",
           "Pareigos": "Viceministrė (Europos Sąjungos investicijų, lygių galimybių, moterų ir vyrų lygybės (išskyrus jaunimo politikos veiklos sritis), šeimos ir vaiko teisių apsaugos, tikslinės pagalbos veiklos sritys)",
           "Tel. numeris": "+370 689 99134",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vivulskio g. 11, 416 kab."
+        },
+        {
+          "Vardas, pavardė": "Svetlana Tučkė",
+          "Pareigos": "Kanclerė",
+          "Tel. numeris": "+370 689 99134",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vivulskio g. 11, 414 kab."
         }
       ]
     },
@@ -266,6 +252,13 @@
           "Tel. numeris": "+370 696 05395",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 216 kab."
+        },
+        {
+          "Vardas, pavardė": "Jurgita Bučiūtė-Barysienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 659 24768",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 204 kab."
         },
         {
           "Vardas, pavardė": "Kristina Senkuvienė",
@@ -1773,6 +1766,13 @@
       "Pavadinimas": "Nevyriausybinių organizacijų plėtros grupė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aistė Praškevičiūtė",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 640 16082",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 308 kab."
+        },
+        {
           "Vardas, pavardė": "Aurelija Olendraitė",
           "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+370 649 13467",
@@ -1976,13 +1976,6 @@
           "Vardas, pavardė": "Giedrė Mikalauskienė",
           "Pareigos": "Vyresnioji patarėja (vaiko globos (rūpybos), įvaikinimo, vaiko laikino apgyvendinimo, vaiko laikinosios priežiūros, kt. vaiko teisių klausimai)",
           "Tel. numeris": "+370 652 17286",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 242 kab."
-        },
-        {
-          "Vardas, pavardė": "Jurgita Bučiūtė-Barysienė",
-          "Pareigos": "Vyresnioji patarėja (šeimos politikos, Šeimos kortelės, Vaiko gerovės tarybos prie LRV klausimai)",
-          "Tel. numeris": "+370 659 24768",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 242 kab."
         },

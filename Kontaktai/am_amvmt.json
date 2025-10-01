@@ -5,9 +5,9 @@
       "Pavadinimas": "Kontaktai žiniasklaidai",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Milda Štaraitytė",
-          "Pareigos": "Viešųjų ryšių specialistė",
-          "Tel. numeris": "+370 647 76 740",
+          "Vardas, pavardė": "Rasa Bielevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Atsakingas už": ""
         }
@@ -27,6 +27,13 @@
           "Vardas, pavardė": "Jolanta Volteraitytė",
           "Pareigos": "Projektų vadovė",
           "Tel. numeris": "+370 679 26 508",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jūratė Kuzmickaitė",
+          "Pareigos": "Viešųjų ryšių specialistė",
+          "Tel. numeris": "+370 644 10 861",
           "El. paštas": "[email protected]",
           "Atsakingas už": ""
         },
@@ -730,13 +737,6 @@
           "Tel. numeris": "+370 601 13 276",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        },
-        {
-          "Vardas, pavardė": "Voldemaras Švėgžda",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 663 53 691",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos koordinavimas Kauno regione"
         },
         {
           "Vardas, pavardė": "Žydrūnas Cicinas",

@@ -5,39 +5,21 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agila Barzdienė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+37069842005",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Arūnas Cijūnaitis",
           "Pareigos": "Ministerijos vyriausiasis patarėjas",
           "Tel. numeris": "+37068729438",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Darius Indriūnas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37069842438",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Edita Savicka",
           "Pareigos": "Referentė",
-          "Tel. numeris": "+37065099231",
+          "Tel. numeris": "+37065057715",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Eglė Radišauskienė",
-          "Pareigos": "Kanclerė",
-          "Tel. numeris": "+37069842437",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Fausta Roznytė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37065693164",
+          "Vardas, pavardė": "Edvinas Grikšas",
+          "Pareigos": "Ekonomikos ir inovacijų ministras",
+          "Tel. numeris": "+37065057715",
           "El. paštas": "[email protected]"
         },
         {
@@ -47,39 +29,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Karolis Vaitkevičius",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37065518440",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Kotryna Butkienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37065538942",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Lina Rinkevičienė",
           "Pareigos": "Referentė",
           "Tel. numeris": "+37065538905",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Linas Vaitkevičius",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37063596607",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Lukas Savickas",
-          "Pareigos": "Laikinai einantis ekonomikos ir inovacijų ministro pareigas",
-          "Tel. numeris": "+37065538942",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Marius Stasiukaitis",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37069842512",
           "El. paštas": "[email protected]"
         },
         {
@@ -89,15 +41,9 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Paulius Petrauskas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37069016753",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Silva Lengvinienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37065935064",
+          "Vardas, pavardė": "Rūta Jovaišienė",
+          "Pareigos": "Teisėkūros grupės vadovė, laikinai atliekanti kanclerio funkcijas",
+          "Tel. numeris": "+37065993653",
           "El. paštas": "[email protected]"
         }
       ]
@@ -375,6 +321,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Virginijus Juškevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37066053102",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Zenonas Jankovskis",
           "Pareigos": "Specialistas",
           "Tel. numeris": "+37065534758",
@@ -464,6 +416,12 @@
           "Vardas, pavardė": "Sigita Mačiuikienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37063757327",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Sankauskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37066053101",
           "El. paštas": "[email protected]"
         },
         {
@@ -877,12 +835,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Edvinas Grikšas",
-          "Pareigos": "Grupės vadovas",
-          "Tel. numeris": "+37065943059",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Gytis Puišė",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37066083115",
@@ -896,7 +848,7 @@
         },
         {
           "Vardas, pavardė": "Ugnė Širvinskaitė",
-          "Pareigos": "Vyresnioji patarėja",
+          "Pareigos": "Vyresnioji patarėja, laikinai atliekanti grupės vadovo funkcijas",
           "Tel. numeris": "+37069154091",
           "El. paštas": "[email protected]"
         }
@@ -1109,12 +1061,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jurgita Klusevičiūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37069149446",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Rima Ambrazevičienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37065023183",
@@ -1127,7 +1073,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Jurgita Žiemienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Patarėja, laikinai atliekanti Skyriaus vedėjo funkcijas",
           "Tel. numeris": "+37065943122",
           "El. paštas": "[email protected]"
         },
@@ -1257,12 +1203,6 @@
           "Vardas, pavardė": "Pijus Tarutis",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37063472550",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Roberta Ragaišytė",
-          "Pareigos": "Patarėjas, laikinai atliekantis Skyriaus vedėjo funkcijas",
-          "Tel. numeris": "+37068522726",
           "El. paštas": "[email protected]"
         }
       ]

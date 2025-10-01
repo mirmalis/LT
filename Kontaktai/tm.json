@@ -5,60 +5,11 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Andrius Dubinas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 698 42498",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "311"
-        },
-        {
-          "Vardas, pavardė": "Miranda Borusevičiūtė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+370 618 51230",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "304"
-        },
-        {
-          "Vardas, pavardė": "Nerija Stasiulienė",
-          "Pareigos": "Kanclerė",
-          "Tel. numeris": "+370 668 42654",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "305"
-        },
-        {
-          "Vardas, pavardė": "Raimonda Čižauskaitė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+370 678 46964",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "307"
-        },
-        {
-          "Vardas, pavardė": "Ričardas Pocius",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 645 78664",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "309"
-        },
-        {
-          "Vardas, pavardė": "Rimantas Mockus",
-          "Pareigos": "Laikinai einantis teisingumo ministro pareigas",
-          "Tel. numeris": "+370 600 38023",
+          "Vardas, pavardė": "Rita Tamašunienė",
+          "Pareigos": "Ministrė",
+          "Tel. numeris": "+370 668 42322",
           "El. paštas": "[email protected]",
           "Kabinetas": "302"
-        },
-        {
-          "Vardas, pavardė": "Rytis Jokubauskas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 668 42643",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "310"
-        },
-        {
-          "Vardas, pavardė": "Simas Lilas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 616 54748",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "303"
         }
       ]
     },
@@ -124,13 +75,6 @@
     {
       "Pavadinimas": "Bausmių vykdymo politikos grupė",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Gintautas Šarauskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 618 51384",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "410"
-        },
         {
           "Vardas, pavardė": "Marius Rakštelis",
           "Pareigos": "Grupės vadovas",

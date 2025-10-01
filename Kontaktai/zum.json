@@ -6,64 +6,10 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Andrius Palionis",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391 002",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "286"
-        },
-        {
-          "Vardas, pavardė": "Arūnas Jagminas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391 005",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "387"
-        },
-        {
-          "Vardas, pavardė": "Arūnas Rutkauskas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391 004",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "281"
-        },
-        {
-          "Vardas, pavardė": "Gediminas Tamašauskis",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391 007",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "383"
-        },
-        {
-          "Vardas, pavardė": "Ignas Hofmanas",
-          "Pareigos": "Laikinai einantis ministro pareigas",
-          "Tel. numeris": "+37052391 000",
+          "Pareigos": "Ministras",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "277"
-        },
-        {
-          "Vardas, pavardė": "Renatas Dūdonis",
-          "Pareigos": "Ministerijos kancleris",
-          "Tel. numeris": "+37052391 035",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "380"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Ministro kabinetas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Darius Jankauskas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+37052391 040",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "269"
-        },
-        {
-          "Vardas, pavardė": "Roberta Leščevičiūtė-Romikaitė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+37052391 024",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "271"
         }
       ]
     },
@@ -1554,7 +1500,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37052391001",
           "El. paštas": "[email protected];",
-          "Kabinetas": "277"
+          "Kabinetas": "284"
         },
         {
           "Vardas, pavardė": "Giedrė Gricienė",

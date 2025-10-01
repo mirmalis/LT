@@ -1139,13 +1139,6 @@
           "Kabinetas": "Tulpių g. 10 (2 kab.), 99185 Šilutė"
         },
         {
-          "Vardas, pavardė": "Vadim Kondič",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 700 02022",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Žalgirio g. 11A, 93251 Klaipėda"
-        },
-        {
           "Vardas, pavardė": "Virgilijus Olšauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 700 02022",
@@ -1693,13 +1686,6 @@
       "Pavadinimas": "Teisės taikymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Albertas Kilevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 615 94504",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Žvaigždžių g. 21 (17 kab.), 37109 Panevėžys"
-        },
-        {
           "Vardas, pavardė": "Aldona Špakauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 686 07297",
@@ -2067,6 +2053,13 @@
           "Vardas, pavardė": "Deimantas Gudelis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 659 61533",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Sarokina",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
         },
@@ -2784,6 +2777,13 @@
           "Kabinetas": "Rotušės a. 12 (301 kab.), 44279 Kaunas"
         },
         {
+          "Vardas, pavardė": "Rasa Žitkevičiūtė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušės a. 12 (303 kab.), 44279 Kaunas"
+        },
+        {
           "Vardas, pavardė": "Rytis Gutauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 700 02022",
@@ -2796,6 +2796,13 @@
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
+        },
+        {
+          "Vardas, pavardė": "Simona Sajonė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Rotušes a. 12 - 302 (kab.), 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Tomas Dambrauskas",
@@ -2817,13 +2824,6 @@
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12 (302 kab.), 44279 Kaunas"
-        },
-        {
-          "Vardas, pavardė": "Vytautas Januška",
-          "Pareigos": "Skyriaus vedėjas (l. e. p.)",
-          "Tel. numeris": "+370 700 02022",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12 (303 kab.), 44279 Kaunas"
         }
       ]
     },
@@ -3035,13 +3035,6 @@
       "Pavadinimas": "Gargždų aplinkos apsaugos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Antanas Leščauskas",
-          "Pareigos": "Vyresnysis specialistas",
-          "Tel. numeris": "+370 700 02022",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Lokystos g. 36, 75136 Šilalė"
-        },
-        {
           "Vardas, pavardė": "Gintarė Granickienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 700 02022",
@@ -3060,7 +3053,7 @@
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
+          "Kabinetas": "Kvietinių g. 8, 96140 Gargždai"
         },
         {
           "Vardas, pavardė": "Rima Mikaliūnienė",
@@ -3650,6 +3643,13 @@
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
           "Kabinetas": "M. K. Čiurlionio g. 3 (2.4 kab.), 76303 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Vytautas Januška",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Maironio g. 7, 60126 Raseiniai"
         }
       ]
     },

@@ -948,6 +948,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Donata Cibulskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 220",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Edgaras Valaitis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 355",
@@ -1407,14 +1413,8 @@
         },
         {
           "Vardas, pavardė": "Gabrielė Valentaitė",
-          "Pareigos": "Skyriaus patarėja",
-          "Tel. numeris": "+370 706 85 114",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Giedrė Leimontaitė-Mačiulienė",
           "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 706 85 064",
+          "Tel. numeris": "+370 706 85 114",
           "El. paštas": "[email protected]"
         },
         {
@@ -1540,6 +1540,12 @@
           "Vardas, pavardė": "Irėna Kuprijan",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 848",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Irma Lenortavičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 86 195",
           "El. paštas": "[email protected]"
         },
         {
@@ -1737,12 +1743,6 @@
           "Vardas, pavardė": "Diana Jančienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 212",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Donata Cibulskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 220",
           "El. paštas": "[email protected]"
         },
         {
@@ -2010,12 +2010,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Sandra Kunigonė",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "+370 706 85 380",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Tadas Pileckas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 575",
@@ -2186,6 +2180,12 @@
           "Vardas, pavardė": "Justinas Knieža",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 534",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Karolina Sipavičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -2443,6 +2443,12 @@
           "Vardas, pavardė": "Kristina Margienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 485",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Lina Vikrauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {
@@ -2835,12 +2841,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Viktorija Žalkauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 691",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Violeta Matevičienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 706 85 243",
@@ -2932,6 +2932,12 @@
         {
           "Vardas, pavardė": "Neringa Murzienė",
           "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vidas Gackas",
+          "Pareigos": "Skyriaus patarėjas",
           "Tel. numeris": "",
           "El. paštas": "[email protected]"
         }
