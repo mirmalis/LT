@@ -35,7 +35,7 @@
         {
           "Vardas, pavardė": "Jekaterina Navickė",
           "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 659 24792",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vivulskio g. 11, 303 kab."
         },
@@ -45,6 +45,13 @@
           "Tel. numeris": "+370 706 64220",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vivulskio g. 11, 324 kab."
+        },
+        {
+          "Vardas, pavardė": "Justinas Argustas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 640 16 081",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "A. Vivulskio g. 11, 315 kab."
         },
         {
           "Vardas, pavardė": "Rita Grigalienė",
@@ -130,13 +137,6 @@
           "Vardas, pavardė": "Aušra Januškevičiūtė",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 667 10704",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 306 kab."
-        },
-        {
-          "Vardas, pavardė": "Donata Šlekytė-Rustamovė",
-          "Pareigos": "Vyresnioji patarėja (pasirengimas ES Tarybos posėdžiams, Lietuvos pozicijų rengimas, ES teisės aktų bei kitų dokumentų projektų rengimo, svarstymo ir priėmimo ES institucijose stebėsena)",
-          "Tel. numeris": "+370 696 06651",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 306 kab."
         },
@@ -721,13 +721,6 @@
       "Pavadinimas": "Viešųjų pirkimų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Jūratė Barzdaitienė",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 635 82904",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 206 kab."
-        },
-        {
           "Vardas, pavardė": "Laima Indrelienė",
           "Pareigos": "Vyriausioji specialistė (viešųjų pirkimų klausimai)",
           "Tel. numeris": "+370 658 59302",
@@ -920,13 +913,6 @@
     {
       "Pavadinimas": "Prevencijos skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Arūnas Staknys",
-          "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "+370 659 24780",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 212 kab."
-        },
         {
           "Vardas, pavardė": "Stasė Kazlauskienė",
           "Pareigos": "Vedėja (skyriaus veiklos administravimas)",
@@ -1687,10 +1673,17 @@
         },
         {
           "Vardas, pavardė": "Inga Liubertė",
-          "Pareigos": "Vyresnioji patarėja, laikinai atliekanti grupės vadovo funkcijas",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 620 18597",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 104 kab."
+        },
+        {
+          "Vardas, pavardė": "Kristina Maksvytienė",
+          "Pareigos": "Grupės vadovė",
+          "Tel. numeris": "+370 690 41845",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 13, 304 kab."
         },
         {
           "Vardas, pavardė": "Milda Kojelienė",

@@ -5,6 +5,18 @@
       "Pavadinimas": "Lietuvos Respublikos energetikos ministerija",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Airidas Daukšas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 5 203 4424",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Edita Gudauskienė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 5 203 4424",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Erika Bružienė (atsakinga už ministro darbo organizavimą)",
           "Pareigos": "Vyriausioji  specialistė",
           "Tel. numeris": "+370 5 2034407; +37067510660",
@@ -14,6 +26,12 @@
           "Vardas, pavardė": "Rasa Komarovskienė (atsakinga už viceministrų ir kanclerės darbo organizavimą)",
           "Pareigos": "Referentė",
           "Tel. numeris": "+370 5 203 4424",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Renata Surovec",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+37067197293",
           "El. paštas": "[email protected]"
         },
         {
@@ -490,6 +508,12 @@
     {
       "Pavadinimas": "Tarptautinio bendradarbiavimo grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gabrielė Blikertaitė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+37060246702",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Ilona Jančienė",
           "Pareigos": "Vyriausioji specialistė",

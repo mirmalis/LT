@@ -13,22 +13,6 @@
           "Kabinetas": "229"
         },
         {
-          "Vardas, pavardė": "Ana Burkovskienė",
-          "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+370 5 2717203",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "200"
-        },
-        {
-          "Vardas, pavardė": "Andrejus Junda",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 5 2717208",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "229"
-        },
-        {
           "Vardas, pavardė": "Dalius Kuliešius",
           "Pareigos": "Ministerijos kancleris",
           "Tel. numeris": "+370 5 2717202",
@@ -61,14 +45,6 @@
           "Kabinetas": "222"
         },
         {
-          "Vardas, pavardė": "Rytis Gasparavičius",
-          "Pareigos": "Ministerijos vyriausiasis patarėjas",
-          "Tel. numeris": "+370 5 2717211",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "221"
-        },
-        {
           "Vardas, pavardė": "Sandra Peleckienė",
           "Pareigos": "Referentė",
           "Tel. numeris": "+370 5 2717201",
@@ -91,6 +67,48 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "224"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministro patarėjai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Ana Burkovskienė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 5 2717203",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "200"
+        },
+        {
+          "Vardas, pavardė": "Andrejus Junda",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 5 2717208",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "229"
+        },
+        {
+          "Vardas, pavardė": "Saulius Petrauskas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 5 2717214",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "225"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministerijos patarėjai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Rytis Gasparavičius",
+          "Pareigos": "Ministerijos vyriausiasis patarėjas",
+          "Tel. numeris": "+370 5 2717211",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "221"
         }
       ]
     },
@@ -145,35 +163,6 @@
       ]
     },
     {
-      "Pavadinimas": "Strateginės komunikacijos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Božena Zaborovska-Zdanovič",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 2718396",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "231"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Bajarūnas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 5 2718234",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "231"
-        },
-        {
-          "Vardas, pavardė": "Renata Remeikaitė-Gaidamavičė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 2718421",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "231"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Strateginių sprendimų paramos grupė",
       "Darbuotojai": [
         {
@@ -207,14 +196,35 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "308"
-        },
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Strateginės komunikacijos skyrius",
+      "Darbuotojai": [
         {
-          "Vardas, pavardė": "Vytautas Krasauskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 5 2717370",
+          "Vardas, pavardė": "Božena Zaborovska-Zdanovič",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 2718396",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "308"
+          "Kabinetas": "231"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Bajarūnas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 5 2718234",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "231"
+        },
+        {
+          "Vardas, pavardė": "Renata Remeikaitė-Gaidamavičė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 2718421",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "231"
         }
       ]
     },

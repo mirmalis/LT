@@ -40,6 +40,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Povilas Poderskis",
+          "Pareigos": "Ministerijos kancleris",
+          "Tel. numeris": "+370 678 34065",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Raimondas Sakalauskas",
           "Pareigos": "Vyr. patarėjas, atliekantis ministerijos parengties pareigūno funkcijas",
           "Tel. numeris": "+370 686 00052",
@@ -384,14 +391,14 @@
       "Pavadinimas": "Bendrieji atliekų  ir atskirų atliekų srautų (tekstilės, statybinių ir pelenų) tvarkymo klausimai",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aistė Rakauskienė (atliekų nebelaikymo atliekomis, šalutinių produktų, tekstilės atliekų klausimai)",
+          "Vardas, pavardė": "Aistė Rakauskienė (atliekų nebelaikymo atliekomis, šalutinių produktų, tekstilės atliekų, statybinių ir medienos atliekų klausimai)",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 696 80518",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Danguolė Kazlauskienė (leidimų atliekų apdorojimui, atliekų naudojimo ir šalinimo techninio reglamento, atliekų apskaitos,  atliekų deginimo reikalavimų klausimai)",
+          "Vardas, pavardė": "Danguolė Kazlauskienė (leidimų atliekų apdorojimui, atliekų naudojimo ir šalinimo techninio reglamento, atliekų apskaitos,  atliekų deginimo reikalavimų, pavojingų ir medicininių atliekų klausimai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 696 52058",
           "El. paštas": "[email protected]",
@@ -991,13 +998,6 @@
           "Kabinetas": "109"
         },
         {
-          "Vardas, pavardė": "Elena Auglienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 645 22458",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
           "Vardas, pavardė": "Paulius Žvirblis (kuro ir kitas deginimas, kietojo kuro kokybė, benzino saugojimas ir paskirstymas, AEI naudojimas)",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 695 28551",
@@ -1008,6 +1008,13 @@
           "Vardas, pavardė": "Renata Gagienė (transportas, birios palaidos kietosios medžiagos, degalų ir skystojo kuro kokybė)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 41940",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Viktorija Krastinytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 664 78904",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -1090,6 +1097,13 @@
           "Tel. numeris": "+370 698 15052",
           "El. paštas": "[email protected]",
           "Kabinetas": "316"
+        },
+        {
+          "Vardas, pavardė": "Vaiva Ramanauskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 695 43220",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Valentina Tuskenytė (požeminio vandens ir užterštų teritorijų klausimai)",
@@ -1617,6 +1631,13 @@
           "Tel. numeris": "+370 616 87028",
           "El. paštas": "[email protected]",
           "Kabinetas": "417"
+        },
+        {
+          "Vardas, pavardė": "Rūta Slidžiauskaitė-Maskoliūnė (vykdanti Korupcijos prevencijos ir vidaus tyrimų skyriaus vedėjo funkcijas)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 648 76041",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -1669,6 +1690,13 @@
           "Tel. numeris": "+370 618 12760",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Karolis Kinčius (vykdantis Strateginio valdymo ir investicijų departamento direktoriaus funkcijas)",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 696 77428",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -1676,7 +1704,7 @@
       "Pavadinimas": "Darnaus vystymosi ir žaliosios transformacijos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Grėtė Lelė",
+          "Vardas, pavardė": "Grėtė Lelė (Aplinkosauginiai mokesčiai ir žalieji finansai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 49553",
           "El. paštas": "[email protected]",

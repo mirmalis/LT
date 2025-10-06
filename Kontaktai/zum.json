@@ -7,9 +7,35 @@
         {
           "Vardas, pavardė": "Andrius Palionis",
           "Pareigos": "Ministras",
-          "Tel. numeris": "",
+          "Tel. numeris": "+37052391 000",
           "El. paštas": "[email protected]",
           "Kabinetas": "277"
+        },
+        {
+          "Vardas, pavardė": "Arūnas Jagminas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+37052391 005",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "387"
+        },
+        {
+          "Vardas, pavardė": "Gediminas Tamašauskis",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+37052391 007",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "383"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Ministro kabinetas",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Genadijus Vorobjovas",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+37052391 046",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "284"
         }
       ]
     },
@@ -33,7 +59,7 @@
         {
           "Vardas, pavardė": "Valdas Janonis",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+37052391057",
           "El. paštas": "[email protected]",
           "Kabinetas": "275"
         }
@@ -73,7 +99,7 @@
         {
           "Vardas, pavardė": "Ieva Žundienė",
           "Pareigos": "Žuvininkystės atašė Lietuvos nuolatinėje atstovybėje ES",
-          "Tel. numeris": "",
+          "Tel. numeris": "+32478790814",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -1118,7 +1144,7 @@
         {
           "Vardas, pavardė": "Joana Žemaitienė",
           "Pareigos": "Patarėja (ŽF 2014-2020)",
-          "Tel. numeris": "3+7052398426",
+          "Tel. numeris": "+37052398426",
           "El. paštas": "[email protected]",
           "Kabinetas": "427"
         },
@@ -1679,8 +1705,8 @@
         {
           "Vardas, pavardė": "Danguolė Starkuvienė",
           "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "",
-          "El. paštas": "",
+          "Tel. numeris": "+37052391018",
+          "El. paštas": "[email protected]",
           "Kabinetas": "166"
         },
         {
