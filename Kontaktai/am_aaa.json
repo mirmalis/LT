@@ -133,7 +133,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aldona Teresė Kučinskienė",
-          "Pareigos": "Skyriaus vedėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 686 17545",
           "El. paštas": "[email protected]",
           "Kabinetas": "513 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
@@ -153,13 +153,6 @@
           "Kabinetas": "903 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
-          "Vardas, pavardė": "Giedrius Baliūnas (Licencijuotos organizacijos, ekologinis ženklas, EMAS, atranka dėl PAV, atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimas)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 657 15489",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta, Marijampolė"
-        },
-        {
           "Vardas, pavardė": "Jurgita Baronaitė (korupcijos prevencija, teisės aktų projektų antikorupcinis vertinimas, viešųjų ir privačių interesų derinimas)",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 661 04225",
@@ -167,8 +160,8 @@
           "Kabinetas": "903 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
-          "Vardas, pavardė": "Lina Montvilė (Gyvosios gamtos leidimai; Želdynų projektų rengimo vadovo atestatai, želdynų ir želdinių eksperto kvalifikacijos atestatai, TIPK, TL)",
-          "Pareigos": "Vyriausioji specialistė",
+          "Vardas, pavardė": "Lina Montvilė",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 601 23192",
           "El. paštas": "[email protected]",
           "Kabinetas": "21 kab. Dariaus ir Girėno g. 4, LT-68176 Marijampolė"
@@ -336,6 +329,13 @@
           "Kabinetas": "510 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
+          "Vardas, pavardė": "Aistė Aivižienienė (Duomenų teikimas apie cheminės medžiagas ir mišinius į informacinę sistemą AIVIKS)",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 602 409 34",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "510 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Beata Volujevič (REACH reglamentas. CLP reglamentas. Gyvsidabrio reglamentas. Organinius tirpiklius naudojantys įrenginiai)",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 661 74275",
@@ -368,7 +368,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 601 24121",
           "El. paštas": "[email protected]",
-          "Kabinetas": "A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+          "Kabinetas": "510 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
           "Vardas, pavardė": "Žilvinas Užomeckas (REACH reglamentas. CLP reglamentas. Saugos duomenų lapai (SDL). Cheminių medžiagų ir mišinių klasifikavimas)",
@@ -970,6 +970,13 @@
           "Kabinetas": "Nuotolinė darbo vieta"
         },
         {
+          "Vardas, pavardė": "Deimantė Sokaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "913 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Diana Kuzabavičienė (PAV. Statinio projekto sprendiniai. Teritorijų planavimas. Strateginis pasekmių aplinkai vertinimas)",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 661 29280",
@@ -1126,6 +1133,13 @@
     {
       "Pavadinimas": "Atliekų prevencijos skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alina Antanevičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 602 41088",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "21 kab. Dariaus ir Girėno g. 4, LT-68176 Marijampolė"
+        },
         {
           "Vardas, pavardė": "Asta Brusokienė (Taršos leidimų išdavimas, pakeitimas, tikslinimas. PAV atliekų prevencijos dokumentų nagrinėjimas)",
           "Pareigos": "Vyriausioji specialistė",
@@ -1889,6 +1903,13 @@
           "Tel. numeris": "+370 601 22084",
           "El. paštas": "[email protected]",
           "Kabinetas": "4 kab. Aušros al. 29a, LT-76300 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Rugilė Armalytė (Tyrimų atlikimas)",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 602 40952",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "LP206 kab. Taikos pr. 26, LT-91222 Klaipėda"
         },
         {
           "Vardas, pavardė": "Simona Kriaučiūnaitė (Tyrimų atlikimas, laboratorijų kontrolė)",

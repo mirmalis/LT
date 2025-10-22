@@ -12,13 +12,6 @@
           "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
         },
         {
-          "Vardas, pavardė": "- -",
-          "Pareigos": "Kancleris",
-          "Tel. numeris": "+370 700 02022",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
-        },
-        {
           "Vardas, pavardė": "Eglė Paužuolienė",
           "Pareigos": "Direktorė (laikinai atliekanti funkcijas)",
           "Tel. numeris": "+370 700 02022",
@@ -31,6 +24,13 @@
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15 (106 kab.), 03201 Vilnius"
+        },
+        {
+          "Vardas, pavardė": "Rūta Slidžiauskaitė-Maskoliūnė",
+          "Pareigos": "Kanclerė",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Smolensko g. 15, 03201 Vilnius"
         }
       ]
     },
@@ -1022,6 +1022,13 @@
           "Kabinetas": "Rotušės a. 12 (102 kab.), 44279 Kaunas"
         },
         {
+          "Vardas, pavardė": "Evaldas Senkus",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Dariaus ir Girėno g. 4 (23 kab.), 68176 Marijampolė"
+        },
+        {
           "Vardas, pavardė": "Jonas Vilkaitis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 700 02022",
@@ -1319,7 +1326,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15A (303 kab.), 03201 Vilnius"
+          "Kabinetas": "Žemaitės g. 6 (210 kab.), 03117 Vilnius"
         },
         {
           "Vardas, pavardė": "Donata Gureckytė",
@@ -1347,7 +1354,7 @@
           "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
-          "Kabinetas": "Smolensko g. 15A (303 kab.), 03201 Vilnius"
+          "Kabinetas": "Žemaitės g. 6 (210 kab.), 03117 Vilnius"
         },
         {
           "Vardas, pavardė": "Sigitas Mikėnas",
@@ -1684,6 +1691,13 @@
           "Tel. numeris": "+370 686 07297",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kauno g. 21, 55177 Jonava"
+        },
+        {
+          "Vardas, pavardė": "Aurelija Markutė",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Birutės g. 16, 91204 Klaipėda"
         },
         {
           "Vardas, pavardė": "Daiva Mikšytė",
@@ -2052,7 +2066,7 @@
         {
           "Vardas, pavardė": "Jurgita Sarokina",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
         },
@@ -2066,7 +2080,7 @@
         {
           "Vardas, pavardė": "Saulius Tarasevičius",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 627 54687",
+          "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
         },
@@ -2094,14 +2108,14 @@
         {
           "Vardas, pavardė": "Virgilijus Dansevičius",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 614 69176",
+          "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
         },
         {
           "Vardas, pavardė": "Virginijus Dastikas",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 700 02022",
+          "Tel. numeris": "–",
           "El. paštas": "[email protected]",
           "Kabinetas": "Smolensko g. 15B (102 kab.), 03201 Vilnius"
         }
@@ -2219,18 +2233,18 @@
           "Kabinetas": "Kauno g. 69, 62107 Alytus"
         },
         {
-          "Vardas, pavardė": "Gintarė Slapšinskė (dokumentų valdymo klausimai  Panevėžio regione)",
-          "Pareigos": "Vyresnioji specialistė",
-          "Tel. numeris": "+370 669 48975",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Žvaigždžių g. 21 (21 kab.), 37109 Panevėžys"
-        },
-        {
           "Vardas, pavardė": "Gita Gulbinienė  (dokumentų valdymo klausimai  Šiaulių regione)",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 659 89166",
           "El. paštas": "[email protected]",
           "Kabinetas": "M. K. Čiurlionio g. 3 (2.2 kab.), 76303 Šiauliai"
+        },
+        {
+          "Vardas, pavardė": "Justina Vilčinskienė (dokumentų valdymo klausimai  Panevėžio regione)",
+          "Pareigos": "Vyresnioji specialistė",
+          "Tel. numeris": "+370 669 48975",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Žvaigždžių g. 21 (21 kab.), 37109 Panevėžys"
         },
         {
           "Vardas, pavardė": "Laima Maniušienė (dokumentų valdymo klausimai  Utenos regione)",
@@ -2477,13 +2491,6 @@
           "Tel. numeris": "+370 612 19537",
           "El. paštas": "[email protected]",
           "Kabinetas": "Nuotolinė darbo vieta"
-        },
-        {
-          "Vardas, pavardė": "Loreta Starovoitova",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 680 91131",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "M. K. Čiurlionio g. 3, 76303 Šiauliai"
         },
         {
           "Vardas, pavardė": "Ramutė Juravičiūtė",
@@ -2754,13 +2761,6 @@
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kauno g. 21, 55177 Jonava"
-        },
-        {
-          "Vardas, pavardė": "Justina Žalkauskaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 700 02022",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Rotušės a. 12, 44279 Kaunas"
         },
         {
           "Vardas, pavardė": "Lina Stulginskienė",

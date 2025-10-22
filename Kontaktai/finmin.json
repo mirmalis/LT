@@ -47,11 +47,25 @@
           "Kabinetas": "333"
         },
         {
+          "Vardas, pavardė": "Indrė Vareikytė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+37069031943",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "320"
+        },
+        {
           "Vardas, pavardė": "Januš Kizenevič",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+37069842108",
           "El. paštas": "[email protected]",
           "Kabinetas": "335"
+        },
+        {
+          "Vardas, pavardė": "Julius Janulevičius",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+37060792080",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "320"
         },
         {
           "Vardas, pavardė": "Kęstutis Kvaraciejus",
@@ -198,6 +212,13 @@
           "Tel. numeris": "+37069032146",
           "El. paštas": "[email protected]",
           "Kabinetas": "410"
+        },
+        {
+          "Vardas, pavardė": "Božena Balkė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37069031953",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "423"
         },
         {
           "Vardas, pavardė": "Dalia Laniauskaitė",
@@ -385,6 +406,13 @@
     {
       "Pavadinimas": "Likvidumo ir rizikų valdymo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Doroševienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37069031973",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "245"
+        },
         {
           "Vardas, pavardė": "Daiva Raščiauskaitė",
           "Pareigos": "Skyriaus vedėja",
@@ -893,13 +921,6 @@
     {
       "Pavadinimas": "Audito, turto vertinimo ir nemokumo valdymo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Božena Balkė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069031953",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "246"
-        },
         {
           "Vardas, pavardė": "Daina Mazuronytė",
           "Pareigos": "Vyriausioji specialistė",
@@ -1749,13 +1770,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Eurika Norkienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069032187",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "105"
-        },
-        {
           "Vardas, pavardė": "Gailutė Balčienė",
           "Pareigos": "Vyresnysis specialistas",
           "Tel. numeris": "+37069032125",
@@ -2129,13 +2143,6 @@
           "Kabinetas": "431"
         },
         {
-          "Vardas, pavardė": "Arminas Stočkus",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37065878045",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "431"
-        },
-        {
           "Vardas, pavardė": "Ieva Sinkevičiūtė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37064167154",
@@ -2215,13 +2222,6 @@
     {
       "Pavadinimas": "Valdymo ir kontrolės sistemų priežiūros skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Beatričė Jasinskaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37063631366",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "454"
-        },
         {
           "Vardas, pavardė": "Dovilė Katinienė",
           "Pareigos": "Patarėja",
@@ -2470,13 +2470,6 @@
           "Vardas, pavardė": "Raimonda Vainalavičiūtė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37069032027",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "533"
-        },
-        {
-          "Vardas, pavardė": "Rita Šniukienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069032094",
           "El. paštas": "[email protected]",
           "Kabinetas": "533"
         },
@@ -2804,13 +2797,6 @@
           "Tel. numeris": "+37065059484",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Asta Doroševienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069031973",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "117"
         },
         {
           "Vardas, pavardė": "Asta Kazlauskienė",

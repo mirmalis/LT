@@ -11,16 +11,28 @@
           "Kabinetas": "217"
         },
         {
+          "Vardas, pavardė": "Algirdas Pieniuta",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 685 42889",
+          "Kabinetas": "239"
+        },
+        {
           "Vardas, pavardė": "Aušra Siniuvienė",
           "Pareigos": "Vyriausioji specialistė (referentė)",
           "Tel. numeris": "+370 633 35244",
           "Kabinetas": "214"
         },
         {
+          "Vardas, pavardė": "Dovilė Sujetaitė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 673 18625",
+          "Kabinetas": "207"
+        },
+        {
           "Vardas, pavardė": "Irena Žilinskaitė",
           "Pareigos": "Vyriausioji specialistė (referentė)",
           "Tel. numeris": "+370 673 18625",
-          "Kabinetas": "202"
+          "Kabinetas": "206"
         },
         {
           "Vardas, pavardė": "Juras Taminskas",
@@ -44,7 +56,7 @@
           "Vardas, pavardė": "Rūta Kačerauskienė",
           "Pareigos": "Vyriausioji specialistė (referentė)",
           "Tel. numeris": "+370 614 31308",
-          "Kabinetas": "206"
+          "Kabinetas": "202"
         },
         {
           "Vardas, pavardė": "Tomas Daukantas",
@@ -287,7 +299,7 @@
         },
         {
           "Vardas, pavardė": "Sergėjus Volkovas",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnysis patarėjas (turintis pavaldžių)",
           "Tel. numeris": "+370 633 44581",
           "Kabinetas": "232"
         },
@@ -322,7 +334,7 @@
         },
         {
           "Vardas, pavardė": "Stanislovas Lingys",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnysis patarėjas (turintis pavaldžių)",
           "Tel. numeris": "+370 641 67211",
           "Kabinetas": "230"
         }
@@ -333,7 +345,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Gintaras Pilipavičius",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyresnysis patarėjas (turintis pavaldžių)",
           "Tel. numeris": "+370 610 97334",
           "Kabinetas": "233"
         },
@@ -729,12 +741,6 @@
       "Pavadinimas": "Pašto srities klausimai",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Eglė Sikorskaitė-Narkun",
-          "Pareigos": "Vyresnioji patarėja",
-          "Tel. numeris": "+370 660 31986",
-          "Kabinetas": "236"
-        },
-        {
           "Vardas, pavardė": "Gerda Vaikšnoraitė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 690 90416",
@@ -1000,12 +1006,6 @@
           "Vardas, pavardė": "Jurgita Krejerienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 671 27296",
-          "Kabinetas": "102"
-        },
-        {
-          "Vardas, pavardė": "Kamilė Lasevičienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 690 30520",
           "Kabinetas": "102"
         },
         {

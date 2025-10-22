@@ -127,12 +127,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Lina Zimnickienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 6 378 6078",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Nerija Kaulakienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 219 3333",
@@ -142,12 +136,6 @@
           "Vardas, pavardė": "Ugnė Justaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 266 1415",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Valda Dirginčienė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 5 213  0734",
           "El. paštas": "[email protected]"
         }
       ]
@@ -332,6 +320,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Milda Kriščiliūnaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 211 1561",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Vilija Kondrotienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 205 5287",
@@ -451,12 +445,6 @@
           "Vardas, pavardė": "Audronė Astrauskienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 5 219 3349",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Galina Zagrebnevienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 219 3324",
           "El. paštas": "[email protected]"
         },
         {
@@ -1046,6 +1034,12 @@
       "Pavadinimas": "Finansų valdymo ir kontrolės skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aliona Matusevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 260 4896",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Dmitrij Košel",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 6 599 8951",
@@ -1061,12 +1055,6 @@
           "Vardas, pavardė": "Ilona Palmira Pranevičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 260 4894",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jolanta Ptakauskienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 260 4710",
           "El. paštas": "[email protected]"
         },
         {
@@ -1096,6 +1084,12 @@
           "Vardas, pavardė": "Ilona Truchina",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 6 530 6132",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Kristina Liubkevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 5 210 9661",
           "El. paštas": "[email protected]"
         },
         {
@@ -1131,6 +1125,12 @@
           "Vardas, pavardė": "Justė Pečeliūnaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1419",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Karina Masoit",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 210 9666",
           "El. paštas": "[email protected]"
         }
       ]
@@ -1269,6 +1269,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Jolanta Ptakauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 260 4710",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Justinas Siaurusevičius",
           "Pareigos": "Vyriausiasis specialistas (IT klausimams)",
           "Tel. numeris": "+370 5 266 1475",
@@ -1290,6 +1296,12 @@
           "Vardas, pavardė": "Mantas Matkėnas",
           "Pareigos": "Vyriausiasis specialistas (IT klausimams)",
           "Tel. numeris": "+370 5 260 4700",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Marius Juknevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 5 260 4701",
           "El. paštas": "[email protected]"
         },
         {

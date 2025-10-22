@@ -12,6 +12,13 @@
           "Kabinetas": "277"
         },
         {
+          "Vardas, pavardė": "Artūras Pekauskas",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Arūnas Jagminas",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+37052391 005",
@@ -22,8 +29,15 @@
           "Vardas, pavardė": "Gediminas Tamašauskis",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+37052391 007",
-          "El. paštas": "[email protected]",
+          "El. paštas": "gediminas.tamaš[email protected]",
           "Kabinetas": "383"
+        },
+        {
+          "Vardas, pavardė": "Ramūnas Krugelis",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+37052391 002",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "286"
         }
       ]
     },
@@ -35,7 +49,14 @@
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+37052391 046",
           "El. paštas": "[email protected]",
-          "Kabinetas": "284"
+          "Kabinetas": "393"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Petkevičius",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+37052391 040",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "269"
         }
       ]
     },
@@ -59,7 +80,7 @@
         {
           "Vardas, pavardė": "Valdas Janonis",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37052391057",
+          "Tel. numeris": "+37052391 057",
           "El. paštas": "[email protected]",
           "Kabinetas": "275"
         }
@@ -245,13 +266,6 @@
           "Tel. numeris": "+37052398464",
           "El. paštas": "[email protected]",
           "Kabinetas": "517"
-        },
-        {
-          "Vardas, pavardė": "Miglė Tumonytė",
-          "Pareigos": "Patarėja (SP 2023-2027)",
-          "Tel. numeris": "+37052391258",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "515"
         },
         {
           "Vardas, pavardė": "Natalija Šukeloic",
@@ -675,6 +689,13 @@
           "Tel. numeris": "+370 687 60292",
           "El. paštas": "[email protected]",
           "Kabinetas": "248"
+        },
+        {
+          "Vardas, pavardė": "Greta Butkienė",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+37066470945",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "215"
         },
         {
           "Vardas, pavardė": "Palmira Petniūnienė",
@@ -1828,13 +1849,6 @@
           "Vardas, pavardė": "Aurelijus Mačiulaitis",
           "Pareigos": "Patarėjas (KPP 2014-2020)",
           "Tel. numeris": "+37052391275",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "215"
-        },
-        {
-          "Vardas, pavardė": "Greta Butkienė",
-          "Pareigos": "Patarėja (KPP 2014-2020)",
-          "Tel. numeris": "+37066470945",
           "El. paštas": "[email protected]",
           "Kabinetas": "215"
         },
