@@ -96,14 +96,6 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "233"
-        },
-        {
-          "Vardas, pavardė": "Saulius Petrauskas",
-          "Pareigos": "Ministro patarėjas",
-          "Tel. numeris": "+370 5 2717214",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "225"
         }
       ]
     },
@@ -239,6 +231,14 @@
     {
       "Pavadinimas": "Tarptautinio bendradarbiavimo grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aušridas Bakšanskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 5 2718491",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "319"
+        },
         {
           "Vardas, pavardė": "Irina Valiulienė",
           "Pareigos": "Patarėja",
@@ -379,6 +379,14 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "365"
+        },
+        {
+          "Vardas, pavardė": "Jevgenijus Kuzma",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 5 2717292",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "357"
         },
         {
           "Vardas, pavardė": "Jurgita Laskevičiūtė",

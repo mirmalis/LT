@@ -230,12 +230,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jurgita Masalskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 111",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Justina Karalytė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
@@ -444,8 +438,14 @@
       "Pavadinimas": "Viešųjų ryšių skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Loreta Pilkienė",
+          "Pareigos": "Skyriaus patarėja, atliekanti vedėjo funkcijas",
+          "Tel. numeris": "+370 706 86 112",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Mantas Brazdžionis",
-          "Pareigos": "Vyriausiasis specialistas, atliekantis vedėjo funkcijas",
+          "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 081",
           "El. paštas": "[email protected]"
         },
@@ -2933,12 +2933,6 @@
           "Vardas, pavardė": "Loreta Markevičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 099",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Naglis Šyvis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 706 85 057",
           "El. paštas": "[email protected]"
         },
         {

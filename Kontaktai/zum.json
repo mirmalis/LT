@@ -14,9 +14,9 @@
         {
           "Vardas, pavardė": "Artūras Pekauskas",
           "Pareigos": "Viceministras",
-          "Tel. numeris": "",
+          "Tel. numeris": "+37052391 004",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "281"
         },
         {
           "Vardas, pavardė": "Arūnas Jagminas",
@@ -29,7 +29,7 @@
           "Vardas, pavardė": "Gediminas Tamašauskis",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+37052391 007",
-          "El. paštas": "gediminas.tamaš[email protected]",
+          "El. paštas": "[email protected]",
           "Kabinetas": "383"
         },
         {
@@ -1545,23 +1545,23 @@
         {
           "Vardas, pavardė": "Eglė Šmitaitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391001",
-          "El. paštas": "[email protected];",
+          "Tel. numeris": "+37052391003",
+          "El. paštas": "[email protected]",
           "Kabinetas": "284"
         },
         {
           "Vardas, pavardė": "Giedrė Gricienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391216",
+          "Tel. numeris": "+37052391008",
           "El. paštas": "[email protected]",
-          "Kabinetas": "292"
+          "Kabinetas": "386"
         },
         {
           "Vardas, pavardė": "Jurga Falkauskienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391 008",
+          "Tel. numeris": "+37052391 006",
           "El. paštas": "[email protected]",
-          "Kabinetas": "387"
+          "Kabinetas": "282"
         },
         {
           "Vardas, pavardė": "Marytė Vitonienė",
@@ -1587,7 +1587,7 @@
         {
           "Vardas, pavardė": "Vaiva Adomaitienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391 003",
+          "Tel. numeris": "+37052391 001",
           "El. paštas": "[email protected]",
           "Kabinetas": "285"
         },
@@ -1674,8 +1674,8 @@
         {
           "Vardas, pavardė": "Robertas Pikšrys",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "",
-          "El. paštas": "",
+          "Tel. numeris": "+37061296098",
+          "El. paštas": "[email protected]",
           "Kabinetas": "K-304"
         },
         {
@@ -1725,7 +1725,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Danguolė Starkuvienė",
-          "Pareigos": "Skyriaus vedėja",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37052391018",
           "El. paštas": "[email protected]",
           "Kabinetas": "166"
@@ -1811,6 +1811,13 @@
           "Tel. numeris": "+37052391140",
           "El. paštas": "[email protected]",
           "Kabinetas": "255"
+        },
+        {
+          "Vardas, pavardė": "Rasa Mikolonienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37052391047",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "257"
         },
         {
           "Vardas, pavardė": "Šarūnė Šablevičienė",
@@ -1954,13 +1961,6 @@
           "Tel. numeris": "+37052391033",
           "El. paštas": "[email protected]",
           "Kabinetas": "214"
-        },
-        {
-          "Vardas, pavardė": "Rasa Mikolonienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37052391047",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "222"
         },
         {
           "Vardas, pavardė": "Vitalija Adomaitienė",

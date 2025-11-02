@@ -24,13 +24,6 @@
       "Pavadinimas": "Administravimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aivaras Bareikis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 37 282 244",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Aleksandr Minič",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 37 282 244",
@@ -109,13 +102,6 @@
         },
         {
           "Vardas, pavardė": "Sergėjus Gračiovas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 37 282 244",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vydas Ivanauskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 37 282 244",
           "El. paštas": "[email protected]",

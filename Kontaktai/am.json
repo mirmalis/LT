@@ -12,6 +12,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Akvilė Gargasaitė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+370 618 83498",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Arnas Liauksminas",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+32 473 852582",
@@ -29,6 +36,20 @@
           "Vardas, pavardė": "Česlava Lisovska",
           "Pareigos": "Viceministrė",
           "Tel. numeris": "+370 607 06074",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Edmundas Mačieža",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 699 95537",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Gediminas Žygelis",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 696 84706",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -69,7 +90,7 @@
         },
         {
           "Vardas, pavardė": "Ramunė Baniulienė",
-          "Pareigos": "Ministro patarėja",
+          "Pareigos": "Ministerijos patarėja",
           "Tel. numeris": "+370 687 17091",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -214,6 +235,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Domas Alekna",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 645 22458",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Marius Rimkevičius",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 620 61681",
@@ -246,13 +274,6 @@
     {
       "Pavadinimas": "Inovacijų ir statybos produktų klausimai",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Artūras Sakalauskas",
-          "Pareigos": "Vyresn. patarėjas",
-          "Tel. numeris": "+370 616 24872",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
         {
           "Vardas, pavardė": "Emanuelis Mituzas",
           "Pareigos": "Patarėjas",
@@ -1386,13 +1407,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Mykolas Lisoveckas",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 695 48936",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Rasa Šimaitienė (kalbos redaktorė)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 687 98259",
@@ -1599,6 +1613,13 @@
     {
       "Pavadinimas": "Europos Sąjungos ir tarptautinių ryšių skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Slapikaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 616 35652",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Eimantė Lastovkaitė",
           "Pareigos": "Vedėja",
