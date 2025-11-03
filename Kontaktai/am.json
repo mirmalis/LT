@@ -119,6 +119,18 @@
       ]
     },
     {
+      "Pavadinimas": "Ministro priimamasis",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Diana Stanelienė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 657 90673",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Aplinkos apsaugos politikos įgyvendinimo koordinavimo grupė",
       "Darbuotojai": [
         {
@@ -195,13 +207,6 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Donata Paulauskaitė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 696 82115",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Edvardas Minkevičius",
           "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 614 45323",
@@ -274,6 +279,13 @@
     {
       "Pavadinimas": "Inovacijų ir statybos produktų klausimai",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Donata Paulauskaitė (laikinai vykdanti vyrensiojo patarėjo funkcijas)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 696 82115",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Emanuelis Mituzas",
           "Pareigos": "Patarėjas",
@@ -1640,6 +1652,13 @@
           "Tel. numeris": "+370 696 86219",
           "El. paštas": "[email protected]",
           "Kabinetas": "313"
+        },
+        {
+          "Vardas, pavardė": "Jekaterina Dmitrijeva",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 614 93172",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Kazys Krištopaitis",

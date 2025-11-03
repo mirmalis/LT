@@ -669,6 +669,13 @@
       "Pavadinimas": "Ekonomikos departamentas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Edita Mitrienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 658 60243",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 304 kab."
+        },
+        {
           "Vardas, pavardė": "Jūratė Dringelienė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 659 24790",
@@ -768,13 +775,6 @@
           "Kabinetas": "A. Vivulskio g. 11, 313 kab."
         },
         {
-          "Vardas, pavardė": "Edita Mitrienė",
-          "Pareigos": "Patarėja (strateginis planavimas ir monitoringas)",
-          "Tel. numeris": "+370 658 60243",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 304 kab."
-        },
-        {
           "Vardas, pavardė": "Ramunė Germanienė",
           "Pareigos": "Vyresnioji patarėja (strateginė analizė ir prognozavimas), atliekanti skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 615 48241",
@@ -830,7 +830,7 @@
         },
         {
           "Vardas, pavardė": "Jolanta Kirvelaitienė",
-          "Pareigos": "Vyriausioji specialistė (ministerijos programų, jos administracijos padalinių ir jos valdymo srityje esančių įstaigų vidaus auditas)",
+          "Pareigos": "Patarėja (ministerijos programų, jos administracijos padalinių ir jos valdymo srityje esančių įstaigų vidaus auditas)",
           "Tel. numeris": "+370 658 60443",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 234 kab."
@@ -1356,7 +1356,7 @@
         },
         {
           "Vardas, pavardė": "Jovita Nedvecka",
-          "Pareigos": "Patarėja (globos centrų veiklos reglamentavimas, socialinių paslaugų srities darbuotojų darbo užmokesčio, atestacijos tvarkos, kvalifikacijos kėlimo koordinavimas)",
+          "Pareigos": "Vyresnioji patarėja (globos centrų veiklos reglamentavimas, socialinių paslaugų srities darbuotojų darbo užmokesčio, atestacijos tvarkos, kvalifikacijos kėlimo koordinavimas)",
           "Tel. numeris": "+370 649 56852",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 328 kab."
@@ -1960,7 +1960,7 @@
         },
         {
           "Vardas, pavardė": "Gabija Krasauskienė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 649 51957",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 230, 231, 232, 238 kab."
@@ -2002,10 +2002,10 @@
         },
         {
           "Vardas, pavardė": "Vilmantė Miškinytė",
-          "Pareigos": "Vyresnioji patarėja, laikinai atliekanti skyriaus vedėjo funkcijas",
+          "Pareigos": "Vedėja",
           "Tel. numeris": "+370 696 37724",
           "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 230, 231, 232, 238 kab."
+          "Kabinetas": "A. Vivulskio g. 11, 237 kab."
         }
       ]
     },

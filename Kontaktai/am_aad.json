@@ -361,13 +361,6 @@
       "Pavadinimas": "Atliekų tvarkymo kontrolės skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aistė Braziulienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 700 02022",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "Nuotolinė darbo vieta"
-        },
-        {
           "Vardas, pavardė": "Aldona Krikštaponienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 700 02022",
@@ -2172,6 +2165,13 @@
       "Pavadinimas": "Strategijos ir analizės skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aistė Braziulienė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Nuotolinė darbo vieta"
+        },
+        {
           "Vardas, pavardė": "Donatas Šimėnas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 665 14978",
@@ -2477,6 +2477,13 @@
           "Tel. numeris": "+370 661 89469",
           "El. paštas": "[email protected]",
           "Kabinetas": "Rotušės a. 12 (310 kab.), 44279 Kaunas"
+        },
+        {
+          "Vardas, pavardė": "Donatas Petkevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "M. K. Čiurlionio g. 3, 76303 Šiauliai"
         },
         {
           "Vardas, pavardė": "Egidijus Mačernis",
@@ -3096,6 +3103,13 @@
           "Tel. numeris": "+370 700 02022",
           "El. paštas": "[email protected]",
           "Kabinetas": "Kvietinių g. 8, 96140 Gargždai"
+        },
+        {
+          "Vardas, pavardė": "Živilė Montvilienė",
+          "Pareigos": "Vyresnysis specialistas",
+          "Tel. numeris": "+370 700 02022",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "Lokystos g. 36, 75136 Šilalė"
         }
       ]
     },
