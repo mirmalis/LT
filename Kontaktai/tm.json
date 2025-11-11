@@ -40,6 +40,13 @@
           "Kabinetas": "305"
         },
         {
+          "Vardas, pavardė": "Martynas Dobrovolskis",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+370 602 67271",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "309"
+        },
+        {
           "Vardas, pavardė": "Milena Gečis",
           "Pareigos": "Ministrės patarėja",
           "Tel. numeris": "+370 618 51230",
@@ -104,13 +111,6 @@
           "Tel. numeris": "+370 602 56238",
           "El. paštas": "[email protected]",
           "Kabinetas": "405"
-        },
-        {
-          "Vardas, pavardė": "Martynas Dobrovolskis",
-          "Pareigos": "Vyresnysis patarėjas (turintis pavaldžių)",
-          "Tel. numeris": "+370 602 67271",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "407"
         },
         {
           "Vardas, pavardė": "Samanta Ralė",
@@ -897,17 +897,10 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aliona Popova",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "L.e.p. skyriaus vedėja",
           "Tel. numeris": "+370 671 88249",
           "El. paštas": "[email protected]",
           "Kabinetas": "503"
-        },
-        {
-          "Vardas, pavardė": "Martynas Dobrovolskis",
-          "Pareigos": "L.e.p skyriaus vedėjas",
-          "Tel. numeris": "+370 602 67271",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "403"
         },
         {
           "Vardas, pavardė": "Rūta Bakševičienė",

@@ -52,6 +52,13 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Anna Kuznecovienė",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "313"
+        },
+        {
           "Vardas, pavardė": "Dalia Salapėtienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+37067306213",
@@ -59,18 +66,18 @@
           "Kabinetas": "300"
         },
         {
-          "Vardas, pavardė": "Raminta Popovienė",
-          "Pareigos": "Švietimo, mokslo ir sporto ministrė, einanti kultūros ministro pareigas,  kol bus paskirtas naujas kultūros ministras",
-          "Tel. numeris": "",
-          "El. paštas": "",
-          "Kabinetas": ""
+          "Vardas, pavardė": "Renata Kurmin",
+          "Pareigos": "Viceministrė",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "306"
         },
         {
-          "Vardas, pavardė": "Silvija Bunokė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37063316354",
+          "Vardas, pavardė": "Vaida Aleknavičienė",
+          "Pareigos": "Kultūros ministrė",
+          "Tel. numeris": "+37067973210",
           "El. paštas": "[email protected]",
-          "Kabinetas": "300"
+          "Kabinetas": "310"
         }
       ]
     },
@@ -647,10 +654,10 @@
         },
         {
           "Vardas, pavardė": "Virginijus Varnaitis",
-          "Pareigos": "Skyriaus vedėjas",
+          "Pareigos": "Teisės ir žmogiškųjų išteklių skyriaus vedėjas, atliekantis ministerijos kanclerio funkcijas",
           "Tel. numeris": "+37060843764",
           "El. paštas": "[email protected]",
-          "Kabinetas": "303"
+          "Kabinetas": "311"
         }
       ]
     },
@@ -747,13 +754,6 @@
           "Tel. numeris": "+37060845564",
           "El. paštas": "[email protected]",
           "Kabinetas": "117"
-        },
-        {
-          "Vardas, pavardė": "Silvija Bunokė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37063316354",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "300"
         },
         {
           "Vardas, pavardė": "Šarūnė Eimutytė-Česnavičienė",
