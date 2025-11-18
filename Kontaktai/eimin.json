@@ -29,6 +29,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Grigorij Žukovski",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+37065078141",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Guoda Burokienė",
           "Pareigos": "Viceministrė",
           "Tel. numeris": "+37069842438",
@@ -65,7 +71,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rugilė Augustaitytė",
+          "Vardas, pavardė": "Rugilė AugustaitytėKalendorius",
           "Pareigos": "Ministro patarėja",
           "Tel. numeris": "+37069118562",
           "El. paštas": "[email protected]"
@@ -187,7 +193,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rūta Abramaitienė",
+          "Vardas, pavardė": "Rūta AbramaitienėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065607919",
           "El. paštas": "[email protected]"
@@ -216,7 +222,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Gintarė Baranauskaitė",
+          "Vardas, pavardė": "Gintarė BaranauskaitėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37067196428",
           "El. paštas": "[email protected]"
@@ -257,7 +263,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Živilė Gegelytė",
+          "Vardas, pavardė": "Živilė GegelytėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37067277877",
           "El. paštas": "[email protected]"
@@ -350,7 +356,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Selija Levin",
+          "Vardas, pavardė": "Selija LevinKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37063079923",
           "El. paštas": "[email protected]"
@@ -397,13 +403,13 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Eglė Sakalauskaitė",
+          "Vardas, pavardė": "Eglė SakalauskaitėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37064014733",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Povilas Straševičius",
+          "Vardas, pavardė": "Povilas StraševičiusKalendorius",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37068520816",
           "El. paštas": "[email protected]"
@@ -701,7 +707,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Osvaldas Šmitas",
+          "Vardas, pavardė": "Osvaldas ŠmitasKalendorius",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+37069919945",
           "El. paštas": "[email protected]"
@@ -754,7 +760,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Justina Bielinytė",
+          "Vardas, pavardė": "Justina BielinytėKalendorius",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37065537376",
           "El. paštas": "[email protected]"
@@ -766,7 +772,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rūta Jovaišienė",
+          "Vardas, pavardė": "Rūta JovaišienėKalendorius",
           "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+37065993653",
           "El. paštas": "[email protected]"
@@ -852,12 +858,6 @@
       "Pavadinimas": "Inovacijų politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Arnas Barišauskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37068437339",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Aurelijus Leipus",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+37069136615",
@@ -894,8 +894,8 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Ugnė Širvinskaitė",
-          "Pareigos": "Vyresnioji patarėja, laikinai atliekanti grupės vadovo funkcijas",
+          "Vardas, pavardė": "Ugnė ŠirvinskaitėKalendorius",
+          "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+37069154091",
           "El. paštas": "[email protected]"
         }
@@ -1009,7 +1009,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Titas Budreika",
+          "Vardas, pavardė": "Titas BudreikaKalendorius",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+37069054265",
           "El. paštas": "[email protected]"
@@ -1026,7 +1026,7 @@
       "Pavadinimas": "Skaitmeninės politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aušra Kumetaitienė",
+          "Vardas, pavardė": "Aušra KumetaitienėKalendorius",
           "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+37061016325",
           "El. paštas": "[email protected]"
@@ -1096,19 +1096,19 @@
       "Pavadinimas": "Viešųjų pirkimų politikos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Dovilė Šacikauskė",
+          "Vardas, pavardė": "Dovilė ŠacikauskėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065284691",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jovita Lonienė",
+          "Vardas, pavardė": "Jovita LonienėKalendorius",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37066998612",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Rima Ambrazevičienė",
+          "Vardas, pavardė": "Rima AmbrazevičienėKalendorius",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37065023183",
           "El. paštas": "[email protected]"
@@ -1119,7 +1119,7 @@
       "Pavadinimas": "Pramonės politikos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Jurgita Žiemienė",
+          "Vardas, pavardė": "Jurgita ŽiemienėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065943122",
           "El. paštas": "[email protected]"
@@ -1141,12 +1141,6 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37065210425",
           "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Rasa Bručė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37066314898",
-          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -1154,7 +1148,7 @@
       "Pavadinimas": "Vidaus prekybos politikos skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Irena Mickevičiūtė",
+          "Vardas, pavardė": "Irena MickevičiūtėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065949321",
           "El. paštas": "[email protected]"

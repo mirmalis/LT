@@ -158,7 +158,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Raimondas Čiuplys (su specialiomis žemės naudojimo sąlygomis, natūralių pievų ir ganyklų, pelkių ir šaltinynų teritorijomis susiję klausimai)",
+          "Vardas, pavardė": "Raimondas Čiuplys (Gamtos atkūrimo reglamento klausimai)",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 696 76 652",
           "El. paštas": "[email protected]",
@@ -172,7 +172,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Rytas Papšys",
+          "Vardas, pavardė": "Rytas Papšys (laisvėje gyvenančių ir į laisvę išleistų stumbrų stebėsenos klausimai)",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 680 13120",
           "El. paštas": "[email protected]",
@@ -204,6 +204,13 @@
     {
       "Pavadinimas": "POVEIKIO APLINKAI VERTINIMO SKYRIUS",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aistė Vosilytė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Aušra Kamarauskaitė (buveinių apsaugai svarbių teritorijų apsaugos tikslų nustatymo, saugomų teritorijų ir „Natura 2000“ teritorijų atrankos, steigimo, planavimo dokumentų derinimo klausimai)",
           "Pareigos": "Vyr. specialistė",
@@ -562,10 +569,10 @@
       "Pavadinimas": "PROJEKTAS „SAUGOMŲ TERITORIJŲ PLANAVIMAS IR TVARKYMAS, EKOSISTEMŲ, BUVEINIŲ IR RŪŠIŲ GEROS BŪKLĖS PALAIKYMAS VISOJE LIETUVOS TERITORIJOJE\"",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Radvilė Markevičiūtė-Černiauskienė",
+          "Vardas, pavardė": "Radvilė Markevičiūtė-Černiauskienė (Gamtos atkūrimo reglamento klausimai)",
           "Pareigos": "Ekspertė",
           "Tel. numeris": "",
-          "El. paštas": "",
+          "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {

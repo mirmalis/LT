@@ -5,6 +5,12 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Audrius Gelžinis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Aušra Račkauskaitė",
           "Pareigos": "Teisės skyriaus vedėja, atliekanti kanclerio funkcijas",
           "Tel. numeris": "+370 706 85 050",
@@ -1376,6 +1382,12 @@
       "Pavadinimas": "Žemės tvarkymo ir administravimo veiklos koordinavimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Alisa Sobieska",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 143",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Arvydas Laimutis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 706 85 103",
@@ -1857,6 +1869,12 @@
           "Vardas, pavardė": "Jolanta Ražanauskaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 221",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jolita Danielienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]"
         },
         {

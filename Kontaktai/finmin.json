@@ -141,13 +141,6 @@
           "Kabinetas": "412"
         },
         {
-          "Vardas, pavardė": "Aušra Ugenskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069032098",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "412"
-        },
-        {
           "Vardas, pavardė": "Diana Dirgėlaitė-Uktverienė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37065886782",
@@ -355,6 +348,13 @@
           "Tel. numeris": "+37060792055",
           "El. paštas": "[email protected]",
           "Kabinetas": "414"
+        },
+        {
+          "Vardas, pavardė": "Zita Riševičienė",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37065878045",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "411"
         }
       ]
     },
@@ -2002,6 +2002,13 @@
           "Kabinetas": "439"
         },
         {
+          "Vardas, pavardė": "Laura Sabulienė",
+          "Pareigos": "Laikinai atliekanti Žaliųjų investicijų skyriaus vedėjo funkcijas",
+          "Tel. numeris": "+37069032151",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "439"
+        },
+        {
           "Vardas, pavardė": "Vilma Gelžinytė-Marcinkevičė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37069032126",
@@ -2176,6 +2183,13 @@
       "Pavadinimas": "Socialinių investicijų skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Aurelija Unguvaitienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37069032094",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "404"
+        },
+        {
           "Vardas, pavardė": "Banga Jovaišienė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37069032143",
@@ -2211,7 +2225,7 @@
           "Kabinetas": "403"
         },
         {
-          "Vardas, pavardė": "Violeta Važienė",
+          "Vardas, pavardė": "Violeta Andrijauskienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37066985209",
           "El. paštas": "[email protected]",
@@ -2602,13 +2616,6 @@
           "Vardas, pavardė": "Miroslav Mečkovski",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37069032159",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "212"
-        },
-        {
-          "Vardas, pavardė": "Vilma Juodelienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37066712326",
           "El. paštas": "[email protected]",
           "Kabinetas": "212"
         },

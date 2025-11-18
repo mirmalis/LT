@@ -52,13 +52,6 @@
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Anna Kuznecovienė",
-          "Pareigos": "Viceministrė",
-          "Tel. numeris": "+37067973210",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313"
-        },
-        {
           "Vardas, pavardė": "Dalia Salapėtienė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+37067306213",
@@ -327,6 +320,13 @@
           "Kabinetas": "414"
         },
         {
+          "Vardas, pavardė": "Rimantė Karaliūnaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "412"
+        },
+        {
           "Vardas, pavardė": "Romanas Senapėdis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+37060846016",
@@ -390,7 +390,7 @@
         {
           "Vardas, pavardė": "Vaida Vilkuotytė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+37060005697",
           "El. paštas": "[email protected]",
           "Kabinetas": "214"
         },
@@ -468,7 +468,7 @@
           "Kabinetas": "410"
         },
         {
-          "Vardas, pavardė": "Elita Užuotaitė-Jovaišienė",
+          "Vardas, pavardė": "Elita Užuotaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37060845502",
           "El. paštas": "[email protected]",

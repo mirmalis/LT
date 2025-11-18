@@ -47,6 +47,13 @@
           "Kabinetas": ""
         },
         {
+          "Vardas, pavardė": "Eglė Kliučinskaitė",
+          "Pareigos": "Ministerijos patarėja",
+          "Tel. numeris": "+370 669 48503",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Gediminas Žygelis",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+370 696 84706",
@@ -113,13 +120,6 @@
           "Vardas, pavardė": "Ugnė Grikinytė",
           "Pareigos": "Aplinkos apsaugos atašė",
           "Tel. numeris": "+370 695 62973",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Vestina Gudeliauskaitė",
-          "Pareigos": "Kanclerio ir viceministrų referentė",
-          "Tel. numeris": "+370 657 99389",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -712,6 +712,13 @@
           "Kabinetas": "420"
         },
         {
+          "Vardas, pavardė": "Gintaras Jodinskas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 57893",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Jonė Leščinskaitė (Upių vientisumo atkūrimas)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 12089",
@@ -750,6 +757,13 @@
           "Vardas, pavardė": "Lina Burbaitė (agrarinė aplinkosauga, projekto „Natura 2000 tinklo valdymo optimizavimas Lietuvoje“   administratorė)",
           "Pareigos": "Projekto administratorė",
           "Tel. numeris": "+370-620-93578",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Čaplikaitė - Denisovienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 615 54788",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -918,13 +932,6 @@
           "Tel. numeris": "+370 686 17484",
           "El. paštas": "[email protected]",
           "Kabinetas": "317"
-        },
-        {
-          "Vardas, pavardė": "Vytautas Danilevičius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 695 57893",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -1063,7 +1070,7 @@
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 687 72136",
           "El. paštas": "[email protected]",
-          "Kabinetas": "109"
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Paulius Žvirblis (kuro ir kitas deginimas, kietojo kuro kokybė, benzino saugojimas ir paskirstymas, AEI naudojimas)",
@@ -1080,7 +1087,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Viktorija Krastinytė",
+          "Vardas, pavardė": "Viktorija Krastinytė (Tolimų tarpvalstybinių oro teršalų pernašų konvencijos klausimai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 664 78904",
           "El. paštas": "[email protected]",
@@ -1452,6 +1459,13 @@
           "Tel. numeris": "+370 695 08819",
           "El. paštas": "[email protected]",
           "Kabinetas": "101"
+        },
+        {
+          "Vardas, pavardė": "Ugnė Oliškevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 614 32270",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -1735,7 +1749,7 @@
         },
         {
           "Vardas, pavardė": "Gintarė Puodžiukaitė (vykdanti Strateginės komunikacijos skyriaus vedėjos funkcijas)",
-          "Pareigos": "Specialistė",
+          "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 684 66899",
           "El. paštas": "[email protected]",
           "Kabinetas": ""

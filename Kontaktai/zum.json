@@ -208,7 +208,7 @@
         },
         {
           "Vardas, pavardė": "Žaneta Jucaitytė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+37052398476",
           "El. paštas": "[email protected]",
           "Kabinetas": "423"
@@ -485,14 +485,14 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Asta Kaunė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391064",
           "El. paštas": "[email protected]",
           "Kabinetas": "415"
         },
         {
           "Vardas, pavardė": "Asta Strumskienė",
-          "Pareigos": "Vyresnioji patarėja",
+          "Pareigos": "Vyriausioji patarėja",
           "Tel. numeris": "+37052391059",
           "El. paštas": "[email protected]",
           "Kabinetas": "410"
@@ -586,7 +586,7 @@
         },
         {
           "Vardas, pavardė": "Milda Šemelienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391075",
           "El. paštas": "[email protected]",
           "Kabinetas": "416"
@@ -1612,7 +1612,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Asta Medžiuolienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+37052391395",
           "El. paštas": "[email protected]",
           "Kabinetas": "241"
@@ -1633,7 +1633,7 @@
         },
         {
           "Vardas, pavardė": "Vaidotas Ašmonas",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Vyresnysis patarėjas",
           "Tel. numeris": "+37052391371",
           "El. paštas": "[email protected]",
           "Kabinetas": "254"
@@ -1659,7 +1659,7 @@
         },
         {
           "Vardas, pavardė": "Marius Butkus",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Patarėjas",
           "Tel. numeris": "+37052391069",
           "El. paštas": "[email protected]",
           "Kabinetas": "389"
@@ -1725,10 +1725,10 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Danguolė Starkuvienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37052391018",
           "El. paštas": "[email protected]",
-          "Kabinetas": "166"
+          "Kabinetas": "162"
         },
         {
           "Vardas, pavardė": "Irena Milaknytė Šukevičienė",
@@ -1754,9 +1754,9 @@
         {
           "Vardas, pavardė": "Justė Motėjūnienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 697 65289",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "K-307"
         },
         {
           "Vardas, pavardė": "Justė Simutytė",
