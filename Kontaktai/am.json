@@ -177,7 +177,7 @@
         },
         {
           "Vardas, pavardė": "Pavel Trusov",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+370 682 39134",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
@@ -297,13 +297,6 @@
           "Vardas, pavardė": "Emanuelis Mituzas",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 646 30265",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Paulius Kliučininkas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 600 66552",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -763,7 +756,7 @@
         {
           "Vardas, pavardė": "Lina Čaplikaitė - Denisovienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 615 54788",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

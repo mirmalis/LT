@@ -96,6 +96,14 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "233"
+        },
+        {
+          "Vardas, pavardė": "Mantas Svečiulis",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "+370 5 2717214",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "225"
         }
       ]
     },
@@ -507,7 +515,7 @@
         },
         {
           "Vardas, pavardė": "Vaida Ališauskaitė",
-          "Pareigos": "Patarėja",
+          "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 5 2718953",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -528,7 +536,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Adrianas Mečkovskis",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyriausiasis patarėjas",
           "Tel. numeris": "+370 5 2717198",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -605,7 +613,7 @@
         },
         {
           "Vardas, pavardė": "Gintaras Valiulis",
-          "Pareigos": "Vyresnysis patarėjas",
+          "Pareigos": "Vyriausiasis patarėjas",
           "Tel. numeris": "+370 5 2717070",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -1065,7 +1073,7 @@
           "Tel. numeris": "+370 5 2718258",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": "214"
+          "Kabinetas": "206"
         },
         {
           "Vardas, pavardė": "Natalija Baidak",
@@ -1081,7 +1089,7 @@
           "Tel. numeris": "+370 5 2718295",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "214"
         },
         {
           "Vardas, pavardė": "Renata Markšaitė",
@@ -1090,6 +1098,14 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "205"
+        },
+        {
+          "Vardas, pavardė": "Sandra Varnelytė",
+          "Pareigos": "Buhalterė",
+          "Tel. numeris": "+370 5 2718781",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "206"
         },
         {
           "Vardas, pavardė": "Tatjana Krutikova",
@@ -1183,7 +1199,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aldona Mendelevičienė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2718990",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
@@ -1337,7 +1353,7 @@
         },
         {
           "Vardas, pavardė": "Loreta Veličkaitė",
-          "Pareigos": "Vyriausioji specialistė",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2718309",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
