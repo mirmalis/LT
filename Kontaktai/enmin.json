@@ -2,7 +2,7 @@
   "Name": "Energetikos ministerija",
   "Padaliniai": [
     {
-      "Pavadinimas": "Lietuvos Respublikos energetikos ministerija",
+      "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Airidas Daukšas",
@@ -61,7 +61,13 @@
         {
           "Vardas, pavardė": "Žygimantas Vaičiūnas",
           "Pareigos": "Ministras",
-          "Tel. numeris": "+370 5 2034407",
+          "Tel. numeris": "+370 5 203 4407",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Živilė Poželienė",
+          "Pareigos": "Kanclerė",
+          "Tel. numeris": "+370 5 203 4424",
           "El. paštas": "[email protected]"
         }
       ]
@@ -69,6 +75,12 @@
     {
       "Pavadinimas": "Komunikacijos skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alisa Guseva",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37067495506",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Milda Numgaudienė",
           "Pareigos": "Vedėja",
@@ -90,6 +102,18 @@
           "Vardas, pavardė": "Beata Viršumirska",
           "Pareigos": "Energetikos atašė Lietuvos Respublikos ambasadoje Lenkijos Respublikoje",
           "Tel. numeris": "+48 539 397 298",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Daiva Matonienė",
+          "Pareigos": "Energetikos atašė Lietuvos Respublikos ambasadoje Ukrainoje",
+          "Tel. numeris": "+380 67 635 3021; +370 686 01710",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Domantas Mikelevičius",
+          "Pareigos": "Energetikos atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje (pirmininkavimas ES Tarybai)",
+          "Tel. numeris": "+32 477 941145",
           "El. paštas": "[email protected]"
         },
         {
@@ -172,53 +196,6 @@
       ]
     },
     {
-      "Pavadinimas": "Energetikos konkurencingumo grupė",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aušra Grėbliūnaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37060246290",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Edvinas Varkala",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37060247397",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Gintarė Palšauskaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37060247294",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Jovita Verbylienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37068453957",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Karolis Švaikauskas",
-          "Pareigos": "Grupės vadovas",
-          "Tel. numeris": "+37067039352",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vida Dzermeikienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37065842175",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Vilmantas Markevičius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+37060247406",
-          "El. paštas": "[email protected]"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Strateginių pokyčių valdymo grupė",
       "Darbuotojai": [
         {
@@ -254,36 +231,7 @@
       ]
     },
     {
-      "Pavadinimas": "Branduolinės energetikos politikos grupė",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Asta Žalnieriūtė",
-          "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+37067050214",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Dalia Kuizinė",
-          "Pareigos": "Vyriausioji  specialistė",
-          "Tel. numeris": "+37067037162",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Patricija Ceiko",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37064506578",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Renatas Šumskis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37060246379",
-          "El. paštas": "[email protected]"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Investicijų grupė",
+      "Pavadinimas": "Energetikos konkurencingumo grupė",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Algirdas Petkevičius",
@@ -291,6 +239,47 @@
           "Tel. numeris": "+37060216418",
           "El. paštas": "[email protected]"
         },
+        {
+          "Vardas, pavardė": "Aušra Grėbliūnaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37060246290",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gintarė Palšauskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37060247294",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jovita Verbylienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37068453957",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Karolis Švaikauskas",
+          "Pareigos": "Grupės vadovas",
+          "Tel. numeris": "+37067039352",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vida Dzermeikienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37065842175",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Vilmantas Markevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+37060247406",
+          "El. paštas": "[email protected]"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Investicijų grupė",
+      "Darbuotojai": [
         {
           "Vardas, pavardė": "Asta Kundavičienė",
           "Pareigos": "Vyriausioji  specialistė",
@@ -330,8 +319,43 @@
       ]
     },
     {
+      "Pavadinimas": "Branduolinės energetikos politikos grupė",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Asta Žalnieriūtė",
+          "Pareigos": "Grupės vadovė",
+          "Tel. numeris": "+37067050214",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Dalia Kuizinė",
+          "Pareigos": "Vyriausioji  specialistė",
+          "Tel. numeris": "+37067037162",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Patricija Ceiko",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37064506578",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Renatas Šumskis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37060246379",
+          "El. paštas": "[email protected]"
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Energijos efektyvumo politikos grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Edvinas Varkala",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+37060247397",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Linas Bagdonavičius",
           "Pareigos": "Patarėjas",
@@ -498,12 +522,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Domantas Mikelevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+37066834291",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Jevgenija Jankevič",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+37060247359",
@@ -630,12 +648,6 @@
           "Vardas, pavardė": "Jūratė Šimanskytė",
           "Pareigos": "Kalbos redaktorė",
           "Tel. numeris": "+37067741171",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Simona Stankevičiūtė",
-          "Pareigos": "Vyriausioji specialistė (mokymų organizavimo ir viešųjų pirkimų koordinavimo klausimais)",
-          "Tel. numeris": "+37060246522",
           "El. paštas": "[email protected]"
         }
       ]

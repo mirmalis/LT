@@ -11,12 +11,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Emilija Daukševič",
-          "Pareigos": "Ministro padėjėja",
-          "Tel. numeris": "+370 5 266 1400",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Evaldas Raistenskis",
           "Pareigos": "Ministerijos kancleris",
           "Tel. numeris": "+370 5 266 1401",
@@ -25,7 +19,7 @@
         {
           "Vardas, pavardė": "Irmina Frolova-Milašienė",
           "Pareigos": "Ministro patarėja",
-          "Tel. numeris": "+370 5 219 3309",
+          "Tel. numeris": "+370 659 58664",
           "El. paštas": "[email protected]"
         },
         {
@@ -49,7 +43,7 @@
         {
           "Vardas, pavardė": "Marija Jakubauskienė",
           "Pareigos": "Sveikatos apsaugos ministrė",
-          "Tel. numeris": "+370 5 266 1400",
+          "Tel. numeris": "+370 5 266 1401",
           "El. paštas": "[email protected]"
         },
         {
@@ -106,13 +100,13 @@
         {
           "Vardas, pavardė": "Jelena Talačkienė",
           "Pareigos": "Specialusis atašė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+32 478 79 8725",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Radvilė Jakaitienė",
           "Pareigos": "Specialusis atašė",
-          "Tel. numeris": "+32 240 19 864",
+          "Tel. numeris": "+32 496 56 1855",
           "El. paštas": "[email protected]"
         }
       ]
@@ -123,7 +117,7 @@
         {
           "Vardas, pavardė": "Julijanas Gališanskis",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 5 219 3310",
+          "Tel. numeris": "+370 683 14369",
           "El. paštas": "[email protected]"
         },
         {
@@ -135,13 +129,13 @@
         {
           "Vardas, pavardė": "Nerija Kaulakienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 219 3333",
+          "Tel. numeris": "+370 606 63350",
           "El. paštas": "[email protected]"
         },
         {
           "Vardas, pavardė": "Ugnė Justaitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 266 1415",
+          "Tel. numeris": "+370 606 49672",
           "El. paštas": "[email protected]"
         }
       ]
@@ -149,6 +143,12 @@
     {
       "Pavadinimas": "Centralizuoto vidaus audito skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Artūras Bartašiūnas",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Jolita Sankauskaitė-Treigienė",
           "Pareigos": "Patarėja",
@@ -261,12 +261,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Viktorija Buzytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 266 1479",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Virginija Karaliūtė Žulienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 5 266 1434",
@@ -334,7 +328,7 @@
         {
           "Vardas, pavardė": "Vilija Kondrotienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 205 5287",
+          "Tel. numeris": "+370 679 05241",
           "El. paštas": "[email protected]"
         }
       ]
@@ -358,12 +352,6 @@
           "Vardas, pavardė": "Greta Undžytė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 5 266 1411",
-          "El. paštas": "[email protected]"
-        },
-        {
-          "Vardas, pavardė": "Greta Zambžickaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 266 1440",
           "El. paštas": "[email protected]"
         },
         {
@@ -562,6 +550,12 @@
           "Vardas, pavardė": "Asta Zlatkienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1447",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gytis Kučinskas",
+          "Pareigos": "Vedėjas",
+          "Tel. numeris": "+370 676 30556",
           "El. paštas": "[email protected]"
         },
         {
@@ -775,6 +769,12 @@
       "Pavadinimas": "Investicijų įgyvendinimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Alina Lupeikienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 658 30560",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Asta Leonienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 205 3623",
@@ -840,6 +840,18 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Ingrida Grincevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Karolina Puzinaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 669 99314",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Marija Oleškevičienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 266 1420",
@@ -887,7 +899,13 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Simona Gricienė",
+          "Vardas, pavardė": "Raimonda Paškevičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Simona Karaliūnė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 260 4706",
           "El. paštas": "[email protected]"
@@ -983,7 +1001,7 @@
         {
           "Vardas, pavardė": "Lina Simonaitytė",
           "Pareigos": "Vyriausioji specialistė (asmenų priėmimas ir aptarnavimas)",
-          "Tel. numeris": "+370 5 266 1412",
+          "Tel. numeris": "+370 650 85184",
           "El. paštas": "[email protected]"
         },
         {
@@ -1070,6 +1088,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Jolanta Ptakauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 260 4710",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Renata Beržanskienė",
           "Pareigos": "Vedėja",
           "Tel. numeris": "+370 637 85505",
@@ -1101,7 +1125,7 @@
         {
           "Vardas, pavardė": "Kristina Liubkevičienė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 210 9661",
+          "Tel. numeris": "+370 683 91096",
           "El. paštas": "[email protected]"
         },
         {
@@ -1115,6 +1139,18 @@
     {
       "Pavadinimas": "Tarptautinio bendradarbiavimo skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Austėja Sakalauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Gintvilė Bagdonavičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Jonas Paulius Mackevičius",
           "Pareigos": "Specialistas",
@@ -1275,15 +1311,15 @@
       "Pavadinimas": "Veiklos administravimo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Gintautas Juodis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 698 53279",
+          "Vardas, pavardė": "Elena Nalivaikienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 669 99309",
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Jolanta Ptakauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 260 4710",
+          "Vardas, pavardė": "Gintautas Juodis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 698 53279",
           "El. paštas": "[email protected]"
         },
         {

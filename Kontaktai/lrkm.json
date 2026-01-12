@@ -66,6 +66,34 @@
           "Kabinetas": "300"
         },
         {
+          "Vardas, pavardė": "Dr. Viktor Denisenko",
+          "Pareigos": "Viceministras",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "302"
+        },
+        {
+          "Vardas, pavardė": "Indrė Martusevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37060170943",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "300"
+        },
+        {
+          "Vardas, pavardė": "Lina Baublienė",
+          "Pareigos": "Ministrės patarėja",
+          "Tel. numeris": "+37060135134",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "301"
+        },
+        {
+          "Vardas, pavardė": "Lukas Alsys",
+          "Pareigos": "Ministerijos kancleris",
+          "Tel. numeris": "+37067973210",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "311"
+        },
+        {
           "Vardas, pavardė": "Matas Drukteinis",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+37067973210",
@@ -336,7 +364,7 @@
         {
           "Vardas, pavardė": "Rimantė Karaliūnaitė",
           "Pareigos": "Patarėja",
-          "Tel. numeris": "",
+          "Tel. numeris": "+37060170968",
           "El. paštas": "[email protected]",
           "Kabinetas": "412"
         },
@@ -480,6 +508,13 @@
           "Tel. numeris": "+37060843751",
           "El. paštas": "[email protected]",
           "Kabinetas": "410"
+        },
+        {
+          "Vardas, pavardė": "Elena Ruikytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37060160935",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "408"
         },
         {
           "Vardas, pavardė": "Elita Užuotaitė",
@@ -668,10 +703,10 @@
         },
         {
           "Vardas, pavardė": "Virginijus Varnaitis",
-          "Pareigos": "Teisės ir žmogiškųjų išteklių skyriaus vedėjas, atliekantis ministerijos kanclerio funkcijas",
+          "Pareigos": "Skyriaus vedėjas",
           "Tel. numeris": "+37060843764",
           "El. paštas": "[email protected]",
-          "Kabinetas": "311"
+          "Kabinetas": "303"
         }
       ]
     },
@@ -719,6 +754,13 @@
           "Tel. numeris": "+37060845583",
           "El. paštas": "[email protected]",
           "Kabinetas": "15"
+        },
+        {
+          "Vardas, pavardė": "Indrė Martusevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+37060170943",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "300"
         },
         {
           "Vardas, pavardė": "Irena Enčienė",

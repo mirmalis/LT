@@ -5,7 +5,7 @@
       "Pavadinimas": "VADOVYBĖ",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Jasinavičiūtė",
+          "Vardas, pavardė": "Agnė Jasinavičiūtė-Trakimienė",
           "Pareigos": "Direktorė",
           "Tel. numeris": "+370 659 63 295",
           "El. paštas": "[email protected]",
@@ -62,21 +62,35 @@
       "Pavadinimas": "KRAŠTOVAIZDŽIO  APSAUGOS SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Evelina Savickaitė (saugomų teritorijų planavimo, strateginio pasekmių aplinkai vertinimo, kraštotvarkos, saugomo kraštovaizdžio, gamtos ir kultūros paveldo klausimai)",
+          "Vardas, pavardė": "Agota Laureckytė (prevencinės veiklos, kultūros paveldo apsaugos ir tvarkymo saugomose teritorijose klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 650 93 751",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Evelina Savickaitė (saugomų teritorijų planavimo, kraštotvarkos, statybos ir UNESCO klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 652 98 531",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Laima Dabregaitė (saugomų teritorijų planavimo klausimai)",
+          "Vardas, pavardė": "Gerda Kraučiūnė (saugomų teritorijų planavimo klausimai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 652 31 095",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Laima Dabregaitė (saugomų teritorijų planavimo, gamtinio karkaso klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 62 909",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Martynas Survila (kraštovaizdžio monitoringo, saugomų teritorijų pritaikymo lankymui ir prevencinės veiklos klausimai)",
+          "Vardas, pavardė": "Martynas Survila (kraštovaizdžio monitoringo, saugomų teritorijų pritaikymo lankymui klausimai)",
           "Pareigos": "Vyr. specialistas",
           "Tel. numeris": "+370 665 57 413",
           "El. paštas": "[email protected]",
@@ -90,7 +104,7 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Rima Baradokaitė - Greimienė (statybos, architektūros, kultūros paveldo apsaugos ir tvarkymo saugomose teritorijose klausimai)",
+          "Vardas, pavardė": "Rima Baradokaitė - Greimienė (statybos, architektūros saugomose teritorijose klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 64 283",
           "El. paštas": "[email protected]",
@@ -109,23 +123,9 @@
       "Pavadinimas": "BIOLOGINĖS ĮVAIROVĖS SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Andrius Mačiulis (žemės sklypų išpirkimo klausimai)",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 614 86 639",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Dagmara Žebrauskienė (invazinių rūšių klausimai)",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 659 64 332",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Daiva Patalauskaitė (EB svarbos natūralių buveinių ir augalų rūšių monitoringo metodiniai klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 682 53 757",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -207,7 +207,7 @@
         {
           "Vardas, pavardė": "Aistė Vosilytė",
           "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 656 56 915",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -569,9 +569,30 @@
       "Pavadinimas": "PROJEKTAS „SAUGOMŲ TERITORIJŲ PLANAVIMAS IR TVARKYMAS, EKOSISTEMŲ, BUVEINIŲ IR RŪŠIŲ GEROS BŪKLĖS PALAIKYMAS VISOJE LIETUVOS TERITORIJOJE\"",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Radvilė Markevičiūtė-Černiauskienė (Gamtos atkūrimo reglamento klausimai)",
+          "Vardas, pavardė": "Agnė Karlonė",
           "Pareigos": "Ekspertė",
           "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Andrius Mačiulis",
+          "Pareigos": "Ekspertas",
+          "Tel. numeris": "+370 614 86 639",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Antanas Kubilius",
+          "Pareigos": "Ekspertas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Radvilė Markevičiūtė-Černiauskienė (Gamtos atkūrimo reglamento klausimai)",
+          "Pareigos": "Ekspertė",
+          "Tel. numeris": "+370\u202F657 35 694",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },

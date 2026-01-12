@@ -422,7 +422,7 @@
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 661 29251",
           "El. paštas": "[email protected]",
-          "Kabinetas": "201 kab. Taikos pr. 26, LT-91222 Klaipėda"
+          "Kabinetas": "209 kab. Taikos pr. 26, LT-91222 Klaipėda"
         }
       ]
     },
@@ -501,13 +501,6 @@
           "Tel. numeris": "+370 612 08485",
           "El. paštas": "[email protected]",
           "Kabinetas": "1005a kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Eglė Kairienė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 612 89668",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "515 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
           "Vardas, pavardė": "Emilija Rudytė (Pasienio anglies dioksido korekcinis mechanizmas, apyvartinių taršos leidimų prekybos sistema)",
@@ -963,6 +956,13 @@
           "Kabinetas": "Rotušės a. 12, LT 44279 Kaunas"
         },
         {
+          "Vardas, pavardė": "Anna Minkevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 602 26658",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "904 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Beata Lukštaraupienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 683  07543",
@@ -972,7 +972,7 @@
         {
           "Vardas, pavardė": "Deimantė Sokaitė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 684 92668",
           "El. paštas": "[email protected]",
           "Kabinetas": "913 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
@@ -1021,7 +1021,7 @@
         {
           "Vardas, pavardė": "Rasa Lozoraitienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 602 41432",
           "El. paštas": "[email protected]",
           "Kabinetas": "913 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
@@ -1432,13 +1432,6 @@
           "Tel. numeris": "+370 683 69238",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Goštauto g. 9, LT-01108 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Vijolė Papreckienė (Tyrimų atlikimas)",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 682 26137",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "111 kab. Taikos pr. 26, LT-91222 Klaipėda"
         }
       ]
     },

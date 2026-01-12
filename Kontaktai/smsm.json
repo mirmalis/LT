@@ -1049,16 +1049,16 @@
       "Pavadinimas": "Profesinio mokymo skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Audronė Gudonytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 620 68 967",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "369"
-        },
-        {
           "Vardas, pavardė": "Dalė Švelnienė",
           "Pareigos": "Patarėja pavaduojanti skyriaus vedėją",
           "Tel. numeris": "+370 614 57 507",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "370"
+        },
+        {
+          "Vardas, pavardė": "Goda Šiaučiulytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 626 02 887",
           "El. paštas": "[email protected]",
           "Kabinetas": "370"
         },
@@ -1495,7 +1495,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 666 32 683",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "230"
         },
         {
           "Vardas, pavardė": "Asta Mikailionienė",
@@ -1516,7 +1516,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 616 25 492",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "230"
         },
         {
           "Vardas, pavardė": "Jurga Strumskienė",
@@ -1530,7 +1530,7 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 614 66 439",
           "El. paštas": "[email protected]",
-          "Kabinetas": ""
+          "Kabinetas": "230"
         },
         {
           "Vardas, pavardė": "Sigitas Stasiulis",
@@ -1551,7 +1551,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 694 56932",
           "El. paštas": "[email protected]",
-          "Kabinetas": "230"
+          "Kabinetas": "233"
         },
         {
           "Vardas, pavardė": "Vilija Gelažauskaitė",

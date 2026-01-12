@@ -132,7 +132,7 @@
           "Vardas, pavardė": "Rūta Ambložiejūtė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 660 31978",
-          "Kabinetas": ""
+          "Kabinetas": "128"
         },
         {
           "Vardas, pavardė": "Žydrūnė Tursaitė",
@@ -400,7 +400,7 @@
           "Vardas, pavardė": "Simona Jonuškienė",
           "Pareigos": "L. e. grupės vadovo pareigas",
           "Tel. numeris": "+370 660 75284",
-          "Kabinetas": "246"
+          "Kabinetas": "123"
         },
         {
           "Vardas, pavardė": "Teresa Selezniova",
@@ -412,7 +412,7 @@
           "Vardas, pavardė": "Vaida Ubartaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 690 16918",
-          "Kabinetas": "248"
+          "Kabinetas": "249"
         }
       ]
     },
@@ -435,7 +435,7 @@
           "Vardas, pavardė": "Marius Marčiulaitis",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 683 86256",
-          "Kabinetas": "130"
+          "Kabinetas": "125"
         },
         {
           "Vardas, pavardė": "Monika Žilinskaitė–Veželienė",
@@ -447,7 +447,7 @@
           "Vardas, pavardė": "Tomas Biekša",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 690 12600",
-          "Kabinetas": "130"
+          "Kabinetas": "125"
         },
         {
           "Vardas, pavardė": "Vidmantas Tamulis",
@@ -475,7 +475,7 @@
           "Vardas, pavardė": "Daiva Balnienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 667 92434",
-          "Kabinetas": "308"
+          "Kabinetas": "312"
         }
       ]
     },
@@ -532,7 +532,7 @@
           "Vardas, pavardė": "Aušra Gobienė",
           "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+370 699 37871",
-          "Kabinetas": "315"
+          "Kabinetas": "316"
         },
         {
           "Vardas, pavardė": "Stanislav Widtmann",
@@ -563,12 +563,6 @@
           "Kabinetas": "305"
         },
         {
-          "Vardas, pavardė": "Karolis Kitovas",
-          "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "+370 630 99574",
-          "Kabinetas": "314"
-        },
-        {
           "Vardas, pavardė": "Rokas Tamulevičius",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 660 31976",
@@ -578,7 +572,7 @@
           "Vardas, pavardė": "Vaiva Obelevičienė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 699 39890",
-          "Kabinetas": "305"
+          "Kabinetas": "317"
         }
       ]
     },
@@ -1126,12 +1120,6 @@
     {
       "Pavadinimas": "Ūkio skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alvydas Grybėnas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 637 98929",
-          "Kabinetas": "112"
-        },
         {
           "Vardas, pavardė": "Inesa Tamoševičienė",
           "Pareigos": "Vyriausioji specialistė",

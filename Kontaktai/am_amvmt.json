@@ -14,15 +14,8 @@
       ]
     },
     {
-      "Pavadinimas": "Administracija",
+      "Pavadinimas": "Organizacijos vystymo departamentas",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Albertas Kasperavičius",
-          "Pareigos": "Direktoriaus pavaduotojas",
-          "Tel. numeris": "+370 687 72 931",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MKT, STA, NMI skyrių kuravimas"
-        },
         {
           "Vardas, pavardė": "Jolanta Volteraitytė",
           "Pareigos": "Projektų vadovė",
@@ -31,39 +24,11 @@
           "Atsakingas už": ""
         },
         {
-          "Vardas, pavardė": "Jūratė Kuzmickaitė",
-          "Pareigos": "Viešųjų ryšių specialistė",
-          "Tel. numeris": "+370 644 10 861",
+          "Vardas, pavardė": "Nėrijus Kisielius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 615 10 260",
           "El. paštas": "[email protected]",
           "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Karolis Mickevičius",
-          "Pareigos": "Direktoriaus pavaduotojas",
-          "Tel. numeris": "+370 601 73 920",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MGIS, MSAS, MŪPS, BRS, IT skyrių kuravimas"
-        },
-        {
-          "Vardas, pavardė": "Milda Štaraitytė",
-          "Pareigos": "Viešųjų ryšių specialistė",
-          "Tel. numeris": "+370 647 76 740",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Tarnauskas",
-          "Pareigos": "Direktorius",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Ričardas Beniušis",
-          "Pareigos": "Vyriausiasis patarėjas",
-          "Tel. numeris": "+370 646 60 130",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miškotvarkos ir miškininkystės klausimų kuravimas"
         },
         {
           "Vardas, pavardė": "Rimantas Šerkšnas",
@@ -78,18 +43,11 @@
           "Tel. numeris": "+370 682 36 028",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Finansų klausimai"
-        },
-        {
-          "Vardas, pavardė": "Vilius Benušis",
-          "Pareigos": "Duomenų apsaugos pareigūnas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
         }
       ]
     },
     {
-      "Pavadinimas": "Bendrųjų reikalų skyrius",
+      "Pavadinimas": "Veiklos atitikties ir administravimo skyrius",
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Dainius Ratkelis",
@@ -107,7 +65,7 @@
         },
         {
           "Vardas, pavardė": "Raimondas Šeinauskas",
-          "Pareigos": "Inžinerijos specialistas",
+          "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 614 24 693",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Turto valdymas"
@@ -120,13 +78,6 @@
           "Atsakingas už": "Ūkio dalies klausimai, administravimas"
         },
         {
-          "Vardas, pavardė": "Ramūnas Šeškus",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 615 10 260",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Teisiniai klausimai"
-        },
-        {
           "Vardas, pavardė": "Rasa Bielevičienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 682 35 988",
@@ -135,7 +86,7 @@
         },
         {
           "Vardas, pavardė": "Silvija Tručinskienė",
-          "Pareigos": "Prekių ir paslaugų pirkimo specialistė",
+          "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 693 54 171",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Viešieji pirkimai"
@@ -144,6 +95,93 @@
           "Vardas, pavardė": "Živilė Žilėnienė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 683 10 545",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Informacinių technologijų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Andrius Galinskas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 601 69 773",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Gedas Starkovas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 675 04 787",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ilona Brazauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 601 69 449",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jonas Geležis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 675 04 924",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vaidas Grigaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 676 79 745",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vytautas Norbutas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 52 573",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Administracija",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Albertas Kasperavičius",
+          "Pareigos": "Direktoriaus pavaduotojas",
+          "Tel. numeris": "+370 687 72 931",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "MKT, STA, NMI skyrių kuravimas"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Kuzmickaitė",
+          "Pareigos": "Viešųjų ryšių specialistė",
+          "Tel. numeris": "+370 644 10 861",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Karolis Mickevičius",
+          "Pareigos": "Direktoriaus pavaduotojas",
+          "Tel. numeris": "+370 601 73 920",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "MGIS, MSAS, MŪPS skyrių kuravimas"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Tarnauskas",
+          "Pareigos": "Direktorius",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vilius Benušis",
+          "Pareigos": "Duomenų apsaugos pareigūnas",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Atsakingas už": ""
         }
@@ -178,7 +216,7 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 648 44 580",
           "El. paštas": "[email protected]",
-          "Atsakingas už": ""
+          "Atsakingas už": "ES anglies dioksido sertifikavimo sistema (CRCF)"
         },
         {
           "Vardas, pavardė": "Giedrius Šimanauskas",
@@ -343,13 +381,6 @@
           "Tel. numeris": "+370 601 69 138",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Miškų grupių planų projektų rengimas, prašymų patvirtinti miškų inventorizacijos duomenis nagrinėjimas"
-        },
-        {
-          "Vardas, pavardė": "Leandras Deltuva",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 600 49 740",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Skyriaus veiklos organizavimas ir koordinavimas"
         },
         {
           "Vardas, pavardė": "Marius Lankininkas",
@@ -521,53 +552,6 @@
           "Tel. numeris": "+370 603 80 117",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Miško dauginamoji medžiaga, miško medžių sėklų kokybės tyrimai"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Informatikos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Andrius Galinskas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 601 69 773",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Gedas Starkovas",
-          "Pareigos": "Inžinierius programuotojas",
-          "Tel. numeris": "+370 675 04 787",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Ilona Brazauskaitė",
-          "Pareigos": "Kompiuterių sistemų inžinierė",
-          "Tel. numeris": "+370 601 69 449",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Jonas Geležis",
-          "Pareigos": "Kompiuterių tinklo administratorius",
-          "Tel. numeris": "+370 675 04 924",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Vaidas Grigaitis",
-          "Pareigos": "Kompiuterių sistemų inžinierius",
-          "Tel. numeris": "+370 676 79 745",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Vytautas Norbutas",
-          "Pareigos": "Programuotojas",
-          "Tel. numeris": "+370 663 52 573",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
         }
       ]
     },
