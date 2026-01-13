@@ -14,6 +14,46 @@
       ]
     },
     {
+      "Pavadinimas": "Administracija",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Albertas Kasperavičius",
+          "Pareigos": "Direktoriaus pavaduotojas",
+          "Tel. numeris": "+370 687 72 931",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "MKT, STA, NMI skyrių kuravimas"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Kuzmickaitė",
+          "Pareigos": "Viešųjų ryšių specialistė",
+          "Tel. numeris": "+370 644 10 861",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Karolis Mickevičius",
+          "Pareigos": "Direktoriaus pavaduotojas",
+          "Tel. numeris": "+370 601 73 920",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "MGIS, MSAS, MŪPS skyrių kuravimas"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Tarnauskas",
+          "Pareigos": "Direktorius",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vilius Benušis",
+          "Pareigos": "Duomenų apsaugos pareigūnas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Organizacijos vystymo departamentas",
       "Darbuotojai": [
         {
@@ -142,46 +182,6 @@
           "Vardas, pavardė": "Vytautas Norbutas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 663 52 573",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Administracija",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Albertas Kasperavičius",
-          "Pareigos": "Direktoriaus pavaduotojas",
-          "Tel. numeris": "+370 687 72 931",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MKT, STA, NMI skyrių kuravimas"
-        },
-        {
-          "Vardas, pavardė": "Jūratė Kuzmickaitė",
-          "Pareigos": "Viešųjų ryšių specialistė",
-          "Tel. numeris": "+370 644 10 861",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Karolis Mickevičius",
-          "Pareigos": "Direktoriaus pavaduotojas",
-          "Tel. numeris": "+370 601 73 920",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MGIS, MSAS, MŪPS skyrių kuravimas"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Tarnauskas",
-          "Pareigos": "Direktorius",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Vilius Benušis",
-          "Pareigos": "Duomenų apsaugos pareigūnas",
-          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Atsakingas už": ""
         }
