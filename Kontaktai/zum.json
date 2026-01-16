@@ -12,13 +12,6 @@
           "Kabinetas": "277"
         },
         {
-          "Vardas, pavardė": "Artūras Pekauskas",
-          "Pareigos": "Viceministras",
-          "Tel. numeris": "+37052391 004",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "281"
-        },
-        {
           "Vardas, pavardė": "Arūnas Jagminas",
           "Pareigos": "Viceministras",
           "Tel. numeris": "+37052391 005",
@@ -44,6 +37,13 @@
     {
       "Pavadinimas": "Ministro kabinetas",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Darjuš Puchovič",
+          "Pareigos": "Ministro patarėjas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
         {
           "Vardas, pavardė": "Genadijus Vorobjovas",
           "Pareigos": "Ministro patarėjas",
@@ -256,8 +256,8 @@
         {
           "Vardas, pavardė": "Jurgita Pugačiauskaitė-Butrimienė",
           "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+37052398464",
-          "El. paštas": "[email protected]",
+          "Tel. numeris": "",
+          "El. paštas": "",
           "Kabinetas": "517"
         },
         {

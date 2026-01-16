@@ -444,12 +444,6 @@
           "Kabinetas": "132"
         },
         {
-          "Vardas, pavardė": "Tomas Biekša",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 690 12600",
-          "Kabinetas": "125"
-        },
-        {
           "Vardas, pavardė": "Vidmantas Tamulis",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+370 680 40669",
@@ -1137,6 +1131,12 @@
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 690 18746",
           "Kabinetas": "038"
+        },
+        {
+          "Vardas, pavardė": "Tomas Biekša",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 690 12600",
+          "Kabinetas": "108"
         }
       ]
     }

@@ -117,7 +117,7 @@
         {
           "Vardas, pavardė": "Vaida Rudėnaitė",
           "Pareigos": "Teisingumo atašė Lietuvos nuolatinėje atstovybėje Europos Sąjungoje",
-          "Tel. numeris": "",
+          "Tel. numeris": "+32 477 941333",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -832,25 +832,6 @@
       ]
     },
     {
-      "Pavadinimas": "Korupcijos prevencijos ir vidaus tyrimų skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Gintautas Kaziukonis",
-          "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "+370 602 56393",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "116"
-        },
-        {
-          "Vardas, pavardė": "Jolanta Bernotaitė",
-          "Pareigos": "Vedėja",
-          "Tel. numeris": "+370 600 37388",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "204"
-        }
-      ]
-    },
-    {
       "Pavadinimas": "Visuomenės informavimo skyrius",
       "Darbuotojai": [
         {
@@ -880,6 +861,25 @@
           "Tel. numeris": "+370 645 78354",
           "El. paštas": "[email protected]",
           "Kabinetas": "007"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Korupcijos prevencijos ir vidaus tyrimų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gintautas Kaziukonis",
+          "Pareigos": "Vyresnysis patarėjas",
+          "Tel. numeris": "+370 602 56393",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "116"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Bernotaitė",
+          "Pareigos": "Vedėja",
+          "Tel. numeris": "+370 600 37388",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "204"
         }
       ]
     },
@@ -1077,18 +1077,6 @@
           "Tel. numeris": "+370 686 07172",
           "El. paštas": "[email protected]",
           "Kabinetas": "104"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Pareigybės, nepriklausiančios struktūriniam padaliniui ir tiesiogiai pavaldžios ministerijos kancleriui",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Laimas Dieninis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 615 69049",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "305"
         }
       ]
     }
