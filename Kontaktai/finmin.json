@@ -797,6 +797,13 @@
           "Kabinetas": "508"
         },
         {
+          "Vardas, pavardė": "Justas Dailidėnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+37069032187",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "505"
+        },
+        {
           "Vardas, pavardė": "Lina Lekavičiūtė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37069031992",
@@ -1067,6 +1074,13 @@
     {
       "Pavadinimas": "Kapitalo rinkų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Daiva Kemeklytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "203"
+        },
         {
           "Vardas, pavardė": "Gasparas Danišauskas",
           "Pareigos": "Vyriausiasis specialistas",
@@ -2251,13 +2265,6 @@
           "Kabinetas": "454"
         },
         {
-          "Vardas, pavardė": "Milda Kaminskaitė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+37069032032",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "452"
-        },
-        {
           "Vardas, pavardė": "Monika Zokaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37069032029",
@@ -2874,6 +2881,13 @@
           "Tel. numeris": "+37069031940",
           "El. paštas": "[email protected]",
           "Kabinetas": "125"
+        },
+        {
+          "Vardas, pavardė": "Milda Kaminskaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37069032032",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         },
         {
           "Vardas, pavardė": "Ona Bernotienė",

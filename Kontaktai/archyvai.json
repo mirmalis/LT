@@ -23,31 +23,39 @@
       ]
     },
     {
-      "Pavadinimas": "DUOMENŲ IR SKAITMENINIO IŠSAUGOJIMO SPRENDIMŲ SKYRIUS",
+      "Pavadinimas": "DOKUMENTŲ IR ARCHYVŲ VALDYMO IR NAUDOJIMO SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Darius Baronas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 646 68509",
+          "Vardas, pavardė": "Aistė Somkinė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 682 86 955",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
-          "Atsakingas už": ""
+          "Atsakingas už": "Teikia informaciją dokumentų valdymo klausimais"
         },
         {
-          "Vardas, pavardė": "Edvinas Ulozas",
-          "Pareigos": "Specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Igor Voitiulevič",
+          "Vardas, pavardė": "Andrius Zilnys",
           "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 604 32262",
+          "Tel. numeris": "+370 649 69 420",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
-          "Atsakingas už": ""
+          "Atsakingas už": "Teikia informaciją dokumentų naudojimo klausimais"
+        },
+        {
+          "Vardas, pavardė": "Daina Čenytė",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 613 89 188",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "",
+          "Atsakingas už": "Teikia informaciją dokumentų paieškos (darbo užmokesčio, metrikų, pilietybės ir kt.) klausimais"
+        },
+        {
+          "Vardas, pavardė": "Dr. Daiva Lukšaitė",
+          "Pareigos": "Skyriaus vedėja",
+          "Tel. numeris": "+370 649 89 246",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "",
+          "Atsakingas už": "Teikia informaciją dokumentų valdymo klausimais"
         }
       ]
     },
@@ -137,39 +145,31 @@
       ]
     },
     {
-      "Pavadinimas": "DOKUMENTŲ IR ARCHYVŲ VALDYMO IR NAUDOJIMO SKYRIUS",
+      "Pavadinimas": "DUOMENŲ IR SKAITMENINIO IŠSAUGOJIMO SPRENDIMŲ SKYRIUS",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aistė Somkinė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 682 86 955",
+          "Vardas, pavardė": "Darius Baronas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 646 68509",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
-          "Atsakingas už": "Teikia informaciją dokumentų valdymo klausimais"
+          "Atsakingas už": ""
         },
         {
-          "Vardas, pavardė": "Andrius Zilnys",
+          "Vardas, pavardė": "Edvinas Ulozas",
+          "Pareigos": "Specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Igor Voitiulevič",
           "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 649 69 420",
+          "Tel. numeris": "+370 604 32262",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
-          "Atsakingas už": "Teikia informaciją dokumentų naudojimo klausimais"
-        },
-        {
-          "Vardas, pavardė": "Daina Čenytė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 613 89 188",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "",
-          "Atsakingas už": "Teikia informaciją dokumentų paieškos (darbo užmokesčio, metrikų, pilietybės ir kt.) klausimais"
-        },
-        {
-          "Vardas, pavardė": "Dr. Daiva Lukšaitė",
-          "Pareigos": "Skyriaus vedėja",
-          "Tel. numeris": "+370 649 89 246",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "",
-          "Atsakingas už": "Teikia informaciją dokumentų valdymo klausimais"
+          "Atsakingas už": ""
         }
       ]
     }

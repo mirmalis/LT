@@ -111,6 +111,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Goda Vileikytė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Rūta Serapinaitė-AudickėKalendorius",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+37064092537",
@@ -261,12 +267,6 @@
     {
       "Pavadinimas": "Projektų valdymo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alma JakimavičienėKalendorius",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37065895085",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Indrė Andrijauskienė",
           "Pareigos": "Patarėjas",
@@ -1023,6 +1023,12 @@
           "Vardas, pavardė": "Aušra KumetaitienėKalendorius",
           "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+37061016325",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jurgita Lukaševičienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+37063350550",
           "El. paštas": "[email protected]"
         },
         {

@@ -443,6 +443,12 @@
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 084",
           "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Šaulienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 143",
+          "El. paštas": "[email protected]"
         }
       ]
     },
@@ -685,6 +691,12 @@
           "Vardas, pavardė": "Ilona Volodkovič",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 846",
+          "El. paštas": "[email protected]"
+        },
+        {
+          "Vardas, pavardė": "Jadvyga Lukševičė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 045",
           "El. paštas": "[email protected]"
         },
         {
@@ -1083,12 +1095,6 @@
     {
       "Pavadinimas": "Nekilnojamojo turto kadastro skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Algirdas Sinickas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 706 85 594",
-          "El. paštas": "[email protected]"
-        },
         {
           "Vardas, pavardė": "Arūnas Rupeika",
           "Pareigos": "Vyriausiasis specialistas",
@@ -2040,7 +2046,7 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Vilma Ivanauskaitė-Mizarienė (Alytaus, Varėnos, Druskininkų, Kaišiadorių sav.)",
+          "Vardas, pavardė": "Vilma Ivanauskaitė-Mizarienė (Alytaus, Varėnos, Druskininkų, Kaišiadorių, Prienų, Birštono sav.)",
           "Pareigos": "Skyriaus vyresnioji patarėja",
           "Tel. numeris": "+370 706 86 062",
           "El. paštas": "[email protected]"
