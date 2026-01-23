@@ -929,6 +929,13 @@
       "Pavadinimas": "Audito, turto vertinimo ir nemokumo valdymo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Daina Mazuronytė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "246"
+        },
+        {
           "Vardas, pavardė": "Ligita Brukštuvienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+37069031970",
@@ -2263,13 +2270,6 @@
           "Tel. numeris": "+37066712326",
           "El. paštas": "[email protected]",
           "Kabinetas": "454"
-        },
-        {
-          "Vardas, pavardė": "Monika Zokaitė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+37069032029",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "438"
         },
         {
           "Vardas, pavardė": "Rasa Kupčiūnė",
