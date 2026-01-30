@@ -733,7 +733,7 @@
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 671 86421",
           "El. paštas": "[email protected]",
-          "Kabinetas": "314 b"
+          "Kabinetas": "314b"
         },
         {
           "Vardas, pavardė": "Jurgita Urbaitė",
@@ -764,11 +764,25 @@
           "Kabinetas": "218"
         },
         {
+          "Vardas, pavardė": "Sandra Šarkutė",
+          "Pareigos": "Vyresnioji patarėja (turinti pavaldžių)",
+          "Tel. numeris": "+370 671 86309",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "222b"
+        },
+        {
           "Vardas, pavardė": "Saulius Jonikas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 671 86313",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Tomas Kuzelis",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 671 90746",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "333"
         },
         {
           "Vardas, pavardė": "Virmantė Voinilko",

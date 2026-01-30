@@ -80,6 +80,13 @@
           "Kabinetas": "241"
         },
         {
+          "Vardas, pavardė": "Gražina Ananikovienė",
+          "Pareigos": "Ministro patarėja",
+          "Tel. numeris": "+370 696 64 190",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "241"
+        },
+        {
           "Vardas, pavardė": "Julius Sarapinas",
           "Pareigos": "Ministro patarėjas",
           "Tel. numeris": "+370 622 03 676",
@@ -222,6 +229,13 @@
           "Vardas, pavardė": "Rasa Pečiukonienė",
           "Pareigos": "Švietimo ir mokslo atašė",
           "Tel. numeris": "+370 664 900 48",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Sigitas Stasiulis",
+          "Pareigos": "Švietimo, mokslo ir sporto specialusis atašė",
+          "Tel. numeris": "+370 649 62 799",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -1522,13 +1536,6 @@
           "Vardas, pavardė": "Matas Globys",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 614 66 439",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "230"
-        },
-        {
-          "Vardas, pavardė": "Sigitas Stasiulis",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 649 62 799",
           "El. paštas": "[email protected]",
           "Kabinetas": "230"
         },

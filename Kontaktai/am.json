@@ -550,7 +550,7 @@
         {
           "Vardas, pavardė": "Vytautas Pačiauskas",
           "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 698 7592",
+          "Tel. numeris": "+370 696 87592",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -635,46 +635,51 @@
       "Pavadinimas": "Gamtos apsaugos politikos grupė",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Aleksandra Voicechovska (Gamtos apsauga, gyvūnų augintinių gerovės ir apsaugos klausimai))",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 696 94356",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "404"
-        },
-        {
-          "Vardas, pavardė": "Algirdas Klimavičius (koordinavimas gamtos apsaugos, saugomų teritorijų ir kraštovaizdžio srityse)",
+          "Vardas, pavardė": "Algirdas Klimavičius",
           "Pareigos": "Grupės vadovas",
           "Tel. numeris": "+370 686 17295",
           "El. paštas": "[email protected]",
           "Kabinetas": "402"
         },
         {
-          "Vardas, pavardė": "Dovilė Lenkauskaitė (jūrų biologinė įvairovė, ekosisteminės paslaugos, genetiniai ištekliai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 646 68134",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "404"
-        },
-        {
-          "Vardas, pavardė": "Džiugas Anuškevičius (saugomos teritorijos, paukščių apsaugai svarbios teritorijos, HELCOM, poveikio „Natura 2000“ vertinimas, monitoringas)",
-          "Pareigos": "Vyresn. patarėjas",
-          "Tel. numeris": "+370 695 60686",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "404"
-        },
-        {
-          "Vardas, pavardė": "Florian Caspar Rabitz",
+          "Vardas, pavardė": "Florian Caspar Rabitz (pirmininkavimas ES Tarybai biosaugos ir biologinės įvairovės srityje)",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 616 06552",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Gabija Tamulaitytė",
+          "Vardas, pavardė": "Gabija Tamulaitytė (ES Gamtos atkūrimo reglamento įgyvendinimas, Nacionalinio atkūrimo plano rengimo koordinavimas)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 696 89772",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Burbaitė (agrarinė aplinkosauga, projekto „Natura 2000 tinklo valdymo optimizavimas Lietuvoje“ administratorė)",
+          "Pareigos": "Projekto administratorė",
+          "Tel. numeris": "+370 620 93578",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Lina Čaplikaitė - Denisovienė (Pirmininkavimo ES Tarybai gamtos apsaugos srityje koordinavimas, ES Gamtos atkūrimo reglamento įgyvendinimas)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 615 54788",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Saugomų teritorijų apsaugos ir valdymo, upių vientisumo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Džiugas Anuškevičius",
+          "Pareigos": "Vyresn. patarėjas",
+          "Tel. numeris": "+370 695 60686",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "404"
         },
         {
           "Vardas, pavardė": "Giedrė Šarkutė-Stončienė (saugomos teritorijos, gamtotvarka)",
@@ -684,30 +689,9 @@
           "Kabinetas": "313-314"
         },
         {
-          "Vardas, pavardė": "Giedrius Ladukas (verslinė žvejyba)",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 620 68938",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "420"
-        },
-        {
-          "Vardas, pavardė": "Gintaras Jodinskas",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 695 57893",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Jonė Leščinskaitė (Upių vientisumo atkūrimas)",
+          "Vardas, pavardė": "Jonė Leščinskaitė (Upių atkūrimas, buveinių apsaugai svarbios teritorijos)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 12089",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Kristina Jankauskaitė (Invazinių rūšių ir biologinės įvairovės išsaugojimo žemės ūkyje klausimai)",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 645 09324",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         },
@@ -719,49 +703,99 @@
           "Kabinetas": ""
         },
         {
-          "Vardas, pavardė": "Kristina Klovaitė (laukinės gyvūnijos, augalijos apsauga ir naudojimas)",
+          "Vardas, pavardė": "Sigutė Ališauskienė (saugomos teritorijos)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 620 17561",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "313-314"
+        },
+        {
+          "Vardas, pavardė": "Tomas Tukačiauskas („Natura 2000“ tinklas, saugomos teritorijos)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 686 17499",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "313-314"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Laukinių gyvūnų, augalų ir  grybų rūšių apsaugos ir naudojimo, invazinių rūšių valdymo, biologinės įvairovės išsaugojimo žemės ūkyje klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Gintaras Jodinskas (pirmininkavimo ES Tarybai tarptautinių susitarimų, reglamentuojančių rūšių apsaugą ir naudojimą, klausimai)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 57893",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Kristina Jankauskaitė (invazinės rūšys)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 645 09324",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Kristina Klovaitė (laukinių gyvūnų, augalų ir grybų rūšių apsauga ir naudojimas)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 686 40092",
           "El. paštas": "[email protected]",
           "Kabinetas": "416"
         },
         {
-          "Vardas, pavardė": "Laura Janulaitienė (gyvūnų, augalų rūšių apsauga ir naudojimas, saugomos ir invazinės rūšys)",
+          "Vardas, pavardė": "Laura Janulaitienė",
           "Pareigos": "Vyresn. patarėja",
           "Tel. numeris": "+370 698 83219",
           "El. paštas": "[email protected]",
           "Kabinetas": "416"
         },
         {
-          "Vardas, pavardė": "Lina Burbaitė (agrarinė aplinkosauga, projekto „Natura 2000 tinklo valdymo optimizavimas Lietuvoje“   administratorė)",
-          "Pareigos": "Projekto administratorė",
-          "Tel. numeris": "+370-620-93578",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Lina Čaplikaitė - Denisovienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 615 54788",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Kirstukas",
+          "Vardas, pavardė": "Mindaugas Kirstukas (saugomų rūšių ir buveinių apsauga, biologinės įvairovės išsaugojimas žemės ūkyje)",
           "Pareigos": "Patarėjas",
           "Tel. numeris": "+370 616 22482",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
-        },
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Horizontalūs tarptautiniai biologinės įvairovės susitarimai, gyvūnų augintinių gerovės ir apsaugos, genetinių išteklių, jūrų biologinės įvairovės  klausimai",
+      "Darbuotojai": [
         {
-          "Vardas, pavardė": "Mindaugas Žolynas (kraštovaizdis, saugomos teritorijos)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 695 84298",
+          "Vardas, pavardė": "Aleksandra Voicechovska (gyvūnų augintinių gerovės ir apsaugos klausimai)",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 696 94356",
           "El. paštas": "[email protected]",
-          "Kabinetas": "313-314"
+          "Kabinetas": "404"
         },
         {
-          "Vardas, pavardė": "Odeta Pivorienė (GMO klausimai)",
+          "Vardas, pavardė": "Dovilė Lenkauskaitė (jūrų biologinė įvairovė, genetiniai ištekliai)",
+          "Pareigos": "Vyr. specialistė",
+          "Tel. numeris": "+370 646 68134",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "404"
+        },
+        {
+          "Vardas, pavardė": "Viktorija Dapkutė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 687 17536",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Žuvų išteklių apsaugos ir valdymo, medžioklės, genetiškai modifikuotų organizmų ir biologinės įvairovės ekonominių instrumentų klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Giedrius Ladukas (verslinė žvejyba)",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 620 68938",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "420"
+        },
+        {
+          "Vardas, pavardė": "Odeta Pivorienė (genetiškai modifikuoti organizmai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 11298",
           "El. paštas": "[email protected]",
@@ -775,34 +809,6 @@
           "Kabinetas": "420"
         },
         {
-          "Vardas, pavardė": "Sigutė Ališauskienė (buveinių apsaugai svarbios teritorijos, saugomų teritorijų valdymas)",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 620 17561",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313-314"
-        },
-        {
-          "Vardas, pavardė": "Stasys Antušas (Kraštovaizdžio apsauga, jūros gamtos išteklių apsauga,pajūrio juostos apsauga, tvarkymas ir valdymas)",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 613 45048",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Tomas Tukačiauskas („Natura 2000“ tinklas, saugomos teritorijos)",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 686 17499",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313-314"
-        },
-        {
-          "Vardas, pavardė": "Viktorija Dapkutė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 687 17536",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
           "Vardas, pavardė": "Vilmantas Graičiūnas (žvejyba, medžioklė)",
           "Pareigos": "Vyresn. patarėjas",
           "Tel. numeris": "+370 646 68017",
@@ -810,9 +816,28 @@
           "Kabinetas": "420"
         },
         {
-          "Vardas, pavardė": "Virginija Kalesinskienė (Biologinės įvairovės ekonominiai instrumentai ir GMO)",
+          "Vardas, pavardė": "Virginija Kalesinskienė (biologinės įvairovės ekonominiai instrumentai ir GMO)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 696 95290",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Kraštovaizdžio apsaugos,  įskaitant gamtinio karkaso, želdynų, vandens telkinių apsaugos zonų ir pakrančių apsaugos juostų reglamentavimo,  pajūrio juostos apsaugos ir tvarkymo, tarptautiniai dykumėjimo valdymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Mindaugas Žolynas (kraštovaizdis, gamtinis karkasas,  tarptautiniai dykumėjimo  valdymo klausimai)",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 695 84298",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "313-314"
+        },
+        {
+          "Vardas, pavardė": "Stasys Antušas (kraštovaizdis, pajūrio juostos apsauga, tarptautiniai dykumėjimo valdymo klausimai)",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 613 45048",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
         }
@@ -1807,6 +1832,13 @@
       "Pavadinimas": "Darnaus vystymosi ir žaliosios transformacijos skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Gerda Vaičiūnaitė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 688 29214",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
           "Vardas, pavardė": "Grėtė Lelė (Aplinkosauginiai mokesčiai ir žalieji finansai)",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 695 49553",
@@ -1985,6 +2017,32 @@
       ]
     },
     {
+      "Pavadinimas": "Teisės taikymo klausimai",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Lina Mikuckienė",
+          "Pareigos": "Vyresn. patarėja",
+          "Tel. numeris": "+370 695 65934",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Reda Skirkevičiūtė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 672 09141",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Robertas Bulkevičius",
+          "Pareigos": "Patarėjas",
+          "Tel. numeris": "+370 614 02149",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Teisėkūros klausimai",
       "Darbuotojai": [
         {
@@ -2021,32 +2079,6 @@
           "Tel. numeris": "+370 695 18790",
           "El. paštas": "[email protected]",
           "Kabinetas": "213"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Teisės taikymo klausimai",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Lina Mikuckienė",
-          "Pareigos": "Vyresn. patarėja",
-          "Tel. numeris": "+370 695 65934",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Reda Skirkevičiūtė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 672 09141",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
-        },
-        {
-          "Vardas, pavardė": "Robertas Bulkevičius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 614 02149",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
