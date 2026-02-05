@@ -56,6 +56,35 @@
           "El. paštas": "[email protected]",
           "Kabinetas": "",
           "Atsakingas už": "Teikia informaciją dokumentų valdymo klausimais"
+        },
+        {
+          "Vardas, pavardė": "Gediminas Dubonikas",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "",
+          "Atsakingas už": ""
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "DUOMENŲ IR SKAITMENINIO IŠSAUGOJIMO SPRENDIMŲ SKYRIUS",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Darius Baronas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 646 68509",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Igor Voitiulevič",
+          "Pareigos": "Vyr. specialistas",
+          "Tel. numeris": "+370 604 32262",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "",
+          "Atsakingas už": ""
         }
       ]
     },
@@ -138,35 +167,6 @@
           "Vardas, pavardė": "Vida Jakimavičienė",
           "Pareigos": "Vyr. specialistė",
           "Tel. numeris": "+370 674 34 879",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "",
-          "Atsakingas už": ""
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "DUOMENŲ IR SKAITMENINIO IŠSAUGOJIMO SPRENDIMŲ SKYRIUS",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Darius Baronas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 646 68509",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Edvinas Ulozas",
-          "Pareigos": "Specialistas",
-          "Tel. numeris": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Igor Voitiulevič",
-          "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "+370 604 32262",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
           "Atsakingas už": ""

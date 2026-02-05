@@ -5,9 +5,15 @@
       "Pavadinimas": "Vadovybė",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Brigita Jancevičiūtė",
+          "Pareigos": "Vyriausioji specialistė (referentė)",
+          "Tel. numeris": "+370 5 266 1405",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Daniel Naumovas",
           "Pareigos": "Viceministras",
-          "Tel. numeris": "+370 5 266 1401",
+          "Tel. numeris": "+370 5 266 1405",
           "El. paštas": "[email protected]"
         },
         {
@@ -31,7 +37,7 @@
         {
           "Vardas, pavardė": "Laimutė Vaidelienė",
           "Pareigos": "Viceministrė",
-          "Tel. numeris": "+370 5 266 1401",
+          "Tel. numeris": "+370 5 266 1405",
           "El. paštas": "[email protected]"
         },
         {
@@ -1111,6 +1117,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Dalia Remeškevičienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 655 61446",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Ilona Truchina",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 653 06132",
@@ -1311,6 +1323,12 @@
       "Pavadinimas": "Veiklos administravimo skyrius",
       "Darbuotojai": [
         {
+          "Vardas, pavardė": "Brigita Jancevičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 266 1405",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Elena Nalivaikienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 669 99309",
@@ -1348,7 +1366,7 @@
         },
         {
           "Vardas, pavardė": "Marius Juknevičius",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Vyriausiasis specialistas, laikinai vykdantis skyriaus vedėjo funkcijas",
           "Tel. numeris": "+370 666 81529",
           "El. paštas": "[email protected]"
         },

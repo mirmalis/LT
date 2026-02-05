@@ -87,6 +87,53 @@
       ]
     },
     {
+      "Pavadinimas": "Informacinių technologijų skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Andrius Galinskas",
+          "Pareigos": "Skyriaus vedėjas",
+          "Tel. numeris": "+370 601 69 773",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Gedas Starkovas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 675 04 787",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Ilona Brazauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 601 69 449",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Jonas Geležis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 675 04 924",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vaidas Grigaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 676 79 745",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        },
+        {
+          "Vardas, pavardė": "Vytautas Norbutas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 52 573",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
+        }
+      ]
+    },
+    {
       "Pavadinimas": "Veiklos atitikties ir administravimo skyrius",
       "Darbuotojai": [
         {
@@ -141,49 +188,410 @@
       ]
     },
     {
-      "Pavadinimas": "Informacinių technologijų skyrius",
+      "Pavadinimas": "Miškininkystės departamentas",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Andrius Galinskas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 601 69 773",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": ""
-        },
-        {
-          "Vardas, pavardė": "Gedas Starkovas",
+          "Vardas, pavardė": "Aurimas Navickas",
           "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 675 04 787",
+          "Tel. numeris": "+370 605 06 779",
           "El. paštas": "[email protected]",
-          "Atsakingas už": ""
+          "Atsakingas už": "Miško kirtimų galimumo Saugomose teritorijose vertinimas"
         },
         {
-          "Vardas, pavardė": "Ilona Brazauskaitė",
+          "Vardas, pavardė": "Diana Kindurienė",
           "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 601 69 449",
+          "Tel. numeris": "+370 676 84 110",
           "El. paštas": "[email protected]",
-          "Atsakingas už": ""
+          "Atsakingas už": "Konsultavimas miško būklės, naudojimo, atkūrimo, įvesimo ir apsaugos klausimais"
         },
         {
-          "Vardas, pavardė": "Jonas Geležis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 675 04 924",
+          "Vardas, pavardė": "Regina Komžienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 605 06 539",
           "El. paštas": "[email protected]",
-          "Atsakingas už": ""
+          "Atsakingas už": "Konsultavimas miško būklės, naudojimo, atkūrimo, įvesimo ir apsaugos klausimais"
         },
         {
-          "Vardas, pavardė": "Vaidas Grigaitis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 676 79 745",
+          "Vardas, pavardė": "Simona Pakusienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 698 85 740",
           "El. paštas": "[email protected]",
-          "Atsakingas už": ""
+          "Atsakingas už": "Departamento procesų aprašymų rengimas, patikrų, susijusių su EŽŪOGF ir EŽŪFKP priemonėmis, koordinavimas"
         },
         {
-          "Vardas, pavardė": "Vytautas Norbutas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 52 573",
+          "Vardas, pavardė": "Vilma Grunskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 663 71 154",
           "El. paštas": "[email protected]",
-          "Atsakingas už": ""
+          "Atsakingas už": "Miško kirtimų galimumo Saugomose teritorijose vertinimas"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Miško sanitarinės apsaugos skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Kęstutis Grigaliūnas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 612 45 849",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
+        },
+        {
+          "Vardas, pavardė": "Rytis Dubickas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 43 079",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
+        },
+        {
+          "Vardas, pavardė": "Sigitas Mikalauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 682 56 134",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
+        },
+        {
+          "Vardas, pavardė": "Tomas Balkus",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 682 56 128",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Rytų regiono skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Andrius Masiokas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 27 554",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Daiva Jakštienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 693 54 869",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Jolanta Jasienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 693 46 673",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Jovita Biveinienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 698 48 013",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Kristina Cicinienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 693 14 847",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Marius Kvietkauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 683 82 410",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Dinsmanas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 611 43 389",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Joknys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 607 15 980",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Remigijus Jočys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 52 129",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Rimantas Šermukšnis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 67 581",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        },
+        {
+          "Vardas, pavardė": "Žydrūnas Cicinas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 64 523",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) rytų regione"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Pietų regiono skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Alvydas Adomavičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 683 10 480",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Edvilas Pėtelis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 698 80 706",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Irmantas Aleškevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 612 78 663",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Juozas Česnulevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 79 410",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Juozas Politika",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 695 79 355",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Kęstutis Vaškys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 91 810",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Marius Česnulevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 14 607",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Rubikas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 698 04 129",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Rasa Puzinienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 693 35 217",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Ričardas Guobys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 612 86 721",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Rolandas Šauklys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 601 13 276",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Romas Bendorius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 70 791",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        },
+        {
+          "Vardas, pavardė": "Vidas Gramauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 612 57 429",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) pietų regione"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Vakarų regiono skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Albinas Rimidis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 674 98 257",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Algimantas Norvaišas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 05 737",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Algis Mackevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 610 41 727",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Artūras Znutas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 50 113",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Augustinas Zurlys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 78 132",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Kazimieras Žukauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 04 083",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Kristina Stripeikienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 693 63 693",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Mindaugas Sakalauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 664 53 482",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Ramūnas Petruoka",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 683 82 624",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        },
+        {
+          "Vardas, pavardė": "Vidas Endrijaitis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 58 405",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) vakarų regione"
+        }
+      ]
+    },
+    {
+      "Pavadinimas": "Šiaurės regiono skyrius",
+      "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Algimantas Pranevičius",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 72 656",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Algirdas Gedgaudas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 693 60 527",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Gintaras Nagrockis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 687 76 514",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Jūratė Čepukienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 663 72 423",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Justinas Kuprys",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 663 71 705",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Lina Bunikienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 663 60 668",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Povilas Baltušis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 601 13 772",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Rima Almanienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 693 98 309",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Sima Rakauskienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 663 78 754",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Valentas Klimašauskas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 695 65 428",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
+        },
+        {
+          "Vardas, pavardė": "Virginijus Stapulionis",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 695 23 847",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) šiaurės regione"
         }
       ]
     },
@@ -287,53 +695,6 @@
           "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Atsakingas už": "NMI lauko matavimai, duomenų tvarkymas"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miško sanitarinės apsaugos skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Justina Baigytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 682 56 129",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
-        },
-        {
-          "Vardas, pavardė": "Kęstutis Grigaliūnas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 612 45 849",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
-        },
-        {
-          "Vardas, pavardė": "Rytis Dubickas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 43 079",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
-        },
-        {
-          "Vardas, pavardė": "Sigitas Mikalauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 682 56 134",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
-        },
-        {
-          "Vardas, pavardė": "Tomas Balkus",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 682 56 128",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
-        },
-        {
-          "Vardas, pavardė": "Virgilijus Vasiliauskas",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 682 56 132",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Organizuoja skyriaus veiklą. Seka, prognozuoja miško ligų ir kenkėjų pažeidimus, konsultuoja, koordinuoja sanitarinės apsaugos priemonių taikymą"
         }
       ]
     },
@@ -552,440 +913,6 @@
           "Tel. numeris": "+370 603 80 117",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Miško dauginamoji medžiaga, miško medžių sėklų kokybės tyrimai"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miškų ūkio priežiūros skyrius",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Aurimas Navickas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 605 06 779",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miško kirtimų galimumo Saugomose teritorijose vertinimas"
-        },
-        {
-          "Vardas, pavardė": "Diana Kindurienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 676 84 110",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Konsultavimas miško būklės, naudojimo, atkūrimo, įvesimo ir apsaugos klausimais"
-        },
-        {
-          "Vardas, pavardė": "Gintaras Pušneraitis",
-          "Pareigos": "Skyriaus vedėjas",
-          "Tel. numeris": "+370 663 68 159",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos planavimas, organizavimas"
-        },
-        {
-          "Vardas, pavardė": "Lukas Kovalčikas",
-          "Pareigos": "Vyresnysis patarėjas",
-          "Tel. numeris": "+370 663 55 801",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos koordinavimas"
-        },
-        {
-          "Vardas, pavardė": "Regina Komžienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 605 06 539",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Konsultavimas miško būklės, naudojimo, atkūrimo, įvesimo ir apsaugos klausimais"
-        },
-        {
-          "Vardas, pavardė": "Simona Pakusienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 698 85 740",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS procesų aprašymų rengimas, patikrų, susijusių su EŽŪOGF ir EŽŪFKP priemonėmis, koordinavimas"
-        },
-        {
-          "Vardas, pavardė": "Vilma Grunskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 663 71 154",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miško kirtimų galimumo Saugomose teritorijose vertinimas"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miškų ūkio priežiūros skyriaus Alytaus regionas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alvydas Adomavičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 683 10 480",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Edvilas Pėtelis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 698 80 706",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Irmantas Aleškevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 612 78 663",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Juozas Česnulevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 79 410",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Juozas Politika",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 695 79 355",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Marius Česnulevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 14 607",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Ričardas Guobys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 612 86 721",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Romas Bendorius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 70 791",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Aytaus regione"
-        },
-        {
-          "Vardas, pavardė": "Žydrūnas Balčius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 683 82 613",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos koordinavimas Alytaus regione"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miškų ūkio priežiūros skyriaus Kauno regionas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Algimantas Pranevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 72 656",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        },
-        {
-          "Vardas, pavardė": "Augustinas Zurlys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 78 132",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        },
-        {
-          "Vardas, pavardė": "Kęstutis Vaškys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 91 810",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        },
-        {
-          "Vardas, pavardė": "Kristina Cicinienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 693 14 847",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Rubikas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 698 04 129",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        },
-        {
-          "Vardas, pavardė": "Rolandas Šauklys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 601 13 276",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        },
-        {
-          "Vardas, pavardė": "Žydrūnas Cicinas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 64 523",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Kauno regione"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miškų ūkio priežiūros skyriaus Klaipėdos regionas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Albinas Rimidis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 674 98 257",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Algimantas Norvaišas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 05 737",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Artūras Znutas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 50 113",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Kazimieras Žukauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 04 083",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Kristina Stripeikienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 693 63 693",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Sakalauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 664 53 482",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Ramūnas Petruoka",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 683 82 624",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Klaipėdos regione"
-        },
-        {
-          "Vardas, pavardė": "Remigijus Laucevičius",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 663 50 552",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos koordinavimas Klaipėdos regione"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miškų ūkio priežiūros skyriaus Panevėžio regionas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Algirdas Gedgaudas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 60 527",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Algis Mackevičius",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 610 41 727",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Egidija Ermanienė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 693 04 768",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos koordinavimas Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Gintaras Nagrockis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 687 76 514",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Jūratė Čepukienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 663 72 423",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Rima Almanienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 693 98 309",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Sima Rakauskienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 663 78 754",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Valentas Klimašauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 695 65 428",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        },
-        {
-          "Vardas, pavardė": "Vidas Endrijaitis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 58 405",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Panevėžio regione"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miškų ūkio priežiūros skyriaus Utenos regionas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Jolanta Jasienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 693 46 673",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Jovita Biveinienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 698 48 013",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Justinas Kuprys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 71 705",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Lina Bunikienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 663 60 668",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Dinsmanas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 611 43 389",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Povilas Baltušis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 601 13 772",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Remigijus Jočys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 52 129",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Vidmantas Gerdvila",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 612 12 667",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos koordinavimas Utenos regione"
-        },
-        {
-          "Vardas, pavardė": "Virginijus Stapulionis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 695 23 847",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Utenos regione"
-        }
-      ]
-    },
-    {
-      "Pavadinimas": "Miškų ūkio priežiūros skyriaus Vilniaus regionas",
-      "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Andrius Masiokas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 693 27 554",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Vilniaus regione"
-        },
-        {
-          "Vardas, pavardė": "Daiva Jakštienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 693 54 869",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Vilniaus regione"
-        },
-        {
-          "Vardas, pavardė": "Marius Kvietkauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 683 82 410",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Vilniaus regione"
-        },
-        {
-          "Vardas, pavardė": "Mindaugas Joknys",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 607 15 980",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Vilniaus regione"
-        },
-        {
-          "Vardas, pavardė": "Rasa Puzinienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 693 35 217",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Vilniaus regione"
-        },
-        {
-          "Vardas, pavardė": "Rimantas Šermukšnis",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 663 67 581",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Vilniaus regione"
-        },
-        {
-          "Vardas, pavardė": "Saulius Gatelis",
-          "Pareigos": "Patarėjas",
-          "Tel. numeris": "+370 682 35 982",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "MŪPS veiklos koordinavimas Vilniaus regione"
-        },
-        {
-          "Vardas, pavardė": "Vidas Gramauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 612 57 429",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Administracinių paslaugų teikimas (leidimų kirsti mišką išdavimas, miško želdinimo projektų tvirtinimas ir kt.) Vilniaus regione"
         }
       ]
     }
