@@ -6,7 +6,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "• Ministro priimamasis Virginija Kukliauskienė",
-          "Pareigos": "Referentė (techninis socialinės apsaugos ir darbo ministrės aptarnavimas)",
+          "Pareigos": "Sekretorė referentė (techninis socialinės apsaugos ir darbo ministrės aptarnavimas)",
           "Tel. numeris": "+370 706 64220",
           "El. paštas": "[email protected]",
           "Kabinetas": "A. Vivulskio g. 11, 322 kab."
@@ -88,7 +88,7 @@
       "Darbuotojai": [
         {
           "Vardas, pavardė": "Aušra Januškevičiūtė",
-          "Pareigos": "Patarėjas",
+          "Pareigos": "Patarėja",
           "Tel. numeris": "+370 667 10704",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 306 kab."
@@ -118,6 +118,13 @@
           "Vardas, pavardė": "Jūratė Baublienė",
           "Pareigos": "Vyresnioji patarėja (Jungtinių Tautų organizacija, Europos Taryba  ir kitos tarptautinės organizacijos)",
           "Tel. numeris": "+370 659 24812",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 306 kab."
+        },
+        {
+          "Vardas, pavardė": "Katryna Karpovaitė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 667 33216",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 306 kab."
         },
@@ -251,8 +258,8 @@
         {
           "Vardas, pavardė": "Airinė Dobužinskienė",
           "Pareigos": "Atašė",
-          "Tel. numeris": "+370 658 92849",
-          "El. paštas": "",
+          "Tel. numeris": "+370 658 92849, +4179 840 4708",
+          "El. paštas": "[email protected]",
           "Kabinetas": "Chemin Camille-Vidart 15,  1202 Geneva"
         }
       ]
@@ -367,13 +374,6 @@
           "Vardas, pavardė": "Giedrė Motiejūnaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 690 57991",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
-        },
-        {
-          "Vardas, pavardė": "Jurgita Mikailionienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 681 97753",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 11, 218, 219, 223, 224 kab."
         },
@@ -755,6 +755,13 @@
     {
       "Pavadinimas": "Viešųjų pirkimų skyrius",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Jurgita Mikailionienė",
+          "Pareigos": "Patarėja",
+          "Tel. numeris": "+370 681 97753",
+          "El. paštas": "",
+          "Kabinetas": "A. Vivulskio g. 11, 304 kab."
+        },
         {
           "Vardas, pavardė": "Laima Indrelienė",
           "Pareigos": "Vyriausioji specialistė, laikinai atliekanti skyriaus vedėjo funkcijas",
@@ -1691,13 +1698,6 @@
           "Tel. numeris": "+370 659 24782",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 106 kab."
-        },
-        {
-          "Vardas, pavardė": "Vilija Mėlinienė",
-          "Pareigos": "Patarėja (Užimtumo įstatymo reglamentuojamų aktyvios darbo rinkos politikos priemonių įgyvendinimas)",
-          "Tel. numeris": "+370 618 72327",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 106 kab."
         }
       ]
     },
@@ -1752,13 +1752,6 @@
           "Kabinetas": "A. Vivulskio g. 13, 308 kab."
         },
         {
-          "Vardas, pavardė": "Aurelija Olendraitė",
-          "Pareigos": "Grupės vadovė",
-          "Tel. numeris": "+370 649 13467",
-          "El. paštas": "",
-          "Kabinetas": "A. Vivulskio g. 13, 308 kab."
-        },
-        {
           "Vardas, pavardė": "Milda Saudargė",
           "Pareigos": "Vyresnioji patarėja",
           "Tel. numeris": "+370 658 60494",
@@ -1767,7 +1760,7 @@
         },
         {
           "Vardas, pavardė": "Raimonda Mackevičiūtė",
-          "Pareigos": "Vyresnioji patarėja",
+          "Pareigos": "Grupės vadovė",
           "Tel. numeris": "+370 660 36262",
           "El. paštas": "",
           "Kabinetas": "A. Vivulskio g. 13, 308 kab."

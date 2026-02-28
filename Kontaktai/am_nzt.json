@@ -1014,6 +1014,12 @@
           "El. paštas": "[email protected]"
         },
         {
+          "Vardas, pavardė": "Toma Guntulienė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 706 85 680",
+          "El. paštas": "[email protected]"
+        },
+        {
           "Vardas, pavardė": "Vaida Gilvickienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 196",
@@ -2022,12 +2028,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Toma Guntulienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 706 85 680",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Vaida Beržanskaitė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 706 85 772",
@@ -2984,7 +2984,7 @@
         },
         {
           "Vardas, pavardė": "Ignas Sakalauskas",
-          "Pareigos": "Vyriausiasis specialistas",
+          "Pareigos": "Vyriausiasis specialistas (Saugumo operacijų centro vadovas)",
           "Tel. numeris": "+370 706 85 007",
           "El. paštas": "[email protected]"
         }

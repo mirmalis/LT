@@ -250,13 +250,6 @@
           "Tel. numeris": "+370 682 56 134",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
-        },
-        {
-          "Vardas, pavardė": "Tomas Balkus",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 682 56 128",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "Miškų sanitarinės būklės stebėsenos analizės, skaičiavimų ir prognozavimų atlikimas, konsultavimas, ataskaitų rengimas"
         }
       ]
     },
@@ -662,13 +655,6 @@
           "Atsakingas už": "ŠESD apskaitos analizės, ataskaitų ir prognozių rengimas"
         },
         {
-          "Vardas, pavardė": "Martynas Kerdokas",
-          "Pareigos": "Miškininkystės specialistas",
-          "Tel. numeris": "+370 667 26 189",
-          "El. paštas": "[email protected]",
-          "Atsakingas už": "NMI lauko matavimai, duomenų tvarkymas"
-        },
-        {
           "Vardas, pavardė": "Modestas Mačiulskas",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 663 56 373",
@@ -892,6 +878,13 @@
           "Tel. numeris": "+370 634 24 548",
           "El. paštas": "[email protected]",
           "Atsakingas už": "Augalų nacionaliniai genetiniai išteklių sodo ir daržo augalų grupė, Nuolatinės augalų nacionalinių genetinių išteklių komisijos veikla"
+        },
+        {
+          "Vardas, pavardė": "Martynas Kerdokas",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 667 26 189",
+          "El. paštas": "[email protected]",
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Milda Orentienė",

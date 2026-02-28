@@ -44,10 +44,10 @@
         {
           "Vardas, pavardė": "Daina Čenytė",
           "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 613 89 188",
+          "Tel. numeris": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
-          "Atsakingas už": "Teikia informaciją dokumentų paieškos (darbo užmokesčio, metrikų, pilietybės ir kt.) klausimais"
+          "Atsakingas už": ""
         },
         {
           "Vardas, pavardė": "Dr. Daiva Lukšaitė",
@@ -60,10 +60,10 @@
         {
           "Vardas, pavardė": "Gediminas Dubonikas",
           "Pareigos": "Vyr. specialistas",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 629 10 468",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
-          "Atsakingas už": ""
+          "Atsakingas už": "Teikia informaciją dokumentų paieškos (darbo užmokesčio, metrikų, pilietybės ir kt.) klausimais"
         }
       ]
     },
@@ -91,14 +91,6 @@
     {
       "Pavadinimas": "VEIKLOS ADMINISTRAVIMO IR FINANSŲ SKYRIUS",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Angelė Pacenkienė",
-          "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "+370 686 91 270",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "",
-          "Atsakingas už": ""
-        },
         {
           "Vardas, pavardė": "Asta Baranauskienė",
           "Pareigos": "Vyr. specialistė",
@@ -134,7 +126,7 @@
         {
           "Vardas, pavardė": "Jolita Širkienė",
           "Pareigos": "Vyr. specialistė",
-          "Tel. numeris": "",
+          "Tel. numeris": "+370 682 26 968",
           "El. paštas": "[email protected]",
           "Kabinetas": "",
           "Atsakingas už": ""

@@ -211,12 +211,6 @@
           "El. paštas": "[email protected]"
         },
         {
-          "Vardas, pavardė": "Milita Nekrošiūtė",
-          "Pareigos": "Projektų vadovė",
-          "Tel. numeris": "+37067494798",
-          "El. paštas": "[email protected]"
-        },
-        {
           "Vardas, pavardė": "Tomas Lukoševičius",
           "Pareigos": "Ministerijos patarėjas",
           "Tel. numeris": "+37064506349",
@@ -590,6 +584,12 @@
     {
       "Pavadinimas": "Teisės ir personalo grupė",
       "Darbuotojai": [
+        {
+          "Vardas, pavardė": "Aušra Jasukaitienė",
+          "Pareigos": "Vyriausioji specialistė (viešųjų pirkimų koordinavimo klausimais)",
+          "Tel. numeris": "+37060246522",
+          "El. paštas": "[email protected]"
+        },
         {
           "Vardas, pavardė": "Brigita Micevičienė",
           "Pareigos": "Patarėja (korupcijos prevencijos, viešųjų ir privačių interesų klausimais)",

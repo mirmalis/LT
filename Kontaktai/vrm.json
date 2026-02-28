@@ -522,14 +522,6 @@
           "Kabinetas": "331"
         },
         {
-          "Vardas, pavardė": "Justinas Šimas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 5 2718369",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "327"
-        },
-        {
           "Vardas, pavardė": "Laima Petrauskienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 5 2718753",
@@ -844,14 +836,6 @@
     {
       "Pavadinimas": "Informacijos ir dokumentų valdymo skyrius",
       "Darbuotojai": [
-        {
-          "Vardas, pavardė": "Alvydas Genys",
-          "Pareigos": "Organizavimo ir metodų analitikas",
-          "Tel. numeris": "+370 5 2717219",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "243"
-        },
         {
           "Vardas, pavardė": "Asta Žernienė",
           "Pareigos": "Kalbos tvarkytoja",
@@ -1191,14 +1175,6 @@
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "218"
-        },
-        {
-          "Vardas, pavardė": "Liudmila Rabikienė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 5 2718256",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "211"
         },
         {
           "Vardas, pavardė": "Pavel Bandalevič",
@@ -1678,14 +1654,6 @@
           "Kabinetas": "207"
         },
         {
-          "Vardas, pavardė": "Miglė Gelčytė",
-          "Pareigos": "Patarėja",
-          "Tel. numeris": "+370 5 2718870",
-          "Mobilus tel. nr.": "",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "207"
-        },
-        {
           "Vardas, pavardė": "Miglė Stumbraitė",
           "Pareigos": "Vyresnioji specialistė",
           "Tel. numeris": "+370 5 2717189",
@@ -1697,6 +1665,14 @@
           "Vardas, pavardė": "Nomeda Poteliūnienė",
           "Pareigos": "Skyriaus vedėja",
           "Tel. numeris": "+370 5 2717215",
+          "Mobilus tel. nr.": "",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "207"
+        },
+        {
+          "Vardas, pavardė": "Ugnė Rakauskaitė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 5 2718870",
           "Mobilus tel. nr.": "",
           "El. paštas": "[email protected]",
           "Kabinetas": "207"

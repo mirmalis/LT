@@ -503,6 +503,13 @@
           "Kabinetas": "1005a kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
         },
         {
+          "Vardas, pavardė": "Arminas Stočkus (Pasienio anglies dioksido korekcinis mechanizmas)",
+          "Pareigos": "Vyriausiasis specialistas",
+          "Tel. numeris": "+370 604 285 09",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "918 kab. A. Juozapavičiaus g. 9, LT-09311 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Eglė Kairienė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "",
@@ -1392,6 +1399,13 @@
           "Kabinetas": "305 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
         {
+          "Vardas, pavardė": "Agnė Palčikevičiūtė",
+          "Pareigos": "Vyriausioji specialistė",
+          "Tel. numeris": "+370 602 43693",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "306 kab. A. Goštauto g. 9, LT-01108 Vilnius"
+        },
+        {
           "Vardas, pavardė": "Artūr Nguen Kong",
           "Pareigos": "Vyriausiasis specialistas",
           "Tel. numeris": "+370 601 23167",
@@ -1425,13 +1439,6 @@
           "Tel. numeris": "+370 602 25334",
           "El. paštas": "[email protected]",
           "Kabinetas": "311 kab. A. Goštauto g. 9, LT-01108 Vilnius"
-        },
-        {
-          "Vardas, pavardė": "Lukas Tamašauskas",
-          "Pareigos": "Vyriausiasis specialistas",
-          "Tel. numeris": "+370 601 21826",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "313 kab. A. Goštauto g. 9, LT-01108 Vilnius"
         },
         {
           "Vardas, pavardė": "Paulina Pažerauskaitė",
@@ -1507,7 +1514,7 @@
       "Pavadinimas": "Biologinių tyrimų skyrius",
       "Darbuotojai": [
         {
-          "Vardas, pavardė": "Agnė Kleponienė",
+          "Vardas, pavardė": "Agnė Kleponė",
           "Pareigos": "Vyriausioji specialistė",
           "Tel. numeris": "+370 683 69234",
           "El. paštas": "[email protected]",

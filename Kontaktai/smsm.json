@@ -238,6 +238,13 @@
           "Tel. numeris": "+370 649 62 799",
           "El. paštas": "[email protected]",
           "Kabinetas": ""
+        },
+        {
+          "Vardas, pavardė": "Tadas Tumėnas",
+          "Pareigos": "Švietimo, mokslo ir sporto specialusis atašė",
+          "Tel. numeris": "+370 623 73 967",
+          "El. paštas": "[email protected]",
+          "Kabinetas": ""
         }
       ]
     },
@@ -638,13 +645,6 @@
           "Tel. numeris": "+370 618 00 412",
           "El. paštas": "[email protected]",
           "Kabinetas": "477"
-        },
-        {
-          "Vardas, pavardė": "Tadas Tumėnas",
-          "Pareigos": "Projekto vadovas",
-          "Tel. numeris": "+370 623 73 967",
-          "El. paštas": "[email protected]",
-          "Kabinetas": ""
         }
       ]
     },
@@ -1059,13 +1059,6 @@
           "Vardas, pavardė": "Dalė Švelnienė",
           "Pareigos": "Patarėja pavaduojanti skyriaus vedėją",
           "Tel. numeris": "+370 614 57 507",
-          "El. paštas": "[email protected]",
-          "Kabinetas": "370"
-        },
-        {
-          "Vardas, pavardė": "Goda Šiaučiulytė",
-          "Pareigos": "Vyriausioji specialistė",
-          "Tel. numeris": "+370 626 02 887",
           "El. paštas": "[email protected]",
           "Kabinetas": "370"
         },
@@ -1641,6 +1634,13 @@
           "Kabinetas": "115"
         },
         {
+          "Vardas, pavardė": "Raimonda Blužienė",
+          "Pareigos": "Projekto vadovė",
+          "Tel. numeris": "+370 622 99 177",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "115"
+        },
+        {
           "Vardas, pavardė": "Stanislava Strolaitė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 619 54 425",
@@ -1703,6 +1703,13 @@
           "Vardas, pavardė": "Enrika Skodminienė",
           "Pareigos": "Patarėja",
           "Tel. numeris": "+370 616 11 357",
+          "El. paštas": "[email protected]",
+          "Kabinetas": "101"
+        },
+        {
+          "Vardas, pavardė": "Giedrė Klusevičienė",
+          "Pareigos": "Vyresnioji patarėja",
+          "Tel. numeris": "+370 628 16 382",
           "El. paštas": "[email protected]",
           "Kabinetas": "101"
         },
